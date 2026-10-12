@@ -1,0 +1,11 @@
+{
+  "dataset_augment": false,
+  "transforms": [
+    "LetterBox",
+    "Format"
+  ],
+  "repeated_sample_images_identical": true,
+  "repeated_sample_boxes_identical": true,
+  "existing_offline_augmented_images_used": true,
+  "new_online_augmentation": false
+}

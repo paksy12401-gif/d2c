@@ -1,0 +1,10 @@
+{
+  "captures": 110,
+  "proposed_boxes": 221,
+  "classes": 38,
+  "approved_boxes": 0,
+  "edge_boxes": 46,
+  "original_bytes_verified": true,
+  "coordinate_space": "original_capture_pixels",
+  "training_started": false
+}

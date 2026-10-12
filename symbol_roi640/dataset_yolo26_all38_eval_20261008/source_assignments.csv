@@ -1,0 +1,219 @@
+﻿dataset,source_id,family_partition,originals_or_tiles,existing_augmented,reason
+scene,001,train,4,0,existing scene-region partition
+scene,002,train,2,0,existing scene-region partition
+scene,003,train,4,0,existing scene-region partition
+scene,004,quarantine,6,0,existing scene-region partition
+scene,005,val_region4,2,0,existing scene-region partition
+scene,006,quarantine,2,0,existing scene-region partition
+scene,007,train,1,0,existing scene-region partition
+scene,008,train,2,0,existing scene-region partition
+scene,009,quarantine,3,0,existing scene-region partition
+scene,010,quarantine,2,0,existing scene-region partition
+scene,011,train,2,0,existing scene-region partition
+scene,012,quarantine,1,0,existing scene-region partition
+scene,013,val_region4,1,0,existing scene-region partition
+scene,014,quarantine,1,0,existing scene-region partition
+scene,015,train,4,0,existing scene-region partition
+scene,016,train,1,0,existing scene-region partition
+scene,017,train,2,0,existing scene-region partition
+scene,018,quarantine,1,0,existing scene-region partition
+scene,019,train,1,0,existing scene-region partition
+scene,020,train,1,0,existing scene-region partition
+scene,021,train,1,0,existing scene-region partition
+scene,022,train,5,0,existing scene-region partition
+scene,023,train,3,0,existing scene-region partition
+scene,024,train,2,0,existing scene-region partition
+scene,025,train,3,0,existing scene-region partition
+scene,026,train,4,0,existing scene-region partition
+scene,027,quarantine,2,0,existing scene-region partition
+scene,028,val_region4,2,0,existing scene-region partition
+scene,029,train,1,0,existing scene-region partition
+scene,030,quarantine,2,0,existing scene-region partition
+scene,031,quarantine,1,0,existing scene-region partition
+scene,032,val_region4,1,0,existing scene-region partition
+scene,033,train,1,0,existing scene-region partition
+scene,034,train,1,0,existing scene-region partition
+scene,035,quarantine,1,0,existing scene-region partition
+scene,036,quarantine,2,0,existing scene-region partition
+scene,037,val_region4,2,0,existing scene-region partition
+scene,038,val_region4,1,0,existing scene-region partition
+scene,039,train,4,0,existing scene-region partition
+scene,040,quarantine,1,0,existing scene-region partition
+scene,041,train,2,0,existing scene-region partition
+scene,042,train,2,0,existing scene-region partition
+scene,043,train,2,0,existing scene-region partition
+scene,044,train,2,0,existing scene-region partition
+scene,045,train,2,0,existing scene-region partition
+scene,046,train,1,0,existing scene-region partition
+scene,047,train,2,0,existing scene-region partition
+scene,048,val_region4,1,0,existing scene-region partition
+scene,049,val_region4,1,0,existing scene-region partition
+scene,050,quarantine,1,0,existing scene-region partition
+scene,051,train,2,0,existing scene-region partition
+scene,052,val_region4,1,0,existing scene-region partition
+scene,053,val_region4,1,0,existing scene-region partition
+scene,054,quarantine,2,0,existing scene-region partition
+scene,055,train,1,0,existing scene-region partition
+scene,056,train,1,0,existing scene-region partition
+scene,057,train,2,0,existing scene-region partition
+scene,058,train,1,0,existing scene-region partition
+scene,059,train,1,0,existing scene-region partition
+scene,060,train,1,0,existing scene-region partition
+scene,061,train,3,0,existing scene-region partition
+scene,062,train,1,0,existing scene-region partition
+scene,063,train,2,0,existing scene-region partition
+scene,064,train,2,0,existing scene-region partition
+scene,065,train,2,0,existing scene-region partition
+scene,066,train,2,0,existing scene-region partition
+scene,067,train,1,0,existing scene-region partition
+scene,068,train,1,0,existing scene-region partition
+scene,069,train,1,0,existing scene-region partition
+scene,070,val_region4,1,0,existing scene-region partition
+scene,071,val_region4,1,0,existing scene-region partition
+scene,072,train,1,0,existing scene-region partition
+scene,073,quarantine,1,0,existing scene-region partition
+scene,074,quarantine,1,0,existing scene-region partition
+scene,075,val_region4,1,0,existing scene-region partition
+scene,076,quarantine,1,0,existing scene-region partition
+scene,077,train,1,0,existing scene-region partition
+scene,078,train,1,0,existing scene-region partition
+scene,079,train,2,0,existing scene-region partition
+scene,080,train,2,0,existing scene-region partition
+scene,081,quarantine,2,0,existing scene-region partition
+scene,082,train,2,0,existing scene-region partition
+scene,083,val_region4,1,0,existing scene-region partition
+scene,084,val_region4,1,0,existing scene-region partition
+scene,085,quarantine,1,0,existing scene-region partition
+scene,086,train,1,0,existing scene-region partition
+scene,087,train,1,0,existing scene-region partition
+scene,088,train,1,0,existing scene-region partition
+scene,089,train,1,0,existing scene-region partition
+scene,090,train,1,0,existing scene-region partition
+scene,091,train,1,0,existing scene-region partition
+scene,092,train,1,0,existing scene-region partition
+scene,093,train,1,0,existing scene-region partition
+scene,094,train,1,0,existing scene-region partition
+scene,095,train,1,0,existing scene-region partition
+scene,096,quarantine,1,0,existing scene-region partition
+scene,097,val_region4,1,0,existing scene-region partition
+scene,098,quarantine,1,0,existing scene-region partition
+scene,099,train,1,0,existing scene-region partition
+scene,100,train,1,0,existing scene-region partition
+scene,101,train,1,0,existing scene-region partition
+scene,102,train,1,0,existing scene-region partition
+scene,103,train,2,0,existing scene-region partition
+scene,104,train,2,0,existing scene-region partition
+scene,105,train,2,0,existing scene-region partition
+scene,106,quarantine,1,0,existing scene-region partition
+scene,107,val_region4,2,0,existing scene-region partition
+scene,108,quarantine,2,0,existing scene-region partition
+scene,109,train,2,0,existing scene-region partition
+scene,110,train,2,0,existing scene-region partition
+isolated,src_001,train,1,16,training original with all its existing augmentations
+isolated,src_002,train,1,16,training original with all its existing augmentations
+isolated,src_003,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_004,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_005,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_006,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_007,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_008,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_009,quarantine,1,16,existing incomplete-capture warning
+isolated,src_010,train,1,16,training original with all its existing augmentations
+isolated,src_011,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_012,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_013,train,1,16,training original with all its existing augmentations
+isolated,src_014,train,1,16,training original with all its existing augmentations
+isolated,src_015,train,1,16,training original with all its existing augmentations
+isolated,src_016,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_017,train,1,16,training original with all its existing augmentations
+isolated,src_018,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_019,train,1,16,training original with all its existing augmentations
+isolated,src_020,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_021,train,1,16,training original with all its existing augmentations
+isolated,src_022,train,1,16,training original with all its existing augmentations
+isolated,src_023,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_024,train,1,16,training original with all its existing augmentations
+isolated,src_025,train,1,16,training original with all its existing augmentations
+isolated,src_026,train,1,16,training original with all its existing augmentations
+isolated,src_027,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_028,train,1,16,training original with all its existing augmentations
+isolated,src_029,train,1,16,training original with all its existing augmentations
+isolated,src_030,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_031,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_032,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_033,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_034,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_035,train,1,16,training original with all its existing augmentations
+isolated,src_036,train,1,16,training original with all its existing augmentations
+isolated,src_037,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_038,train,1,16,training original with all its existing augmentations
+isolated,src_039,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_040,train,1,16,training original with all its existing augmentations
+isolated,src_041,train,1,16,training original with all its existing augmentations
+isolated,src_042,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_043,train,1,16,training original with all its existing augmentations
+isolated,src_044,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_045,train,1,16,training original with all its existing augmentations
+isolated,src_046,train,1,16,training original with all its existing augmentations
+isolated,src_047,train,1,16,training original with all its existing augmentations
+isolated,src_048,train,1,16,training original with all its existing augmentations
+isolated,src_049,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_050,train,1,16,training original with all its existing augmentations
+isolated,src_051,train,1,16,training original with all its existing augmentations
+isolated,src_052,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_053,train,1,16,training original with all its existing augmentations
+isolated,src_054,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_055,train,1,16,training original with all its existing augmentations
+isolated,src_056,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_057,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_058,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_059,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_060,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_061,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_062,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_063,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_064,train,1,16,training original with all its existing augmentations
+isolated,src_065,train,1,16,training original with all its existing augmentations
+isolated,src_066,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_067,train,1,16,training original with all its existing augmentations
+isolated,src_068,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,src_069,train,1,16,training original with all its existing augmentations
+isolated,cad_001,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_002,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_003,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_004,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_005,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_006,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_007,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_008,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_009,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_010,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_011,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_012,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_013,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_014,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_015,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_016,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_017,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_018,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_019,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_020,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_021,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_022,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_023,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_024,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_025,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_026,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_027,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_028,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_029,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_030,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_031,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_032,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_033,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_034,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_035,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_036,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_037,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,cad_038,val_all_classes,1,16,held-out original capture; same physical part may occur in training
+isolated,pdf_extra_17_001,quarantine,1,16,existing incomplete-capture warning

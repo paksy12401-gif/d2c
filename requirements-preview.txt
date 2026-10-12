@@ -1,0 +1,7 @@
+# Install in the project environment, after requirements-ml.txt.
+numpy==2.4.4
+scipy==1.17.1
+easyocr==1.7.2
+scikit-image==0.25.2
+networkx>=3.2,<4
+matplotlib>=3.8,<4

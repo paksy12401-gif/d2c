@@ -1,0 +1,41 @@
+{
+  "model": "YOLO26s Detect",
+  "weights": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\symbol_roi640\\training_yolo26_noaug_20261008\\baseline_noaug\\weights\\last.pt",
+  "weights_sha256": "2ed77f3d39651c27ae7083a0a7d02c65ea203ec21499317d3722f53977ba0b8f",
+  "evaluations": {
+    "all38": {
+      "precision": 0.6864028770248817,
+      "recall": 0.504489416151021,
+      "mAP50": 0.6505847338935574,
+      "mAP50_95": 0.5442568738021525,
+      "evaluated_classes": 38,
+      "images": 73,
+      "fixed_confidence_counts": {
+        "confidence": 0.25,
+        "match_iou": 0.5,
+        "tp": 34,
+        "fp": 14,
+        "fn": 39
+      }
+    },
+    "region4": {
+      "precision": 0.40625,
+      "recall": 0.3887061403508772,
+      "mAP50": 0.2745,
+      "mAP50_95": 0.17799955357142858,
+      "evaluated_classes": 4,
+      "images": 21,
+      "fixed_confidence_counts": {
+        "confidence": 0.25,
+        "match_iou": 0.5,
+        "tp": 3,
+        "fp": 0,
+        "fn": 33
+      }
+    }
+  },
+  "new_online_augmentation": false,
+  "all38_scope": "known-part capture evaluation; not independent physical instances or new drawings",
+  "region4_scope": "same-drawing region holdout; earlier estimated-position limitations apply",
+  "training_epochs": 50
+}

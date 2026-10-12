@@ -1,0 +1,15 @@
+{
+  "precision": 0.6864028770248817,
+  "recall": 0.504489416151021,
+  "mAP50": 0.6505847338935574,
+  "mAP50_95": 0.5442568738021525,
+  "evaluated_classes": 38,
+  "images": 73,
+  "fixed_confidence_counts": {
+    "confidence": 0.25,
+    "match_iou": 0.5,
+    "tp": 34,
+    "fp": 14,
+    "fn": 39
+  }
+}

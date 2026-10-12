@@ -1,0 +1,111 @@
+﻿capture_id,original_name,split,group_id,reason
+001,스크린샷 2026-10-08 101136.png,train,group_001,outside held-out symbol regions
+002,스크린샷 2026-10-08 101213.png,train,group_001,outside held-out symbol regions
+003,스크린샷 2026-10-08 101224.png,train,group_001,outside held-out symbol regions
+004,스크린샷 2026-10-08 101241.png,quarantine,bridge_004,conservative overlapping-region bridge
+005,스크린샷 2026-10-08 101252.png,val,group_005,held-out physical region
+006,스크린샷 2026-10-08 101307.png,quarantine,bridge_006,conservative overlapping-region bridge
+007,스크린샷 2026-10-08 101315.png,train,group_007,outside held-out symbol regions
+008,스크린샷 2026-10-08 101319.png,train,group_007,outside held-out symbol regions
+009,스크린샷 2026-10-08 101328.png,quarantine,bridge_009,conservative overlapping-region bridge
+010,스크린샷 2026-10-08 101336.png,quarantine,bridge_010,conservative overlapping-region bridge
+011,스크린샷 2026-10-08 101342.png,train,group_011,outside held-out symbol regions
+012,스크린샷 2026-10-08 101350.png,quarantine,bridge_012,conservative overlapping-region bridge
+013,스크린샷 2026-10-08 101356.png,val,group_013,held-out physical region
+014,스크린샷 2026-10-08 101402.png,quarantine,bridge_014,conservative overlapping-region bridge
+015,스크린샷 2026-10-08 101417.png,train,group_015,outside held-out symbol regions
+016,스크린샷 2026-10-08 101437.png,train,group_015,outside held-out symbol regions
+017,스크린샷 2026-10-08 101440.png,train,group_015,outside held-out symbol regions
+018,스크린샷 2026-10-08 101453.png,quarantine,bridge_018,conservative overlapping-region bridge
+019,스크린샷 2026-10-08 101503.png,train,group_015,outside held-out symbol regions
+020,스크린샷 2026-10-08 101507.png,train,group_015,outside held-out symbol regions
+021,스크린샷 2026-10-08 101518.png,train,group_015,outside held-out symbol regions
+022,스크린샷 2026-10-08 101531.png,train,group_022,outside held-out symbol regions
+023,스크린샷 2026-10-08 101543.png,train,group_001,outside held-out symbol regions
+024,스크린샷 2026-10-08 101548.png,train,group_015,outside held-out symbol regions
+025,스크린샷 2026-10-08 101551.png,train,group_001,outside held-out symbol regions
+026,스크린샷 2026-10-08 101556.png,train,group_001,outside held-out symbol regions
+027,스크린샷 2026-10-08 101604.png,quarantine,bridge_027,conservative overlapping-region bridge
+028,스크린샷 2026-10-08 101607.png,val,group_005,held-out physical region
+029,스크린샷 2026-10-08 101608.png,train,group_015,outside held-out symbol regions
+030,스크린샷 2026-10-08 101616 (2).png,quarantine,bridge_030,conservative overlapping-region bridge
+031,스크린샷 2026-10-08 101616.png,quarantine,bridge_031,conservative overlapping-region bridge
+032,스크린샷 2026-10-08 101622.png,val,group_032,held-out physical region
+033,스크린샷 2026-10-08 101634.png,train,group_007,outside held-out symbol regions
+034,스크린샷 2026-10-08 101639.png,train,group_007,outside held-out symbol regions
+035,스크린샷 2026-10-08 101642.png,quarantine,bridge_035,conservative overlapping-region bridge
+036,스크린샷 2026-10-08 101648.png,quarantine,bridge_036,conservative overlapping-region bridge
+037,스크린샷 2026-10-08 101651.png,val,group_013,held-out physical region
+038,스크린샷 2026-10-08 101655.png,val,group_013,held-out physical region
+039,스크린샷 2026-10-08 101657.png,train,group_015,outside held-out symbol regions
+040,스크린샷 2026-10-08 101659.png,quarantine,bridge_040,conservative overlapping-region bridge
+041,스크린샷 2026-10-08 101705.png,train,group_015,outside held-out symbol regions
+042,스크린샷 2026-10-08 101710.png,train,group_015,outside held-out symbol regions
+043,스크린샷 2026-10-08 101716.png,train,group_015,outside held-out symbol regions
+044,스크린샷 2026-10-08 101720.png,train,group_015,outside held-out symbol regions
+045,스크린샷 2026-10-08 101724.png,train,group_015,outside held-out symbol regions
+046,스크린샷 2026-10-08 101730.png,train,group_015,outside held-out symbol regions
+047,스크린샷 2026-10-08 101736.png,train,group_022,outside held-out symbol regions
+048,스크린샷 2026-10-08 101743.png,val,group_032,held-out physical region
+049,스크린샷 2026-10-08 101746.png,val,group_032,held-out physical region
+050,스크린샷 2026-10-08 101750.png,quarantine,bridge_050,conservative overlapping-region bridge
+051,스크린샷 2026-10-08 101755.png,train,group_015,outside held-out symbol regions
+052,스크린샷 2026-10-08 101800.png,val,group_032,held-out physical region
+053,스크린샷 2026-10-08 101804.png,val,group_032,held-out physical region
+054,스크린샷 2026-10-08 101808.png,quarantine,bridge_054,conservative overlapping-region bridge
+055,스크린샷 2026-10-08 101812.png,train,group_055,outside held-out symbol regions
+056,스크린샷 2026-10-08 101815.png,train,group_055,outside held-out symbol regions
+057,스크린샷 2026-10-08 101825.png,train,group_055,outside held-out symbol regions
+058,스크린샷 2026-10-08 101828.png,train,group_055,outside held-out symbol regions
+059,스크린샷 2026-10-08 101831.png,train,group_055,outside held-out symbol regions
+060,스크린샷 2026-10-08 101834.png,train,group_055,outside held-out symbol regions
+061,스크린샷 2026-10-08 101844.png,train,group_055,outside held-out symbol regions
+062,스크린샷 2026-10-08 101848.png,train,group_055,outside held-out symbol regions
+063,스크린샷 2026-10-08 101853.png,train,group_055,outside held-out symbol regions
+064,스크린샷 2026-10-08 101856.png,train,group_055,outside held-out symbol regions
+065,스크린샷 2026-10-08 101901.png,train,group_055,outside held-out symbol regions
+066,스크린샷 2026-10-08 101906.png,train,group_055,outside held-out symbol regions
+067,스크린샷 2026-10-08 101916.png,train,group_055,outside held-out symbol regions
+068,스크린샷 2026-10-08 101920.png,train,group_055,outside held-out symbol regions
+069,스크린샷 2026-10-08 101923.png,train,group_055,outside held-out symbol regions
+070,스크린샷 2026-10-08 101926.png,val,group_032,held-out physical region
+071,스크린샷 2026-10-08 101932.png,val,group_032,held-out physical region
+072,스크린샷 2026-10-08 101935.png,train,group_072,outside held-out symbol regions
+073,스크린샷 2026-10-08 101938.png,quarantine,bridge_073,conservative overlapping-region bridge
+074,스크린샷 2026-10-08 101940.png,quarantine,bridge_074,conservative overlapping-region bridge
+075,스크린샷 2026-10-08 101941.png,val,group_075,held-out physical region
+076,스크린샷 2026-10-08 101945.png,quarantine,bridge_076,conservative overlapping-region bridge
+077,스크린샷 2026-10-08 101950.png,train,group_055,outside held-out symbol regions
+078,스크린샷 2026-10-08 101954.png,train,group_055,outside held-out symbol regions
+079,스크린샷 2026-10-08 102007 (2).png,train,group_079,outside held-out symbol regions
+080,스크린샷 2026-10-08 102007.png,train,group_055,outside held-out symbol regions
+081,스크린샷 2026-10-08 102013.png,quarantine,bridge_081,conservative overlapping-region bridge
+082,스크린샷 2026-10-08 102015.png,train,group_055,outside held-out symbol regions
+083,스크린샷 2026-10-08 102017.png,val,group_083,held-out physical region
+084,스크린샷 2026-10-08 102021.png,val,group_083,held-out physical region
+085,스크린샷 2026-10-08 102024.png,quarantine,bridge_085,conservative overlapping-region bridge
+086,스크린샷 2026-10-08 102027.png,train,group_086,outside held-out symbol regions
+087,스크린샷 2026-10-08 102029.png,train,group_086,outside held-out symbol regions
+088,스크린샷 2026-10-08 102040.png,train,group_015,outside held-out symbol regions
+089,스크린샷 2026-10-08 102050.png,train,group_055,outside held-out symbol regions
+090,스크린샷 2026-10-08 102053.png,train,group_055,outside held-out symbol regions
+091,스크린샷 2026-10-08 102102.png,train,group_055,outside held-out symbol regions
+092,스크린샷 2026-10-08 102201.png,train,group_055,outside held-out symbol regions
+093,스크린샷 2026-10-08 102204.png,train,group_055,outside held-out symbol regions
+094,스크린샷 2026-10-08 102218.png,train,group_055,outside held-out symbol regions
+095,스크린샷 2026-10-08 102226.png,train,group_055,outside held-out symbol regions
+096,스크린샷 2026-10-08 102231.png,quarantine,bridge_096,conservative overlapping-region bridge
+097,스크린샷 2026-10-08 102234.png,val,group_075,held-out physical region
+098,스크린샷 2026-10-08 102238.png,quarantine,bridge_098,conservative overlapping-region bridge
+099,스크린샷 2026-10-08 102242.png,train,group_072,outside held-out symbol regions
+100,스크린샷 2026-10-08 102251.png,train,group_055,outside held-out symbol regions
+101,스크린샷 2026-10-08 102255.png,train,group_055,outside held-out symbol regions
+102,스크린샷 2026-10-08 102259.png,train,group_055,outside held-out symbol regions
+103,스크린샷 2026-10-08 102307.png,train,group_055,outside held-out symbol regions
+104,스크린샷 2026-10-08 102316.png,train,group_079,outside held-out symbol regions
+105,스크린샷 2026-10-08 102322.png,train,group_079,outside held-out symbol regions
+106,스크린샷 2026-10-08 102328.png,quarantine,bridge_106,conservative overlapping-region bridge
+107,스크린샷 2026-10-08 102332.png,val,group_083,held-out physical region
+108,스크린샷 2026-10-08 102334.png,quarantine,bridge_108,conservative overlapping-region bridge
+109,스크린샷 2026-10-08 102336.png,train,group_086,outside held-out symbol regions
+110,스크린샷 2026-10-08 102342.png,train,group_086,outside held-out symbol regions

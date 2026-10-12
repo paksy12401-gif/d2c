@@ -1,0 +1,33 @@
+{
+  "scene_images": 179,
+  "isolated_originals": 108,
+  "isolated_existing_augmented": 1728,
+  "isolated_source_counts": {
+    "train": 87,
+    "quarantine": 21
+  },
+  "isolated_image_counts": {
+    "train": 1479,
+    "quarantine": 357
+  },
+  "combined_image_counts": {
+    "train": 1598,
+    "quarantine": 396,
+    "val": 21
+  },
+  "combined_total_images": 2015,
+  "originals_letterboxed_to_640": 69,
+  "validation_classes": [
+    "11",
+    "12",
+    "14",
+    "7"
+  ],
+  "same_original_family_cross_split": 0,
+  "identical_image_hashes_train_val": 0,
+  "new_augmentation_applied": false,
+  "training_started": false,
+  "all_images_640": true,
+  "isolated_quarantine_reason": "Unresolved physical-instance provenance for classes recurring in validation; possible overlap, not confirmed overlap.",
+  "benchmark_scope": "four-class region holdout of one drawing; not a full 38-class independent-drawing benchmark"
+}

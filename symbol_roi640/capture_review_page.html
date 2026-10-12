@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>도면 심볼 정답박스 검수</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f4f6fa;color:#17243b;font:15px "Segoe UI",sans-serif}button,select,input{font:inherit}button,select{border:1px solid #c6d0df;border-radius:6px;background:white;padding:7px 10px;color:#17243b;cursor:pointer}button:hover{background:#edf3ff}.primary{background:#2458d3;color:white;border-color:#2458d3}.primary:hover{background:#1646b9}.danger{color:#bf2340}header{padding:16px 20px;background:white;border-bottom:1px solid #dde3eb}h1{margin:0 0 5px;font-size:22px}.muted{color:#52647d;font-size:13px}.toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:12px}.layout{display:grid;grid-template-columns:minmax(360px,1fr) 340px;gap:16px;padding:16px}.viewer{background:white;border:1px solid #d4ddeb;border-radius:8px;overflow:hidden}.viewport{height:calc(100vh - 225px);min-height:450px;overflow:auto;background:#dfe5ef;padding:16px}.stage{display:block;margin:auto;touch-action:none}aside{background:white;border:1px solid #d4ddeb;border-radius:8px;padding:14px;max-height:calc(100vh - 193px);overflow:auto}h2{font-size:17px;margin:4px 0 12px}.row{display:flex;gap:7px;align-items:center;margin:8px 0}.row select{width:100%}.boxentry{width:100%;text-align:left;padding:10px;margin:3px 0}.selected{border:2px solid #2458d3;background:#edf3ff}.coords{font-family:monospace;font-size:12px;overflow-wrap:anywhere}.notice{background:#fff5dd;border:1px solid #f1d28c;padding:10px;border-radius:6px;font-size:13px;margin:10px 0}.good{color:#16704b}.badge{display:inline-block;padding:3px 7px;border-radius:4px;background:#fff0d2;font-size:12px}.entrystatus{float:right;font-size:12px}.field{width:100%;height:60px;border:1px solid #c6d0df;border-radius:5px;margin:5px 0}footer{padding:8px 16px;font-size:12px;color:#52647d}.classref{max-width:100%;border:1px solid #ccc}#selection{border-top:1px solid #ddd;margin-top:12px;padding-top:12px}#imageName{font-weight:600}a{color:#2458d3}@media(max-width:900px){.layout{grid-template-columns:1fr}aside{max-height:none}.viewport{height:60vh}}
+</style></head><body>
+<header><h1>도면 심볼 정답박스 검수</h1>
+<div class="muted">110장 · 원본 픽셀 좌표 · 모든 박스는 검수 전 후보입니다. 검은 참고 그림도 포함합니다.</div>
+<div class="toolbar"><button id="prev">← 이전</button><select id="captureSelect"></select><button id="next">다음 →</button>
+<button id="fit">화면에 맞춤</button><button id="native">원본 100%</button><button id="zoomOut">−</button><span id="zoomLabel"></span><button id="zoomIn">＋</button>
+<button id="toggle">대비 보정 보기</button><button id="hide">박스 숨기기</button><button id="add">＋ 박스 그리기</button></div>
+<div class="toolbar"><button id="approve" class="primary">이 이미지 검수 완료</button><button id="export">검수 JSON 다운로드</button><button id="import">검수 JSON 불러오기</button><input id="file" type="file" accept="application/json" hidden><span id="progress" class="muted"></span><span id="saveState" class="muted"></span></div>
+</header>
+<div class="layout"><section class="viewer"><div style="padding:10px 14px"><span id="imageName"></span><div id="imageMeta" class="muted"></div></div><div class="viewport" id="viewport"><svg class="stage" id="stage" xmlns="http://www.w3.org/2000/svg"></svg></div></section>
+<aside><h2>박스 목록</h2><div class="muted">클래스는 부품 번호 이름입니다. 실제 YOLO ID는 별도로 저장됩니다.</div><div id="note" class="notice"></div><div id="boxes"></div>
+<div id="selection"><h2>선택한 박스</h2><div id="selectedName" class="muted">박스를 선택해주세요.</div><div class="row"><select id="classSelect"></select></div><div id="coords" class="coords"></div><div class="row"><button id="boxOK">이 박스 확인</button><button id="delete" class="danger">삭제</button></div><div class="muted">박스를 드래그하면 이동합니다. 네 모서리의 점을 드래그하면 크기가 바뀝니다. 빠진 심볼은 ‘박스 그리기’로 추가하세요.</div></div>
+<h2 style="margin-top:20px">검수 메모</h2><textarea id="memo" class="field" placeholder="예: 오른쪽 심볼은 15번 / 아래쪽 잘림"></textarea>
+<div class="notice">심볼 본체와 자체 연결부까지 포함하세요. 외부 배선·치수·동그라미 번호는 제외합니다. 20+6, 21+5, 22+3은 합쳐진 형상 하나에 박스 하나입니다.</div>
+<details><summary>기존 클래스 형상 보기</summary><a href="class_reference.png" target="_blank">크게 보기</a><img class="classref" src="class_reference.png"></details>
+</aside></div><footer>도면 파일은 이 PC에서만 사용합니다. 외부 서비스 호출이 없습니다. 자동 저장은 현재 브라우저에만 남으므로 검수 후 JSON을 다운로드해서 전달해주세요. 아직 640 처리·증강·학습에는 반영하지 않았습니다.</footer>
+<script>
+const initial=__REVIEW_DATA__;
+const KEY='capture-box-review-20261008-v3';
+let data=structuredClone(initial),index=0,selected=-1,scale=1,contrast=false,hidden=false,drawing=false,drag=null;
+try{const saved=JSON.parse(localStorage.getItem(KEY));if(saved&&saved.captures?.length===initial.captures.length)data=saved;}catch(e){}
+const $=id=>document.getElementById(id),NS='http://www.w3.org/2000/svg';
+const c=()=>data.captures[index];
+const classId=name=>Number(Object.entries(data.classes).find(([id,n])=>n===name)[0]);
+function element(tag,attrs={}){let el=document.createElementNS(NS,tag);for(let [k,v] of Object.entries(attrs))el.setAttribute(k,v);return el;}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(data));$('saveState').textContent='브라우저에 저장됨';}catch(e){$('saveState').textContent='자동 저장 실패: JSON 다운로드 필요';}progress();}
+function dirty(){c().status='unreviewed';save();}
+function progress(){let n=data.captures.filter(x=>x.status==='approved').length;$('progress').textContent=`검수 완료 ${n} / ${data.captures.length}`;}
+function init(){
+ for(let x of data.captures){let o=document.createElement('option');o.value=x.capture_id;o.textContent=`${x.capture_id} · ${x.original_name}`;$('captureSelect').append(o);}
+ for(let [id,name] of Object.entries(data.classes)){let o=document.createElement('option');o.value=name;o.textContent=`${name}  (YOLO ID ${id})`;$('classSelect').append(o);}
+ progress();show(true);
+}
+function fit(){scale=Math.min(($('viewport').clientWidth-40)/c().width,($('viewport').clientHeight-40)/c().height,1);render();}
+function show(fitView=false){selected=-1;drawing=false;drag=null;$('add').classList.remove('primary');$('captureSelect').value=c().capture_id;$('imageName').textContent=`${c().capture_id} · ${c().original_name}`;$('imageMeta').textContent=`${c().width} × ${c().height} px · ${c().objects.length}개 후보 · ${c().status==='approved'?'검수 완료':'검수 대기'}`;$('note').textContent=c().note;$('memo').value=c().review_memo||'';if(fitView)fit();else render();}
+function render(){
+ const svg=$('stage');svg.replaceChildren();svg.setAttribute('viewBox',`0 0 ${c().width} ${c().height}`);svg.style.width=`${c().width*scale}px`;svg.style.height=`${c().height*scale}px`;
+ svg.append(element('image',{href:`${contrast?'display':'images'}/${c().filename}`,width:c().width,height:c().height}));
+ $('zoomLabel').textContent=Math.round(scale*100)+'%';
+ if(!hidden)c().objects.forEach((obj,i)=>{
+  const [x1,y1,x2,y2]=obj.bbox_xyxy_px;let color=i===selected?'#1855ff':obj.status==='approved'?'#00a651':obj.kind==='reference'?'#ff8500':'#ef19c5';
+  const rect=element('rect',{x:x1,y:y1,width:x2-x1,height:y2-y1,fill:'transparent',stroke:color,'stroke-width':2/scale,'data-idx':i});svg.append(rect);
+  let ly=Math.max(16/scale,y1-3/scale);let label=`${obj.box_id} : ${obj.class_name}${obj.status==='approved'?'':' ?'}`;
+  const text=element('text',{x:x1,y:ly,fill:color,'font-size':14/scale,'font-weight':'bold','paint-order':'stroke','stroke':'white','stroke-width':3/scale,'pointer-events':'none'});text.textContent=label;svg.append(text);
+  if(i===selected)for(let [corner,x,y] of [['tl',x1,y1],['tr',x2,y1],['bl',x1,y2],['br',x2,y2]])svg.append(element('rect',{x:x-5/scale,y:y-5/scale,width:10/scale,height:10/scale,fill:'#1855ff',stroke:'white','stroke-width':1/scale,'data-idx':i,'data-corner':corner}));
+ });
+ renderList();
+}
+function renderList(){
+ $('boxes').replaceChildren();c().objects.forEach((obj,i)=>{let b=document.createElement('button');b.className='boxentry'+(i===selected?' selected':'');b.textContent=`${obj.box_id} → ${obj.class_name}`;let s=document.createElement('span');s.className='entrystatus';s.textContent=obj.status==='approved'?'✓ 확인':'미확인';b.append(s);b.onclick=()=>{selected=i;render();};$('boxes').append(b);});
+ const obj=c().objects[selected];$('selection').style.opacity=obj?1:.55;$('classSelect').disabled=!obj;$('boxOK').disabled=!obj;$('delete').disabled=!obj;
+ $('selectedName').textContent=obj?`${obj.box_id} · ${obj.kind==='reference'?'검은 참고 형상':'배선 심볼'}`:'박스를 선택해주세요.';
+ $('coords').textContent=obj?`원본 좌표: ${obj.bbox_xyxy_px.map(x=>Math.round(x)).join(', ')}${obj.touches_edge?' · 경계 잘림 확인 필요':''}`:'';
+ if(obj)$('classSelect').value=obj.class_name;
+}
+function point(e){const b=$('stage').getBoundingClientRect();return [Math.max(0,Math.min(c().width,(e.clientX-b.left)/b.width*c().width)),Math.max(0,Math.min(c().height,(e.clientY-b.top)/b.height*c().height))];}
+$('stage').addEventListener('pointerdown',e=>{
+ if(e.button!==0)return;
+ const p=point(e);$('stage').setPointerCapture(e.pointerId);
+ if(drawing){let n=1;while(c().objects.some(o=>o.box_id===`${c().capture_id}-new${n}`))n++;let obj={box_id:`${c().capture_id}-new${n}`,class_name:$('classSelect').value||'14',class_id:classId($('classSelect').value||'14'),bbox_xyxy_px:[...p,...p],kind:'blue',status:'unreviewed',candidates:[],touches_edge:false};c().objects.push(obj);selected=c().objects.length-1;drag={mode:'draw',p,original:obj.bbox_xyxy_px.slice()};}
+ else if(e.target.dataset.idx!==undefined){selected=Number(e.target.dataset.idx);drag={mode:e.target.dataset.corner||'move',p,original:c().objects[selected].bbox_xyxy_px.slice()};}else{selected=-1;drag=null;}
+ render();e.preventDefault();
+});
+$('stage').addEventListener('pointermove',e=>{
+ if(!drag||selected<0)return;let p=point(e),[x1,y1,x2,y2]=drag.original,dx=p[0]-drag.p[0],dy=p[1]-drag.p[1];
+ if(drag.mode==='move'){dx=Math.max(-x1,Math.min(c().width-x2,dx));dy=Math.max(-y1,Math.min(c().height-y2,dy));x1+=dx;x2+=dx;y1+=dy;y2+=dy;}
+ else if(drag.mode==='draw'){[x1,y1]=drag.p;[x2,y2]=p;}
+ else{if(drag.mode.includes('l'))x1=p[0];if(drag.mode.includes('r'))x2=p[0];if(drag.mode.includes('t'))y1=p[1];if(drag.mode.includes('b'))y2=p[1];}
+ const obj=c().objects[selected];obj.bbox_xyxy_px=[Math.min(x1,x2),Math.min(y1,y2),Math.max(x1,x2),Math.max(y1,y2)];obj.status='unreviewed';render();
+});
+function finish(){if(!drag)return;const obj=c().objects[selected];if(obj){const b=obj.bbox_xyxy_px;if(b[2]-b[0]<2||b[3]-b[1]<2)c().objects.splice(selected,1);else obj.touches_edge=b[0]<=1||b[1]<=1||b[2]>=c().width-1||b[3]>=c().height-1;}drag=null;drawing=false;$('add').classList.remove('primary');dirty();render();}
+$('stage').addEventListener('pointerup',finish);$('stage').addEventListener('pointercancel',finish);
+$('prev').onclick=()=>{index=Math.max(0,index-1);show(true);};$('next').onclick=()=>{index=Math.min(data.captures.length-1,index+1);show(true);};
+$('captureSelect').onchange=()=>{index=data.captures.findIndex(x=>x.capture_id===$('captureSelect').value);show(true);};
+$('fit').onclick=fit;$('native').onclick=()=>{scale=1;render();};$('zoomIn').onclick=()=>{scale=Math.min(4,scale*1.25);render();};$('zoomOut').onclick=()=>{scale=Math.max(.15,scale/1.25);render();};
+$('toggle').onclick=()=>{contrast=!contrast;$('toggle').textContent=contrast?'원본 보기':'대비 보정 보기';render();};$('hide').onclick=()=>{hidden=!hidden;$('hide').textContent=hidden?'박스 표시':'박스 숨기기';render();};
+$('add').onclick=()=>{drawing=!drawing;hidden=false;$('add').classList.toggle('primary',drawing);};
+$('classSelect').onchange=()=>{const obj=c().objects[selected];if(!obj)return;obj.class_name=$('classSelect').value;obj.class_id=classId(obj.class_name);obj.status='unreviewed';dirty();render();};
+$('delete').onclick=()=>{if(selected<0)return;c().objects.splice(selected,1);selected=-1;dirty();render();};
+$('boxOK').onclick=()=>{if(selected<0)return;c().objects[selected].status='approved';save();render();};
+$('approve').onclick=()=>{c().objects.forEach(o=>o.status='approved');c().status='approved';c().reviewed_at=new Date().toISOString();save();show();};
+$('memo').oninput=()=>{c().review_memo=$('memo').value;save();};
+$('export').onclick=()=>{let out=structuredClone(data);out.exported_at=new Date().toISOString();out.review_required=out.captures.some(x=>x.status!=='approved');out.all_targets_verified=!out.review_required;const url=URL.createObjectURL(new Blob([JSON.stringify(out,null,2)],{type:'application/json'}));const a=document.createElement('a');a.href=url;a.download='capture_reviewed_annotations.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);};
+$('import').onclick=()=>$('file').click();$('file').onchange=async()=>{try{const imported=JSON.parse(await $('file').files[0].text());if(imported.captures?.length!==initial.captures.length||JSON.stringify(imported.classes)!==JSON.stringify(initial.classes))throw Error('다른 데이터셋입니다.');for(let j=0;j<imported.captures.length;j++){let cap=imported.captures[j],orig=initial.captures[j];if(cap.capture_id!==orig.capture_id||cap.width!==orig.width||cap.height!==orig.height)throw Error('이미지 정보 불일치');for(let obj of cap.objects){let b=obj.bbox_xyxy_px;if(!Array.isArray(b)||b.length!==4||b.some(x=>!Number.isFinite(x))||b[0]<0||b[1]<0||b[2]>cap.width||b[3]>cap.height||b[0]>=b[2]||b[1]>=b[3]||!Object.values(initial.classes).includes(obj.class_name))throw Error('잘못된 박스 정보');obj.class_id=classId(obj.class_name);}}data=imported;save();show(true);}catch(e){alert('불러오기 실패: '+e.message);}finally{$('file').value='';}};
+document.addEventListener('keydown',e=>{if(['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName))return;if(e.key==='ArrowRight')$('next').click();if(e.key==='ArrowLeft')$('prev').click();if(e.key==='Delete')$('delete').click();});
+init();
+</script></body></html>

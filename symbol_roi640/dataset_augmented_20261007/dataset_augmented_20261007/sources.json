@@ -1,0 +1,761 @@
+[
+  {
+    "source_id": "src_001",
+    "class_name": "1",
+    "original_zip_entry": "dataset/1/스크린샷 2026-10-07 192924.png",
+    "source_sha256": "20bab5fa2c8c47f49b7ef096ce3984c7a1343a1e12751fdc6f9c0e1495a6cf88",
+    "size": [
+      242,
+      148
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_002",
+    "class_name": "10",
+    "original_zip_entry": "dataset/10/10 (2).png",
+    "source_sha256": "5adc0c7efe0f60feb021e25d3dedcd90838ef0881bfc2dc64f37cbcabd6935e0",
+    "size": [
+      415,
+      576
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_003",
+    "class_name": "10",
+    "original_zip_entry": "dataset/10/10.png",
+    "source_sha256": "101fb29995f6524155024e9ac885d9378bdbaef39ce80053d4431a172413461f",
+    "size": [
+      402,
+      589
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_004",
+    "class_name": "10",
+    "original_zip_entry": "dataset/10/스크린샷 2026-10-07 193952.png",
+    "source_sha256": "bc267dfe354a5af4f59bcec138076296dcb93678edf0752eb6ca60c8e0145ae1",
+    "size": [
+      359,
+      458
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_005",
+    "class_name": "11",
+    "original_zip_entry": "dataset/11/11 (2).png",
+    "source_sha256": "2999d1e694e47301d63605c1fc900340ec4fc351d6b15c1dce3cdceca1017d3a",
+    "size": [
+      364,
+      532
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_006",
+    "class_name": "11",
+    "original_zip_entry": "dataset/11/11.png",
+    "source_sha256": "35b4281d482601a4143c3a74ee8f20a6262ff660138373061046786840c9f20f",
+    "size": [
+      351,
+      553
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_007",
+    "class_name": "12",
+    "original_zip_entry": "dataset/12/12 (2).png",
+    "source_sha256": "7476a23268e63409318b17f0c69c2ea78e02e7e51108477d8a46ab6efe6b1da7",
+    "size": [
+      427,
+      634
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_008",
+    "class_name": "12",
+    "original_zip_entry": "dataset/12/12.png",
+    "source_sha256": "6c1d6d55ff5cd38381a769453f8919edae0a1f4a143d1e7d9c6df544344ee3fc",
+    "size": [
+      465,
+      679
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_009",
+    "class_name": "12",
+    "original_zip_entry": "dataset/12/스크린샷 2026-10-07 193817.png",
+    "source_sha256": "362fc432a3fb158699edc7d73b5a11956a570c4cb4fa37c1086e0fecbf818163",
+    "size": [
+      364,
+      357
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_010",
+    "class_name": "13",
+    "original_zip_entry": "dataset/13/13 (2).png",
+    "source_sha256": "be632cbe95b52e06fbdcd33ec15264b08682b882003a85370318efdda5cdfa87",
+    "size": [
+      507,
+      529
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_011",
+    "class_name": "13",
+    "original_zip_entry": "dataset/13/13.png",
+    "source_sha256": "66afad67ae2b610210bcaf52633efcdd90441770c7940be755a6a41104a8ac34",
+    "size": [
+      535,
+      601
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_012",
+    "class_name": "13",
+    "original_zip_entry": "dataset/13/스크린샷 2026-10-07 193508.png",
+    "source_sha256": "6c05bb09cbbe225e39bd01c609aad44b04013ec0e8edbe98ff4c46ee24194b05",
+    "size": [
+      411,
+      492
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_013",
+    "class_name": "13352244",
+    "original_zip_entry": "dataset/13352244/스크린샷 2026-10-07 195518.png",
+    "source_sha256": "c658f0cfe6ba7ade5c8dc9c3c88a8127741df0b59385f372f748c602a1c1bd32",
+    "size": [
+      590,
+      850
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_014",
+    "class_name": "13512366",
+    "original_zip_entry": "dataset/13512366/스크린샷 2026-10-07 194917.png",
+    "source_sha256": "c51ba30292723b2580749d1ebfe1ccd0273e28e692ee9dbd587963d84b6c3225",
+    "size": [
+      571,
+      516
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_015",
+    "class_name": "13514590",
+    "original_zip_entry": "dataset/13514590/13514590.png",
+    "source_sha256": "c45afdc0cc6600201482048b6ad82c71826b3bf0c06c46d86a7ef1ea24c4d703",
+    "size": [
+      528,
+      454
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_016",
+    "class_name": "13514590",
+    "original_zip_entry": "dataset/13514590/스크린샷 2026-10-07 195013.png",
+    "source_sha256": "d7d9c8f7799d3139e0b9c10adea200a5b9af01313f58464ed58fc28d4bfc8769",
+    "size": [
+      676,
+      563
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_017",
+    "class_name": "13519739",
+    "original_zip_entry": "dataset/13519739/13519739.png",
+    "source_sha256": "fb40e7bf15bdeac60926aebcc96f07153a399d63f8518d82773933c93af3c684",
+    "size": [
+      763,
+      624
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_018",
+    "class_name": "13519739",
+    "original_zip_entry": "dataset/13519739/스크린샷 2026-10-07 194853.png",
+    "source_sha256": "6134e8262ea694637a2d034ce01efd221ea156f03c46341a5825a0357c585e88",
+    "size": [
+      677,
+      595
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_019",
+    "class_name": "13535680",
+    "original_zip_entry": "dataset/13535680/13535680.png",
+    "source_sha256": "e8fa22722efb3a1e6936330518a2ecd58ab425fd9eae597b395bc57d1f3e3302",
+    "size": [
+      1417,
+      534
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_020",
+    "class_name": "13535680",
+    "original_zip_entry": "dataset/13535680/스크린샷 2026-10-07 194822.png",
+    "source_sha256": "13e75dc827057374f750d16c65c77b94527660fc90ebdb64e1abe5bf4d5e9ec5",
+    "size": [
+      2024,
+      824
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_021",
+    "class_name": "13543056",
+    "original_zip_entry": "dataset/13543056/스크린샷 2026-10-07 195331.png",
+    "source_sha256": "ff8cb6bee5b352956bc3811be76c0b0b98e265d8b1d05dca0c6d08df751ea5b1",
+    "size": [
+      639,
+      971
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_022",
+    "class_name": "13551224",
+    "original_zip_entry": "dataset/13551224/13551224.png",
+    "source_sha256": "ddf95bc54dbc9ad1ca2a3ec15d13141dc981e5a60d3257c2a623a62147c0ea2d",
+    "size": [
+      232,
+      804
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_023",
+    "class_name": "13551224",
+    "original_zip_entry": "dataset/13551224/스크린샷 2026-10-07 194622.png",
+    "source_sha256": "e88a6366aab3b1f2d6a07062b32bb0f1fb14deb0b24380c7a3f00d69e225ea10",
+    "size": [
+      305,
+      1020
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_024",
+    "class_name": "13582917",
+    "original_zip_entry": "dataset/13582917/스크린샷 2026-10-07 195830.png",
+    "source_sha256": "821595e46664a348fd7f97bcc429b1ff798ca3f6ce455769a9fcca6a39355507",
+    "size": [
+      578,
+      667
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_025",
+    "class_name": "13590001",
+    "original_zip_entry": "dataset/13590001/스크린샷 2026-10-07 184025.png",
+    "source_sha256": "76fb159d4d8afdc442d20fa6755d0cee4e5fe0e711b321c5bbae869f19689a13",
+    "size": [
+      732,
+      845
+    ],
+    "replacement": true
+  },
+  {
+    "source_id": "src_026",
+    "class_name": "13590425",
+    "original_zip_entry": "dataset/13590425/13590425.png",
+    "source_sha256": "37a64e1a349758d6054d83f32792c80e90e2dba1b8828941057c15990963005c",
+    "size": [
+      772,
+      615
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_027",
+    "class_name": "13590425",
+    "original_zip_entry": "dataset/13590425/스크린샷 2026-10-07 195419.png",
+    "source_sha256": "433d4d58fbaae38a84458744620a8b6da2db3c45fec7424e5441dac22a2296f5",
+    "size": [
+      922,
+      781
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_028",
+    "class_name": "13591047",
+    "original_zip_entry": "dataset/13591047/스크린샷 2026-10-07 194727.png",
+    "source_sha256": "63ee2d33469b31e5690895617a3c0dc44b43ca78e3beddffa965134c460b92d4",
+    "size": [
+      529,
+      757
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_029",
+    "class_name": "13592509",
+    "original_zip_entry": "dataset/13592509/스크린샷 2026-10-07 195741.png",
+    "source_sha256": "0f8203fb9f412671cc34cd04f8cafcb95d0ec7444fa42a258070c7add595cbcc",
+    "size": [
+      890,
+      502
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_030",
+    "class_name": "14",
+    "original_zip_entry": "dataset/14/14 (2).png",
+    "source_sha256": "029fe5984a76b32b0d6a61136ec71dc9f1a13aa0da23c6cd4def4ecc569c43bb",
+    "size": [
+      432,
+      711
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_031",
+    "class_name": "14",
+    "original_zip_entry": "dataset/14/14 (3).png",
+    "source_sha256": "3b249c32bc9b340f2c92692d066e261ea2c5e9ec0100b6fe2ab8f1f366ca1de3",
+    "size": [
+      415,
+      642
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_032",
+    "class_name": "14",
+    "original_zip_entry": "dataset/14/14 (4).png",
+    "source_sha256": "379e59aa427b72f92748068b6f53c418a4c61f585b74e611b05efcfdd9a54335",
+    "size": [
+      405,
+      652
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_033",
+    "class_name": "14",
+    "original_zip_entry": "dataset/14/14.png",
+    "source_sha256": "ea6aebe6bb2ac5bb204745c9f10fa635ea763d1a369820093500ed3f9a89a118",
+    "size": [
+      463,
+      757
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_034",
+    "class_name": "14",
+    "original_zip_entry": "dataset/14/스크린샷 2026-10-07 193659.png",
+    "source_sha256": "d31598fa078632385ff27aa68007da9d6bdd87126f730bb1590ce6c03256a46e",
+    "size": [
+      342,
+      428
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_035",
+    "class_name": "15",
+    "original_zip_entry": "dataset/15/스크린샷 2026-10-07 193747.png",
+    "source_sha256": "890662be20b1153589c32747714a48b0ee544355344fa6e951202f9a90e65f28",
+    "size": [
+      296,
+      379
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_036",
+    "class_name": "18",
+    "original_zip_entry": "dataset/18/18.png",
+    "source_sha256": "34c3c9d71e3bda9263b0d2cac96e57cc46e9130992e422e0f38dc667f6c7da10",
+    "size": [
+      456,
+      283
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_037",
+    "class_name": "18",
+    "original_zip_entry": "dataset/18/스크린샷 2026-10-07 193721.png",
+    "source_sha256": "0efee7e522a3e3675d42537a8eb994574c5546071570968fc2f2c347f59f2351",
+    "size": [
+      585,
+      344
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_038",
+    "class_name": "19",
+    "original_zip_entry": "dataset/19/19.png",
+    "source_sha256": "c531c0cd9a448377ae3a1823ab8c2ea4136a3e158c7797f2c69cca2b00b6e7b3",
+    "size": [
+      265,
+      424
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_039",
+    "class_name": "19",
+    "original_zip_entry": "dataset/19/스크린샷 2026-10-07 193731.png",
+    "source_sha256": "b83ba3a8f149077d0b5cd077ebe5885fabe601dcaee6b968901f6d7a53ba3df2",
+    "size": [
+      299,
+      542
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_040",
+    "class_name": "19151432",
+    "original_zip_entry": "dataset/19151432/스크린샷 2026-10-07 194655.png",
+    "source_sha256": "4896bd5686c3cddf45f16a134ea9adb8c78a6dba9a42a05be68018d02822c190",
+    "size": [
+      468,
+      555
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_041",
+    "class_name": "20+6",
+    "original_zip_entry": "dataset/20+6/6+20.png",
+    "source_sha256": "33556dd1582b5bc8749927eef5ed0d4622932be6abcf24dc1e6e7f5061289cc0",
+    "size": [
+      399,
+      508
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_042",
+    "class_name": "20+6",
+    "original_zip_entry": "dataset/20+6/스크린샷 2026-10-07 194212.png",
+    "source_sha256": "46f3ff45753b4e39212dea61fdf3caddd096e96fdc63663a2d95a2ba88eb1ce6",
+    "size": [
+      308,
+      399
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_043",
+    "class_name": "21+5",
+    "original_zip_entry": "dataset/21+5/5+21.png",
+    "source_sha256": "15407f60c093a0bfa3682a44f41c4711f2485b23ed39f7f3493fdfe846c27036",
+    "size": [
+      319,
+      778
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_044",
+    "class_name": "21+5",
+    "original_zip_entry": "dataset/21+5/스크린샷 2026-10-07 194016.png",
+    "source_sha256": "d58ef0a17f12f2400c4bcd0642beb01295abdf58a86b6781adf55fbb00a2e03d",
+    "size": [
+      249,
+      618
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_045",
+    "class_name": "22+3",
+    "original_zip_entry": "dataset/22+3/스크린샷 2026-10-07 193310.png",
+    "source_sha256": "b901721848a93d8dbeeb7f31ca45296b19ec243dfbc6de81ac3df987576c217c",
+    "size": [
+      1259,
+      698
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_046",
+    "class_name": "23",
+    "original_zip_entry": "dataset/23/스크린샷 2026-10-07 193408.png",
+    "source_sha256": "b2251b0ba1300e0725271242b50729377c5e220a4e1c794b000dfd290dc03918",
+    "size": [
+      332,
+      502
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_047",
+    "class_name": "24",
+    "original_zip_entry": "dataset/24/스크린샷 2026-10-07 194112.png",
+    "source_sha256": "ae070b9f381668a53d17c02490a99224fbdae903d2c846fa5a0e14bb01434364",
+    "size": [
+      434,
+      524
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_048",
+    "class_name": "25",
+    "original_zip_entry": "dataset/25/25.png",
+    "source_sha256": "38214cf56f137ba1882b1c8b3c921b2d8399478b3ad910c8abcf1080f920891c",
+    "size": [
+      384,
+      445
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_049",
+    "class_name": "25",
+    "original_zip_entry": "dataset/25/스크린샷 2026-10-07 194032.png",
+    "source_sha256": "295d7521f43949eb42a14558d315c3618cda1f5532a313abd7f5c57fff2bea2d",
+    "size": [
+      298,
+      333
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_050",
+    "class_name": "26",
+    "original_zip_entry": "dataset/26/스크린샷 2026-10-07 194045.png",
+    "source_sha256": "711a25f40784c0fe7f2ad6053ecb017dd832ad695a33065fb058606f029aeb52",
+    "size": [
+      391,
+      281
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_051",
+    "class_name": "29",
+    "original_zip_entry": "dataset/29/29(1).png",
+    "source_sha256": "0abbda37f0b21b614fbb0c44cfa699d5bb510b1451b861435dbeb4567f2f9cd7",
+    "size": [
+      628,
+      613
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_052",
+    "class_name": "29",
+    "original_zip_entry": "dataset/29/29.png",
+    "source_sha256": "e5b13a459cab7721006948062749e65114a47cd6a3a4c9d52b228aec6784b11a",
+    "size": [
+      501,
+      469
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_053",
+    "class_name": "31",
+    "original_zip_entry": "dataset/31/31.png",
+    "source_sha256": "861ea0bbf522055553881c9b5e7ca49a3b11802b08c29ffcfd95bb11b739551b",
+    "size": [
+      277,
+      642
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_054",
+    "class_name": "31",
+    "original_zip_entry": "dataset/31/스크린샷 2026-10-07 194258.png",
+    "source_sha256": "6957861de235712327a8138b0438f3b85a429fad9d5abf7bdef230cda3bca78a",
+    "size": [
+      359,
+      686
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_055",
+    "class_name": "4",
+    "original_zip_entry": "dataset/4/4.png",
+    "source_sha256": "42ccbfcdd602d0d47f2e13a5163fda86dbb6b151cd2d8ae9d25cc5b6d23413a1",
+    "size": [
+      636,
+      648
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_056",
+    "class_name": "4",
+    "original_zip_entry": "dataset/4/스크린샷 2026-10-07 193920.png",
+    "source_sha256": "3d1f77b30b76deacd5595a2db8d4e080354e0c01a88e822d1bb2d52c6de700f3",
+    "size": [
+      539,
+      531
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_057",
+    "class_name": "7",
+    "original_zip_entry": "dataset/7/7 (2).png",
+    "source_sha256": "0f79f7eb4eb679ea0930915fe2533458a9e40c8bb7191b4e00106c159d16dbcd",
+    "size": [
+      447,
+      555
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_058",
+    "class_name": "7",
+    "original_zip_entry": "dataset/7/7 (3).png",
+    "source_sha256": "e77f1c968f847004424a050e0c7d71847713f0eef286c32c99ac1a6f9c2f3ab8",
+    "size": [
+      534,
+      628
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_059",
+    "class_name": "7",
+    "original_zip_entry": "dataset/7/7 (4).png",
+    "source_sha256": "0b3d09e23c154ddaad35dc333a1b16176360466599c1fd912316b82d53202be5",
+    "size": [
+      556,
+      666
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_060",
+    "class_name": "7",
+    "original_zip_entry": "dataset/7/7 (5).png",
+    "source_sha256": "75445e73df7b229a3ab441455a6eec40d3992737696de78f93904694d01020c0",
+    "size": [
+      490,
+      691
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_061",
+    "class_name": "7",
+    "original_zip_entry": "dataset/7/7 (6).png",
+    "source_sha256": "008f9d5188a80ef643b00512b6e2e898e127a0aedfd18bdc389c5d550c7d8ae5",
+    "size": [
+      496,
+      411
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_062",
+    "class_name": "7",
+    "original_zip_entry": "dataset/7/7.png",
+    "source_sha256": "2868270b030bcde3fb3a127584dd741b7a0a4e69240c098d2b36958632b06031",
+    "size": [
+      216,
+      270
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_063",
+    "class_name": "7",
+    "original_zip_entry": "dataset/7/스크린샷 2026-10-07 193633.png",
+    "source_sha256": "ed62362e1ed1dd059379058972f6834cf25708db8b48163339ce8dc51d70d044",
+    "size": [
+      427,
+      344
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_064",
+    "class_name": "8",
+    "original_zip_entry": "dataset/8/스크린샷 2026-10-07 193857.png",
+    "source_sha256": "4cc6cafef205da9aea57e7151ac9f2d5e8984af0034de3e3eaf7749996e2f519",
+    "size": [
+      376,
+      477
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_065",
+    "class_name": "BLL15914",
+    "original_zip_entry": "dataset/BLL15914/bll15914.png",
+    "source_sha256": "46363025443d8818d58ce27cc908f6f96a6678e638bc8566c04c1e4a9b2238a6",
+    "size": [
+      666,
+      348
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_066",
+    "class_name": "BLL15914",
+    "original_zip_entry": "dataset/BLL15914/스크린샷 2026-10-07 195300.png",
+    "source_sha256": "35c890412e73fcd13bf53d182459cbfe770daf2730dc3bb813c31dd04039c274",
+    "size": [
+      750,
+      412
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_067",
+    "class_name": "BSB04473",
+    "original_zip_entry": "dataset/BSB04473/BSB04473.png",
+    "source_sha256": "04fde79444853e926a8f0a88b09b15a3e552a7321414b71a2c686cb361f53bd7",
+    "size": [
+      444,
+      963
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_068",
+    "class_name": "BSB04473",
+    "original_zip_entry": "dataset/BSB04473/스크린샷 2026-10-07 194351.png",
+    "source_sha256": "7b418b0f339690cf54747d77e4369cb288fd600161f0ec30a5f676151532079e",
+    "size": [
+      515,
+      1144
+    ],
+    "replacement": false
+  },
+  {
+    "source_id": "src_069",
+    "class_name": "CPU88567",
+    "original_zip_entry": "dataset/CPU88567/스크린샷 2026-10-07 194922.png",
+    "source_sha256": "dcde01be1507524d4fbaea47eb1745b56f743397eb445473f8477c19e55bd3f8",
+    "size": [
+      569,
+      356
+    ],
+    "replacement": false
+  }
+]

@@ -1,0 +1,21 @@
+# Copy to data/my_control_circuits/dataset.yaml and set the absolute path.
+# This is a schema example, not a downloaded or labelled dataset.
+path: C:/path/to/my_control_circuits
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: contactor_coil
+  1: relay_coil
+  2: timer_coil
+  3: contact_no
+  4: contact_nc
+  5: pushbutton_no
+  6: pushbutton_nc
+  7: overload_relay
+  8: breaker
+  9: fuse
+  10: motor
+  11: terminal
+  12: ground
+  13: splice

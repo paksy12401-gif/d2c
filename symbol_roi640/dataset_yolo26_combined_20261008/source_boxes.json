@@ -1,0 +1,2682 @@
+{
+  "src_001": {
+    "class_name": "1",
+    "class_id": 0,
+    "image": "images/originals/1/src_001.png",
+    "size": [
+      242,
+      148
+    ],
+    "bbox_xyxy_px": [
+      0,
+      0,
+      219,
+      148
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_002": {
+    "class_name": "10",
+    "class_id": 1,
+    "image": "images/originals/10/src_002.png",
+    "size": [
+      415,
+      576
+    ],
+    "bbox_xyxy_px": [
+      0,
+      9,
+      415,
+      569
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_003": {
+    "class_name": "10",
+    "class_id": 1,
+    "image": "images/originals/10/src_003.png",
+    "size": [
+      402,
+      589
+    ],
+    "bbox_xyxy_px": [
+      0,
+      27,
+      402,
+      587
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_004": {
+    "class_name": "10",
+    "class_id": 1,
+    "image": "images/originals/10/src_004.png",
+    "size": [
+      359,
+      458
+    ],
+    "bbox_xyxy_px": [
+      0,
+      17,
+      359,
+      448
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_005": {
+    "class_name": "11",
+    "class_id": 2,
+    "image": "images/originals/11/src_005.png",
+    "size": [
+      364,
+      532
+    ],
+    "bbox_xyxy_px": [
+      0,
+      14,
+      364,
+      526
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_006": {
+    "class_name": "11",
+    "class_id": 2,
+    "image": "images/originals/11/src_006.png",
+    "size": [
+      351,
+      553
+    ],
+    "bbox_xyxy_px": [
+      0,
+      31,
+      351,
+      553
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_007": {
+    "class_name": "12",
+    "class_id": 3,
+    "image": "images/originals/12/src_007.png",
+    "size": [
+      427,
+      634
+    ],
+    "bbox_xyxy_px": [
+      0,
+      28,
+      427,
+      634
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_008": {
+    "class_name": "12",
+    "class_id": 3,
+    "image": "images/originals/12/src_008.png",
+    "size": [
+      465,
+      679
+    ],
+    "bbox_xyxy_px": [
+      0,
+      16,
+      465,
+      643
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_009": {
+    "class_name": "12",
+    "class_id": 3,
+    "image": "images/originals/12/src_009.png",
+    "size": [
+      364,
+      357
+    ],
+    "bbox_xyxy_px": [
+      0,
+      0,
+      364,
+      357
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_010": {
+    "class_name": "13",
+    "class_id": 4,
+    "image": "images/originals/13/src_010.png",
+    "size": [
+      507,
+      529
+    ],
+    "bbox_xyxy_px": [
+      4,
+      0,
+      507,
+      529
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_011": {
+    "class_name": "13",
+    "class_id": 4,
+    "image": "images/originals/13/src_011.png",
+    "size": [
+      535,
+      601
+    ],
+    "bbox_xyxy_px": [
+      0,
+      67,
+      535,
+      601
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_012": {
+    "class_name": "13",
+    "class_id": 4,
+    "image": "images/originals/13/src_012.png",
+    "size": [
+      411,
+      492
+    ],
+    "bbox_xyxy_px": [
+      34,
+      0,
+      348,
+      492
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_013": {
+    "class_name": "13352244",
+    "class_id": 5,
+    "image": "images/originals/13352244/src_013.png",
+    "size": [
+      590,
+      850
+    ],
+    "bbox_xyxy_px": [
+      13,
+      11,
+      581,
+      840
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_014": {
+    "class_name": "13512366",
+    "class_id": 6,
+    "image": "images/originals/13512366/src_014.png",
+    "size": [
+      571,
+      516
+    ],
+    "bbox_xyxy_px": [
+      33,
+      29,
+      548,
+      507
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_015": {
+    "class_name": "13514590",
+    "class_id": 7,
+    "image": "images/originals/13514590/src_015.png",
+    "size": [
+      528,
+      454
+    ],
+    "bbox_xyxy_px": [
+      4,
+      14,
+      528,
+      448
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_016": {
+    "class_name": "13514590",
+    "class_id": 7,
+    "image": "images/originals/13514590/src_016.png",
+    "size": [
+      676,
+      563
+    ],
+    "bbox_xyxy_px": [
+      29,
+      21,
+      644,
+      529
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_017": {
+    "class_name": "13519739",
+    "class_id": 8,
+    "image": "images/originals/13519739/src_017.png",
+    "size": [
+      763,
+      624
+    ],
+    "bbox_xyxy_px": [
+      81,
+      4,
+      758,
+      621
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_018": {
+    "class_name": "13519739",
+    "class_id": 8,
+    "image": "images/originals/13519739/src_018.png",
+    "size": [
+      677,
+      595
+    ],
+    "bbox_xyxy_px": [
+      29,
+      21,
+      643,
+      580
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_019": {
+    "class_name": "13535680",
+    "class_id": 9,
+    "image": "images/originals/13535680/src_019.png",
+    "size": [
+      1417,
+      534
+    ],
+    "bbox_xyxy_px": [
+      47,
+      8,
+      1409,
+      532
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_020": {
+    "class_name": "13535680",
+    "class_id": 9,
+    "image": "images/originals/13535680/src_020.png",
+    "size": [
+      2024,
+      824
+    ],
+    "bbox_xyxy_px": [
+      16,
+      33,
+      2009,
+      799
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_021": {
+    "class_name": "13543056",
+    "class_id": 10,
+    "image": "images/originals/13543056/src_021.png",
+    "size": [
+      639,
+      971
+    ],
+    "bbox_xyxy_px": [
+      37,
+      26,
+      604,
+      959
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_022": {
+    "class_name": "13551224",
+    "class_id": 11,
+    "image": "images/originals/13551224/src_022.png",
+    "size": [
+      232,
+      804
+    ],
+    "bbox_xyxy_px": [
+      19,
+      17,
+      232,
+      801
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_023": {
+    "class_name": "13551224",
+    "class_id": 11,
+    "image": "images/originals/13551224/src_023.png",
+    "size": [
+      305,
+      1020
+    ],
+    "bbox_xyxy_px": [
+      20,
+      12,
+      289,
+      1009
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_024": {
+    "class_name": "13582917",
+    "class_id": 12,
+    "image": "images/originals/13582917/src_024.png",
+    "size": [
+      578,
+      667
+    ],
+    "bbox_xyxy_px": [
+      23,
+      20,
+      551,
+      643
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_025": {
+    "class_name": "13590001",
+    "class_id": 13,
+    "image": "images/originals/13590001/src_025.png",
+    "size": [
+      732,
+      845
+    ],
+    "bbox_xyxy_px": [
+      32,
+      15,
+      687,
+      825
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_026": {
+    "class_name": "13590425",
+    "class_id": 14,
+    "image": "images/originals/13590425/src_026.png",
+    "size": [
+      772,
+      615
+    ],
+    "bbox_xyxy_px": [
+      0,
+      7,
+      750,
+      613
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_027": {
+    "class_name": "13590425",
+    "class_id": 14,
+    "image": "images/originals/13590425/src_027.png",
+    "size": [
+      922,
+      781
+    ],
+    "bbox_xyxy_px": [
+      6,
+      35,
+      907,
+      763
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_028": {
+    "class_name": "13591047",
+    "class_id": 15,
+    "image": "images/originals/13591047/src_028.png",
+    "size": [
+      529,
+      757
+    ],
+    "bbox_xyxy_px": [
+      31,
+      13,
+      498,
+      738
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_029": {
+    "class_name": "13592509",
+    "class_id": 16,
+    "image": "images/originals/13592509/src_029.png",
+    "size": [
+      890,
+      502
+    ],
+    "bbox_xyxy_px": [
+      21,
+      34,
+      872,
+      479
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_030": {
+    "class_name": "14",
+    "class_id": 17,
+    "image": "images/originals/14/src_030.png",
+    "size": [
+      432,
+      711
+    ],
+    "bbox_xyxy_px": [
+      0,
+      25,
+      432,
+      693
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_031": {
+    "class_name": "14",
+    "class_id": 17,
+    "image": "images/originals/14/src_031.png",
+    "size": [
+      415,
+      642
+    ],
+    "bbox_xyxy_px": [
+      0,
+      33,
+      415,
+      631
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_032": {
+    "class_name": "14",
+    "class_id": 17,
+    "image": "images/originals/14/src_032.png",
+    "size": [
+      405,
+      652
+    ],
+    "bbox_xyxy_px": [
+      0,
+      54,
+      405,
+      652
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_033": {
+    "class_name": "14",
+    "class_id": 17,
+    "image": "images/originals/14/src_033.png",
+    "size": [
+      463,
+      757
+    ],
+    "bbox_xyxy_px": [
+      0,
+      79,
+      463,
+      755
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_034": {
+    "class_name": "14",
+    "class_id": 17,
+    "image": "images/originals/14/src_034.png",
+    "size": [
+      342,
+      428
+    ],
+    "bbox_xyxy_px": [
+      0,
+      0,
+      342,
+      421
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_035": {
+    "class_name": "15",
+    "class_id": 18,
+    "image": "images/originals/15/src_035.png",
+    "size": [
+      296,
+      379
+    ],
+    "bbox_xyxy_px": [
+      0,
+      0,
+      255,
+      362
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_036": {
+    "class_name": "18",
+    "class_id": 19,
+    "image": "images/originals/18/src_036.png",
+    "size": [
+      456,
+      283
+    ],
+    "bbox_xyxy_px": [
+      55,
+      0,
+      456,
+      232
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_037": {
+    "class_name": "18",
+    "class_id": 19,
+    "image": "images/originals/18/src_037.png",
+    "size": [
+      585,
+      344
+    ],
+    "bbox_xyxy_px": [
+      31,
+      0,
+      585,
+      304
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_038": {
+    "class_name": "19",
+    "class_id": 20,
+    "image": "images/originals/19/src_038.png",
+    "size": [
+      265,
+      424
+    ],
+    "bbox_xyxy_px": [
+      55,
+      0,
+      238,
+      421
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_039": {
+    "class_name": "19",
+    "class_id": 20,
+    "image": "images/originals/19/src_039.png",
+    "size": [
+      299,
+      542
+    ],
+    "bbox_xyxy_px": [
+      33,
+      0,
+      273,
+      539
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_040": {
+    "class_name": "19151432",
+    "class_id": 21,
+    "image": "images/originals/19151432/src_040.png",
+    "size": [
+      468,
+      555
+    ],
+    "bbox_xyxy_px": [
+      11,
+      30,
+      452,
+      537
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_041": {
+    "class_name": "20+6",
+    "class_id": 22,
+    "image": "images/originals/20+6/src_041.png",
+    "size": [
+      399,
+      508
+    ],
+    "bbox_xyxy_px": [
+      10,
+      33,
+      362,
+      508
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_042": {
+    "class_name": "20+6",
+    "class_id": 22,
+    "image": "images/originals/20+6/src_042.png",
+    "size": [
+      308,
+      399
+    ],
+    "bbox_xyxy_px": [
+      16,
+      21,
+      288,
+      399
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_043": {
+    "class_name": "21+5",
+    "class_id": 23,
+    "image": "images/originals/21+5/src_043.png",
+    "size": [
+      319,
+      778
+    ],
+    "bbox_xyxy_px": [
+      11,
+      22,
+      319,
+      778
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_044": {
+    "class_name": "21+5",
+    "class_id": 23,
+    "image": "images/originals/21+5/src_044.png",
+    "size": [
+      249,
+      618
+    ],
+    "bbox_xyxy_px": [
+      17,
+      22,
+      249,
+      618
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_045": {
+    "class_name": "22+3",
+    "class_id": 24,
+    "image": "images/originals/22+3/src_045.png",
+    "size": [
+      1259,
+      698
+    ],
+    "bbox_xyxy_px": [
+      36,
+      0,
+      1250,
+      698
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_046": {
+    "class_name": "23",
+    "class_id": 25,
+    "image": "images/originals/23/src_046.png",
+    "size": [
+      332,
+      502
+    ],
+    "bbox_xyxy_px": [
+      23,
+      38,
+      309,
+      502
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_047": {
+    "class_name": "24",
+    "class_id": 26,
+    "image": "images/originals/24/src_047.png",
+    "size": [
+      434,
+      524
+    ],
+    "bbox_xyxy_px": [
+      3,
+      28,
+      424,
+      524
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_048": {
+    "class_name": "25",
+    "class_id": 27,
+    "image": "images/originals/25/src_048.png",
+    "size": [
+      384,
+      445
+    ],
+    "bbox_xyxy_px": [
+      1,
+      0,
+      384,
+      445
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_049": {
+    "class_name": "25",
+    "class_id": 27,
+    "image": "images/originals/25/src_049.png",
+    "size": [
+      298,
+      333
+    ],
+    "bbox_xyxy_px": [
+      1,
+      0,
+      287,
+      333
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_050": {
+    "class_name": "26",
+    "class_id": 28,
+    "image": "images/originals/26/src_050.png",
+    "size": [
+      391,
+      281
+    ],
+    "bbox_xyxy_px": [
+      12,
+      18,
+      391,
+      267
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_051": {
+    "class_name": "29",
+    "class_id": 29,
+    "image": "images/originals/29/src_051.png",
+    "size": [
+      628,
+      613
+    ],
+    "bbox_xyxy_px": [
+      25,
+      34,
+      601,
+      613
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_052": {
+    "class_name": "29",
+    "class_id": 29,
+    "image": "images/originals/29/src_052.png",
+    "size": [
+      501,
+      469
+    ],
+    "bbox_xyxy_px": [
+      26,
+      16,
+      469,
+      469
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_053": {
+    "class_name": "31",
+    "class_id": 30,
+    "image": "images/originals/31/src_053.png",
+    "size": [
+      277,
+      642
+    ],
+    "bbox_xyxy_px": [
+      0,
+      0,
+      277,
+      642
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_054": {
+    "class_name": "31",
+    "class_id": 30,
+    "image": "images/originals/31/src_054.png",
+    "size": [
+      359,
+      686
+    ],
+    "bbox_xyxy_px": [
+      0,
+      0,
+      359,
+      680
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_055": {
+    "class_name": "4",
+    "class_id": 31,
+    "image": "images/originals/4/src_055.png",
+    "size": [
+      636,
+      648
+    ],
+    "bbox_xyxy_px": [
+      0,
+      35,
+      636,
+      641
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_056": {
+    "class_name": "4",
+    "class_id": 31,
+    "image": "images/originals/4/src_056.png",
+    "size": [
+      539,
+      531
+    ],
+    "bbox_xyxy_px": [
+      0,
+      32,
+      539,
+      499
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_057": {
+    "class_name": "7",
+    "class_id": 32,
+    "image": "images/originals/7/src_057.png",
+    "size": [
+      447,
+      555
+    ],
+    "bbox_xyxy_px": [
+      0,
+      28,
+      447,
+      474
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_058": {
+    "class_name": "7",
+    "class_id": 32,
+    "image": "images/originals/7/src_058.png",
+    "size": [
+      534,
+      628
+    ],
+    "bbox_xyxy_px": [
+      0,
+      8,
+      534,
+      584
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_059": {
+    "class_name": "7",
+    "class_id": 32,
+    "image": "images/originals/7/src_059.png",
+    "size": [
+      556,
+      666
+    ],
+    "bbox_xyxy_px": [
+      0,
+      42,
+      556,
+      664
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_060": {
+    "class_name": "7",
+    "class_id": 32,
+    "image": "images/originals/7/src_060.png",
+    "size": [
+      490,
+      691
+    ],
+    "bbox_xyxy_px": [
+      0,
+      57,
+      490,
+      679
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_061": {
+    "class_name": "7",
+    "class_id": 32,
+    "image": "images/originals/7/src_061.png",
+    "size": [
+      496,
+      411
+    ],
+    "bbox_xyxy_px": [
+      0,
+      0,
+      464,
+      411
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_062": {
+    "class_name": "7",
+    "class_id": 32,
+    "image": "images/originals/7/src_062.png",
+    "size": [
+      216,
+      270
+    ],
+    "bbox_xyxy_px": [
+      0,
+      0,
+      216,
+      244
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_063": {
+    "class_name": "7",
+    "class_id": 32,
+    "image": "images/originals/7/src_063.png",
+    "size": [
+      427,
+      344
+    ],
+    "bbox_xyxy_px": [
+      29,
+      0,
+      415,
+      344
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_064": {
+    "class_name": "8",
+    "class_id": 33,
+    "image": "images/originals/8/src_064.png",
+    "size": [
+      376,
+      477
+    ],
+    "bbox_xyxy_px": [
+      29,
+      0,
+      339,
+      460
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_065": {
+    "class_name": "BLL15914",
+    "class_id": 34,
+    "image": "images/originals/BLL15914/src_065.png",
+    "size": [
+      666,
+      348
+    ],
+    "bbox_xyxy_px": [
+      26,
+      14,
+      660,
+      348
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_066": {
+    "class_name": "BLL15914",
+    "class_id": 34,
+    "image": "images/originals/BLL15914/src_066.png",
+    "size": [
+      750,
+      412
+    ],
+    "bbox_xyxy_px": [
+      3,
+      21,
+      746,
+      412
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_067": {
+    "class_name": "BSB04473",
+    "class_id": 35,
+    "image": "images/originals/BSB04473/src_067.png",
+    "size": [
+      444,
+      963
+    ],
+    "bbox_xyxy_px": [
+      31,
+      1,
+      444,
+      962
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": true
+  },
+  "src_068": {
+    "class_name": "BSB04473",
+    "class_id": 35,
+    "image": "images/originals/BSB04473/src_068.png",
+    "size": [
+      515,
+      1144
+    ],
+    "bbox_xyxy_px": [
+      19,
+      16,
+      509,
+      1141
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "src_069": {
+    "class_name": "CPU88567",
+    "class_id": 36,
+    "image": "images/originals/CPU88567/src_069.png",
+    "size": [
+      569,
+      356
+    ],
+    "bbox_xyxy_px": [
+      12,
+      52,
+      553,
+      326
+    ],
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "touches_image_edge": false
+  },
+  "cad_001": {
+    "image": "images/originals/1/cad_001.png",
+    "label": "labels/originals/1/cad_001.txt",
+    "source_id": "cad_001",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      30.76346604215457,
+      168.6991576413959,
+      625.592505854801,
+      452.94464500601686
+    ],
+    "class_name": "1",
+    "class_id": 0,
+    "source_capture": "source_captures/1/1.png",
+    "input_size": [
+      1708,
+      831
+    ],
+    "input_bbox_xyxy_px": [
+      19,
+      16,
+      1690,
+      814
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "acc7fb5cdebb5369d25efb94f6af1a4909d377db650756ad34995185d51b84ba",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:1"
+  },
+  "cad_002": {
+    "image": "images/originals/10/cad_002.png",
+    "label": "labels/originals/10/cad_002.txt",
+    "source_id": "cad_002",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      31.835051546391753,
+      63.82808902532617,
+      624.1649484536082,
+      556.9976976208749
+    ],
+    "class_name": "10",
+    "class_id": 1,
+    "source_capture": "source_captures/10/10.png",
+    "input_size": [
+      1552,
+      1303
+    ],
+    "input_bbox_xyxy_px": [
+      20,
+      20,
+      1532,
+      1280
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "602b41840bb3bdff07a61bcea06112a6538e116e4aec1a7b634c4e859dc86c27",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:10"
+  },
+  "cad_003": {
+    "image": "images/originals/11/cad_003.png",
+    "label": "labels/originals/11/cad_003.txt",
+    "source_id": "cad_003",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      100.51401869158879,
+      17.008230452674898,
+      552.607476635514,
+      601.8641975308642
+    ],
+    "class_name": "11",
+    "class_id": 2,
+    "source_capture": "source_captures/11/11.png",
+    "input_size": [
+      749,
+      972
+    ],
+    "input_bbox_xyxy_px": [
+      12,
+      16,
+      734,
+      951
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "d08542f895edcb13b2cb4a7cf92ba7a0104474a9712b913ddd1073852e7b3a49",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:11"
+  },
+  "cad_004": {
+    "image": "images/originals/12/cad_004.png",
+    "label": "labels/originals/12/cad_004.txt",
+    "source_id": "cad_004",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      41.092369477911646,
+      28.09683995922528,
+      618.570281124498,
+      591.6819571865444
+    ],
+    "class_name": "12",
+    "class_id": 3,
+    "source_capture": "source_captures/12/12.png",
+    "input_size": [
+      996,
+      981
+    ],
+    "input_bbox_xyxy_px": [
+      28,
+      28,
+      974,
+      951
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "0cd7f0def28770d618071487495450e92bedbe0e9f18f5b090fed0753ef08a33",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:12"
+  },
+  "cad_005": {
+    "image": "images/originals/13/cad_005.png",
+    "label": "labels/originals/13/cad_005.txt",
+    "source_id": "cad_005",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      175.55258126195028,
+      21.95614973262032,
+      481.74760994263863,
+      599.3935828877005
+    ],
+    "class_name": "13",
+    "class_id": 4,
+    "source_capture": "source_captures/13/13.png",
+    "input_size": [
+      523,
+      935
+    ],
+    "input_bbox_xyxy_px": [
+      27,
+      23,
+      498,
+      911
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "2442acbf5e78dd4d0fd92a5c6e23416b1d3457ae3b5527775a4d43d0bc65be43",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:13"
+  },
+  "cad_006": {
+    "image": "images/originals/13352244/cad_006.png",
+    "label": "labels/originals/13352244/cad_006.txt",
+    "source_id": "cad_006",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      137.8009828009828,
+      27.77697841726619,
+      517.1990171990171,
+      584.9280575539569
+    ],
+    "class_name": "13352244",
+    "class_id": 5,
+    "source_capture": "source_captures/13352244/scr_013.png",
+    "input_size": [
+      814,
+      1112
+    ],
+    "input_bbox_xyxy_px": [
+      60,
+      38,
+      754,
+      1057
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "49b74f01a9dc5c3c9eb2375c2c27e7c3bd77e24825f7df309694441a2aa31464",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:13352244"
+  },
+  "cad_007": {
+    "image": "images/originals/13512366/cad_007.png",
+    "label": "labels/originals/13512366/cad_007.txt",
+    "source_id": "cad_007",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      45.86381025248661,
+      50.00404858299595,
+      601.7628156082632,
+      565.8744939271255
+    ],
+    "class_name": "13512366",
+    "class_id": 6,
+    "source_capture": "source_captures/13512366/13512366_M651LEFT_FRONT_X1_01.png",
+    "input_size": [
+      1307,
+      1235
+    ],
+    "input_bbox_xyxy_px": [
+      47,
+      58,
+      1242,
+      1166
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "ff1b4d45cf6082db9d00a7aaa8e2fa3df3236198e29d91d66a005c4e0e0af262",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:13512366"
+  },
+  "cad_008": {
+    "image": "images/originals/13514590/cad_008.png",
+    "label": "labels/originals/13514590/cad_008.txt",
+    "source_id": "cad_008",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      38.88783570300158,
+      72.40398550724638,
+      615.1911532385466,
+      546.2355072463768
+    ],
+    "class_name": "13514590",
+    "class_id": 7,
+    "source_capture": "source_captures/13514590/13514590_X604X604_A471_X1_01.png",
+    "input_size": [
+      1266,
+      1104
+    ],
+    "input_bbox_xyxy_px": [
+      31,
+      55,
+      1231,
+      1042
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "028794b6cb2387477d7d76efc4ccfb069ed77b760477e42b32d0a7b8bda68f40",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:13514590"
+  },
+  "cad_009": {
+    "image": "images/originals/13519739/cad_009.png",
+    "label": "labels/originals/13519739/cad_009.txt",
+    "source_id": "cad_009",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      48.71165644171779,
+      54.23935264054514,
+      606.3558282208588,
+      561.6354344122657
+    ],
+    "class_name": "13519739",
+    "class_id": 8,
+    "source_capture": "source_captures/13519739/13519739_Y626LEFT_FRONT_MAO_X1_01.png",
+    "input_size": [
+      1304,
+      1174
+    ],
+    "input_bbox_xyxy_px": [
+      53,
+      37,
+      1249,
+      1126
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "d1059f24d0cc35874d798623f2fe43354c137a3889d14eec9073b9e516b196ec",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:13519739"
+  },
+  "cad_010": {
+    "image": "images/originals/13535680/cad_010.png",
+    "label": "labels/originals/13535680/cad_010.txt",
+    "source_id": "cad_010",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      33.675366008911524,
+      178.0,
+      622.3246339910885,
+      444.0
+    ],
+    "class_name": "13535680",
+    "class_id": 9,
+    "source_capture": "source_captures/13535680/13535680_X644X505_FL_X1.png",
+    "input_size": [
+      1571,
+      688
+    ],
+    "input_bbox_xyxy_px": [
+      25,
+      0,
+      1546,
+      688
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "6acd96b6c08283e368bc13a4bd1199fc6351cd229c30e99ea633ca0a29b399b4",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:13535680"
+  },
+  "cad_011": {
+    "image": "images/originals/13543056/cad_011.png",
+    "label": "labels/originals/13543056/cad_011.txt",
+    "source_id": "cad_011",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      156.10349127182045,
+      32.10769230769231,
+      496.926433915212,
+      596.7846153846154
+    ],
+    "class_name": "13543056",
+    "class_id": 10,
+    "source_capture": "source_captures/13543056/13543056_X604X604_E603_LT_X2_X2.png",
+    "input_size": [
+      802,
+      1235
+    ],
+    "input_bbox_xyxy_px": [
+      53,
+      51,
+      745,
+      1198
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "84e025afb8ad2b0c374232852e8135ecedac5eaf8561f06da99a9286bbfa07f9",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:13543056"
+  },
+  "cad_012": {
+    "image": "images/originals/13551224/cad_012.png",
+    "label": "labels/originals/13551224/cad_012.txt",
+    "source_id": "cad_012",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      249.71186440677965,
+      19.633766233766234,
+      405.23728813559325,
+      600.260606060606
+    ],
+    "class_name": "13551224",
+    "class_id": 11,
+    "source_capture": "source_captures/13551224/13551224_X11X500_FL_X1.png",
+    "input_size": [
+      354,
+      1155
+    ],
+    "input_bbox_xyxy_px": [
+      28,
+      24,
+      324,
+      1127
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "38d0f8cde39b557fc4a26638c36d158446d3c7c78d9d0d8035407957eb07eace",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:13551224"
+  },
+  "cad_013": {
+    "image": "images/originals/13582917/cad_013.png",
+    "label": "labels/originals/13582917/cad_013.txt",
+    "source_id": "cad_013",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      70.0,
+      19.37372802960222,
+      585.0,
+      599.8140610545792
+    ],
+    "class_name": "13582917",
+    "class_id": 12,
+    "source_capture": "source_captures/13582917/13582917_B198LEFT_FRONT_X1.png",
+    "input_size": [
+      915,
+      1081
+    ],
+    "input_bbox_xyxy_px": [
+      0,
+      22,
+      915,
+      1054
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "087e8e7cede1957296ad72d5539d1083e58dd3ee2d787dd9e0a828bbd3acc657",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:13582917"
+  },
+  "cad_014": {
+    "image": "images/originals/13590001/cad_014.png",
+    "label": "labels/originals/13590001/cad_014.txt",
+    "source_id": "cad_014",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      91.3819095477387,
+      20.20304017372421,
+      560.9798994974874,
+      602.457111834962
+    ],
+    "class_name": "13590001",
+    "class_id": 13,
+    "source_capture": "source_captures/13590001/13590001.png",
+    "input_size": [
+      796,
+      921
+    ],
+    "input_bbox_xyxy_px": [
+      40,
+      20,
+      752,
+      902
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "2de38d27e9f5d6fe568c30cb745a0aa8e777710a16587a7256b4b7852e6d392b",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:13590001"
+  },
+  "cad_015": {
+    "image": "images/originals/13590425/cad_015.png",
+    "label": "labels/originals/13590425/cad_015.txt",
+    "source_id": "cad_015",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      34.59233449477352,
+      73.71337579617834,
+      620.8780487804878,
+      546.7569002123142
+    ],
+    "class_name": "13590425",
+    "class_id": 14,
+    "source_capture": "source_captures/13590425/13590425_Y572LEFT_FRONT_X1.png",
+    "input_size": [
+      1148,
+      942
+    ],
+    "input_bbox_xyxy_px": [
+      20,
+      24,
+      1127,
+      917
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "876892c0b0ad29ce63aaadbc55ae49f9915c159ff353297454c9772a0c8db11a",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:13590425"
+  },
+  "cad_016": {
+    "image": "images/originals/13591047/cad_016.png",
+    "label": "labels/originals/13591047/cad_016.txt",
+    "source_id": "cad_016",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      142.9434250764526,
+      21.95614973262032,
+      513.3562691131499,
+      600.0438502673796
+    ],
+    "class_name": "13591047",
+    "class_id": 15,
+    "source_capture": "source_captures/13591047/13591047_Y626LEFT_FRONT_MAO_X2.png",
+    "input_size": [
+      654,
+      935
+    ],
+    "input_bbox_xyxy_px": [
+      43,
+      23,
+      613,
+      912
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "ae953ae9497c5a8c23f865df122f917fe321a60dfaddb960af0157882167dcf6",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:13591047"
+  },
+  "cad_017": {
+    "image": "images/originals/13592509/cad_017.png",
+    "label": "labels/originals/13592509/cad_017.txt",
+    "source_id": "cad_017",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      53.23392760669908,
+      131.0,
+      601.1237169097785,
+      490.0
+    ],
+    "class_name": "13592509",
+    "class_id": 16,
+    "source_capture": "source_captures/13592509/13592509_A470LEFT_FRONT_X1.png",
+    "input_size": [
+      1851,
+      1092
+    ],
+    "input_bbox_xyxy_px": [
+      89,
+      0,
+      1757,
+      1092
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "c7cdc51911f9a9f5ac86bfa3e0c85bcfdfc8b40b76e2de11a6c7a0691fd5337b",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:13592509"
+  },
+  "cad_018": {
+    "image": "images/originals/14/cad_018.png",
+    "label": "labels/originals/14/cad_018.txt",
+    "source_id": "cad_018",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      103.71938283510126,
+      17.585919757759275,
+      549.9006750241081,
+      605.7948523845572
+    ],
+    "class_name": "14",
+    "class_id": 17,
+    "source_capture": "source_captures/14/14.png",
+    "input_size": [
+      1037,
+      1321
+    ],
+    "input_bbox_xyxy_px": [
+      32,
+      23,
+      1002,
+      1301
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "72106b183c15e569f7bb14fe76656443e05eea3092a46a46ca5dc880dea88599",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:14"
+  },
+  "cad_019": {
+    "image": "images/originals/15/cad_019.png",
+    "label": "labels/originals/15/cad_019.txt",
+    "source_id": "cad_019",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      138.18278145695365,
+      25.17391304347826,
+      519.4701986754967,
+      590.768115942029
+    ],
+    "class_name": "15",
+    "class_id": 18,
+    "source_capture": "source_captures/15/15.png",
+    "input_size": [
+      755,
+      1104
+    ],
+    "input_bbox_xyxy_px": [
+      33,
+      33,
+      725,
+      1060
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "a0ec999b325be6d2dd0dee8ea09fa9085bca3960b4e4a37da45ad8a603687da9",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:15"
+  },
+  "cad_020": {
+    "image": "images/originals/17/cad_020.png",
+    "label": "labels/originals/17/cad_020.txt",
+    "source_id": "cad_020",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      27.17174959871589,
+      220.59620253164556,
+      628.8282504012841,
+      398.9379746835443
+    ],
+    "class_name": "17",
+    "class_id": 37,
+    "source_capture": "source_captures/17/17.png",
+    "input_size": [
+      2492,
+      790
+    ],
+    "input_bbox_xyxy_px": [
+      13,
+      27,
+      2479,
+      757
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "3b325c941c2ecbbe4dad2ecfe11d6125dfac4f896329f40367713b6c8f532e6b",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:17"
+  },
+  "cad_021": {
+    "image": "images/originals/18/cad_021.png",
+    "label": "labels/originals/18/cad_021.txt",
+    "source_id": "cad_021",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      35.96698412698413,
+      142.5703211517165,
+      621.1911111111111,
+      475.3377630121816
+    ],
+    "class_name": "18",
+    "class_id": 19,
+    "source_capture": "source_captures/18/18.png",
+    "input_size": [
+      1575,
+      903
+    ],
+    "input_bbox_xyxy_px": [
+      31,
+      17,
+      1547,
+      878
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "57654b2e398814f129c081b9c7b34609e8818dcd939fdd3670e66770a1f19e4a",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:18"
+  },
+  "cad_022": {
+    "image": "images/originals/19/cad_022.png",
+    "label": "labels/originals/19/cad_022.txt",
+    "source_id": "cad_022",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      201.26495726495727,
+      23.792380952380952,
+      454.3141025641026,
+      600.5238095238095
+    ],
+    "class_name": "19",
+    "class_id": 20,
+    "source_capture": "source_captures/19/19.png",
+    "input_size": [
+      468,
+      1050
+    ],
+    "input_bbox_xyxy_px": [
+      16,
+      29,
+      453,
+      1025
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "90a2ac715aad0390f60da2a04f2357f20b5a8442d8cc6a762eb0397d3c098b68",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:19"
+  },
+  "cad_023": {
+    "image": "images/originals/19151432/cad_023.png",
+    "label": "labels/originals/19151432/cad_023.txt",
+    "source_id": "cad_023",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      81.6013916500994,
+      23.70607826810991,
+      574.410536779324,
+      593.7377185678602
+    ],
+    "class_name": "19151432",
+    "class_id": 21,
+    "source_capture": "source_captures/19151432/19151432_B63DOOR_LFR_X1.png",
+    "input_size": [
+      1006,
+      1201
+    ],
+    "input_bbox_xyxy_px": [
+      17,
+      33,
+      991,
+      1159
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "09bb8c522c979951ab51457611831ef1cfbc621263457f727668486c03f0a570",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:19151432"
+  },
+  "cad_024": {
+    "image": "images/originals/20+6/cad_024.png",
+    "label": "labels/originals/20+6/cad_024.txt",
+    "source_id": "cad_024",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      111.65205091937766,
+      15.165289256198347,
+      542.4639321074965,
+      607.4628099173553
+    ],
+    "class_name": "20+6",
+    "class_id": 22,
+    "source_capture": "source_captures/20+6/20+6.png",
+    "input_size": [
+      707,
+      968
+    ],
+    "input_bbox_xyxy_px": [
+      9,
+      13,
+      695,
+      956
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "c3616a8bec62a4798d0a600569bec5ddb7722ef6f640e60522ddce2c62d8313e",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:20+6"
+  },
+  "cad_025": {
+    "image": "images/originals/21+5/cad_025.png",
+    "label": "labels/originals/21+5/cad_025.txt",
+    "source_id": "cad_025",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      222.77304964539007,
+      19.579310344827586,
+      432.17730496453896,
+      599.8000000000001
+    ],
+    "class_name": "21+5",
+    "class_id": 23,
+    "source_capture": "source_captures/21+5/21+5.png",
+    "input_size": [
+      423,
+      1160
+    ],
+    "input_bbox_xyxy_px": [
+      11,
+      24,
+      410,
+      1131
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "a2d3a07ee51191587a538e62359e9c9a93dc98a685a9ed701ff755e9c0b4f53f",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:21+5"
+  },
+  "cad_026": {
+    "image": "images/originals/22+3/cad_026.png",
+    "label": "labels/originals/22+3/cad_026.txt",
+    "source_id": "cad_026",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      26.674879014518257,
+      145.6032,
+      629.5926088869336,
+      474.25919999999996
+    ],
+    "class_name": "22+3",
+    "class_id": 24,
+    "source_capture": "source_captures/22+3/22+3.png",
+    "input_size": [
+      2273,
+      1250
+    ],
+    "input_bbox_xyxy_px": [
+      10,
+      6,
+      2264,
+      1236
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "d5d66a5d8433d43fd6c6f1d3cd1fcc59e247052db94807123662d8959ff17228",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:22+3"
+  },
+  "cad_027": {
+    "image": "images/originals/23/cad_027.png",
+    "label": "labels/originals/23/cad_027.txt",
+    "source_id": "cad_027",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      140.06425041186162,
+      12.83368869936034,
+      514.2883031301483,
+      607.8699360341152
+    ],
+    "class_name": "23",
+    "class_id": 25,
+    "source_capture": "source_captures/23/23.png",
+    "input_size": [
+      607,
+      938
+    ],
+    "input_bbox_xyxy_px": [
+      14,
+      9,
+      592,
+      927
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "dc450cae2dc404f3945dd838b0b6a330692219e8c3e4881fca5512aedc33a025",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:23"
+  },
+  "cad_028": {
+    "image": "images/originals/24/cad_028.png",
+    "label": "labels/originals/24/cad_028.txt",
+    "source_id": "cad_028",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      64.95882891125343,
+      14.46317512274959,
+      590.5434583714547,
+      604.0540098199673
+    ],
+    "class_name": "24",
+    "class_id": 26,
+    "source_capture": "source_captures/24/24.png",
+    "input_size": [
+      1093,
+      1222
+    ],
+    "input_bbox_xyxy_px": [
+      18,
+      15,
+      1074,
+      1200
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "3a27182a8d600e53aba82312ae5325e1d364340dd9642daf5f1f05c0e5cd4aa6",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:24"
+  },
+  "cad_029": {
+    "image": "images/originals/25/cad_029.png",
+    "label": "labels/originals/25/cad_029.txt",
+    "source_id": "cad_029",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      71.6136645962733,
+      18.93456924754635,
+      583.7229813664596,
+      599.7502726281352
+    ],
+    "class_name": "25",
+    "class_id": 27,
+    "source_capture": "source_captures/25/25.png",
+    "input_size": [
+      805,
+      917
+    ],
+    "input_bbox_xyxy_px": [
+      16,
+      18,
+      788,
+      894
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "b9d0561d4bdfff50073355f64e10ec3e09cbdc8f3851380543a0da5c532b291c",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:25"
+  },
+  "cad_030": {
+    "image": "images/originals/26/cad_030.png",
+    "label": "labels/originals/26/cad_030.txt",
+    "source_id": "cad_030",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      29.798972853998535,
+      112.90769230769232,
+      623.0785033015408,
+      506.41538461538465
+    ],
+    "class_name": "26",
+    "class_id": 28,
+    "source_capture": "source_captures/26/26.png",
+    "input_size": [
+      1363,
+      910
+    ],
+    "input_bbox_xyxy_px": [
+      13,
+      11,
+      1343,
+      893
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "e733028705d28233142076124f59e353c12385d27bd11ea0a4e27fe1311d28d4",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:26"
+  },
+  "cad_031": {
+    "image": "images/originals/29/cad_031.png",
+    "label": "labels/originals/29/cad_031.txt",
+    "source_id": "cad_031",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      37.21739130434783,
+      21.850156087408948,
+      616.2650103519669,
+      591.5952133194588
+    ],
+    "class_name": "29",
+    "class_id": 29,
+    "source_capture": "source_captures/29/29.png",
+    "input_size": [
+      966,
+      961
+    ],
+    "input_bbox_xyxy_px": [
+      21,
+      22,
+      941,
+      927
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "198b858f33e0d5e0207c1f452051f7c9475f109b0f44633b7fc86bc484896b2c",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:29"
+  },
+  "cad_032": {
+    "image": "images/originals/31/cad_032.png",
+    "label": "labels/originals/31/cad_032.txt",
+    "source_id": "cad_032",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      75.77209302325582,
+      12.731343283582088,
+      576.8418604651163,
+      609.2686567164179
+    ],
+    "class_name": "31",
+    "class_id": 30,
+    "source_capture": "source_captures/31/31.png",
+    "input_size": [
+      1075,
+      1273
+    ],
+    "input_bbox_xyxy_px": [
+      10,
+      12,
+      1060,
+      1261
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "ff8c105f7942ecc27a1692fa248b7491dbfeb12f7aa2851badb6068194dace7e",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:31"
+  },
+  "cad_033": {
+    "image": "images/originals/4/cad_033.png",
+    "label": "labels/originals/4/cad_033.txt",
+    "source_id": "cad_033",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      33.53521126760563,
+      19.475161987041034,
+      620.4951245937161,
+      601.8682505399568
+    ],
+    "class_name": "4",
+    "class_id": 31,
+    "source_capture": "source_captures/4/4.png",
+    "input_size": [
+      923,
+      926
+    ],
+    "input_bbox_xyxy_px": [
+      13,
+      19,
+      907,
+      906
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "922c97da837f5b71e5d7464498dc5e13d00a84283bcd463d27c6da2eb864671e",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:4"
+  },
+  "cad_034": {
+    "image": "images/originals/7/cad_034.png",
+    "label": "labels/originals/7/cad_034.txt",
+    "source_id": "cad_034",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      64.8780193236715,
+      17.796892341842398,
+      588.096618357488,
+      597.4550499445061
+    ],
+    "class_name": "7",
+    "class_id": 32,
+    "source_capture": "source_captures/7/7.png",
+    "input_size": [
+      828,
+      901
+    ],
+    "input_bbox_xyxy_px": [
+      25,
+      16,
+      800,
+      875
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "4e2c723e29d51a64323b3e4205974eec0a78fae617b0ea0530739ff79c93f652",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:7"
+  },
+  "cad_035": {
+    "image": "images/originals/8/cad_035.png",
+    "label": "labels/originals/8/cad_035.txt",
+    "source_id": "cad_035",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      123.4495867768595,
+      18.97682502896871,
+      529.7338842975207,
+      602.3186558516802
+    ],
+    "class_name": "8",
+    "class_id": 33,
+    "source_capture": "source_captures/8/8.png",
+    "input_size": [
+      605,
+      863
+    ],
+    "input_bbox_xyxy_px": [
+      12,
+      17,
+      589,
+      845
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "5c66a929b99ccbd1d76ecd63513105f76f35fba2077bd63cbea360ed9fcb9c79",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:8"
+  },
+  "cad_036": {
+    "image": "images/originals/BLL15914/cad_036.png",
+    "label": "labels/originals/BLL15914/cad_036.txt",
+    "source_id": "cad_036",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      38.71288423806409,
+      158.13868613138686,
+      616.8894702419882,
+      460.4744525547445
+    ],
+    "class_name": "BLL15914",
+    "class_id": 34,
+    "source_capture": "source_captures/BLL15914/src_066 (2).png",
+    "input_size": [
+      1529,
+      822
+    ],
+    "input_bbox_xyxy_px": [
+      37,
+      28,
+      1491,
+      788
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "5e9434e045080822d2c6856e221fd5faddfa3e4349d9baeb08592afef8cfd290",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:BLL15914"
+  },
+  "cad_037": {
+    "image": "images/originals/BSB04473/cad_037.png",
+    "label": "labels/originals/BSB04473/cad_037.txt",
+    "source_id": "cad_037",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      207.50635593220338,
+      36.008763388510225,
+      447.4936440677966,
+      586.5832521908471
+    ],
+    "class_name": "BSB04473",
+    "class_id": 35,
+    "source_capture": "source_captures/BSB04473/BSBO4473.png",
+    "input_size": [
+      472,
+      1027
+    ],
+    "input_bbox_xyxy_px": [
+      33,
+      49,
+      439,
+      979
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "bd006e3141edb555b762adc7c19a4eb4f6c2f6076194f113fe9b874132345f70",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:BSB04473"
+  },
+  "cad_038": {
+    "image": "images/originals/CPU88567/cad_038.png",
+    "label": "labels/originals/CPU88567/cad_038.txt",
+    "source_id": "cad_038",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      34.26160337552743,
+      163.17840375586854,
+      615.324894514768,
+      450.7042253521127
+    ],
+    "class_name": "CPU88567",
+    "class_id": 36,
+    "source_capture": "source_captures/CPU88567/src_069 (2).png",
+    "input_size": [
+      1422,
+      852
+    ],
+    "input_bbox_xyxy_px": [
+      24,
+      80,
+      1383,
+      753
+    ],
+    "background_rgb": [
+      33,
+      40,
+      48
+    ],
+    "source_sha256": "d503d17131d96e2b03cb96fedbd4fed182d1cbb34690128d329fe1dee2b549b4",
+    "method": "CAD_background_color_difference_gt5",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:CPU88567"
+  },
+  "pdf_extra_17_001": {
+    "image": "images/originals/17/스크린샷 2026-10-08 091616.png",
+    "label": "labels/originals/17/스크린샷 2026-10-08 091616.txt",
+    "source_id": "pdf_extra_17_001",
+    "kind": "original",
+    "split": "UNASSIGNED",
+    "rotation_ccw": 0,
+    "grayscale": false,
+    "bbox_xyxy_px": [
+      24.0,
+      149.0,
+      632.0,
+      472.0
+    ],
+    "class_name": "17",
+    "class_id": 37,
+    "input_size": [
+      424,
+      225
+    ],
+    "input_bbox_xyxy_px": [
+      0,
+      0,
+      424,
+      225
+    ],
+    "source_capture": "source_captures_extra/17/스크린샷 2026-10-08 091616.png",
+    "source_sha256": "f2be3badfd1dbb990e4a59a0d852897f58e31e3dc6db5bea0399c01c114fc1e6",
+    "method": "nonwhite_foreground_extent",
+    "reviewed": false,
+    "split_group_hint": "same_symbol_instance:17"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "source_captures": 110,
+  "source_boxes": 221,
+  "output_images": 179,
+  "output_labels": 179,
+  "all_image_sizes": [
+    640,
+    640
+  ],
+  "output_annotation_instances": 297,
+  "full_source_bbox_coverage": 221,
+  "missing_source_boxes": [],
+  "native_scale_captures": 108,
+  "oversize_resized_captures": [
+    {
+      "capture_id": "022",
+      "filename": "capture_022.png",
+      "original_name": "스크린샷 2026-10-08 101531.png",
+      "source_sha256": "abe16b96553b14e146d268351a0c5bf7d0c816400c38badbe0112ed647ec3bb1",
+      "original_size": [
+        852,
+        1052
+      ],
+      "resized_size": [
+        690,
+        852
+      ],
+      "scale_xy": [
+        0.8098591549295775,
+        0.8098859315589354
+      ],
+      "resized_for_oversize_symbol": true,
+      "source_box_ids": [
+        "022-01",
+        "022-02"
+      ],
+      "source_edge_box_ids": [],
+      "note": "모든 대상의 누락, 클래스 번호, 박스 경계를 확인해주세요."
+    },
+    {
+      "capture_id": "047",
+      "filename": "capture_047.png",
+      "original_name": "스크린샷 2026-10-08 101736.png",
+      "source_sha256": "96e58b65ece84d6310ef52d901a219d7f0560ab6f27ebe79eee2ba068783d962",
+      "original_size": [
+        744,
+        1023
+      ],
+      "resized_size": [
+        553,
+        760
+      ],
+      "scale_xy": [
+        0.7432795698924731,
+        0.7429130009775171
+      ],
+      "resized_for_oversize_symbol": true,
+      "source_box_ids": [
+        "047-01",
+        "047-02"
+      ],
+      "source_edge_box_ids": [],
+      "note": "모든 대상의 누락, 클래스 번호, 박스 경계를 확인해주세요."
+    }
+  ],
+  "tiles_with_partial_boxes": 31,
+  "negative_tiles": 7,
+  "source_edge_boxes": 46,
+  "augmentation_applied": false,
+  "train_val_split_assigned": false,
+  "training_started": false
+}

@@ -1,0 +1,62 @@
+<!doctype html><html lang="ko"><meta charset="utf-8">
+<title>PDF 직접 640×640 자르기</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f4f6f9;color:#172238;font:15px system-ui,sans-serif}
+header{padding:18px 24px;background:#172238;color:white}h1{margin:0 0 6px;font-size:23px}header p{margin:0;color:#c8d7e8}
+main{padding:18px 24px}.bar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:12px}
+button,select{padding:10px 14px;border:1px solid #c9d3e0;border-radius:6px;background:white;color:#172238;font:inherit;cursor:pointer}
+button.primary{background:#1263c9;color:white;border-color:#1263c9}button:disabled{opacity:.4;cursor:default}
+label{display:flex;gap:6px;align-items:center}.grid{display:grid;grid-template-columns:minmax(0,1fr) 350px;gap:18px}
+.panel{background:white;border:1px solid #ccd6e1;border-radius:8px;padding:12px}#stage{width:100%;height:65vh;display:block;touch-action:none;background:white;cursor:crosshair}
+#preview{width:100%;height:auto;border:1px solid #dce2ea;display:none}#details{font-size:13px;overflow-wrap:anywhere;line-height:1.6}
+#status{padding:12px 0;color:#12509a;font-weight:600}small{color:#59687e}h2{font-size:17px;margin:0 0 10px}#saved{font-size:14px}
+@media(max-width:1050px){.grid{grid-template-columns:1fr}#preview{max-width:400px}}
+</style>
+<header><h1>PDF에서 직접 640×640 영역 자르기</h1><p id="file">파일 로딩 중</p></header>
+<main><div class="bar">
+<label>페이지 <select id="page"></select></label>
+<label>저장 DPI <select id="dpi"><option>72</option><option>100</option><option selected>150</option><option>200</option><option>300</option></select></label>
+<label>도구 <select id="tool"><option value="select">640 ROI 선택</option><option value="pan">도면 이동</option></select></label>
+<button id="zoomIn">확대 +</button><button id="zoomOut">축소 −</button><button id="fit">전체 보기</button>
+<button id="save" class="primary" disabled>선택한 640×640 사진 저장</button><span id="saved"></span>
+</div><small>휠로 확대·축소 → 필요한 위치로 이동 → 「640 ROI 선택」으로 박스를 드래그 → 오른쪽 실제 사진 확인 → 저장. 한 번 클릭하면 그 위치를 중심으로 선택합니다. 파란 상자는 항상 저장 DPI 기준 640×640입니다.</small>
+<div id="status" role="status">PDF를 읽는 중입니다.</div>
+<div class="grid"><section class="panel"><canvas id="stage" aria-label="PDF 도면 직접 ROI 선택 화면"></canvas></section>
+<aside class="panel"><h2>선택 영역 · 실제 640×640</h2><img id="preview" alt="직접 선택한 640×640 ROI 미리보기"><p id="details">도면에서 영역을 직접 선택하세요.</p><small>이미지 파일은 저장 버튼을 눌렀을 때만 생성됩니다. 심볼이 잘리면 박스를 다시 옮기거나 DPI를 낮추세요. 사진의 크기는 640×640으로 유지됩니다.</small></aside></div>
+</main>
+<script>
+const $=id=>document.getElementById(id),canvas=$('stage'),ctx=canvas.getContext('2d');
+let info,pageInfo,view={x:0,y:0,scale:.1},selection=null,background=null,drag=null,requestId=0,timer;
+const saveToken='__SAVE_TOKEN__';
+function status(s){$('status').textContent=s}
+function bounds(){view.x=Math.max(0,Math.min(view.x,Math.max(0,pageInfo.width_pt-canvas.width/view.scale)));view.y=Math.max(0,Math.min(view.y,Math.max(0,pageInfo.height_pt-canvas.height/view.scale)))}
+function paint(){ctx.fillStyle='white';ctx.fillRect(0,0,canvas.width,canvas.height);if(background)ctx.drawImage(background,0,0);
+ if(selection){const s=Number($('dpi').value)/72,x=(selection.x/s-view.x)*view.scale,y=(selection.y/s-view.y)*view.scale,w=640/s*view.scale;
+ ctx.fillStyle='rgba(0,95,210,.12)';ctx.fillRect(x,y,w,w);ctx.strokeStyle='#0065d3';ctx.lineWidth=2;ctx.strokeRect(x,y,w,w);}}
+async function refresh(){bounds();const id=++requestId,q=new URLSearchParams({page:$('page').value,x:view.x,y:view.y,scale:view.scale,w:canvas.width,h:canvas.height});
+ const image=new Image();image.onload=()=>{if(id!==requestId)return;background=image;paint();status('도면에서 원하는 영역을 직접 선택하세요.')};
+ image.onerror=()=>status('도면 표시 실패. 영역을 줄여 다시 시도하세요.');image.src='/view?'+q;}
+function fit(){canvas.width=Math.min(2000,Math.round(canvas.clientWidth));canvas.height=Math.min(1200,Math.round(canvas.clientHeight));view={x:0,y:0,scale:Math.max(.02,Math.min(canvas.width/pageInfo.width_pt,canvas.height/pageInfo.height_pt))};refresh()}
+function point(e){const r=canvas.getBoundingClientRect();return{x:(e.clientX-r.left)*canvas.width/r.width,y:(e.clientY-r.top)*canvas.height/r.height}}
+function choose(p,asCorner=false){const s=Number($('dpi').value)/72;let x=Math.round((view.x+p.x/view.scale)*s-(asCorner?0:320)),y=Math.round((view.y+p.y/view.scale)*s-(asCorner?0:320));
+ const maxX=Math.max(0,Math.ceil(pageInfo.width_pt*s)-640),maxY=Math.max(0,Math.ceil(pageInfo.height_pt*s)-640);
+ selection={x:Math.max(0,Math.min(x,maxX)),y:Math.max(0,Math.min(y,maxY))};paint()}
+function showPreview(){if(!selection)return;const q=new URLSearchParams({page:$('page').value,dpi:$('dpi').value,x:selection.x,y:selection.y});
+ $('preview').src='/crop?'+q;$('preview').style.display='block';$('save').disabled=false;
+ $('details').textContent=`640×640 px / DPI ${$('dpi').value} / 원본 시작(px): (${selection.x}, ${selection.y})\n저장 폴더: ${info.output}`;}
+canvas.addEventListener('pointerdown',e=>{drag={p:point(e),x:view.x,y:view.y,selection:selection?{...selection}:null};canvas.setPointerCapture(e.pointerId);
+ if($('tool').value==='select')choose(drag.p);});
+canvas.addEventListener('pointermove',e=>{if(!drag)return;const p=point(e);
+ if($('tool').value==='pan'){view.x=drag.x-(p.x-drag.p.x)/view.scale;view.y=drag.y-(p.y-drag.p.y)/view.scale;clearTimeout(timer);timer=setTimeout(refresh,80)}
+ else{const s=Number($('dpi').value)/72;choose(p);}});
+canvas.addEventListener('pointerup',()=>{if(!drag)return;drag=null;if($('tool').value==='select')showPreview();else refresh()});
+function zoom(factor,p={x:canvas.width/2,y:canvas.height/2}){const x=view.x+p.x/view.scale,y=view.y+p.y/view.scale;view.scale=Math.min(8,Math.max(.02,view.scale*factor));view.x=x-p.x/view.scale;view.y=y-p.y/view.scale;clearTimeout(timer);timer=setTimeout(refresh,120)}
+canvas.addEventListener('wheel',e=>{e.preventDefault();zoom(e.deltaY<0?1.3:1/1.3,point(e))},{passive:false});
+$('zoomIn').onclick=()=>zoom(1.5);$('zoomOut').onclick=()=>zoom(1/1.5);$('fit').onclick=fit;
+$('page').onchange=()=>{pageInfo=info.pages[Number($('page').value)-1];selection=null;$('save').disabled=true;$('preview').style.display='none';fit()};
+$('dpi').onchange=()=>{selection=null;$('save').disabled=true;$('preview').style.display='none';paint();status('DPI가 바뀌었습니다. ROI를 다시 선택하세요.')};
+$('save').onclick=async()=>{if(!selection)return;$('save').disabled=true;try{const response=await fetch('/save',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({...selection,page:Number($('page').value),dpi:Number($('dpi').value),token:saveToken})});
+ const data=await response.json();if(!response.ok)throw new Error(data.error);status('저장 완료: '+data.path);$('saved').textContent='저장된 사진 '+data.saved+'장';}catch(e){status('저장 안 됨: '+e.message)}finally{$('save').disabled=false}};
+fetch('/info').then(r=>r.json()).then(data=>{info=data;$('file').textContent=data.pdf_name+' · 원본 처리와 사진 저장은 이 PC에서 수행';$('saved').textContent='저장된 사진 '+data.saved+'장';
+ for(const p of data.pages){const opt=document.createElement('option');opt.value=p.page;opt.textContent=p.page;$('page').append(opt)}pageInfo=data.pages[0];fit()}).catch(e=>status('파일 로딩 실패: '+e.message));
+</script></html>

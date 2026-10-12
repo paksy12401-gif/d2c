@@ -1,0 +1,19 @@
+{
+  "settings_version": "0.0.8",
+  "datasets_dir": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\datasets",
+  "weights_dir": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\\uae30\uc5c5\ud504\ub85c\uc81d\ud2b8 cad\\weights",
+  "runs_dir": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\\uae30\uc5c5\ud504\ub85c\uc81d\ud2b8 cad\\runs",
+  "uuid": "d3acd4c738a50c296034d842dc4bacf7c781c51c2e15211d455aceb5325b8636",
+  "sync": false,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": false,
+  "comet": false,
+  "dvc": false,
+  "mlflow": false,
+  "raytune": false,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}

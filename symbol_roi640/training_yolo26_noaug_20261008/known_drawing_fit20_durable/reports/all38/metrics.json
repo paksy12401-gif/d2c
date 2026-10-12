@@ -1,0 +1,20 @@
+{
+  "precision": 0.9472230904589439,
+  "recall": 1.0,
+  "mAP50": 0.9949999999999997,
+  "mAP50_95": 0.9949999999999999,
+  "evaluated_classes": 38,
+  "images": 73,
+  "input_size": [
+    640,
+    640
+  ],
+  "rect": false,
+  "fixed_confidence_counts": {
+    "confidence": 0.25,
+    "match_iou": 0.5,
+    "tp": 73,
+    "fp": 2,
+    "fn": 0
+  }
+}

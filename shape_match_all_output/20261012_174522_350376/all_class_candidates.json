@@ -1,0 +1,521 @@
+{
+  "source_pdf": "C:\\Users\\Win11Pro\\Desktop\\1. DWG 객체 변환 도면 생성 샘플\\DWG 객체 변환 샘플.pdf",
+  "page_number": 1,
+  "model": "SIFT + geometric and edge matching; no YOLO",
+  "template_count": 71,
+  "class_count": 38,
+  "class_summary": [
+    {
+      "class_name": "1",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "10",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "11",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "12",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "13",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "13352244",
+      "status": "review",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "13512366",
+      "status": "review",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "13514590",
+      "status": "review",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "13519739",
+      "status": "review",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "13535680",
+      "status": "strong_candidate",
+      "candidate_count": 2
+    },
+    {
+      "class_name": "13543056",
+      "status": "strong_candidate",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "13551224",
+      "status": "strong_candidate",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "13582917",
+      "status": "review",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "13590001",
+      "status": "strong_candidate",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "13590425",
+      "status": "strong_candidate",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "13591047",
+      "status": "review",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "13592509",
+      "status": "strong_candidate",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "14",
+      "status": "review",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "15",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "17",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "18",
+      "status": "review",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "19",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "19151432",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "20+6",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "21+5",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "22+3",
+      "status": "strong_candidate",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "23",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "24",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "25",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "26",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "29",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "31",
+      "status": "review",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "4",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "7",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "8",
+      "status": "not_detected",
+      "candidate_count": 0
+    },
+    {
+      "class_name": "BLL15914",
+      "status": "strong_candidate",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "BSB04473",
+      "status": "strong_candidate",
+      "candidate_count": 1
+    },
+    {
+      "class_name": "CPU88567",
+      "status": "review",
+      "candidate_count": 1
+    }
+  ],
+  "detections": [
+    {
+      "class_name": "BSB04473",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\BSB04473\\스크린샷 2026-10-07 194351.png",
+      "status": "strong_candidate",
+      "inliers": 262,
+      "feature_matches": 282,
+      "edge_score": 0.9908,
+      "bbox_pdf_pt": [
+        1858.8,
+        348.25,
+        2101.66,
+        893.54
+      ],
+      "id": 1,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\001_BSB04473.png"
+    },
+    {
+      "class_name": "13590001",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\13590001\\스크린샷 2026-10-07 184025.png",
+      "status": "strong_candidate",
+      "inliers": 39,
+      "feature_matches": 42,
+      "edge_score": 0.9656,
+      "bbox_pdf_pt": [
+        3404.22,
+        172.29,
+        3488.19,
+        265.58
+      ],
+      "id": 2,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\002_13590001.png"
+    },
+    {
+      "class_name": "13551224",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\13551224\\스크린샷 2026-10-07 194622.png",
+      "status": "strong_candidate",
+      "inliers": 185,
+      "feature_matches": 224,
+      "edge_score": 0.9483,
+      "bbox_pdf_pt": [
+        1663.18,
+        664.09,
+        1748.11,
+        961.37
+      ],
+      "id": 3,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\003_13551224.png"
+    },
+    {
+      "class_name": "13535680",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\13535680\\13535680.png",
+      "status": "strong_candidate",
+      "inliers": 49,
+      "feature_matches": 154,
+      "edge_score": 0.8684,
+      "bbox_pdf_pt": [
+        1384.91,
+        1302.24,
+        1606.94,
+        1388.7
+      ],
+      "id": 4,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\004_13535680.png"
+    },
+    {
+      "class_name": "22+3",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\22+3\\스크린샷 2026-10-07 193310.png",
+      "status": "strong_candidate",
+      "inliers": 73,
+      "feature_matches": 111,
+      "edge_score": 0.7425,
+      "bbox_pdf_pt": [
+        2180.03,
+        1091.27,
+        2329.76,
+        1177.45
+      ],
+      "id": 5,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\005_22+3.png"
+    },
+    {
+      "class_name": "13543056",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\13543056\\스크린샷 2026-10-07 195331.png",
+      "status": "strong_candidate",
+      "inliers": 34,
+      "feature_matches": 57,
+      "edge_score": 0.5302,
+      "bbox_pdf_pt": [
+        273.26,
+        1543.97,
+        336.5,
+        1647.44
+      ],
+      "id": 6,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\006_13543056.png"
+    },
+    {
+      "class_name": "13590425",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\13590425\\13590425.png",
+      "status": "strong_candidate",
+      "inliers": 23,
+      "feature_matches": 69,
+      "edge_score": 0.4849,
+      "bbox_pdf_pt": [
+        4943.45,
+        1681.6,
+        5043.72,
+        1764.17
+      ],
+      "id": 7,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\007_13590425.png"
+    },
+    {
+      "class_name": "BLL15914",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\BLL15914\\bll15914.png",
+      "status": "strong_candidate",
+      "inliers": 29,
+      "feature_matches": 49,
+      "edge_score": 0.4462,
+      "bbox_pdf_pt": [
+        4240.25,
+        1242.57,
+        4323.87,
+        1286.69
+      ],
+      "id": 8,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\008_BLL15914.png"
+    },
+    {
+      "class_name": "13592509",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\13592509\\스크린샷 2026-10-07 195741.png",
+      "status": "strong_candidate",
+      "inliers": 29,
+      "feature_matches": 60,
+      "edge_score": 0.422,
+      "bbox_pdf_pt": [
+        1243.38,
+        2064.88,
+        1339.56,
+        2115.72
+      ],
+      "id": 9,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\009_13592509.png"
+    },
+    {
+      "class_name": "18",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\18\\18.png",
+      "status": "review",
+      "inliers": 11,
+      "feature_matches": 24,
+      "edge_score": 0.3948,
+      "bbox_pdf_pt": [
+        402.3,
+        1724.32,
+        460.1,
+        1757.41
+      ],
+      "id": 10,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\010_18.png"
+    },
+    {
+      "class_name": "13352244",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\13352244\\스크린샷 2026-10-07 195518.png",
+      "status": "review",
+      "inliers": 31,
+      "feature_matches": 59,
+      "edge_score": 0.394,
+      "bbox_pdf_pt": [
+        365.12,
+        2009.73,
+        430.17,
+        2103.08
+      ],
+      "id": 11,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\011_13352244.png"
+    },
+    {
+      "class_name": "13514590",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\13514590\\13514590.png",
+      "status": "review",
+      "inliers": 14,
+      "feature_matches": 47,
+      "edge_score": 0.3827,
+      "bbox_pdf_pt": [
+        4142.21,
+        1238.04,
+        4210.32,
+        1296.19
+      ],
+      "id": 12,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\012_13514590.png"
+    },
+    {
+      "class_name": "13591047",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\13591047\\스크린샷 2026-10-07 194727.png",
+      "status": "review",
+      "inliers": 32,
+      "feature_matches": 69,
+      "edge_score": 0.3713,
+      "bbox_pdf_pt": [
+        2794.81,
+        973.06,
+        2849.33,
+        1054.26
+      ],
+      "id": 13,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\013_13591047.png"
+    },
+    {
+      "class_name": "13519739",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\13519739\\13519739.png",
+      "status": "review",
+      "inliers": 15,
+      "feature_matches": 45,
+      "edge_score": 0.3476,
+      "bbox_pdf_pt": [
+        2910.33,
+        1302.94,
+        2979.23,
+        1365.01
+      ],
+      "id": 14,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\014_13519739.png"
+    },
+    {
+      "class_name": "13535680",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\13535680\\스크린샷 2026-10-07 194822.png",
+      "status": "review",
+      "inliers": 13,
+      "feature_matches": 70,
+      "edge_score": 0.3233,
+      "bbox_pdf_pt": [
+        1326.57,
+        1305.78,
+        1480.34,
+        1337.92
+      ],
+      "id": 15,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\015_13535680.png"
+    },
+    {
+      "class_name": "13512366",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\13512366\\스크린샷 2026-10-07 194917.png",
+      "status": "review",
+      "inliers": 16,
+      "feature_matches": 50,
+      "edge_score": 0.2938,
+      "bbox_pdf_pt": [
+        3125.62,
+        1256.08,
+        3184.43,
+        1310.09
+      ],
+      "id": 16,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\016_13512366.png"
+    },
+    {
+      "class_name": "CPU88567",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\CPU88567\\스크린샷 2026-10-07 194922.png",
+      "status": "review",
+      "inliers": 15,
+      "feature_matches": 49,
+      "edge_score": 0.289,
+      "bbox_pdf_pt": [
+        3212.15,
+        1269.37,
+        3273.18,
+        1301.34
+      ],
+      "id": 17,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\017_CPU88567.png"
+    },
+    {
+      "class_name": "31",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\31\\스크린샷 2026-10-07 194258.png",
+      "status": "review",
+      "inliers": 15,
+      "feature_matches": 32,
+      "edge_score": 0.1968,
+      "bbox_pdf_pt": [
+        2040.81,
+        1690.68,
+        2072.92,
+        1764.01
+      ],
+      "id": 18,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\018_31.png"
+    },
+    {
+      "class_name": "13582917",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\13582917\\스크린샷 2026-10-07 195830.png",
+      "status": "review",
+      "inliers": 9,
+      "feature_matches": 39,
+      "edge_score": 0.158,
+      "bbox_pdf_pt": [
+        2092.74,
+        1533.89,
+        2371.51,
+        2159.58
+      ],
+      "id": 19,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\019_13582917.png"
+    },
+    {
+      "class_name": "14",
+      "source_image": "C:\\Users\\Win11Pro\\Desktop\\drawing\\dataset_640\\14\\14.png",
+      "status": "review",
+      "inliers": 11,
+      "feature_matches": 35,
+      "edge_score": 0.1514,
+      "bbox_pdf_pt": [
+        1074.09,
+        883.65,
+        2682.14,
+        1352.31
+      ],
+      "id": 20,
+      "crop_file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\shape_match_all_output\\20261012_174522_350376\\crops\\020_14.png"
+    }
+  ]
+}

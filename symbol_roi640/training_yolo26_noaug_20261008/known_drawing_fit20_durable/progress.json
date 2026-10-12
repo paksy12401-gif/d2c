@@ -1,0 +1,10 @@
+{
+  "epoch": 20,
+  "epochs": 20,
+  "elapsed_seconds": 800.9,
+  "losses": {
+    "train/box_loss": 0.10727,
+    "train/cls_loss": 0.06958,
+    "train/l1_loss": 0.00267
+  }
+}

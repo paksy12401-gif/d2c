@@ -1,0 +1,123 @@
+{
+  "model": "YOLO26s Detect",
+  "weights": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\symbol_roi640\\training_yolo26_noaug_20261008\\known_drawing_fit20_durable\\weights\\last.pt",
+  "weights_sha256": "61e4ee5b2bc343803d0f2d378e627a65ea6697fba03bda1b020734c39fba3ef6",
+  "evaluations": {
+    "all38": {
+      "precision": 0.9472230904589439,
+      "recall": 1.0,
+      "mAP50": 0.9949999999999997,
+      "mAP50_95": 0.9949999999999999,
+      "evaluated_classes": 38,
+      "images": 73,
+      "input_size": [
+        640,
+        640
+      ],
+      "rect": false,
+      "fixed_confidence_counts": {
+        "confidence": 0.25,
+        "match_iou": 0.5,
+        "tp": 73,
+        "fp": 2,
+        "fn": 0
+      }
+    },
+    "region4": {
+      "precision": 0.9860559756871139,
+      "recall": 1.0,
+      "mAP50": 0.995,
+      "mAP50_95": 0.9645833333333333,
+      "evaluated_classes": 4,
+      "images": 21,
+      "input_size": [
+        640,
+        640
+      ],
+      "rect": false,
+      "fixed_confidence_counts": {
+        "confidence": 0.25,
+        "match_iou": 0.5,
+        "tp": 36,
+        "fp": 0,
+        "fn": 0
+      }
+    },
+    "all_scene": {
+      "precision": 0.9808760208561006,
+      "recall": 0.9813077473926478,
+      "mAP50": 0.9949999999999997,
+      "mAP50_95": 0.9845529695817806,
+      "evaluated_classes": 38,
+      "images": 179,
+      "input_size": [
+        640,
+        640
+      ],
+      "rect": false,
+      "fixed_confidence_counts": {
+        "confidence": 0.25,
+        "match_iou": 0.5,
+        "tp": 297,
+        "fp": 3,
+        "fn": 0
+      }
+    }
+  },
+  "new_online_augmentation": false,
+  "all38_scope": "Rechecks on training-included images of the specified drawing; not independent validation.",
+  "region4_scope": "Rechecks on training-included images of the specified drawing; not independent validation.",
+  "training_epochs": 20,
+  "known_drawing_fit": true,
+  "pdf_detection": {
+    "raster_size": [
+      25002,
+      4768
+    ],
+    "render_dpi": 144.0,
+    "source_image": "symbol_roi640\\known_drawing_training_20261008\\render\\pdf_full_144dpi.png",
+    "weights": "symbol_roi640\\training_yolo26_noaug_20261008\\known_drawing_fit20_durable\\weights\\last.pt",
+    "window_sizes_px": [
+      320,
+      640,
+      1280,
+      2560
+    ],
+    "overlap_fraction": 0.25,
+    "model_input_px": 640,
+    "processed_tiles": 1870,
+    "raw_candidates": 86,
+    "merged_candidates": 60,
+    "confidence_threshold": 0.25,
+    "global_nms_iou": 0.45,
+    "class_candidate_counts": {
+      "1": 1,
+      "10": 1,
+      "11": 4,
+      "12": 3,
+      "13": 4,
+      "13352244": 1,
+      "13512366": 1,
+      "13514590": 2,
+      "13519739": 7,
+      "13582917": 1,
+      "13591047": 1,
+      "13592509": 1,
+      "14": 4,
+      "15": 1,
+      "18": 1,
+      "19": 1,
+      "20+6": 2,
+      "22+3": 1,
+      "25": 1,
+      "26": 1,
+      "31": 1,
+      "7": 15,
+      "8": 1,
+      "BLL15914": 2,
+      "CPU88567": 1,
+      "17": 1
+    },
+    "scope": "Candidate locations in the known PDF; no complete-page certified ground truth accuracy."
+  }
+}

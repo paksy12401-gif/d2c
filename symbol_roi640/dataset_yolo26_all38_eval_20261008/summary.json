@@ -1,0 +1,25 @@
+{
+  "image_counts": {
+    "train": 680,
+    "quarantine": 1241,
+    "val_region4": 21,
+    "val_all_classes": 73
+  },
+  "total_images": 2015,
+  "training_class_count": 38,
+  "all_class_validation_class_count": 38,
+  "all_class_validation_min_instances_per_class": 1,
+  "all_class_validation_scope": "held-out captures of known drawing parts; physical instance independence is NOT established",
+  "region_validation_scope": "held-out regions of the same drawing, four classes, with the earlier estimated-position limitations",
+  "incomplete_isolated_sources_excluded": [
+    "pdf_extra_17_001",
+    "src_009"
+  ],
+  "heldout_original_augmentations_excluded": 1168,
+  "train_validation_original_family_overlap": 0,
+  "train_validation_identical_image_overlap": 0,
+  "all_images_640": true,
+  "existing_images_labels_preserved": true,
+  "new_augmentation_applied": false,
+  "training_started": false
+}

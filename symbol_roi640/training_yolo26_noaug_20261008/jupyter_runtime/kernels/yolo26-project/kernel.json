@@ -1,0 +1,11 @@
+{
+  "argv": [
+    "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\\uae30\uc5c5\ud504\ub85c\uc81d\ud2b8 cad\\.venv-ml\\Scripts\\python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python (.venv-ml)",
+  "language": "python"
+}

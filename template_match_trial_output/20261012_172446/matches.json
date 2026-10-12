@@ -1,0 +1,17 @@
+{
+  "source_pdf": "C:\\Users\\Win11Pro\\Desktop\\1. DWG 객체 변환 도면 생성 샘플\\DWG 객체 변환 샘플.pdf",
+  "class_name": "13551224",
+  "min_score": 0.25,
+  "matches": [
+    {
+      "score": 0.3251,
+      "scale": 0.94,
+      "bbox_pdf_pt": [
+        1666.5,
+        664.5,
+        1748.5,
+        960.0
+      ]
+    }
+  ]
+}

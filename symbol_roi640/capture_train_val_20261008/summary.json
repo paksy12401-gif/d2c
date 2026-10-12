@@ -1,0 +1,71 @@
+{
+  "source_captures": 110,
+  "source_tiles": 179,
+  "capture_counts": {
+    "train": 69,
+    "quarantine": 24,
+    "val": 17
+  },
+  "image_counts": {
+    "train": 119,
+    "quarantine": 39,
+    "val": 21
+  },
+  "val_fraction_of_used_tiles": 0.15,
+  "used_region_group_counts": {
+    "train": 9,
+    "val": 5
+  },
+  "validation_classes": [
+    "11",
+    "12",
+    "14",
+    "7"
+  ],
+  "training_classes_without_validation": [
+    "1",
+    "10",
+    "13",
+    "13352244",
+    "13512366",
+    "13514590",
+    "13519739",
+    "13535680",
+    "13543056",
+    "13551224",
+    "13582917",
+    "13590001",
+    "13590425",
+    "13591047",
+    "13592509",
+    "15",
+    "18",
+    "19",
+    "19151432",
+    "20+6",
+    "21+5",
+    "22+3",
+    "23",
+    "24",
+    "25",
+    "26",
+    "29",
+    "31",
+    "4",
+    "8",
+    "BLL15914",
+    "BSB04473",
+    "CPU88567",
+    "17"
+  ],
+  "classes_absent_from_used_capture_data": [],
+  "val_classes_without_training": [],
+  "cross_split_projected_instance_overlaps": 0,
+  "cross_split_identical_images": 0,
+  "same_parent_cross_split": 0,
+  "original_images_and_labels_unchanged": true,
+  "all_images_640": true,
+  "augmentation_applied": false,
+  "training_started": false,
+  "benchmark_scope": "single-drawing region holdout"
+}

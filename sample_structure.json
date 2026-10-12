@@ -1,0 +1,15 @@
+{
+  "notice": "직접 만든 합성 예제이며 회사 도면이 아닙니다. links도 시연용으로 지정했습니다.",
+  "width": 2000,
+  "height": 600,
+  "objects": [
+    {"id": "CIRCLE_01", "kind": "circle", "geometry": {"center": [200, 200], "radius": 60}},
+    {"id": "WIRE_03", "kind": "wire", "geometry": {"start": [300, 400], "end": [1800, 400]}}
+  ],
+  "texts": [
+    {"id": "TEXT_01", "text": "Φ12", "bbox": [180, 120, 55, 18], "links": [{"object_id": "CIRCLE_01", "evidence": "leader"}]},
+    {"id": "TEXT_02", "text": "24V", "bbox": [320, 365, 42, 18], "links": [{"object_id": "WIRE_03", "evidence": "adjacent"}]},
+    {"id": "TEXT_03", "text": "0.5SQ", "bbox": [390, 365, 55, 18], "links": [{"object_id": "WIRE_03", "evidence": "adjacent"}]},
+    {"id": "TEXT_04", "text": "150", "bbox": [470, 430, 40, 18], "links": [{"object_id": "WIRE_03", "evidence": "dimension_line"}]}
+  ]
+}

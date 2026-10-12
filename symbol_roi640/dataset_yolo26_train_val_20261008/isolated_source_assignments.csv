@@ -1,0 +1,109 @@
+﻿source_id,class_name,split,original_count,existing_augmented_count,reason
+src_001,1,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_002,10,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_003,10,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_004,10,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_005,11,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_006,11,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_007,12,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_008,12,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_009,12,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_010,13,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_011,13,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_012,13,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_013,13352244,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_014,13512366,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_015,13514590,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_016,13514590,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_017,13519739,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_018,13519739,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_019,13535680,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_020,13535680,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_021,13543056,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_022,13551224,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_023,13551224,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_024,13582917,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_025,13590001,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_026,13590425,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_027,13590425,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_028,13591047,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_029,13592509,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_030,14,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_031,14,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_032,14,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_033,14,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_034,14,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_035,15,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_036,18,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_037,18,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_038,19,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_039,19,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_040,19151432,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_041,20+6,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_042,20+6,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_043,21+5,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_044,21+5,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_045,22+3,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_046,23,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_047,24,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_048,25,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_049,25,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_050,26,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_051,29,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_052,29,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_053,31,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_054,31,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_055,4,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_056,4,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_057,7,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_058,7,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_059,7,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_060,7,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_061,7,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_062,7,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_063,7,quarantine,1,16,physical_instance_unresolved_for_validation_class
+src_064,8,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_065,BLL15914,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_066,BLL15914,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_067,BSB04473,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_068,BSB04473,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+src_069,CPU88567,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_001,1,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_002,10,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_003,11,quarantine,1,16,physical_instance_unresolved_for_validation_class
+cad_004,12,quarantine,1,16,physical_instance_unresolved_for_validation_class
+cad_005,13,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_006,13352244,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_007,13512366,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_008,13514590,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_009,13519739,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_010,13535680,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_011,13543056,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_012,13551224,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_013,13582917,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_014,13590001,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_015,13590425,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_016,13591047,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_017,13592509,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_018,14,quarantine,1,16,physical_instance_unresolved_for_validation_class
+cad_019,15,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_020,17,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_021,18,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_022,19,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_023,19151432,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_024,20+6,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_025,21+5,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_026,22+3,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_027,23,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_028,24,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_029,25,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_030,26,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_031,29,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_032,31,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_033,4,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_034,7,quarantine,1,16,physical_instance_unresolved_for_validation_class
+cad_035,8,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_036,BLL15914,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_037,BSB04473,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+cad_038,CPU88567,train,1,16,target_class_absent_from_heldout_scene_regions; train_only
+pdf_extra_17_001,17,train,1,16,target_class_absent_from_heldout_scene_regions; train_only

@@ -1,0 +1,51 @@
+{
+  "raster_size": [
+    25002,
+    4768
+  ],
+  "render_dpi": 144.0,
+  "source_image": "symbol_roi640\\known_drawing_training_20261008\\render\\pdf_full_144dpi.png",
+  "weights": "symbol_roi640\\training_yolo26_noaug_20261008\\known_drawing_fit20_durable\\weights\\last.pt",
+  "window_sizes_px": [
+    320,
+    640,
+    1280,
+    2560
+  ],
+  "overlap_fraction": 0.25,
+  "model_input_px": 640,
+  "processed_tiles": 1870,
+  "raw_candidates": 86,
+  "merged_candidates": 60,
+  "confidence_threshold": 0.25,
+  "global_nms_iou": 0.45,
+  "class_candidate_counts": {
+    "1": 1,
+    "10": 1,
+    "11": 4,
+    "12": 3,
+    "13": 4,
+    "13352244": 1,
+    "13512366": 1,
+    "13514590": 2,
+    "13519739": 7,
+    "13582917": 1,
+    "13591047": 1,
+    "13592509": 1,
+    "14": 4,
+    "15": 1,
+    "18": 1,
+    "19": 1,
+    "20+6": 2,
+    "22+3": 1,
+    "25": 1,
+    "26": 1,
+    "31": 1,
+    "7": 15,
+    "8": 1,
+    "BLL15914": 2,
+    "CPU88567": 1,
+    "17": 1
+  },
+  "scope": "Candidate locations in the known PDF; no complete-page certified ground truth accuracy."
+}

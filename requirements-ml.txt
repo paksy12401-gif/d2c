@@ -1,0 +1,12 @@
+# Python 3.11 recommended. Install GPU PyTorch appropriate to the local CUDA driver first.
+streamlit==1.64.0
+numpy==2.4.4
+scipy==1.17.1
+ultralytics==8.4.137
+ezdxf==1.4.4
+pypdfium2==5.13.0
+nbformat>=5.10,<6
+nbclient>=0.10,<1
+ipykernel>=6,<8
+# Optional OCR (separate local inference models required): paddleocr>=3.3,<4 + paddlepaddle
+# Optional DWG COM: pywin32

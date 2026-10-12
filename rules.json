@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "patterns": [
+    {
+      "pattern": "[ΦφØø⌀]\\s*(?P<value>[0-9]+(?:\\.[0-9]+)?)\\s*(?:mm)?",
+      "role": "diameter",
+      "unit": "mm",
+      "token_kind": "diameter_mark"
+    },
+    {
+      "pattern": "(?P<value>[0-9]+(?:\\.[0-9]+)?)\\s*V",
+      "role": "voltage",
+      "unit": "V",
+      "token_kind": "voltage_unit"
+    },
+    {
+      "pattern": "(?P<value>[0-9]+(?:\\.[0-9]+)?)\\s*(?:SQ|mm²|mm2)",
+      "role": "wire_size",
+      "unit": "mm2",
+      "token_kind": "area_unit"
+    },
+    {
+      "pattern": "(?P<value>[0-9]+(?:\\.[0-9]+)?)\\s*mm",
+      "role": "length",
+      "unit": "mm",
+      "token_kind": "length_unit"
+    },
+    {
+      "pattern": "(?P<value>C[0-9]+)",
+      "role": "connector_name",
+      "unit": "none",
+      "token_kind": "identifier"
+    },
+    {
+      "pattern": "(?P<value>(?:KM|KT|KA|M|T|QF|FU|X)[0-9]+|MCCB|EOCR|PB[_ -]?(?:ON|OFF))",
+      "role": "device_tag",
+      "unit": "none",
+      "token_kind": "identifier"
+    }
+  ],
+  "bare_number_roles": [
+    "length",
+    "pin_number",
+    "quantity"
+  ],
+  "targets": {
+    "diameter": [
+      "circle",
+      "arc"
+    ],
+    "voltage": [
+      "wire",
+      "connector",
+      "terminal"
+    ],
+    "wire_size": [
+      "wire"
+    ],
+    "length": [
+      "line",
+      "wire",
+      "arc",
+      "spline"
+    ],
+    "connector_name": [
+      "connector"
+    ],
+    "pin_number": [
+      "terminal",
+      "connector"
+    ],
+    "quantity": [
+      "connector",
+      "terminal",
+      "symbol",
+      "splice"
+    ],
+    "device_tag": [
+      "symbol",
+      "terminal",
+      "connector"
+    ]
+  },
+  "evidence_types": [
+    "leader",
+    "dimension_line",
+    "adjacent",
+    "enclosed"
+  ],
+  "default_length_unit": "mm"
+}

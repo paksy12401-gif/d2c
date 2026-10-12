@@ -1,0 +1,11 @@
+__pycache__/
+.yolo_config/
+my_dataset/
+my_dataset_prepared/
+prepared_rois/
+prepared_labels/
+weights/
+runs/
+output/
+tmp_tests/
+*_preview.png

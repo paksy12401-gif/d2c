@@ -1,0 +1,49 @@
+{
+  "reviewed_source_images": 108,
+  "corrected_source_boxes": 20,
+  "updated_labels": 340,
+  "total_labels": 1836,
+  "classes": 38,
+  "images_modified": 0,
+  "corrected_sources": [
+    "src_001",
+    "src_009",
+    "src_010",
+    "src_035",
+    "src_036",
+    "src_037",
+    "src_043",
+    "src_044",
+    "src_045",
+    "src_048",
+    "src_049",
+    "src_053",
+    "src_054",
+    "src_055",
+    "src_056",
+    "src_059",
+    "src_060",
+    "src_062",
+    "src_063",
+    "pdf_extra_17_001"
+  ],
+  "recapture_recommendations": [
+    {
+      "source_id": "src_009",
+      "class_name": "12",
+      "reason": "12번 캡처 하단 구성 형상이 경계에서 끊겨 보임",
+      "image": "images/originals/12/src_009.png"
+    },
+    {
+      "source_id": "pdf_extra_17_001",
+      "class_name": "17",
+      "reason": "17번 캡처 상단 형상이 이미지 밖으로 이어져 보임",
+      "image": "images/originals/17/스크린샷 2026-10-08 091616.png"
+    }
+  ],
+  "boundary_contact_count": 56,
+  "boundary_contact_note": "경계 접촉만으로 잘린 이미지라고 단정하지 않음",
+  "split_assigned": false,
+  "training_performed": false,
+  "CAD_source_reference_paths_fixed": 38
+}

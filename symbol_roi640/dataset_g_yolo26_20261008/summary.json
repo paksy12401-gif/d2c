@@ -1,0 +1,14 @@
+{
+  "classes": 38,
+  "cad_source_images": 38,
+  "cad_originals_640": 38,
+  "cad_augmented_640": 608,
+  "cad_grayscale_images": 304,
+  "cad_total_labels": 646,
+  "original_class_ids_preserved": true,
+  "new_classes": {
+    "37": "17"
+  },
+  "automatic_bbox_review_pending": true,
+  "split_assigned": false
+}

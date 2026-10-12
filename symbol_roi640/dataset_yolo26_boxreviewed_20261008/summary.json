@@ -1,0 +1,26 @@
+{
+  "classes": 38,
+  "cad_source_images": 38,
+  "cad_originals_640": 38,
+  "cad_augmented_640": 608,
+  "cad_grayscale_images": 304,
+  "cad_total_labels": 646,
+  "original_class_ids_preserved": true,
+  "new_classes": {
+    "37": "17"
+  },
+  "automatic_bbox_review_pending": false,
+  "split_assigned": false,
+  "combined_total_labels": 1836,
+  "combined_originals": 108,
+  "combined_augmented": 1728,
+  "added_pdf_originals": 1,
+  "added_pdf_augmented": 16,
+  "bbox_visual_review_completed": true,
+  "bbox_corrected_sources": 20,
+  "bbox_updated_labels": 340,
+  "recapture_recommended_sources": [
+    "src_009",
+    "pdf_extra_17_001"
+  ]
+}
