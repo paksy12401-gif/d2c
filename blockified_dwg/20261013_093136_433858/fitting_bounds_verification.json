@@ -1,0 +1,33 @@
+{
+  "checked_block_definitions": 58,
+  "actual_internal_counts_match_manifest": true,
+  "target_classes": {
+    "14": {
+      "instances": 6,
+      "added_to_blocks": 19,
+      "total_block_source_entities": 1730,
+      "all_prior_wires_excluded": true
+    },
+    "7": {
+      "instances": 13,
+      "added_to_blocks": 17,
+      "total_block_source_entities": 815,
+      "all_prior_wires_excluded": true
+    },
+    "13": {
+      "instances": 3,
+      "added_to_blocks": 65,
+      "total_block_source_entities": 525,
+      "all_prior_wires_excluded": true
+    },
+    "11": {
+      "instances": 3,
+      "added_to_blocks": 10,
+      "total_block_source_entities": 268,
+      "all_prior_wires_excluded": true
+    }
+  },
+  "model_count": 7733,
+  "new_block_references": 59,
+  "through_wires_excluded": 22
+}

@@ -1,0 +1,33 @@
+{
+  "click_checks": [
+    {
+      "file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\verified_dwg\\20261013\\symbols_individually_checked.dwg",
+      "model_count": 9075,
+      "groups": 0,
+      "selected_count": 1,
+      "selected": [
+        {
+          "handle": "67B7",
+          "type": "AcDbBlockReference",
+          "block_name": "SYM_13590001_002"
+        }
+      ]
+    },
+    {
+      "file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\verified_dwg\\20261013\\symbols_individually_checked.dwg",
+      "selected_count": 0,
+      "selected": []
+    },
+    {
+      "file": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\verified_dwg\\20261013\\symbols_individually_checked.dwg",
+      "selected_count": 1,
+      "selected": [
+        {
+          "handle": "7C1C",
+          "type": "AcDbBlockReference",
+          "block_name": "SYM_7_028"
+        }
+      ]
+    }
+  ]
+}

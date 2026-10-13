@@ -1,0 +1,9 @@
+(setq ss (ssget "_X" '((0 . "MTEXT") (8 . "BOM_OCR_TEXT"))))
+(setq fp (open (strcat (getvar "DWGPREFIX") "bom_saved_text.txt") "w"))
+(setq i 0)
+(while (and ss (< i (sslength ss))) (setq ed (entget (ssname ss i))) (write-line (strcat (cdr (assoc 5 ed)) "|" (cdr (assoc 1 ed))) fp) (setq i (1+ i)))
+(close fp)
+(princ (strcat "\nSAVED_BOM_MTEXT=" (itoa i)))
+(princ)
+_.QUIT
+_N

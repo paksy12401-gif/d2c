@@ -1,0 +1,175 @@
+{
+  "source": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\verified_dwg\\20261013\\symbols_59_with_bom_ocr_v3.dwg",
+  "converted": [
+    {
+      "crop": 1,
+      "line": 2,
+      "bom_row": 24,
+      "text": "CONNECTOR NO : 13590001",
+      "outline_count": 28,
+      "pdf_bbox": [
+        3446.1999511920003,
+        293.5097656542498,
+        3617.69995116,
+        302.71972658225013
+      ]
+    },
+    {
+      "crop": 2,
+      "line": 2,
+      "bom_row": 23,
+      "text": "CONNECTOR NO : 19151432",
+      "outline_count": 28,
+      "pdf_bbox": [
+        2338.489990224,
+        798.5698242462499,
+        2505.0300292800002,
+        807.77990721425
+      ]
+    },
+    {
+      "crop": 3,
+      "line": 1,
+      "bom_row": 16,
+      "text": "그로멧 NO : BSB04473 (부자재 NO 16번)",
+      "outline_count": 46,
+      "pdf_bbox": [
+        1849.460082984,
+        916.0798340142501,
+        2081.899902312,
+        926.7099609582499
+      ]
+    },
+    {
+      "crop": 5,
+      "line": 2,
+      "bom_row": 22,
+      "text": "CONNECTOR NO : 13551224",
+      "outline_count": 28,
+      "pdf_bbox": [
+        1606.229980488,
+        984.5498046942498,
+        1776.300048864,
+        993.7598876622499
+      ]
+    },
+    {
+      "crop": 6,
+      "line": 2,
+      "bom_row": 26,
+      "text": "CONNECTOR NO : 13591047",
+      "outline_count": 28,
+      "pdf_bbox": [
+        2679.5400390719997,
+        1078.15991212625,
+        2850.3300781440003,
+        1087.36987305425
+      ]
+    },
+    {
+      "crop": 8,
+      "line": 2,
+      "bom_row": 20,
+      "text": "CONNECTOR NO : 13514590",
+      "outline_count": 27,
+      "pdf_bbox": [
+        4093.709960952,
+        1323.52978514225,
+        4264.500000024,
+        1332.73986818225
+      ]
+    },
+    {
+      "crop": 8,
+      "line": 3,
+      "bom_row": 6,
+      "text": "REAR COVER NO : BLL15914",
+      "outline_count": 28,
+      "pdf_bbox": [
+        4093.709960952,
+        1334.15991208625,
+        4261.660156224,
+        1343.36987301425
+      ]
+    },
+    {
+      "crop": 9,
+      "line": 2,
+      "bom_row": 25,
+      "text": "CONNECTOR NO : 13519739",
+      "outline_count": 28,
+      "pdf_bbox": [
+        2742.3300781440003,
+        1381.77990719825,
+        2911.6999512,
+        1390.98986819825
+      ]
+    },
+    {
+      "crop": 10,
+      "line": 2,
+      "bom_row": 29,
+      "text": "CONNECTOR NO : 13535680",
+      "outline_count": 28,
+      "pdf_bbox": [
+        1392.890014656,
+        1404.70996096625,
+        1566.5100097680001,
+        1413.91992189425
+      ]
+    },
+    {
+      "crop": 14,
+      "line": 2,
+      "bom_row": 15,
+      "text": "CONNECTOR NO : 13592509",
+      "outline_count": 27,
+      "pdf_bbox": [
+        1173.1500244079998,
+        2137.3598633022502,
+        1346.76989748,
+        2146.56982423025
+      ]
+    },
+    {
+      "crop": 15,
+      "line": 2,
+      "bom_row": 19,
+      "text": "CONNECTOR NO : 13532124",
+      "outline_count": 27,
+      "pdf_bbox": [
+        285.22000123199996,
+        2138.07983399825,
+        455.290008552,
+        2147.29980465425
+      ]
+    },
+    {
+      "crop": 15,
+      "line": 3,
+      "bom_row": 28,
+      "text": "FSG CLIP NO (28번) : 13352244",
+      "outline_count": 36,
+      "pdf_bbox": [
+        285.22000123199996,
+        2148.70996094225,
+        492.149993904,
+        2159.33984373425
+      ]
+    },
+    {
+      "crop": 16,
+      "line": 2,
+      "bom_row": 8,
+      "text": "CONNECTOR NO : 13582917",
+      "outline_count": 29,
+      "pdf_bbox": [
+        2249.090087904,
+        2138.50000000625,
+        2418.45996096,
+        2147.70996093425
+      ]
+    }
+  ],
+  "policy": "BOM-backed lines only; unverified caption lines retained as outlines"
+}

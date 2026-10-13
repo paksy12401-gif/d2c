@@ -1,0 +1,8 @@
+(setq fp (open (strcat (getvar "DWGPREFIX") "layer_verify.txt") "w"))
+(foreach layer '("PDF_Geomertry" "PDF_Text" "PDF_Solid Fills" "0")
+  (setq ld (tblsearch "LAYER" layer))
+  (if ld (write-line (strcat layer "=" (itoa (cdr (assoc 70 ld)))) fp)))
+(close fp)
+(princ)
+_.QUIT
+_N

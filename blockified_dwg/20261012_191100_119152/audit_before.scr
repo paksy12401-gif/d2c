@@ -1,0 +1,45 @@
+(setq fp (open (strcat (getvar "DWGPREFIX") "entity_audit.csv") "w"))
+(write-line "handle,type,layer,color,minx,miny,maxx,maxy,cx,cy,r,ax,ay,ratio,start,end" fp)
+(setq ss (ssget "_X" '((410 . "Model"))))
+(setq i 0)
+(while (and ss (< i (sslength ss)))
+  (setq e (ssname ss i))
+  (if e
+    (progn
+      (setq ed (entget e))
+      (setq ty (cdr (assoc 0 ed)))
+      (setq xmin nil ymin nil xmax nil ymax nil)
+      (foreach pair ed
+        (if (= (car pair) 10)
+          (progn
+            (setq pt (cdr pair))
+            (if (and (listp pt) (numberp (car pt)) (numberp (cadr pt)))
+              (progn
+                (setq x (car pt) y (cadr pt))
+                (setq xmin (if xmin (min xmin x) x))
+                (setq xmax (if xmax (max xmax x) x))
+                (setq ymin (if ymin (min ymin y) y))
+                (setq ymax (if ymax (max ymax y) y)))))))
+      (if xmin
+        (write-line
+          (strcat
+            (cdr (assoc 5 ed)) "," ty "," (cdr (assoc 8 ed)) ","
+            (itoa (if (assoc 62 ed) (cdr (assoc 62 ed)) 256)) ","
+            (rtos xmin 2 9) "," (rtos ymin 2 9) "," (rtos xmax 2 9) "," (rtos ymax 2 9) ","
+            (if (assoc 10 ed) (rtos (car (cdr (assoc 10 ed))) 2 9) "") ","
+            (if (assoc 10 ed) (rtos (cadr (cdr (assoc 10 ed))) 2 9) "") ","
+            (if (assoc 40 ed) (rtos (cdr (assoc 40 ed)) 2 9) "") ","
+            (if (assoc 11 ed) (rtos (car (cdr (assoc 11 ed))) 2 9) "") ","
+            (if (assoc 11 ed) (rtos (cadr (cdr (assoc 11 ed))) 2 9) "") ","
+            (if (and (= ty "ELLIPSE") (assoc 40 ed)) (rtos (cdr (assoc 40 ed)) 2 9) "") ","
+            (if (assoc 50 ed) (rtos (cdr (assoc 50 ed)) 2 9)
+                (if (and (= ty "ELLIPSE") (assoc 41 ed)) (rtos (cdr (assoc 41 ed)) 2 9) "")) ","
+            (if (assoc 51 ed) (rtos (cdr (assoc 51 ed)) 2 9)
+                (if (and (= ty "ELLIPSE") (assoc 42 ed)) (rtos (cdr (assoc 42 ed)) 2 9) "")))
+          fp))))
+  (setq i (1+ i)))
+(close fp)
+(princ (strcat "\nAUDIT_ROWS=" (itoa i)))
+(princ)
+_.QUIT
+_N

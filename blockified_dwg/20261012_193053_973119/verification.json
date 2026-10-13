@@ -1,0 +1,10 @@
+{
+  "input_model_entities": 19013,
+  "converted_source_entities": 9989,
+  "new_block_references": 51,
+  "unique_block_definitions": 50,
+  "reused_block_references": 1,
+  "through_wire_entities_left_unblocked": 22,
+  "output_model_entities": 9075,
+  "skipped_review_boxes": 8
+}

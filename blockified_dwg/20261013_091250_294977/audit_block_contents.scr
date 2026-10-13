@@ -1,0 +1,15 @@
+(setvar "CMDECHO" 0)
+(setq fp (open (strcat (getvar "DWGPREFIX") "block_contents.csv") "w"))
+(write-line "block_name,handle,type,cx,cy,r,start,end,base_x,base_y" fp)
+(foreach name '("SYM_10_027" "SYM_11_037" "SYM_11_047" "SYM_12_025" "SYM_12_042" "SYM_13352244_010" "SYM_13512366_056" "SYM_13514590_011" "SYM_13519739_055" "SYM_13535680_004" "SYM_13543056_007" "SYM_13551224_003" "SYM_13582917_057" "SYM_13590001_002" "SYM_13590425_006" "SYM_13591047_053" "SYM_13592509_009" "SYM_13_022" "SYM_13_034" "SYM_13_049" "SYM_14_031" "SYM_14_041" "SYM_14_043" "SYM_14_048" "SYM_14_050" "SYM_14_051" "SYM_15_035" "SYM_17_017" "SYM_18_052" "SYM_19151432_054" "SYM_19_013" "SYM_20_6_020" "SYM_21_5_026" "SYM_22_3_005" "SYM_23_019" "SYM_24_016" "SYM_25_021" "SYM_26_018" "SYM_29_024" "SYM_31_059" "SYM_4_030" "SYM_7_012" "SYM_7_014" "SYM_7_023" "SYM_7_028" "SYM_7_029" "SYM_7_032" "SYM_7_033" "SYM_7_036" "SYM_7_038" "SYM_7_039" "SYM_7_040" "SYM_7_044" "SYM_7_046" "SYM_8_015" "SYM_BLL15914_008" "SYM_BSB04473_001" "SYM_CPU88567_058")
+  (setq bd (tblsearch "BLOCK" name) bp (cdr (assoc 10 bd)) e (cdr (assoc -2 bd)))
+  (while (and e (/= (cdr (assoc 0 (entget e))) "ENDBLK"))
+    (setq ed (entget e) ty (cdr (assoc 0 ed)) p (cdr (assoc 10 ed)))
+    (write-line (strcat name "," (cdr (assoc 5 ed)) "," ty ","
+      (if (= ty "ARC") (strcat (rtos (car p) 2 9) "," (rtos (cadr p) 2 9) "," (rtos (cdr (assoc 40 ed)) 2 9) "," (rtos (cdr (assoc 50 ed)) 2 9) "," (rtos (cdr (assoc 51 ed)) 2 9)) ",,,,")
+      "," (rtos (car bp) 2 9) "," (rtos (cadr bp) 2 9)) fp)
+    (setq e (entnext e))))
+(close fp)
+(princ)
+_.QUIT
+_N

@@ -1,0 +1,7 @@
+(setq fp (open (strcat (getvar "DWGPREFIX") "inspect_pipe_7b8.txt") "w"))
+(setq ed (entget (handent "7B8")))
+(foreach pair ed (write-line (vl-princ-to-string pair) fp))
+(close fp)
+(princ)
+_.QUIT
+_N

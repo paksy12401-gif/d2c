@@ -1,0 +1,97 @@
+{
+  "block_definitions_checked": 58,
+  "internal_entity_type_counts_match": true,
+  "recovered_arcs_checked": [
+    {
+      "original_handle": "418D",
+      "class_name": "BSB04473",
+      "block_name": "SYM_BSB04473_001",
+      "block_entity_handle": "664E",
+      "geometry_matches": true
+    },
+    {
+      "original_handle": "416E",
+      "class_name": "BSB04473",
+      "block_name": "SYM_BSB04473_001",
+      "block_entity_handle": "6631",
+      "geometry_matches": true
+    },
+    {
+      "original_handle": "4030",
+      "class_name": "BSB04473",
+      "block_name": "SYM_BSB04473_001",
+      "block_entity_handle": "652A",
+      "geometry_matches": true
+    },
+    {
+      "original_handle": "4018",
+      "class_name": "BSB04473",
+      "block_name": "SYM_BSB04473_001",
+      "block_entity_handle": "6513",
+      "geometry_matches": true
+    },
+    {
+      "original_handle": "4017",
+      "class_name": "BSB04473",
+      "block_name": "SYM_BSB04473_001",
+      "block_entity_handle": "6512",
+      "geometry_matches": true
+    },
+    {
+      "original_handle": "4016",
+      "class_name": "BSB04473",
+      "block_name": "SYM_BSB04473_001",
+      "block_entity_handle": "6511",
+      "geometry_matches": true
+    },
+    {
+      "original_handle": "1754",
+      "class_name": "4",
+      "block_name": "SYM_4_030",
+      "block_entity_handle": "7CCB",
+      "geometry_matches": true
+    }
+  ],
+  "review_blocks": [
+    {
+      "class_name": "18",
+      "block_name": "SYM_18_052",
+      "entity_count": 66
+    },
+    {
+      "class_name": "13591047",
+      "block_name": "SYM_13591047_053",
+      "entity_count": 83
+    },
+    {
+      "class_name": "19151432",
+      "block_name": "SYM_19151432_054",
+      "entity_count": 75
+    },
+    {
+      "class_name": "13519739",
+      "block_name": "SYM_13519739_055",
+      "entity_count": 93
+    },
+    {
+      "class_name": "13512366",
+      "block_name": "SYM_13512366_056",
+      "entity_count": 228
+    },
+    {
+      "class_name": "13582917",
+      "block_name": "SYM_13582917_057",
+      "entity_count": 282
+    },
+    {
+      "class_name": "CPU88567",
+      "block_name": "SYM_CPU88567_058",
+      "entity_count": 322
+    },
+    {
+      "class_name": "31",
+      "block_name": "SYM_31_059",
+      "entity_count": 83
+    }
+  ]
+}

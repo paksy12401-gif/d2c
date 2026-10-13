@@ -8,6 +8,8 @@ output/
 uploads/
 *.dwg
 *.dxf
+*.dwl
+*.dwl2
 data/
 models/
 runs/

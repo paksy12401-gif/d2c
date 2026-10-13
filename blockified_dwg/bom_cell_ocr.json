@@ -1,0 +1,1967 @@
+{
+  "xs": [
+    115,
+    267,
+    887,
+    2081,
+    2352,
+    4254
+  ],
+  "ys": [
+    179,
+    237,
+    294,
+    352,
+    410,
+    467,
+    525,
+    583,
+    640,
+    698,
+    755,
+    813,
+    871,
+    928,
+    986,
+    1044,
+    1101,
+    1159,
+    1217,
+    1274,
+    1332,
+    1389,
+    1447,
+    1505,
+    1562,
+    1620,
+    1678,
+    1735,
+    1793,
+    1851,
+    1908,
+    1966,
+    2023
+  ],
+  "cells": [
+    {
+      "row": 31,
+      "column": 0,
+      "bbox_px": [
+        120,
+        184,
+        262,
+        232
+      ],
+      "text": "31",
+      "confidence": 0.9949785470962524
+    },
+    {
+      "row": 31,
+      "column": 1,
+      "bbox_px": [
+        272,
+        184,
+        882,
+        232
+      ],
+      "text": "84731591.GE0_F1N001.001999",
+      "confidence": 0.9513870477676392
+    },
+    {
+      "row": 31,
+      "column": 2,
+      "bbox_px": [
+        892,
+        184,
+        2076,
+        232
+      ],
+      "text": "APTIV-35355242 GROMMET– S/D WRG ",
+      "confidence": 0.91368567943573
+    },
+    {
+      "row": 31,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        184,
+        2347,
+        232
+      ],
+      "text": "84731591",
+      "confidence": 0.9970301985740662
+    },
+    {
+      "row": 31,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        184,
+        4249,
+        232
+      ],
+      "text": "ANZ22296",
+      "confidence": 0.9256092309951782
+    },
+    {
+      "row": 30,
+      "column": 0,
+      "bbox_px": [
+        120,
+        242,
+        262,
+        289
+      ],
+      "text": "30",
+      "confidence": 0.9832934141159058
+    },
+    {
+      "row": 30,
+      "column": 1,
+      "bbox_px": [
+        272,
+        242,
+        882,
+        289
+      ],
+      "text": "BKC80763.GEO_F IN001.001001",
+      "confidence": 0.9105911254882812
+    },
+    {
+      "row": 30,
+      "column": 2,
+      "bbox_px": [
+        892,
+        242,
+        2076,
+        289
+      ],
+      "text": "REF BOM MATH-OO1",
+      "confidence": 0.8806032538414001
+    },
+    {
+      "row": 30,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        242,
+        2347,
+        289
+      ],
+      "text": "BKC80763",
+      "confidence": 0.9702816009521484
+    },
+    {
+      "row": 30,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        242,
+        4249,
+        289
+      ],
+      "text": "BKC8O763",
+      "confidence": 0.9593281745910645
+    },
+    {
+      "row": 29,
+      "column": 0,
+      "bbox_px": [
+        120,
+        299,
+        262,
+        347
+      ],
+      "text": "29",
+      "confidence": 0.9912939071655273
+    },
+    {
+      "row": 29,
+      "column": 1,
+      "bbox_px": [
+        272,
+        299,
+        882,
+        347
+      ],
+      "text": "13535680.GE0_FIN001.001999",
+      "confidence": 0.9493088126182556
+    },
+    {
+      "row": 29,
+      "column": 2,
+      "bbox_px": [
+        892,
+        299,
+        2076,
+        347
+      ],
+      "text": "APTIV – 35283943 – CONNECTOR ASM – UNSEALED ",
+      "confidence": 0.9276069402694702
+    },
+    {
+      "row": 29,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        299,
+        2347,
+        347
+      ],
+      "text": "13535680",
+      "confidence": 0.9949575662612915
+    },
+    {
+      "row": 29,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        299,
+        4249,
+        347
+      ],
+      "text": "APTIV – 35283943 – Connector Asm – Unsealed ",
+      "confidence": 0.8995883464813232
+    },
+    {
+      "row": 28,
+      "column": 0,
+      "bbox_px": [
+        120,
+        357,
+        262,
+        405
+      ],
+      "text": "28",
+      "confidence": 0.9891505837440491
+    },
+    {
+      "row": 28,
+      "column": 1,
+      "bbox_px": [
+        272,
+        357,
+        882,
+        405
+      ],
+      "text": "13352244.GE0_F1N001.002999",
+      "confidence": 0.947708785533905
+    },
+    {
+      "row": 28,
+      "column": 2,
+      "bbox_px": [
+        892,
+        357,
+        2076,
+        405
+      ],
+      "text": "CLIP ASM-BODY WRG HARN",
+      "confidence": 0.8919095993041992
+    },
+    {
+      "row": 28,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        357,
+        2347,
+        405
+      ],
+      "text": "13352244",
+      "confidence": 0.9978774189949036
+    },
+    {
+      "row": 28,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        357,
+        4249,
+        405
+      ],
+      "text": "+ZUH–451+SO_A3352244|KL IPP-KAR KBLSI|80.2:01II| ",
+      "confidence": 0.8794742226600647
+    },
+    {
+      "row": 27,
+      "column": 0,
+      "bbox_px": [
+        120,
+        415,
+        262,
+        462
+      ],
+      "text": "—27",
+      "confidence": 0.8257889151573181
+    },
+    {
+      "row": 27,
+      "column": 1,
+      "bbox_px": [
+        272,
+        415,
+        882,
+        462
+      ],
+      "text": "84731591.GE0_F1N001.001999 ",
+      "confidence": 0.9696400761604309
+    },
+    {
+      "row": 27,
+      "column": 2,
+      "bbox_px": [
+        892,
+        415,
+        2076,
+        462
+      ],
+      "text": "APTIV-35355242 GROMMET- S/D WRG ",
+      "confidence": 0.9020391702651978
+    },
+    {
+      "row": 27,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        415,
+        2347,
+        462
+      ],
+      "text": "84731591",
+      "confidence": 0.9983404874801636
+    },
+    {
+      "row": 27,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        415,
+        4249,
+        462
+      ],
+      "text": "ANZ22296",
+      "confidence": 0.9558315873146057
+    },
+    {
+      "row": 26,
+      "column": 0,
+      "bbox_px": [
+        120,
+        472,
+        262,
+        520
+      ],
+      "text": "26",
+      "confidence": 0.9824531078338623
+    },
+    {
+      "row": 26,
+      "column": 1,
+      "bbox_px": [
+        272,
+        472,
+        882,
+        520
+      ],
+      "text": "13591047.GE0_ENV001.003999",
+      "confidence": 0.9594603180885315
+    },
+    {
+      "row": 26,
+      "column": 2,
+      "bbox_px": [
+        892,
+        472,
+        2076,
+        520
+      ],
+      "text": "CONN",
+      "confidence": 0.763230562210083
+    },
+    {
+      "row": 26,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        472,
+        2347,
+        520
+      ],
+      "text": "13591047",
+      "confidence": 0.9972772598266602
+    },
+    {
+      "row": 26,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        472,
+        4249,
+        520
+      ],
+      "text": "ASM CONN 8 F CCS1.5",
+      "confidence": 0.8906822204589844
+    },
+    {
+      "row": 25,
+      "column": 0,
+      "bbox_px": [
+        120,
+        530,
+        262,
+        578
+      ],
+      "text": "25",
+      "confidence": 0.9969234466552734
+    },
+    {
+      "row": 25,
+      "column": 1,
+      "bbox_px": [
+        272,
+        530,
+        882,
+        578
+      ],
+      "text": "13519739.GE0_F1N001.001999",
+      "confidence": 0.9530594348907471
+    },
+    {
+      "row": 25,
+      "column": 2,
+      "bbox_px": [
+        892,
+        530,
+        2076,
+        578
+      ],
+      "text": "DELPHI – 35O16344 – CONNECTOR ASM – UNSEALED ",
+      "confidence": 0.9057268500328064
+    },
+    {
+      "row": 25,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        530,
+        2347,
+        578
+      ],
+      "text": "13519739",
+      "confidence": 0.9986079931259155
+    },
+    {
+      "row": 25,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        530,
+        4249,
+        578
+      ],
+      "text": "ASM CONN 16 F O.64 CPA OCS",
+      "confidence": 0.8650302886962891
+    },
+    {
+      "row": 24,
+      "column": 0,
+      "bbox_px": [
+        120,
+        588,
+        262,
+        635
+      ],
+      "text": "24",
+      "confidence": 0.7557213306427002
+    },
+    {
+      "row": 24,
+      "column": 1,
+      "bbox_px": [
+        272,
+        588,
+        882,
+        635
+      ],
+      "text": "13590001.GE0_F 1N001.003999",
+      "confidence": 0.9453375339508057
+    },
+    {
+      "row": 24,
+      "column": 2,
+      "bbox_px": [
+        892,
+        588,
+        2076,
+        635
+      ],
+      "text": "TE P/N: 1–1732115-1 – 2+5 POS SEALED CONN ASSY ",
+      "confidence": 0.9214932322502136
+    },
+    {
+      "row": 24,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        588,
+        2347,
+        635
+      ],
+      "text": "13590001",
+      "confidence": 0.9982976913452148
+    },
+    {
+      "row": 24,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        588,
+        4249,
+        635
+      ],
+      "text": "+5 POS SEALED CONN ASSY",
+      "confidence": 0.8643738031387329
+    },
+    {
+      "row": 23,
+      "column": 0,
+      "bbox_px": [
+        120,
+        645,
+        262,
+        693
+      ],
+      "text": "23",
+      "confidence": 0.9972145557403564
+    },
+    {
+      "row": 23,
+      "column": 1,
+      "bbox_px": [
+        272,
+        645,
+        882,
+        693
+      ],
+      "text": "19151432.GE0_F1N001.002999",
+      "confidence": 0.9413914084434509
+    },
+    {
+      "row": 23,
+      "column": 2,
+      "bbox_px": [
+        892,
+        645,
+        2076,
+        693
+      ],
+      "text": "DELPHI–1361O095-CONNECTOR ASM-WRG HARN ",
+      "confidence": 0.9110713005065918
+    },
+    {
+      "row": 23,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        645,
+        2347,
+        693
+      ],
+      "text": "19151432",
+      "confidence": 0.9982322454452515
+    },
+    {
+      "row": 23,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        645,
+        4249,
+        693
+      ],
+      "text": "ASM CONN 2 F KAIZEN O.64 GRN SLD",
+      "confidence": 0.8738446235656738
+    },
+    {
+      "row": 22,
+      "column": 0,
+      "bbox_px": [
+        120,
+        703,
+        262,
+        750
+      ],
+      "text": "22",
+      "confidence": 0.9761800765991211
+    },
+    {
+      "row": 22,
+      "column": 1,
+      "bbox_px": [
+        272,
+        703,
+        882,
+        750
+      ],
+      "text": "13551224.GE0_F 1N001.001999",
+      "confidence": 0.9409549832344055
+    },
+    {
+      "row": 22,
+      "column": 2,
+      "bbox_px": [
+        892,
+        703,
+        2076,
+        750
+      ],
+      "text": "SUMITOMO 6099–O288 CONNECTOR ASM-UNSEALED ",
+      "confidence": 0.9195269346237183
+    },
+    {
+      "row": 22,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        703,
+        2347,
+        750
+      ],
+      "text": "13551224",
+      "confidence": 0.9982496500015259
+    },
+    {
+      "row": 22,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        703,
+        4249,
+        750
+      ],
+      "text": "BOQ32676",
+      "confidence": 0.9036058783531189
+    },
+    {
+      "row": 21,
+      "column": 0,
+      "bbox_px": [
+        120,
+        760,
+        262,
+        808
+      ],
+      "text": "21",
+      "confidence": 0.988764762878418
+    },
+    {
+      "row": 21,
+      "column": 1,
+      "bbox_px": [
+        272,
+        760,
+        882,
+        808
+      ],
+      "text": "13512366.GE0_F1N001.001999",
+      "confidence": 0.9534515738487244
+    },
+    {
+      "row": 21,
+      "column": 2,
+      "bbox_px": [
+        892,
+        760,
+        2076,
+        808
+      ],
+      "text": "TYCO-1–12296694–2-CONNECTOR ASM ",
+      "confidence": 0.8849024176597595
+    },
+    {
+      "row": 21,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        760,
+        2347,
+        808
+      ],
+      "text": "13512366",
+      "confidence": 0.9963101744651794
+    },
+    {
+      "row": 21,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        760,
+        4249,
+        808
+      ],
+      "text": "—SEALED",
+      "confidence": 0.9066821336746216
+    },
+    {
+      "row": 20,
+      "column": 0,
+      "bbox_px": [
+        120,
+        818,
+        262,
+        866
+      ],
+      "text": "20",
+      "confidence": 0.8261017799377441
+    },
+    {
+      "row": 20,
+      "column": 1,
+      "bbox_px": [
+        272,
+        818,
+        882,
+        866
+      ],
+      "text": "13514590.GE0_F1N001.001999",
+      "confidence": 0.9494439363479614
+    },
+    {
+      "row": 20,
+      "column": 2,
+      "bbox_px": [
+        892,
+        818,
+        2076,
+        866
+      ],
+      "text": "TYCO-1-2296695–1 CONNECTOR ASM–INL INE ",
+      "confidence": 0.9035151600837708
+    },
+    {
+      "row": 20,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        818,
+        2347,
+        866
+      ],
+      "text": "13514590",
+      "confidence": 0.9970481395721436
+    },
+    {
+      "row": 20,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        818,
+        4249,
+        866
+      ],
+      "text": "CONNECTORASM—INLINE",
+      "confidence": 0.9131061434745789
+    },
+    {
+      "row": 19,
+      "column": 0,
+      "bbox_px": [
+        120,
+        876,
+        262,
+        923
+      ],
+      "text": "19",
+      "confidence": 0.9954880475997925
+    },
+    {
+      "row": 19,
+      "column": 1,
+      "bbox_px": [
+        272,
+        876,
+        882,
+        923
+      ],
+      "text": "13532124.GE0_F 1N001.001999",
+      "confidence": 0.9412369728088379
+    },
+    {
+      "row": 19,
+      "column": 2,
+      "bbox_px": [
+        892,
+        876,
+        2076,
+        923
+      ],
+      "text": "YAZAK1-7297-2973-30-CONNECTOR ASM–INL INE ",
+      "confidence": 0.9043647050857544
+    },
+    {
+      "row": 19,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        876,
+        2347,
+        923
+      ],
+      "text": "13532124",
+      "confidence": 0.998160183429718
+    },
+    {
+      "row": 19,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        876,
+        4249,
+        923
+      ],
+      "text": "BDR1 3636",
+      "confidence": 0.9365923404693604
+    },
+    {
+      "row": 18,
+      "column": 0,
+      "bbox_px": [
+        120,
+        933,
+        262,
+        981
+      ],
+      "text": "18",
+      "confidence": 0.9989849328994751
+    },
+    {
+      "row": 18,
+      "column": 1,
+      "bbox_px": [
+        272,
+        933,
+        882,
+        981
+      ],
+      "text": "13543056.GE0_F1N001.001999",
+      "confidence": 0.9550000429153442
+    },
+    {
+      "row": 18,
+      "column": 2,
+      "bbox_px": [
+        892,
+        933,
+        2076,
+        981
+      ],
+      "text": "YAZAK1-7297–6353-30-CONNECTOR ASM–INLINE ",
+      "confidence": 0.91837078332901
+    },
+    {
+      "row": 18,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        933,
+        2347,
+        981
+      ],
+      "text": "13543056",
+      "confidence": 0.9982263445854187
+    },
+    {
+      "row": 18,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        933,
+        4249,
+        981
+      ],
+      "text": "BOE53O42",
+      "confidence": 0.9535309076309204
+    },
+    {
+      "row": 17,
+      "column": 0,
+      "bbox_px": [
+        120,
+        991,
+        262,
+        1039
+      ],
+      "text": "17",
+      "confidence": 0.9933544397354126
+    },
+    {
+      "row": 17,
+      "column": 1,
+      "bbox_px": [
+        272,
+        991,
+        882,
+        1039
+      ],
+      "text": "ADN03474.GEO_FIN001. O01999",
+      "confidence": 0.8919116854667664
+    },
+    {
+      "row": 17,
+      "column": 2,
+      "bbox_px": [
+        892,
+        991,
+        2076,
+        1039
+      ],
+      "text": "YAZAK1 7075–1839-30 GROMMET WIPER ",
+      "confidence": 0.9068248867988586
+    },
+    {
+      "row": 17,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        991,
+        2347,
+        1039
+      ],
+      "text": "ADNO3474",
+      "confidence": 0.9316068887710571
+    },
+    {
+      "row": 17,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        991,
+        4249,
+        1039
+      ],
+      "text": "WIPER GROMMET 7O75–1839–30",
+      "confidence": 0.8657934665679932
+    },
+    {
+      "row": 16,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1049,
+        262,
+        1096
+      ],
+      "text": "16",
+      "confidence": 0.9938040971755981
+    },
+    {
+      "row": 16,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1049,
+        882,
+        1096
+      ],
+      "text": "BSB04473.GEO_F 1N001. 001999",
+      "confidence": 0.904136061668396
+    },
+    {
+      "row": 16,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1049,
+        2076,
+        1096
+      ],
+      "text": "INSTALLED-XXXXXXX× B234 GROMMET – FRONT DOOR LHS ",
+      "confidence": 0.8939672112464905
+    },
+    {
+      "row": 16,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1049,
+        2347,
+        1096
+      ],
+      "text": "BSB04473",
+      "confidence": 0.9553767442703247
+    },
+    {
+      "row": 16,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1049,
+        4249,
+        1096
+      ],
+      "text": "BSBO4473",
+      "confidence": 0.9574872255325317
+    },
+    {
+      "row": 15,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1106,
+        262,
+        1154
+      ],
+      "text": "15",
+      "confidence": 0.9990392923355103
+    },
+    {
+      "row": 15,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1106,
+        882,
+        1154
+      ],
+      "text": "13592509.GE0_F1N001.003999",
+      "confidence": 0.9530422687530518
+    },
+    {
+      "row": 15,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1106,
+        2076,
+        1154
+      ],
+      "text": "YAZAK1-7283-8397–40-CONNECTOR ASM–INLINE ",
+      "confidence": 0.9012512564659119
+    },
+    {
+      "row": 15,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1106,
+        2347,
+        1154
+      ],
+      "text": "13592509",
+      "confidence": 0.9990000128746033
+    },
+    {
+      "row": 15,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1106,
+        4249,
+        1154
+      ],
+      "text": "1 3592509",
+      "confidence": 0.8774683475494385
+    },
+    {
+      "row": 14,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1164,
+        262,
+        1212
+      ],
+      "text": "14",
+      "confidence": 0.9912933111190796
+    },
+    {
+      "row": 14,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1164,
+        882,
+        1212
+      ],
+      "text": "13596780.GE0_F1N001.001999",
+      "confidence": 0.9548800587654114
+    },
+    {
+      "row": 14,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1164,
+        2076,
+        1212
+      ],
+      "text": "HELLERMANNTYTON–157-OO154-CLIP-WRG HARN ",
+      "confidence": 0.9257760047912598
+    },
+    {
+      "row": 14,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1164,
+        2347,
+        1212
+      ],
+      "text": "13596780",
+      "confidence": 0.9964413642883301
+    },
+    {
+      "row": 14,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1164,
+        4249,
+        1212
+      ],
+      "text": "HELLERMANNTYTON–157-00154-CLIP-WRG HARN HT# 157-00154 HT DeSCript ion 11-0345-001-CSU ",
+      "confidence": 0.9394922256469727
+    },
+    {
+      "row": 13,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1222,
+        262,
+        1269
+      ],
+      "text": "13",
+      "confidence": 0.9988957047462463
+    },
+    {
+      "row": 13,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1222,
+        882,
+        1269
+      ],
+      "text": "84558719.GE0_F 1N001.001999",
+      "confidence": 0.9498207569122314
+    },
+    {
+      "row": 13,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1222,
+        2076,
+        1269
+      ],
+      "text": "HELLERMANNTYTON–156–02467-CL IP-WRG HARN ",
+      "confidence": 0.924948513507843
+    },
+    {
+      "row": 13,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1222,
+        2347,
+        1269
+      ],
+      "text": "84558719",
+      "confidence": 0.9982260465621948
+    },
+    {
+      "row": 13,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1222,
+        4249,
+        1269
+      ],
+      "text": "HELLERMANNTYTON–156–O2467–CL IP–WRG HARN ",
+      "confidence": 0.9291879534721375
+    },
+    {
+      "row": 12,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1279,
+        262,
+        1327
+      ],
+      "text": "12",
+      "confidence": 0.9983378052711487
+    },
+    {
+      "row": 12,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1279,
+        882,
+        1327
+      ],
+      "text": "84220365.GE0_F1N001.001999",
+      "confidence": 0.9537264108657837
+    },
+    {
+      "row": 12,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1279,
+        2076,
+        1327
+      ],
+      "text": "ARAYMOND–230347001–CLIP-WRG HARN ",
+      "confidence": 0.8867559432983398
+    },
+    {
+      "row": 12,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1279,
+        2347,
+        1327
+      ],
+      "text": "84220365",
+      "confidence": 0.9968677163124084
+    },
+    {
+      "row": 12,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1279,
+        4249,
+        1327
+      ],
+      "text": "CLIP—WRG HARN",
+      "confidence": 0.9183508157730103
+    },
+    {
+      "row": 11,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1337,
+        262,
+        1384
+      ],
+      "text": "11",
+      "confidence": 0.9957751035690308
+    },
+    {
+      "row": 11,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1337,
+        882,
+        1384
+      ],
+      "text": "26246245.GE0_F 1N001.005999",
+      "confidence": 0.9399359226226807
+    },
+    {
+      "row": 11,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1337,
+        2076,
+        1384
+      ],
+      "text": "CLIP-TIE-FIRE TREE-HT-BLK-PA66",
+      "confidence": 0.9369674921035767
+    },
+    {
+      "row": 11,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1337,
+        2347,
+        1384
+      ],
+      "text": "26246245",
+      "confidence": 0.9964998960494995
+    },
+    {
+      "row": 11,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1337,
+        4249,
+        1384
+      ],
+      "text": "HellermannTyton SPN 157–OO128",
+      "confidence": 0.8572851419448853
+    },
+    {
+      "row": 10,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1394,
+        262,
+        1442
+      ],
+      "text": "10",
+      "confidence": 0.7666283845901489
+    },
+    {
+      "row": 10,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1394,
+        882,
+        1442
+      ],
+      "text": "84199164.GE0_F1N001.001999",
+      "confidence": 0.9603575468063354
+    },
+    {
+      "row": 10,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1394,
+        2076,
+        1442
+      ],
+      "text": "HELLERMANNTYTON–157-O0224–CL IP-WRG HARN ",
+      "confidence": 0.9169618487358093
+    },
+    {
+      "row": 10,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1394,
+        2347,
+        1442
+      ],
+      "text": "84199164",
+      "confidence": 0.9962422251701355
+    },
+    {
+      "row": 10,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1394,
+        4249,
+        1442
+      ],
+      "text": "HELLERMANNTYTON–157–O0224–CL IP HT DESCR IPT ION T5OROSFTOVAL12.5A – BLK ",
+      "confidence": 0.9410218596458435
+    },
+    {
+      "row": 9,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1452,
+        262,
+        1500
+      ],
+      "text": "9",
+      "confidence": 0.9643049240112305
+    },
+    {
+      "row": 9,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1452,
+        882,
+        1500
+      ],
+      "text": "SCP02011.GEO_FIN001. O04999",
+      "confidence": 0.897262692451477
+    },
+    {
+      "row": 9,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1452,
+        2076,
+        1500
+      ],
+      "text": "GENERIC SPLICE SEALED",
+      "confidence": 0.8841486573219299
+    },
+    {
+      "row": 9,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1452,
+        2347,
+        1500
+      ],
+      "text": "SCP02011",
+      "confidence": 0.892811119556427
+    },
+    {
+      "row": 9,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1452,
+        4249,
+        1500
+      ],
+      "text": "scpO2O1OI|+PATAC+I|",
+      "confidence": 0.8616849184036255
+    },
+    {
+      "row": 8,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1510,
+        262,
+        1557
+      ],
+      "text": "8",
+      "confidence": 0.990919828414917
+    },
+    {
+      "row": 8,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1510,
+        882,
+        1557
+      ],
+      "text": "13582917.GE0_F 1N001.001999",
+      "confidence": 0.9478122591972351
+    },
+    {
+      "row": 8,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1510,
+        2076,
+        1557
+      ],
+      "text": "MOLEX - 34062-0044",
+      "confidence": 0.8091763854026794
+    },
+    {
+      "row": 8,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1510,
+        2347,
+        1557
+      ],
+      "text": "13582917",
+      "confidence": 0.9980593323707581
+    },
+    {
+      "row": 8,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1510,
+        4249,
+        1557
+      ],
+      "text": "M×15O 1×2 F CS POL E BLK w/ CPA 5.OCL ",
+      "confidence": 0.9072527885437012
+    },
+    {
+      "row": 7,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1567,
+        262,
+        1615
+      ],
+      "text": "7",
+      "confidence": 0.9410505890846252
+    },
+    {
+      "row": 7,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1567,
+        882,
+        1615
+      ],
+      "text": "13257302.GE0_F1N001. 003999",
+      "confidence": 0.9312226176261902
+    },
+    {
+      "row": 7,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1567,
+        2076,
+        1615
+      ],
+      "text": "STRAPASM-WRG HARN",
+      "confidence": 0.8566706776618958
+    },
+    {
+      "row": 7,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1567,
+        2347,
+        1615
+      ],
+      "text": "13257302",
+      "confidence": 0.9979274272918701
+    },
+    {
+      "row": 7,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1567,
+        4249,
+        1615
+      ],
+      "text": "+ZUH-356+SO_A3257302+||||||",
+      "confidence": 0.8924904465675354
+    },
+    {
+      "row": 6,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1625,
+        262,
+        1673
+      ],
+      "text": "6",
+      "confidence": 0.9621385335922241
+    },
+    {
+      "row": 6,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1625,
+        882,
+        1673
+      ],
+      "text": "BLL15914.GE0_FIN001. 001999",
+      "confidence": 0.911051869392395
+    },
+    {
+      "row": 6,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1625,
+        2076,
+        1673
+      ],
+      "text": "TYCO 2272164–1",
+      "confidence": 0.8792511224746704
+    },
+    {
+      "row": 6,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1625,
+        2347,
+        1673
+      ],
+      "text": "BLL15914",
+      "confidence": 0.9933274388313293
+    },
+    {
+      "row": 6,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1625,
+        4249,
+        1673
+      ],
+      "text": "COVER MCON WIRE DRESS 3P STRAIGHT PA66 BK ",
+      "confidence": 0.8905192613601685
+    },
+    {
+      "row": 5,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1683,
+        262,
+        1730
+      ],
+      "text": "5",
+      "confidence": 0.9967711567878723
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1683,
+        882,
+        1730
+      ],
+      "text": "OPU88567.GEO_F 1N001. 002999",
+      "confidence": 0.9289392828941345
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1683,
+        2076,
+        1730
+      ],
+      "text": "MCON WIRE DRESS COVER 2P PLUG STRAIGHT ",
+      "confidence": 0.8974998593330383
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1683,
+        2347,
+        1730
+      ],
+      "text": "OPU88567",
+      "confidence": 0.9935351610183716
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1683,
+        4249,
+        1730
+      ],
+      "text": "+SGE 3-CYL+ +55495797+IMCON WIRE DRESS COVER 2P PLUG STRAIGHT I|10. 1: O1I|+HRWZA+| ",
+      "confidence": 0.9181769490242004
+    },
+    {
+      "row": 4,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1740,
+        262,
+        1788
+      ],
+      "text": "4",
+      "confidence": 0.9938609600067139
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1740,
+        882,
+        1788
+      ],
+      "text": "13590425.GE0_ENV001.001999",
+      "confidence": 0.9588314890861511
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1740,
+        2076,
+        1788
+      ],
+      "text": "CONN",
+      "confidence": 0.75444495677948
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1740,
+        2347,
+        1788
+      ],
+      "text": "13590425",
+      "confidence": 0.9989035725593567
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1740,
+        4249,
+        1788
+      ],
+      "text": "ASM CONN 12 F OCS 1.5 SLD",
+      "confidence": 0.9164907336235046
+    },
+    {
+      "row": 3,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1798,
+        262,
+        1846
+      ],
+      "text": "3",
+      "confidence": 0.9955520033836365
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1798,
+        882,
+        1846
+      ],
+      "text": "BOP85019.GEO_FIN001. 001999",
+      "confidence": 0.9080668091773987
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1798,
+        2076,
+        1846
+      ],
+      "text": "CI-LEVER LOCK SWING FOR 13551224",
+      "confidence": 0.9224340915679932
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1798,
+        2347,
+        1846
+      ],
+      "text": "BOP85019",
+      "confidence": 0.9201527833938599
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1798,
+        4249,
+        1846
+      ],
+      "text": "48W DOOR CONN F LVR",
+      "confidence": 0.810171365737915
+    },
+    {
+      "row": 2,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1856,
+        262,
+        1903
+      ],
+      "text": "2",
+      "confidence": 0.9944106936454773
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1856,
+        882,
+        1903
+      ],
+      "text": "BJY07155.GEO_F 1N001.001999",
+      "confidence": 0.9246373176574707
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1856,
+        2076,
+        1903
+      ],
+      "text": "COLDMELT (FEBLIN)_EMB11O_25MM",
+      "confidence": 0.9610649347305298
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1856,
+        2347,
+        1903
+      ],
+      "text": "BJY07155",
+      "confidence": 0.9453983902931213
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1856,
+        4249,
+        1903
+      ],
+      "text": "BJ YO7155",
+      "confidence": 0.9037778377532959
+    },
+    {
+      "row": 1,
+      "column": 0,
+      "bbox_px": [
+        120,
+        1913,
+        262,
+        1961
+      ],
+      "text": "1",
+      "confidence": 0.9878922700881958
+    },
+    {
+      "row": 1,
+      "column": 1,
+      "bbox_px": [
+        272,
+        1913,
+        882,
+        1961
+      ],
+      "text": "84677076.GE0_F1N001. 001999",
+      "confidence": 0.9443860650062561
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "bbox_px": [
+        892,
+        1913,
+        2076,
+        1961
+      ],
+      "text": "AVERY-DENNISON-O84O1–O-CLIP-WRG HARN ",
+      "confidence": 0.9186974763870239
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1913,
+        2347,
+        1961
+      ],
+      "text": "84677076",
+      "confidence": 0.9974843263626099
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1913,
+        4249,
+        1961
+      ],
+      "text": "AVERY-DENNISON-O84O1–O-CLIP-WRG HARN ",
+      "confidence": 0.9085871577262878
+    },
+    {
+      "row": "header",
+      "column": 0,
+      "bbox_px": [
+        120,
+        1971,
+        262,
+        2018
+      ],
+      "text": "PC NO",
+      "confidence": 0.8869863748550415
+    },
+    {
+      "row": "header",
+      "column": 1,
+      "bbox_px": [
+        272,
+        1971,
+        882,
+        2018
+      ],
+      "text": "PARTNAME",
+      "confidence": 0.8738924264907837
+    },
+    {
+      "row": "header",
+      "column": 2,
+      "bbox_px": [
+        892,
+        1971,
+        2076,
+        2018
+      ],
+      "text": "DBPARTNAME",
+      "confidence": 0.9247997999191284
+    },
+    {
+      "row": "header",
+      "column": 3,
+      "bbox_px": [
+        2086,
+        1971,
+        2347,
+        2018
+      ],
+      "text": "DBPART NO",
+      "confidence": 0.9236840009689331
+    },
+    {
+      "row": "header",
+      "column": 4,
+      "bbox_px": [
+        2357,
+        1971,
+        4249,
+        2018
+      ],
+      "text": "DB PART DESC",
+      "confidence": 0.9385481476783752
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\verified_dwg\\20261013\\symbols_59_with_bom_captions_and_circuit_table.dwg",
+  "added": [
+    {
+      "name": "left_lower",
+      "bounds": [
+        150,
+        1650,
+        480,
+        1685
+      ],
+      "x": 160.5,
+      "tops": [
+        1651.8,
+        1662.4,
+        1673.0
+      ],
+      "texts": [
+        "부품명 : 13543056_X604X604_E603_LT_X2_X2",
+        "CONNECTOR NO : 13543056",
+        "FSG CLIP NO (28번) : 13352244"
+      ],
+      "bom_ids": [
+        "13543056",
+        "13352244"
+      ],
+      "hidden_outline_count": 114
+    },
+    {
+      "name": "right_lower",
+      "bounds": [
+        4940,
+        1790,
+        5220,
+        1813
+      ],
+      "x": 4949.3,
+      "tops": [
+        1791.7,
+        1802.4
+      ],
+      "texts": [
+        "부품명 : 13590425_Y572LEFT_FRONT_X1",
+        "CONNECTOR NO : 13590425"
+      ],
+      "bom_ids": [
+        "13590425"
+      ],
+      "hidden_outline_count": 74
+    },
+    {
+      "name": "upper_middle",
+      "bounds": [
+        3100,
+        1312,
+        3350,
+        1345
+      ],
+      "x": 3107.6,
+      "tops": [
+        1313.2,
+        1323.8,
+        1334.5
+      ],
+      "texts": [
+        "부품명 : 13512366_M651LEFT_FRONT_X1",
+        "CONNECTOR NO : 13512366",
+        "REAR COVER NO : OPU88567"
+      ],
+      "bom_ids": [
+        "13512366",
+        "OPU88567"
+      ],
+      "hidden_outline_count": 102
+    }
+  ],
+  "reason": "Three unconverted PDF captions matched circuit table names"
+}

@@ -1,0 +1,13 @@
+(vl-load-com)
+(setq fp (open (strcat (getvar "DWGPREFIX") "entity_geometry.lspdata") "w"))
+(setq ss (ssget "_X" '((410 . "Model"))))
+(setq i 0)
+(while (and ss (< i (sslength ss)))
+  (setq e (ssname ss i))
+  (if e (write-line (vl-prin1-to-string (entget e)) fp))
+  (setq i (1+ i)))
+(close fp)
+(princ (strcat "\nGEOMETRY_ROWS=" (itoa i)))
+(princ)
+_.QUIT
+_N

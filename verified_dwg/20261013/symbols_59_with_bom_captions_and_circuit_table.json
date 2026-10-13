@@ -1,0 +1,10103 @@
+{
+  "source_image_bbox_pdf": [
+    8011.72998046875,
+    95.8701171875,
+    11149.6796875,
+    2208.27001953125
+  ],
+  "rows": 71,
+  "columns": [
+    "NO",
+    "WIRE",
+    "SQUA",
+    "COL",
+    "MAT",
+    "FROM_CONNECTOR",
+    "PIN ID1",
+    "TO_CONNECTOR",
+    "PIN ID2",
+    "TWIST & SHIELD"
+  ],
+  "cells": [
+    {
+      "row": 0,
+      "column": 0,
+      "header": "NO",
+      "text": "NO",
+      "confidence": 0.6068769693374634,
+      "bbox_px": [
+        0,
+        0,
+        72,
+        22
+      ],
+      "decision_source": "header_geometry"
+    },
+    {
+      "row": 0,
+      "column": 1,
+      "header": "WIRE",
+      "text": "WIRE",
+      "confidence": 0.8956960439682007,
+      "bbox_px": [
+        72,
+        0,
+        140,
+        22
+      ],
+      "decision_source": "header_geometry"
+    },
+    {
+      "row": 0,
+      "column": 2,
+      "header": "SQUA",
+      "text": "SQUA",
+      "confidence": 0.9458167552947998,
+      "bbox_px": [
+        140,
+        0,
+        186,
+        22
+      ],
+      "decision_source": "header_geometry"
+    },
+    {
+      "row": 0,
+      "column": 3,
+      "header": "COL",
+      "text": "COL",
+      "confidence": 0.4541146457195282,
+      "bbox_px": [
+        186,
+        0,
+        251,
+        22
+      ],
+      "decision_source": "header_geometry"
+    },
+    {
+      "row": 0,
+      "column": 4,
+      "header": "MAT",
+      "text": "MAT",
+      "confidence": 0.7008617520332336,
+      "bbox_px": [
+        251,
+        0,
+        346,
+        22
+      ],
+      "decision_source": "header_geometry"
+    },
+    {
+      "row": 0,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "FROM_CONNECTOR",
+      "confidence": 0.4675315022468567,
+      "bbox_px": [
+        346,
+        0,
+        628,
+        22
+      ],
+      "decision_source": "header_geometry"
+    },
+    {
+      "row": 0,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "PIN ID1",
+      "confidence": 0.9751472473144531,
+      "bbox_px": [
+        628,
+        0,
+        692,
+        22
+      ],
+      "decision_source": "header_geometry"
+    },
+    {
+      "row": 0,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "TO_CONNECTOR",
+      "confidence": 0.5701339840888977,
+      "bbox_px": [
+        692,
+        0,
+        974,
+        22
+      ],
+      "decision_source": "header_geometry"
+    },
+    {
+      "row": 0,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "PIN ID2",
+      "confidence": 0.7939332723617554,
+      "bbox_px": [
+        974,
+        0,
+        1070,
+        22
+      ],
+      "decision_source": "header_geometry"
+    },
+    {
+      "row": 0,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "TWIST & SHIELD",
+      "confidence": 0.9101959466934204,
+      "bbox_px": [
+        1070,
+        0,
+        1204,
+        22
+      ],
+      "decision_source": "header_geometry"
+    },
+    {
+      "row": 1,
+      "column": 0,
+      "header": "NO",
+      "text": "1",
+      "confidence": 0.9716970324516296,
+      "bbox_px": [
+        0,
+        22,
+        72,
+        44
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 1,
+      "column": 1,
+      "header": "WIRE",
+      "text": "8052",
+      "confidence": 0.9346008896827698,
+      "bbox_px": [
+        72,
+        22,
+        140,
+        44
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.75",
+      "confidence": 0.9939616322517395,
+      "bbox_px": [
+        140,
+        22,
+        186,
+        44
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "header": "COL",
+      "text": "VT/BK",
+      "confidence": 0.9872647523880005,
+      "bbox_px": [
+        186,
+        22,
+        251,
+        44
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.9",
+      "confidence": 0.9814736843109131,
+      "bbox_px": [
+        251,
+        22,
+        346,
+        44
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13512366_M651LEFT_FRONT_X1",
+      "confidence": 0.5569363236427307,
+      "bbox_px": [
+        346,
+        22,
+        628,
+        44
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 1,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "2",
+      "confidence": 0.9576056003570557,
+      "bbox_px": [
+        628,
+        22,
+        692,
+        44
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 1,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13591047_Y626LEFT_FRONT_MAO_X2",
+      "confidence": 0.7973337769508362,
+      "bbox_px": [
+        692,
+        22,
+        974,
+        44
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 1,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "4",
+      "confidence": 0.8980842232704163,
+      "bbox_px": [
+        974,
+        22,
+        1070,
+        44
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 1,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        22,
+        1204,
+        44
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 2,
+      "column": 0,
+      "header": "NO",
+      "text": "2",
+      "confidence": 0.9241214394569397,
+      "bbox_px": [
+        0,
+        44,
+        72,
+        66
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "header": "WIRE",
+      "text": "12688",
+      "confidence": 0.937107264995575,
+      "bbox_px": [
+        72,
+        44,
+        140,
+        66
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        44,
+        186,
+        66
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "header": "COL",
+      "text": "BN/GY",
+      "confidence": 0.9612882733345032,
+      "bbox_px": [
+        186,
+        44,
+        251,
+        66
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        44,
+        346,
+        66
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        44,
+        628,
+        66
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 2,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "24",
+      "confidence": 0.9824328422546387,
+      "bbox_px": [
+        628,
+        44,
+        692,
+        66
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 2,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13590425_Y572LEFT_FRONT_X1",
+      "confidence": 0.4442039430141449,
+      "bbox_px": [
+        692,
+        44,
+        974,
+        66
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 2,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "4",
+      "confidence": 0.8980842232704163,
+      "bbox_px": [
+        974,
+        44,
+        1070,
+        66
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 2,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        44,
+        1204,
+        66
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 3,
+      "column": 0,
+      "header": "NO",
+      "text": "3",
+      "confidence": 0.9649685025215149,
+      "bbox_px": [
+        0,
+        66,
+        72,
+        88
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2792",
+      "confidence": 0.9789096713066101,
+      "bbox_px": [
+        72,
+        66,
+        140,
+        88
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        66,
+        186,
+        88
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "header": "COL",
+      "text": "WH/YE",
+      "confidence": 0.8927251696586609,
+      "bbox_px": [
+        186,
+        66,
+        251,
+        88
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        66,
+        346,
+        88
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        66,
+        628,
+        88
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 3,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "27",
+      "confidence": 0.8539752960205078,
+      "bbox_px": [
+        628,
+        66,
+        692,
+        88
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 3,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13543056_X604X604_E603_LT_X2_X2",
+      "confidence": 0.6862487196922302,
+      "bbox_px": [
+        692,
+        66,
+        974,
+        88
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 3,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "1",
+      "confidence": 0.9575291872024536,
+      "bbox_px": [
+        974,
+        66,
+        1070,
+        88
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 3,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        66,
+        1204,
+        88
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 4,
+      "column": 0,
+      "header": "NO",
+      "text": "4",
+      "confidence": 0.9286408424377441,
+      "bbox_px": [
+        0,
+        88,
+        72,
+        110
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "header": "WIRE",
+      "text": "8927",
+      "confidence": 0.9566267728805542,
+      "bbox_px": [
+        72,
+        88,
+        140,
+        110
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        88,
+        186,
+        110
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "header": "COL",
+      "text": "GY/GN",
+      "confidence": 0.9663314819335938,
+      "bbox_px": [
+        186,
+        88,
+        251,
+        110
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        88,
+        346,
+        110
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        88,
+        628,
+        110
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 4,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "39",
+      "confidence": 0.9404777884483337,
+      "bbox_px": [
+        628,
+        88,
+        692,
+        110
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 4,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        88,
+        974,
+        110
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 4,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "35",
+      "confidence": 0.8951148986816406,
+      "bbox_px": [
+        974,
+        88,
+        1070,
+        110
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 4,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        88,
+        1204,
+        110
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 5,
+      "column": 0,
+      "header": "NO",
+      "text": "5",
+      "confidence": 0.8311510682106018,
+      "bbox_px": [
+        0,
+        110,
+        72,
+        132
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "header": "WIRE",
+      "text": "6628",
+      "confidence": 0.9264987111091614,
+      "bbox_px": [
+        72,
+        110,
+        140,
+        132
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        110,
+        186,
+        132
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "header": "COL",
+      "text": "BK/OG",
+      "confidence": 0.9455652236938477,
+      "bbox_px": [
+        186,
+        110,
+        251,
+        132
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        110,
+        346,
+        132
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        110,
+        628,
+        132
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 5,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "28",
+      "confidence": 0.9440913200378418,
+      "bbox_px": [
+        628,
+        110,
+        692,
+        132
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 5,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "19151432_B63DOOR_LFR_X1",
+      "confidence": 0.36816415190696716,
+      "bbox_px": [
+        692,
+        110,
+        974,
+        132
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 5,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "2",
+      "confidence": 0.881200909614563,
+      "bbox_px": [
+        974,
+        110,
+        1070,
+        132
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 5,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "TW2132_W61",
+      "confidence": 0.901445209980011,
+      "bbox_px": [
+        1070,
+        110,
+        1204,
+        132
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 6,
+      "column": 0,
+      "header": "NO",
+      "text": "6",
+      "confidence": 0.9038714170455933,
+      "bbox_px": [
+        0,
+        132,
+        72,
+        154
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 6,
+      "column": 1,
+      "header": "WIRE",
+      "text": "3840",
+      "confidence": 0.9647987484931946,
+      "bbox_px": [
+        72,
+        132,
+        140,
+        154
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 6,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        132,
+        186,
+        154
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 6,
+      "column": 3,
+      "header": "COL",
+      "text": "RD/GN",
+      "confidence": 0.9016769528388977,
+      "bbox_px": [
+        186,
+        132,
+        251,
+        154
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 6,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        132,
+        346,
+        154
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 6,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        132,
+        628,
+        154
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 6,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "13",
+      "confidence": 0.9932315945625305,
+      "bbox_px": [
+        628,
+        132,
+        692,
+        154
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 6,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "STD_X117SP3840_X1",
+      "confidence": 0.2914196848869324,
+      "bbox_px": [
+        692,
+        132,
+        974,
+        154
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 6,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "S/J-1",
+      "confidence": 0.8987247347831726,
+      "bbox_px": [
+        974,
+        132,
+        1070,
+        154
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 6,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        132,
+        1204,
+        154
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 7,
+      "column": 0,
+      "header": "NO",
+      "text": "7",
+      "confidence": 0.7962431311607361,
+      "bbox_px": [
+        0,
+        154,
+        72,
+        176
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 7,
+      "column": 1,
+      "header": "WIRE",
+      "text": "126",
+      "confidence": 0.8156859874725342,
+      "bbox_px": [
+        72,
+        154,
+        140,
+        176
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 7,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        154,
+        186,
+        176
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 7,
+      "column": 3,
+      "header": "COL",
+      "text": "VT/GY",
+      "confidence": 0.9862592816352844,
+      "bbox_px": [
+        186,
+        154,
+        251,
+        176
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 7,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        154,
+        346,
+        176
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 7,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13519739_Y626LEFT_FRONT_MAO_X1",
+      "confidence": 0.8428352475166321,
+      "bbox_px": [
+        346,
+        154,
+        628,
+        176
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 7,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "3",
+      "confidence": 0.9846670627593994,
+      "bbox_px": [
+        628,
+        154,
+        692,
+        176
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 7,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        154,
+        974,
+        176
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 7,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "18",
+      "confidence": 0.947751522064209,
+      "bbox_px": [
+        974,
+        154,
+        1070,
+        176
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 7,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        154,
+        1204,
+        176
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 8,
+      "column": 0,
+      "header": "NO",
+      "text": "8",
+      "confidence": 0.6503609418869019,
+      "bbox_px": [
+        0,
+        176,
+        72,
+        198
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 8,
+      "column": 1,
+      "header": "WIRE",
+      "text": "728",
+      "confidence": 0.8307566046714783,
+      "bbox_px": [
+        72,
+        176,
+        140,
+        198
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 8,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        176,
+        186,
+        198
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 8,
+      "column": 3,
+      "header": "COL",
+      "text": "GY",
+      "confidence": 0.6427358388900757,
+      "bbox_px": [
+        186,
+        176,
+        251,
+        198
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 8,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        176,
+        346,
+        198
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 8,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        176,
+        628,
+        198
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 8,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "34",
+      "confidence": 0.9786489009857178,
+      "bbox_px": [
+        628,
+        176,
+        692,
+        198
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 8,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        176,
+        974,
+        198
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 8,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "22",
+      "confidence": 0.7490565776824951,
+      "bbox_px": [
+        974,
+        176,
+        1070,
+        198
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 8,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        176,
+        1204,
+        198
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 9,
+      "column": 0,
+      "header": "NO",
+      "text": "9",
+      "confidence": 0.5220072269439697,
+      "bbox_px": [
+        0,
+        198,
+        72,
+        220
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 9,
+      "column": 1,
+      "header": "WIRE",
+      "text": "8440",
+      "confidence": 0.8791984915733337,
+      "bbox_px": [
+        72,
+        198,
+        140,
+        220
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 9,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        198,
+        186,
+        220
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 9,
+      "column": 3,
+      "header": "COL",
+      "text": "RD/GN",
+      "confidence": 0.9016769528388977,
+      "bbox_px": [
+        186,
+        198,
+        251,
+        220
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 9,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        198,
+        346,
+        220
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 9,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        198,
+        628,
+        220
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 9,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "4",
+      "confidence": 0.9675318002700806,
+      "bbox_px": [
+        628,
+        198,
+        692,
+        220
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 9,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        198,
+        974,
+        220
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 9,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "4",
+      "confidence": 0.8980842232704163,
+      "bbox_px": [
+        974,
+        198,
+        1070,
+        220
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 9,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        198,
+        1204,
+        220
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 10,
+      "column": 0,
+      "header": "NO",
+      "text": "10",
+      "confidence": 0.9742769598960876,
+      "bbox_px": [
+        0,
+        220,
+        72,
+        242
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 10,
+      "column": 1,
+      "header": "WIRE",
+      "text": "394",
+      "confidence": 0.9921097159385681,
+      "bbox_px": [
+        72,
+        220,
+        140,
+        242
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 10,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        220,
+        186,
+        242
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 10,
+      "column": 3,
+      "header": "COL",
+      "text": "GN/BK",
+      "confidence": 0.9900816679000854,
+      "bbox_px": [
+        186,
+        220,
+        251,
+        242
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 10,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        220,
+        346,
+        242
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 10,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        220,
+        628,
+        242
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 10,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "44",
+      "confidence": 0.9664248824119568,
+      "bbox_px": [
+        628,
+        220,
+        692,
+        242
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 10,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        220,
+        974,
+        242
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 10,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "21",
+      "confidence": 0.8225404620170593,
+      "bbox_px": [
+        974,
+        220,
+        1070,
+        242
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 10,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        220,
+        1204,
+        242
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 11,
+      "column": 0,
+      "header": "NO",
+      "text": "11",
+      "confidence": 0.9815585613250732,
+      "bbox_px": [
+        0,
+        242,
+        72,
+        264
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 11,
+      "column": 1,
+      "header": "WIRE",
+      "text": "12416",
+      "confidence": 0.9731899499893188,
+      "bbox_px": [
+        72,
+        242,
+        140,
+        264
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 11,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        242,
+        186,
+        264
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 11,
+      "column": 3,
+      "header": "COL",
+      "text": "GN",
+      "confidence": 0.7236626148223877,
+      "bbox_px": [
+        186,
+        242,
+        251,
+        264
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 11,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        242,
+        346,
+        264
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 11,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13590425_Y572LEFT_FRONT_X1",
+      "confidence": 0.4442039430141449,
+      "bbox_px": [
+        346,
+        242,
+        628,
+        264
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 11,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "5",
+      "confidence": 0.9280694127082825,
+      "bbox_px": [
+        628,
+        242,
+        692,
+        264
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 11,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13592509_A470LEFT_FRONT_X1",
+      "confidence": 0.3579024076461792,
+      "bbox_px": [
+        692,
+        242,
+        974,
+        264
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 11,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "13",
+      "confidence": 0.9727809429168701,
+      "bbox_px": [
+        974,
+        242,
+        1070,
+        264
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 11,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        242,
+        1204,
+        264
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 12,
+      "column": 0,
+      "header": "NO",
+      "text": "12",
+      "confidence": 0.9778041839599609,
+      "bbox_px": [
+        0,
+        264,
+        72,
+        286
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 12,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2790",
+      "confidence": 0.9667583703994751,
+      "bbox_px": [
+        72,
+        264,
+        140,
+        286
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 12,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        264,
+        186,
+        286
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 12,
+      "column": 3,
+      "header": "COL",
+      "text": "BN/BK",
+      "confidence": 0.9874841570854187,
+      "bbox_px": [
+        186,
+        264,
+        251,
+        286
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 12,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        264,
+        346,
+        286
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 12,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13532124_X604X604_E603_LT_X1_X1",
+      "confidence": 0.7133903503417969,
+      "bbox_px": [
+        346,
+        264,
+        628,
+        286
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 12,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "5",
+      "confidence": 0.9280694127082825,
+      "bbox_px": [
+        628,
+        264,
+        692,
+        286
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 12,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        692,
+        264,
+        974,
+        286
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 12,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "25",
+      "confidence": 0.8744350671768188,
+      "bbox_px": [
+        974,
+        264,
+        1070,
+        286
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 12,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        264,
+        1204,
+        286
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 13,
+      "column": 0,
+      "header": "NO",
+      "text": "13",
+      "confidence": 0.9789421558380127,
+      "bbox_px": [
+        0,
+        286,
+        72,
+        308
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 13,
+      "column": 1,
+      "header": "WIRE",
+      "text": "4849",
+      "confidence": 0.90703284740448,
+      "bbox_px": [
+        72,
+        286,
+        140,
+        308
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 13,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        286,
+        186,
+        308
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 13,
+      "column": 3,
+      "header": "COL",
+      "text": "WH/VT",
+      "confidence": 0.7313872575759888,
+      "bbox_px": [
+        186,
+        286,
+        251,
+        308
+      ],
+      "decision_source": "image_read_correction"
+    },
+    {
+      "row": 13,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        286,
+        346,
+        308
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 13,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        286,
+        628,
+        308
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 13,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "31",
+      "confidence": 0.9645766019821167,
+      "bbox_px": [
+        628,
+        286,
+        692,
+        308
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 13,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        286,
+        974,
+        308
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 13,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "33",
+      "confidence": 0.9222424030303955,
+      "bbox_px": [
+        974,
+        286,
+        1070,
+        308
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 13,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        286,
+        1204,
+        308
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 14,
+      "column": 0,
+      "header": "NO",
+      "text": "14",
+      "confidence": 0.9583463072776794,
+      "bbox_px": [
+        0,
+        308,
+        72,
+        330
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 14,
+      "column": 1,
+      "header": "WIRE",
+      "text": "1440",
+      "confidence": 0.865332305431366,
+      "bbox_px": [
+        72,
+        308,
+        140,
+        330
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 14,
+      "column": 2,
+      "header": "SQUA",
+      "text": "2.5",
+      "confidence": 0.9112839102745056,
+      "bbox_px": [
+        140,
+        308,
+        186,
+        330
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 14,
+      "column": 3,
+      "header": "COL",
+      "text": "RD/BN",
+      "confidence": 0.9833260774612427,
+      "bbox_px": [
+        186,
+        308,
+        251,
+        330
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 14,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P3",
+      "confidence": 0.9706659913063049,
+      "bbox_px": [
+        251,
+        308,
+        346,
+        330
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 14,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        308,
+        628,
+        330
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 14,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "44",
+      "confidence": 0.9664248824119568,
+      "bbox_px": [
+        628,
+        308,
+        692,
+        330
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 14,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13590001_M617LEFT_FRONT_X1",
+      "confidence": 0.6303408145904541,
+      "bbox_px": [
+        692,
+        308,
+        974,
+        330
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 14,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "2",
+      "confidence": 0.881200909614563,
+      "bbox_px": [
+        974,
+        308,
+        1070,
+        330
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 14,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        308,
+        1204,
+        330
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 15,
+      "column": 0,
+      "header": "NO",
+      "text": "15",
+      "confidence": 0.9707989692687988,
+      "bbox_px": [
+        0,
+        330,
+        72,
+        352
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 15,
+      "column": 1,
+      "header": "WIRE",
+      "text": "745",
+      "confidence": 0.9349231719970703,
+      "bbox_px": [
+        72,
+        330,
+        140,
+        352
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 15,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        330,
+        186,
+        352
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 15,
+      "column": 3,
+      "header": "COL",
+      "text": "GY",
+      "confidence": 0.6427358388900757,
+      "bbox_px": [
+        186,
+        330,
+        251,
+        352
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 15,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        330,
+        346,
+        352
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 15,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13519739_Y626LEFT_FRONT_MAO_X1",
+      "confidence": 0.8428352475166321,
+      "bbox_px": [
+        346,
+        330,
+        628,
+        352
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 15,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "2",
+      "confidence": 0.9576056003570557,
+      "bbox_px": [
+        628,
+        330,
+        692,
+        352
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 15,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13590001_M617LEFT_FRONT_X1",
+      "confidence": 0.6303408145904541,
+      "bbox_px": [
+        692,
+        330,
+        974,
+        352
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 15,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "6",
+      "confidence": 0.8396745324134827,
+      "bbox_px": [
+        974,
+        330,
+        1070,
+        352
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 15,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        330,
+        1204,
+        352
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 16,
+      "column": 0,
+      "header": "NO",
+      "text": "16",
+      "confidence": 0.963377833366394,
+      "bbox_px": [
+        0,
+        352,
+        72,
+        374
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 16,
+      "column": 1,
+      "header": "WIRE",
+      "text": "1550",
+      "confidence": 0.8506123423576355,
+      "bbox_px": [
+        72,
+        352,
+        140,
+        374
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 16,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        352,
+        186,
+        374
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 16,
+      "column": 3,
+      "header": "COL",
+      "text": "BK",
+      "confidence": 0.87611985206604,
+      "bbox_px": [
+        186,
+        352,
+        251,
+        374
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 16,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        352,
+        346,
+        374
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 16,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        352,
+        628,
+        374
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 16,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "35",
+      "confidence": 0.971847414970398,
+      "bbox_px": [
+        628,
+        352,
+        692,
+        374
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 16,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        352,
+        974,
+        374
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 16,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "23",
+      "confidence": 0.9005483388900757,
+      "bbox_px": [
+        974,
+        352,
+        1070,
+        374
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 16,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        352,
+        1204,
+        374
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 17,
+      "column": 0,
+      "header": "NO",
+      "text": "17",
+      "confidence": 0.9706727266311646,
+      "bbox_px": [
+        0,
+        374,
+        72,
+        396
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 17,
+      "column": 1,
+      "header": "WIRE",
+      "text": "1974",
+      "confidence": 0.9814342856407166,
+      "bbox_px": [
+        72,
+        374,
+        140,
+        396
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 17,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.75",
+      "confidence": 0.9939616322517395,
+      "bbox_px": [
+        140,
+        374,
+        186,
+        396
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 17,
+      "column": 3,
+      "header": "COL",
+      "text": "GY/BK",
+      "confidence": 0.9840759038925171,
+      "bbox_px": [
+        186,
+        374,
+        251,
+        396
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 17,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.9",
+      "confidence": 0.9814736843109131,
+      "bbox_px": [
+        251,
+        374,
+        346,
+        396
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 17,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        374,
+        628,
+        396
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 17,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "37",
+      "confidence": 0.9389775991439819,
+      "bbox_px": [
+        628,
+        374,
+        692,
+        396
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 17,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        374,
+        974,
+        396
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 17,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "30",
+      "confidence": 0.9005212783813477,
+      "bbox_px": [
+        974,
+        374,
+        1070,
+        396
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 17,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "TW1874_W61",
+      "confidence": 0.9602214097976685,
+      "bbox_px": [
+        1070,
+        374,
+        1204,
+        396
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 18,
+      "column": 0,
+      "header": "NO",
+      "text": "18",
+      "confidence": 0.9858167171478271,
+      "bbox_px": [
+        0,
+        396,
+        72,
+        418
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 18,
+      "column": 1,
+      "header": "WIRE",
+      "text": "4725",
+      "confidence": 0.8911466002464294,
+      "bbox_px": [
+        72,
+        396,
+        140,
+        418
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 18,
+      "column": 2,
+      "header": "SQUA",
+      "text": "-",
+      "confidence": 0.6445972323417664,
+      "bbox_px": [
+        140,
+        396,
+        186,
+        418
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 18,
+      "column": 3,
+      "header": "COL",
+      "text": "-",
+      "confidence": 0.5854716897010803,
+      "bbox_px": [
+        186,
+        396,
+        251,
+        418
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 18,
+      "column": 4,
+      "header": "MAT",
+      "text": "COAX 2.8",
+      "confidence": 0.8982191681861877,
+      "bbox_px": [
+        251,
+        396,
+        346,
+        418
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 18,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13543056_X604X604_E603_LT_X2_X2",
+      "confidence": 0.6862487196922302,
+      "bbox_px": [
+        346,
+        396,
+        628,
+        418
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 18,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "7",
+      "confidence": 0.8806031346321106,
+      "bbox_px": [
+        628,
+        396,
+        692,
+        418
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 18,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        396,
+        974,
+        418
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 18,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "39",
+      "confidence": 0.7652103900909424,
+      "bbox_px": [
+        974,
+        396,
+        1070,
+        418
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 18,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "SH4731_1",
+      "confidence": 0.7917637825012207,
+      "bbox_px": [
+        1070,
+        396,
+        1204,
+        418
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 19,
+      "column": 0,
+      "header": "NO",
+      "text": "19",
+      "confidence": 0.9030846357345581,
+      "bbox_px": [
+        0,
+        418,
+        72,
+        440
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 19,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2738",
+      "confidence": 0.9889364838600159,
+      "bbox_px": [
+        72,
+        418,
+        140,
+        440
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 19,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.35",
+      "confidence": 0.9939359426498413,
+      "bbox_px": [
+        140,
+        418,
+        186,
+        440
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 19,
+      "column": 3,
+      "header": "COL",
+      "text": "GN/BK",
+      "confidence": 0.9900816679000854,
+      "bbox_px": [
+        186,
+        418,
+        251,
+        440
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 19,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.4",
+      "confidence": 0.9745150804519653,
+      "bbox_px": [
+        251,
+        418,
+        346,
+        440
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 19,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13514590_X604X604_A471_X1",
+      "confidence": 0.41224732995033264,
+      "bbox_px": [
+        346,
+        418,
+        628,
+        440
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 19,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "1",
+      "confidence": 0.9830824136734009,
+      "bbox_px": [
+        628,
+        418,
+        692,
+        440
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 19,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        418,
+        974,
+        440
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 19,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "7",
+      "confidence": 0.8088306784629822,
+      "bbox_px": [
+        974,
+        418,
+        1070,
+        440
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 19,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        418,
+        1204,
+        440
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 20,
+      "column": 0,
+      "header": "NO",
+      "text": "20",
+      "confidence": 0.894775390625,
+      "bbox_px": [
+        0,
+        440,
+        72,
+        462
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 20,
+      "column": 1,
+      "header": "WIRE",
+      "text": "12419",
+      "confidence": 0.8988324999809265,
+      "bbox_px": [
+        72,
+        440,
+        140,
+        462
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 20,
+      "column": 2,
+      "header": "SQUA",
+      "text": "1",
+      "confidence": 0.9978575110435486,
+      "bbox_px": [
+        140,
+        440,
+        186,
+        462
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 20,
+      "column": 3,
+      "header": "COL",
+      "text": "BU/WH",
+      "confidence": 0.9769628643989563,
+      "bbox_px": [
+        186,
+        440,
+        251,
+        462
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 20,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P2.1",
+      "confidence": 0.9892813563346863,
+      "bbox_px": [
+        251,
+        440,
+        346,
+        462
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 20,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13590425_Y572LEFT_FRONT_X1",
+      "confidence": 0.4442039430141449,
+      "bbox_px": [
+        346,
+        440,
+        628,
+        462
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 20,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "12",
+      "confidence": 0.9891317486763,
+      "bbox_px": [
+        628,
+        440,
+        692,
+        462
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 20,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13592509_A470LEFT_FRONT_X1",
+      "confidence": 0.3579024076461792,
+      "bbox_px": [
+        692,
+        440,
+        974,
+        462
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 20,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "2",
+      "confidence": 0.881200909614563,
+      "bbox_px": [
+        974,
+        440,
+        1070,
+        462
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 20,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        440,
+        1204,
+        462
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 21,
+      "column": 0,
+      "header": "NO",
+      "text": "21",
+      "confidence": 0.9213366508483887,
+      "bbox_px": [
+        0,
+        462,
+        72,
+        484
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 21,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2791",
+      "confidence": 0.985107421875,
+      "bbox_px": [
+        72,
+        462,
+        140,
+        484
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 21,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        462,
+        186,
+        484
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 21,
+      "column": 3,
+      "header": "COL",
+      "text": "VT/RD",
+      "confidence": 0.9799997210502625,
+      "bbox_px": [
+        186,
+        462,
+        251,
+        484
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 21,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        462,
+        346,
+        484
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 21,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        462,
+        628,
+        484
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 21,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "26",
+      "confidence": 0.9125482439994812,
+      "bbox_px": [
+        628,
+        462,
+        692,
+        484
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 21,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13543056_X604X604_E603_LT_X2_X2",
+      "confidence": 0.6862487196922302,
+      "bbox_px": [
+        692,
+        462,
+        974,
+        484
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 21,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "2",
+      "confidence": 0.881200909614563,
+      "bbox_px": [
+        974,
+        462,
+        1070,
+        484
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 21,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        462,
+        1204,
+        484
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 22,
+      "column": 0,
+      "header": "NO",
+      "text": "22",
+      "confidence": 0.8978586196899414,
+      "bbox_px": [
+        0,
+        484,
+        72,
+        506
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 22,
+      "column": 1,
+      "header": "WIRE",
+      "text": "8925",
+      "confidence": 0.9444211721420288,
+      "bbox_px": [
+        72,
+        484,
+        140,
+        506
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 22,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        484,
+        186,
+        506
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 22,
+      "column": 3,
+      "header": "COL",
+      "text": "BU/GN",
+      "confidence": 0.9892679452896118,
+      "bbox_px": [
+        186,
+        484,
+        251,
+        506
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 22,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        484,
+        346,
+        506
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 22,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        484,
+        628,
+        506
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 22,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "33",
+      "confidence": 0.9804452657699585,
+      "bbox_px": [
+        628,
+        484,
+        692,
+        506
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 22,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        484,
+        974,
+        506
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 22,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "16",
+      "confidence": 0.920329213142395,
+      "bbox_px": [
+        974,
+        484,
+        1070,
+        506
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 22,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        484,
+        1204,
+        506
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 23,
+      "column": 0,
+      "header": "NO",
+      "text": "23",
+      "confidence": 0.8708399534225464,
+      "bbox_px": [
+        0,
+        506,
+        72,
+        528
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 23,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2766",
+      "confidence": 0.9677344560623169,
+      "bbox_px": [
+        72,
+        506,
+        140,
+        528
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 23,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        506,
+        186,
+        528
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 23,
+      "column": 3,
+      "header": "COL",
+      "text": "GN",
+      "confidence": 0.7236626148223877,
+      "bbox_px": [
+        186,
+        506,
+        251,
+        528
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 23,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        506,
+        346,
+        528
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 23,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        506,
+        628,
+        528
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 23,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "15",
+      "confidence": 0.9904367327690125,
+      "bbox_px": [
+        628,
+        506,
+        692,
+        528
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 23,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13590001_M617LEFT_FRONT_X1",
+      "confidence": 0.6303408145904541,
+      "bbox_px": [
+        692,
+        506,
+        974,
+        528
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 23,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "5",
+      "confidence": 0.8534234762191772,
+      "bbox_px": [
+        974,
+        506,
+        1070,
+        528
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 23,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        506,
+        1204,
+        528
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 24,
+      "column": 0,
+      "header": "NO",
+      "text": "24",
+      "confidence": 0.8515830636024475,
+      "bbox_px": [
+        0,
+        528,
+        72,
+        550
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 24,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2150",
+      "confidence": 0.9343165755271912,
+      "bbox_px": [
+        72,
+        528,
+        140,
+        550
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 24,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        528,
+        186,
+        550
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 24,
+      "column": 3,
+      "header": "COL",
+      "text": "BK",
+      "confidence": 0.87611985206604,
+      "bbox_px": [
+        186,
+        528,
+        251,
+        550
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 24,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        528,
+        346,
+        550
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 24,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13590425_Y572LEFT_FRONT_X1",
+      "confidence": 0.4442039430141449,
+      "bbox_px": [
+        346,
+        528,
+        628,
+        550
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 24,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "9",
+      "confidence": 0.7419978976249695,
+      "bbox_px": [
+        628,
+        528,
+        692,
+        550
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 24,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "STD_X117SP2150W_X1",
+      "confidence": 0.3277950584888458,
+      "bbox_px": [
+        692,
+        528,
+        974,
+        550
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 24,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "S/J-2",
+      "confidence": 0.9070401191711426,
+      "bbox_px": [
+        974,
+        528,
+        1070,
+        550
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 24,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        528,
+        1204,
+        550
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 25,
+      "column": 0,
+      "header": "NO",
+      "text": "25",
+      "confidence": 0.8499144315719604,
+      "bbox_px": [
+        0,
+        550,
+        72,
+        572
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 25,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2150",
+      "confidence": 0.9343165755271912,
+      "bbox_px": [
+        72,
+        550,
+        140,
+        572
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 25,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        550,
+        186,
+        572
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 25,
+      "column": 3,
+      "header": "COL",
+      "text": "BK",
+      "confidence": 0.87611985206604,
+      "bbox_px": [
+        186,
+        550,
+        251,
+        572
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 25,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        550,
+        346,
+        572
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 25,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13532124_X604X604_E603_LT_X1_X1",
+      "confidence": 0.7133903503417969,
+      "bbox_px": [
+        346,
+        550,
+        628,
+        572
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 25,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "8",
+      "confidence": 0.6805396676063538,
+      "bbox_px": [
+        628,
+        550,
+        692,
+        572
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 25,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "STD_X117SP2150W_X1",
+      "confidence": 0.3277950584888458,
+      "bbox_px": [
+        692,
+        550,
+        974,
+        572
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 25,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "S/J-2",
+      "confidence": 0.9070401191711426,
+      "bbox_px": [
+        974,
+        550,
+        1070,
+        572
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 25,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        550,
+        1204,
+        572
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 26,
+      "column": 0,
+      "header": "NO",
+      "text": "26",
+      "confidence": 0.8815014362335205,
+      "bbox_px": [
+        0,
+        572,
+        72,
+        594
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 26,
+      "column": 1,
+      "header": "WIRE",
+      "text": "201",
+      "confidence": 0.9419110417366028,
+      "bbox_px": [
+        72,
+        572,
+        140,
+        594
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 26,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.75",
+      "confidence": 0.9939616322517395,
+      "bbox_px": [
+        140,
+        572,
+        186,
+        594
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 26,
+      "column": 3,
+      "header": "COL",
+      "text": "BU",
+      "confidence": 0.7550188302993774,
+      "bbox_px": [
+        186,
+        572,
+        251,
+        594
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 26,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.9",
+      "confidence": 0.9814736843109131,
+      "bbox_px": [
+        251,
+        572,
+        346,
+        594
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 26,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        572,
+        628,
+        594
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 26,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "15",
+      "confidence": 0.9904367327690125,
+      "bbox_px": [
+        628,
+        572,
+        692,
+        594
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 26,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13582917_B198LEFT_FRONT_X1",
+      "confidence": 0.6276980638504028,
+      "bbox_px": [
+        692,
+        572,
+        974,
+        594
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 26,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "2",
+      "confidence": 0.881200909614563,
+      "bbox_px": [
+        974,
+        572,
+        1070,
+        594
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 26,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "TW118_W615",
+      "confidence": 0.9378147125244141,
+      "bbox_px": [
+        1070,
+        572,
+        1204,
+        594
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 27,
+      "column": 0,
+      "header": "NO",
+      "text": "27",
+      "confidence": 0.8980424404144287,
+      "bbox_px": [
+        0,
+        594,
+        72,
+        616
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 27,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2540",
+      "confidence": 0.978681206703186,
+      "bbox_px": [
+        72,
+        594,
+        140,
+        616
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 27,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        594,
+        186,
+        616
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 27,
+      "column": 3,
+      "header": "COL",
+      "text": "RD/BU",
+      "confidence": 0.9800527691841125,
+      "bbox_px": [
+        186,
+        594,
+        251,
+        616
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 27,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        594,
+        346,
+        616
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 27,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13514590_X604X604_A471_X1",
+      "confidence": 0.41224732995033264,
+      "bbox_px": [
+        346,
+        594,
+        628,
+        616
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 27,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "2",
+      "confidence": 0.9576056003570557,
+      "bbox_px": [
+        628,
+        594,
+        692,
+        616
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 27,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        594,
+        974,
+        616
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 27,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "10",
+      "confidence": 0.9153293967247009,
+      "bbox_px": [
+        974,
+        594,
+        1070,
+        616
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 27,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        594,
+        1204,
+        616
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 28,
+      "column": 0,
+      "header": "NO",
+      "text": "28",
+      "confidence": 0.917442798614502,
+      "bbox_px": [
+        0,
+        616,
+        72,
+        638
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 28,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2675",
+      "confidence": 0.9255706667900085,
+      "bbox_px": [
+        72,
+        616,
+        140,
+        638
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 28,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        616,
+        186,
+        638
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 28,
+      "column": 3,
+      "header": "COL",
+      "text": "BU",
+      "confidence": 0.7550188302993774,
+      "bbox_px": [
+        186,
+        616,
+        251,
+        638
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 28,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        616,
+        346,
+        638
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 28,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        616,
+        628,
+        638
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 28,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "17",
+      "confidence": 0.9842754006385803,
+      "bbox_px": [
+        628,
+        616,
+        692,
+        638
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 28,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13590425_Y572LEFT_FRONT_X1",
+      "confidence": 0.4442039430141449,
+      "bbox_px": [
+        692,
+        616,
+        974,
+        638
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 28,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "8",
+      "confidence": 0.38422825932502747,
+      "bbox_px": [
+        974,
+        616,
+        1070,
+        638
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 28,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        616,
+        1204,
+        638
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 29,
+      "column": 0,
+      "header": "NO",
+      "text": "29",
+      "confidence": 0.7069437503814697,
+      "bbox_px": [
+        0,
+        638,
+        72,
+        660
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 29,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2789",
+      "confidence": 0.9815439581871033,
+      "bbox_px": [
+        72,
+        638,
+        140,
+        660
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 29,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        638,
+        186,
+        660
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 29,
+      "column": 3,
+      "header": "COL",
+      "text": "YE/BN",
+      "confidence": 0.9516116976737976,
+      "bbox_px": [
+        186,
+        638,
+        251,
+        660
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 29,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        638,
+        346,
+        660
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 29,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13532124_X604X604_E603_LT_X1_X1",
+      "confidence": 0.7133903503417969,
+      "bbox_px": [
+        346,
+        638,
+        628,
+        660
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 29,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "10",
+      "confidence": 0.8538548946380615,
+      "bbox_px": [
+        628,
+        638,
+        692,
+        660
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 29,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        692,
+        638,
+        974,
+        660
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 29,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "24",
+      "confidence": 0.9324431419372559,
+      "bbox_px": [
+        974,
+        638,
+        1070,
+        660
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 29,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        638,
+        1204,
+        660
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 30,
+      "column": 0,
+      "header": "NO",
+      "text": "30",
+      "confidence": 0.945799708366394,
+      "bbox_px": [
+        0,
+        660,
+        72,
+        682
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 30,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2150",
+      "confidence": 0.9343165755271912,
+      "bbox_px": [
+        72,
+        660,
+        140,
+        682
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 30,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.75",
+      "confidence": 0.9939616322517395,
+      "bbox_px": [
+        140,
+        660,
+        186,
+        682
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 30,
+      "column": 3,
+      "header": "COL",
+      "text": "BK",
+      "confidence": 0.87611985206604,
+      "bbox_px": [
+        186,
+        660,
+        251,
+        682
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 30,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.9",
+      "confidence": 0.9814736843109131,
+      "bbox_px": [
+        251,
+        660,
+        346,
+        682
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 30,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        660,
+        628,
+        682
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 30,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "11",
+      "confidence": 0.9746928811073303,
+      "bbox_px": [
+        628,
+        660,
+        692,
+        682
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 30,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "STD_X117SP2150W_X1",
+      "confidence": 0.3277950584888458,
+      "bbox_px": [
+        692,
+        660,
+        974,
+        682
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 30,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "S/J-2",
+      "confidence": 0.9070401191711426,
+      "bbox_px": [
+        974,
+        660,
+        1070,
+        682
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 30,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        660,
+        1204,
+        682
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 31,
+      "column": 0,
+      "header": "NO",
+      "text": "31",
+      "confidence": 0.9679821729660034,
+      "bbox_px": [
+        0,
+        682,
+        72,
+        704
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 31,
+      "column": 1,
+      "header": "WIRE",
+      "text": "3840",
+      "confidence": 0.9647987484931946,
+      "bbox_px": [
+        72,
+        682,
+        140,
+        704
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 31,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        682,
+        186,
+        704
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 31,
+      "column": 3,
+      "header": "COL",
+      "text": "RD/GN",
+      "confidence": 0.9016769528388977,
+      "bbox_px": [
+        186,
+        682,
+        251,
+        704
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 31,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        682,
+        346,
+        704
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 31,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        682,
+        628,
+        704
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 31,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "29",
+      "confidence": 0.9148167371749878,
+      "bbox_px": [
+        628,
+        682,
+        692,
+        704
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 31,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "STD_X117SP3840_X1",
+      "confidence": 0.2914196848869324,
+      "bbox_px": [
+        692,
+        682,
+        974,
+        704
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 31,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "S/J-1",
+      "confidence": 0.8987247347831726,
+      "bbox_px": [
+        974,
+        682,
+        1070,
+        704
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 31,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        682,
+        1204,
+        704
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 32,
+      "column": 0,
+      "header": "NO",
+      "text": "32",
+      "confidence": 0.9613659977912903,
+      "bbox_px": [
+        0,
+        704,
+        72,
+        726
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 32,
+      "column": 1,
+      "header": "WIRE",
+      "text": "12181",
+      "confidence": 0.9667669534683228,
+      "bbox_px": [
+        72,
+        704,
+        140,
+        726
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 32,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        704,
+        186,
+        726
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 32,
+      "column": 3,
+      "header": "COL",
+      "text": "VT/BU",
+      "confidence": 0.980911910533905,
+      "bbox_px": [
+        186,
+        704,
+        251,
+        726
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 32,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        704,
+        346,
+        726
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 32,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        704,
+        628,
+        726
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 32,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "13",
+      "confidence": 0.9932315945625305,
+      "bbox_px": [
+        628,
+        704,
+        692,
+        726
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 32,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13592509_A470LEFT_FRONT_X1",
+      "confidence": 0.3579024076461792,
+      "bbox_px": [
+        692,
+        704,
+        974,
+        726
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 32,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "8",
+      "confidence": 0.38422825932502747,
+      "bbox_px": [
+        974,
+        704,
+        1070,
+        726
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 32,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        704,
+        1204,
+        726
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 33,
+      "column": 0,
+      "header": "NO",
+      "text": "33",
+      "confidence": 0.9385503530502319,
+      "bbox_px": [
+        0,
+        726,
+        72,
+        748
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 33,
+      "column": 1,
+      "header": "WIRE",
+      "text": "606",
+      "confidence": 0.7091739177703857,
+      "bbox_px": [
+        72,
+        726,
+        140,
+        748
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 33,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        726,
+        186,
+        748
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 33,
+      "column": 3,
+      "header": "COL",
+      "text": "WH",
+      "confidence": 0.6962509751319885,
+      "bbox_px": [
+        186,
+        726,
+        251,
+        748
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 33,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        726,
+        346,
+        748
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 33,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13532124_X604X604_E603_LT_X1_X1",
+      "confidence": 0.7133903503417969,
+      "bbox_px": [
+        346,
+        726,
+        628,
+        748
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 33,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "4",
+      "confidence": 0.9675318002700806,
+      "bbox_px": [
+        628,
+        726,
+        692,
+        748
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 33,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        692,
+        726,
+        974,
+        748
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 33,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "8",
+      "confidence": 0.38422825932502747,
+      "bbox_px": [
+        974,
+        726,
+        1070,
+        748
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 33,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        726,
+        1204,
+        748
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 34,
+      "column": 0,
+      "header": "NO",
+      "text": "34",
+      "confidence": 0.9512712955474854,
+      "bbox_px": [
+        0,
+        748,
+        72,
+        770
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 34,
+      "column": 1,
+      "header": "WIRE",
+      "text": "614",
+      "confidence": 0.7406699657440186,
+      "bbox_px": [
+        72,
+        748,
+        140,
+        770
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 34,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        748,
+        186,
+        770
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 34,
+      "column": 3,
+      "header": "COL",
+      "text": "BU/GN",
+      "confidence": 0.9892679452896118,
+      "bbox_px": [
+        186,
+        748,
+        251,
+        770
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 34,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        748,
+        346,
+        770
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 34,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        748,
+        628,
+        770
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 34,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "42",
+      "confidence": 0.9792335033416748,
+      "bbox_px": [
+        628,
+        748,
+        692,
+        770
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 34,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        748,
+        974,
+        770
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 34,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "6",
+      "confidence": 0.8396745324134827,
+      "bbox_px": [
+        974,
+        748,
+        1070,
+        770
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 34,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        748,
+        1204,
+        770
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 35,
+      "column": 0,
+      "header": "NO",
+      "text": "35",
+      "confidence": 0.9548162817955017,
+      "bbox_px": [
+        0,
+        770,
+        72,
+        792
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 35,
+      "column": 1,
+      "header": "WIRE",
+      "text": "1760",
+      "confidence": 0.8541895747184753,
+      "bbox_px": [
+        72,
+        770,
+        140,
+        792
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 35,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        770,
+        186,
+        792
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 35,
+      "column": 3,
+      "header": "COL",
+      "text": "GY/YE",
+      "confidence": 0.9125546216964722,
+      "bbox_px": [
+        186,
+        770,
+        251,
+        792
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 35,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        770,
+        346,
+        792
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 35,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13532124_X604X604_E603_LT_X1_X1",
+      "confidence": 0.7133903503417969,
+      "bbox_px": [
+        346,
+        770,
+        628,
+        792
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 35,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "1",
+      "confidence": 0.9830824136734009,
+      "bbox_px": [
+        628,
+        770,
+        692,
+        792
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 35,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        692,
+        770,
+        974,
+        792
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 35,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "40",
+      "confidence": 0.718040943145752,
+      "bbox_px": [
+        974,
+        770,
+        1070,
+        792
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 35,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        770,
+        1204,
+        792
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 36,
+      "column": 0,
+      "header": "NO",
+      "text": "36",
+      "confidence": 0.9308171272277832,
+      "bbox_px": [
+        0,
+        792,
+        72,
+        814
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 36,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2150",
+      "confidence": 0.9343165755271912,
+      "bbox_px": [
+        72,
+        792,
+        140,
+        814
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 36,
+      "column": 2,
+      "header": "SQUA",
+      "text": "1.5",
+      "confidence": 0.8764868378639221,
+      "bbox_px": [
+        140,
+        792,
+        186,
+        814
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 36,
+      "column": 3,
+      "header": "COL",
+      "text": "BK",
+      "confidence": 0.87611985206604,
+      "bbox_px": [
+        186,
+        792,
+        251,
+        814
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 36,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P2.4",
+      "confidence": 0.9655864238739014,
+      "bbox_px": [
+        251,
+        792,
+        346,
+        814
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 36,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13592509_A470LEFT_FRONT_X1",
+      "confidence": 0.3579024076461792,
+      "bbox_px": [
+        346,
+        792,
+        628,
+        814
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 36,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "3",
+      "confidence": 0.9846670627593994,
+      "bbox_px": [
+        628,
+        792,
+        692,
+        814
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 36,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "STD_X117SP2150D_X1",
+      "confidence": 0.3397532105445862,
+      "bbox_px": [
+        692,
+        792,
+        974,
+        814
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 36,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "S/J-2",
+      "confidence": 0.9070401191711426,
+      "bbox_px": [
+        974,
+        792,
+        1070,
+        814
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 36,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        792,
+        1204,
+        814
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 37,
+      "column": 0,
+      "header": "NO",
+      "text": "37",
+      "confidence": 0.9549500942230225,
+      "bbox_px": [
+        0,
+        814,
+        72,
+        836
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 37,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2786",
+      "confidence": 0.9853957891464233,
+      "bbox_px": [
+        72,
+        814,
+        140,
+        836
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 37,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        814,
+        186,
+        836
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 37,
+      "column": 3,
+      "header": "COL",
+      "text": "WH/GN",
+      "confidence": 0.989615261554718,
+      "bbox_px": [
+        186,
+        814,
+        251,
+        836
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 37,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        814,
+        346,
+        836
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 37,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13532124_X604X604_E603_LT_X1_X1",
+      "confidence": 0.7133903503417969,
+      "bbox_px": [
+        346,
+        814,
+        628,
+        836
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 37,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "2",
+      "confidence": 0.9576056003570557,
+      "bbox_px": [
+        628,
+        814,
+        692,
+        836
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 37,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        692,
+        814,
+        974,
+        836
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 37,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "20",
+      "confidence": 0.867342472076416,
+      "bbox_px": [
+        974,
+        814,
+        1070,
+        836
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 37,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        814,
+        1204,
+        836
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 38,
+      "column": 0,
+      "header": "NO",
+      "text": "38",
+      "confidence": 0.9556529521942139,
+      "bbox_px": [
+        0,
+        836,
+        72,
+        858
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 38,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2150",
+      "confidence": 0.9343165755271912,
+      "bbox_px": [
+        72,
+        836,
+        140,
+        858
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 38,
+      "column": 2,
+      "header": "SQUA",
+      "text": "1.5",
+      "confidence": 0.8764868378639221,
+      "bbox_px": [
+        140,
+        836,
+        186,
+        858
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 38,
+      "column": 3,
+      "header": "COL",
+      "text": "BK",
+      "confidence": 0.87611985206604,
+      "bbox_px": [
+        186,
+        836,
+        251,
+        858
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 38,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P2.4",
+      "confidence": 0.9655864238739014,
+      "bbox_px": [
+        251,
+        836,
+        346,
+        858
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 38,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        836,
+        628,
+        858
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 38,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "37",
+      "confidence": 0.9389775991439819,
+      "bbox_px": [
+        628,
+        836,
+        692,
+        858
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 38,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "STD_X117SP2150D_X1",
+      "confidence": 0.3397532105445862,
+      "bbox_px": [
+        692,
+        836,
+        974,
+        858
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 38,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "S/J-2",
+      "confidence": 0.9070401191711426,
+      "bbox_px": [
+        974,
+        836,
+        1070,
+        858
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 38,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        836,
+        1204,
+        858
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 39,
+      "column": 0,
+      "header": "NO",
+      "text": "39",
+      "confidence": 0.8406690359115601,
+      "bbox_px": [
+        0,
+        858,
+        72,
+        880
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 39,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2150",
+      "confidence": 0.9343165755271912,
+      "bbox_px": [
+        72,
+        858,
+        140,
+        880
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 39,
+      "column": 2,
+      "header": "SQUA",
+      "text": "2.5",
+      "confidence": 0.9112839102745056,
+      "bbox_px": [
+        140,
+        858,
+        186,
+        880
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 39,
+      "column": 3,
+      "header": "COL",
+      "text": "BK",
+      "confidence": 0.87611985206604,
+      "bbox_px": [
+        186,
+        858,
+        251,
+        880
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 39,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P3",
+      "confidence": 0.9706659913063049,
+      "bbox_px": [
+        251,
+        858,
+        346,
+        880
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 39,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        858,
+        628,
+        880
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 39,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "45",
+      "confidence": 0.9828971028327942,
+      "bbox_px": [
+        628,
+        858,
+        692,
+        880
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 39,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13590001_M617LEFT_FRONT_X1",
+      "confidence": 0.6303408145904541,
+      "bbox_px": [
+        692,
+        858,
+        974,
+        880
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 39,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "1",
+      "confidence": 0.9575291872024536,
+      "bbox_px": [
+        974,
+        858,
+        1070,
+        880
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 39,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        858,
+        1204,
+        880
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 40,
+      "column": 0,
+      "header": "NO",
+      "text": "40",
+      "confidence": 0.9580202102661133,
+      "bbox_px": [
+        0,
+        880,
+        72,
+        902
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 40,
+      "column": 1,
+      "header": "WIRE",
+      "text": "12840",
+      "confidence": 0.9834545850753784,
+      "bbox_px": [
+        72,
+        880,
+        140,
+        902
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 40,
+      "column": 2,
+      "header": "SQUA",
+      "text": "1.5",
+      "confidence": 0.8764868378639221,
+      "bbox_px": [
+        140,
+        880,
+        186,
+        902
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 40,
+      "column": 3,
+      "header": "COL",
+      "text": "RD/GY",
+      "confidence": 0.914171576499939,
+      "bbox_px": [
+        186,
+        880,
+        251,
+        902
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 40,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P2.4",
+      "confidence": 0.9655864238739014,
+      "bbox_px": [
+        251,
+        880,
+        346,
+        902
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 40,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        880,
+        628,
+        902
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 40,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "47",
+      "confidence": 0.9751468896865845,
+      "bbox_px": [
+        628,
+        880,
+        692,
+        902
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 40,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13592509_A470LEFT_FRONT_X1",
+      "confidence": 0.3579024076461792,
+      "bbox_px": [
+        692,
+        880,
+        974,
+        902
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 40,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "4",
+      "confidence": 0.8980842232704163,
+      "bbox_px": [
+        974,
+        880,
+        1070,
+        902
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 40,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        880,
+        1204,
+        902
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 41,
+      "column": 0,
+      "header": "NO",
+      "text": "41",
+      "confidence": 0.9719884991645813,
+      "bbox_px": [
+        0,
+        902,
+        72,
+        924
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 41,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2150",
+      "confidence": 0.9343165755271912,
+      "bbox_px": [
+        72,
+        902,
+        140,
+        924
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 41,
+      "column": 2,
+      "header": "SQUA",
+      "text": "1.5",
+      "confidence": 0.8764868378639221,
+      "bbox_px": [
+        140,
+        902,
+        186,
+        924
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 41,
+      "column": 3,
+      "header": "COL",
+      "text": "BK",
+      "confidence": 0.87611985206604,
+      "bbox_px": [
+        186,
+        902,
+        251,
+        924
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 41,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P2.4",
+      "confidence": 0.9655864238739014,
+      "bbox_px": [
+        251,
+        902,
+        346,
+        924
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 41,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13591047_Y626LEFT_FRONT_MAO_X2",
+      "confidence": 0.7973337769508362,
+      "bbox_px": [
+        346,
+        902,
+        628,
+        924
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 41,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "5",
+      "confidence": 0.9280694127082825,
+      "bbox_px": [
+        628,
+        902,
+        692,
+        924
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 41,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "STD_X117SP2150D_X1",
+      "confidence": 0.3397532105445862,
+      "bbox_px": [
+        692,
+        902,
+        974,
+        924
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 41,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "S/J-2",
+      "confidence": 0.9070401191711426,
+      "bbox_px": [
+        974,
+        902,
+        1070,
+        924
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 41,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        902,
+        1204,
+        924
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 42,
+      "column": 0,
+      "header": "NO",
+      "text": "42",
+      "confidence": 0.9640675783157349,
+      "bbox_px": [
+        0,
+        924,
+        72,
+        946
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 42,
+      "column": 1,
+      "header": "WIRE",
+      "text": "11532",
+      "confidence": 0.9950555562973022,
+      "bbox_px": [
+        72,
+        924,
+        140,
+        946
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 42,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        924,
+        186,
+        946
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 42,
+      "column": 3,
+      "header": "COL",
+      "text": "GY/GN",
+      "confidence": 0.9663314819335938,
+      "bbox_px": [
+        186,
+        924,
+        251,
+        946
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 42,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        924,
+        346,
+        946
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 42,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13532124_X604X604_E603_LT_X1_X1",
+      "confidence": 0.7133903503417969,
+      "bbox_px": [
+        346,
+        924,
+        628,
+        946
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 42,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "7",
+      "confidence": 0.8806031346321106,
+      "bbox_px": [
+        628,
+        924,
+        692,
+        946
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 42,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        924,
+        974,
+        946
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 42,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "11",
+      "confidence": 0.8090989589691162,
+      "bbox_px": [
+        974,
+        924,
+        1070,
+        946
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 42,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        924,
+        1204,
+        946
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 43,
+      "column": 0,
+      "header": "NO",
+      "text": "43",
+      "confidence": 0.9411747455596924,
+      "bbox_px": [
+        0,
+        946,
+        72,
+        968
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 43,
+      "column": 1,
+      "header": "WIRE",
+      "text": "3758",
+      "confidence": 0.9138616919517517,
+      "bbox_px": [
+        72,
+        946,
+        140,
+        968
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 43,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        946,
+        186,
+        968
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 43,
+      "column": 3,
+      "header": "COL",
+      "text": "GN/GY",
+      "confidence": 0.9938041567802429,
+      "bbox_px": [
+        186,
+        946,
+        251,
+        968
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 43,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        946,
+        346,
+        968
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 43,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        946,
+        628,
+        968
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 43,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "2",
+      "confidence": 0.9576056003570557,
+      "bbox_px": [
+        628,
+        946,
+        692,
+        968
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 43,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        946,
+        974,
+        968
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 43,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "2",
+      "confidence": 0.881200909614563,
+      "bbox_px": [
+        974,
+        946,
+        1070,
+        968
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 43,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        946,
+        1204,
+        968
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 44,
+      "column": 0,
+      "header": "NO",
+      "text": "44",
+      "confidence": 0.9260141849517822,
+      "bbox_px": [
+        0,
+        968,
+        72,
+        990
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 44,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2150",
+      "confidence": 0.9343165755271912,
+      "bbox_px": [
+        72,
+        968,
+        140,
+        990
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 44,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        968,
+        186,
+        990
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 44,
+      "column": 3,
+      "header": "COL",
+      "text": "BK",
+      "confidence": 0.87611985206604,
+      "bbox_px": [
+        186,
+        968,
+        251,
+        990
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 44,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        968,
+        346,
+        990
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 44,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13590425_Y572LEFT_FRONT_X1",
+      "confidence": 0.4442039430141449,
+      "bbox_px": [
+        346,
+        968,
+        628,
+        990
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 44,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "11",
+      "confidence": 0.9746928811073303,
+      "bbox_px": [
+        628,
+        968,
+        692,
+        990
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 44,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "STD_X117SP2150W_X1",
+      "confidence": 0.3277950584888458,
+      "bbox_px": [
+        692,
+        968,
+        974,
+        990
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 44,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "S/J-2",
+      "confidence": 0.9070401191711426,
+      "bbox_px": [
+        974,
+        968,
+        1070,
+        990
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 44,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        968,
+        1204,
+        990
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 45,
+      "column": 0,
+      "header": "NO",
+      "text": "45",
+      "confidence": 0.9682557582855225,
+      "bbox_px": [
+        0,
+        990,
+        72,
+        1012
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 45,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2785",
+      "confidence": 0.9871290326118469,
+      "bbox_px": [
+        72,
+        990,
+        140,
+        1012
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 45,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        990,
+        186,
+        1012
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 45,
+      "column": 3,
+      "header": "COL",
+      "text": "GY/WH",
+      "confidence": 0.8970891237258911,
+      "bbox_px": [
+        186,
+        990,
+        251,
+        1012
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 45,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        990,
+        346,
+        1012
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 45,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13532124_X604X604_E603_LT_X1_X1",
+      "confidence": 0.7133903503417969,
+      "bbox_px": [
+        346,
+        990,
+        628,
+        1012
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 45,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "9",
+      "confidence": 0.7419978976249695,
+      "bbox_px": [
+        628,
+        990,
+        692,
+        1012
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 45,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        692,
+        990,
+        974,
+        1012
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 45,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "21",
+      "confidence": 0.8225404620170593,
+      "bbox_px": [
+        974,
+        990,
+        1070,
+        1012
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 45,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        990,
+        1204,
+        1012
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 46,
+      "column": 0,
+      "header": "NO",
+      "text": "46",
+      "confidence": 0.9423444271087646,
+      "bbox_px": [
+        0,
+        1012,
+        72,
+        1034
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 46,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2150",
+      "confidence": 0.9343165755271912,
+      "bbox_px": [
+        72,
+        1012,
+        140,
+        1034
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 46,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1012,
+        186,
+        1034
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 46,
+      "column": 3,
+      "header": "COL",
+      "text": "BK",
+      "confidence": 0.87611985206604,
+      "bbox_px": [
+        186,
+        1012,
+        251,
+        1034
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 46,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1012,
+        346,
+        1034
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 46,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13514590_X604X604_A471_X1",
+      "confidence": 0.41224732995033264,
+      "bbox_px": [
+        346,
+        1012,
+        628,
+        1034
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 46,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "3",
+      "confidence": 0.9846670627593994,
+      "bbox_px": [
+        628,
+        1012,
+        692,
+        1034
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 46,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "STD_X117SP2150W_X1",
+      "confidence": 0.3277950584888458,
+      "bbox_px": [
+        692,
+        1012,
+        974,
+        1034
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 46,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "S/J-2",
+      "confidence": 0.9070401191711426,
+      "bbox_px": [
+        974,
+        1012,
+        1070,
+        1034
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 46,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1012,
+        1204,
+        1034
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 47,
+      "column": 0,
+      "header": "NO",
+      "text": "47",
+      "confidence": 0.9588049054145813,
+      "bbox_px": [
+        0,
+        1034,
+        72,
+        1056
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 47,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2764",
+      "confidence": 0.9084290266036987,
+      "bbox_px": [
+        72,
+        1034,
+        140,
+        1056
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 47,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1034,
+        186,
+        1056
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 47,
+      "column": 3,
+      "header": "COL",
+      "text": "WH/BN",
+      "confidence": 0.9875258207321167,
+      "bbox_px": [
+        186,
+        1034,
+        251,
+        1056
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 47,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1034,
+        346,
+        1056
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 47,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        1034,
+        628,
+        1056
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 47,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "16",
+      "confidence": 0.9699780344963074,
+      "bbox_px": [
+        628,
+        1034,
+        692,
+        1056
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 47,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13590001_M617LEFT_FRONT_X1",
+      "confidence": 0.6303408145904541,
+      "bbox_px": [
+        692,
+        1034,
+        974,
+        1056
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 47,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "7",
+      "confidence": 0.8088306784629822,
+      "bbox_px": [
+        974,
+        1034,
+        1070,
+        1056
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 47,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1034,
+        1204,
+        1056
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 48,
+      "column": 0,
+      "header": "NO",
+      "text": "48",
+      "confidence": 0.9581323862075806,
+      "bbox_px": [
+        0,
+        1056,
+        72,
+        1078
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 48,
+      "column": 1,
+      "header": "WIRE",
+      "text": "3840",
+      "confidence": 0.9647987484931946,
+      "bbox_px": [
+        72,
+        1056,
+        140,
+        1078
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 48,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1056,
+        186,
+        1078
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 48,
+      "column": 3,
+      "header": "COL",
+      "text": "RD/GN",
+      "confidence": 0.9016769528388977,
+      "bbox_px": [
+        186,
+        1056,
+        251,
+        1078
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 48,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1056,
+        346,
+        1078
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 48,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13590425_Y572LEFT_FRONT_X1",
+      "confidence": 0.4442039430141449,
+      "bbox_px": [
+        346,
+        1056,
+        628,
+        1078
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 48,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "3",
+      "confidence": 0.9846670627593994,
+      "bbox_px": [
+        628,
+        1056,
+        692,
+        1078
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 48,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "STD_X117SP3840_X1",
+      "confidence": 0.2914196848869324,
+      "bbox_px": [
+        692,
+        1056,
+        974,
+        1078
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 48,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "S/J-1",
+      "confidence": 0.8987247347831726,
+      "bbox_px": [
+        974,
+        1056,
+        1070,
+        1078
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 48,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1056,
+        1204,
+        1078
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 49,
+      "column": 0,
+      "header": "NO",
+      "text": "49",
+      "confidence": 0.8242905139923096,
+      "bbox_px": [
+        0,
+        1078,
+        72,
+        1100
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 49,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2687",
+      "confidence": 0.937950074672699,
+      "bbox_px": [
+        72,
+        1078,
+        140,
+        1100
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 49,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.75",
+      "confidence": 0.9939616322517395,
+      "bbox_px": [
+        140,
+        1078,
+        186,
+        1100
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 49,
+      "column": 3,
+      "header": "COL",
+      "text": "VT/BU",
+      "confidence": 0.980911910533905,
+      "bbox_px": [
+        186,
+        1078,
+        251,
+        1100
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 49,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1078,
+        346,
+        1100
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 49,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13519739_Y626LEFT_FRONT_MAO_X1",
+      "confidence": 0.8428352475166321,
+      "bbox_px": [
+        346,
+        1078,
+        628,
+        1100
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 49,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "14",
+      "confidence": 0.9857479333877563,
+      "bbox_px": [
+        628,
+        1078,
+        692,
+        1100
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 49,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        1078,
+        974,
+        1100
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 49,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "36",
+      "confidence": 0.8461750745773315,
+      "bbox_px": [
+        974,
+        1078,
+        1070,
+        1100
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 49,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1078,
+        1204,
+        1100
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 50,
+      "column": 0,
+      "header": "NO",
+      "text": "50",
+      "confidence": 0.8706471920013428,
+      "bbox_px": [
+        0,
+        1100,
+        72,
+        1122
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 50,
+      "column": 1,
+      "header": "WIRE",
+      "text": "1874",
+      "confidence": 0.9956815838813782,
+      "bbox_px": [
+        72,
+        1100,
+        140,
+        1122
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 50,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.75",
+      "confidence": 0.9939616322517395,
+      "bbox_px": [
+        140,
+        1100,
+        186,
+        1122
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 50,
+      "column": 3,
+      "header": "COL",
+      "text": "BU/VT",
+      "confidence": 0.8512035608291626,
+      "bbox_px": [
+        186,
+        1100,
+        251,
+        1122
+      ],
+      "decision_source": "image_read_correction"
+    },
+    {
+      "row": 50,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1100,
+        346,
+        1122
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 50,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        1100,
+        628,
+        1122
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 50,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "38",
+      "confidence": 0.9654708504676819,
+      "bbox_px": [
+        628,
+        1100,
+        692,
+        1122
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 50,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        1100,
+        974,
+        1122
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 50,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "31",
+      "confidence": 0.864726185798645,
+      "bbox_px": [
+        974,
+        1100,
+        1070,
+        1122
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 50,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "TW1874_W61",
+      "confidence": 0.9602214097976685,
+      "bbox_px": [
+        1070,
+        1100,
+        1204,
+        1122
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 51,
+      "column": 0,
+      "header": "NO",
+      "text": "51",
+      "confidence": 0.9658530950546265,
+      "bbox_px": [
+        0,
+        1122,
+        72,
+        1144
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 51,
+      "column": 1,
+      "header": "WIRE",
+      "text": "12418",
+      "confidence": 0.9311010241508484,
+      "bbox_px": [
+        72,
+        1122,
+        140,
+        1144
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 51,
+      "column": 2,
+      "header": "SQUA",
+      "text": "1",
+      "confidence": 0.9978575110435486,
+      "bbox_px": [
+        140,
+        1122,
+        186,
+        1144
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 51,
+      "column": 3,
+      "header": "COL",
+      "text": "BN/WH",
+      "confidence": 0.9854739308357239,
+      "bbox_px": [
+        186,
+        1122,
+        251,
+        1144
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 51,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P2.1",
+      "confidence": 0.9892813563346863,
+      "bbox_px": [
+        251,
+        1122,
+        346,
+        1144
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 51,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13590425_Y572LEFT_FRONT_X1",
+      "confidence": 0.4442039430141449,
+      "bbox_px": [
+        346,
+        1122,
+        628,
+        1144
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 51,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "6",
+      "confidence": 0.9236290454864502,
+      "bbox_px": [
+        628,
+        1122,
+        692,
+        1144
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 51,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13592509_A470LEFT_FRONT_X1",
+      "confidence": 0.3579024076461792,
+      "bbox_px": [
+        692,
+        1122,
+        974,
+        1144
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 51,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "1",
+      "confidence": 0.9575291872024536,
+      "bbox_px": [
+        974,
+        1122,
+        1070,
+        1144
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 51,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1122,
+        1204,
+        1144
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 52,
+      "column": 0,
+      "header": "NO",
+      "text": "52",
+      "confidence": 0.9353752136230469,
+      "bbox_px": [
+        0,
+        1144,
+        72,
+        1166
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 52,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2788",
+      "confidence": 0.9780677556991577,
+      "bbox_px": [
+        72,
+        1144,
+        140,
+        1166
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 52,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1144,
+        186,
+        1166
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 52,
+      "column": 3,
+      "header": "COL",
+      "text": "VT/BU",
+      "confidence": 0.980911910533905,
+      "bbox_px": [
+        186,
+        1144,
+        251,
+        1166
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 52,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1144,
+        346,
+        1166
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 52,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13532124_X604X604_E603_LT_X1_X1",
+      "confidence": 0.7133903503417969,
+      "bbox_px": [
+        346,
+        1144,
+        628,
+        1166
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 52,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "3",
+      "confidence": 0.9846670627593994,
+      "bbox_px": [
+        628,
+        1144,
+        692,
+        1166
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 52,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        692,
+        1144,
+        974,
+        1166
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 52,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "23",
+      "confidence": 0.9005483388900757,
+      "bbox_px": [
+        974,
+        1144,
+        1070,
+        1166
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 52,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1144,
+        1204,
+        1166
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 53,
+      "column": 0,
+      "header": "NO",
+      "text": "53",
+      "confidence": 0.9202547073364258,
+      "bbox_px": [
+        0,
+        1166,
+        72,
+        1188
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 53,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2150",
+      "confidence": 0.9343165755271912,
+      "bbox_px": [
+        72,
+        1166,
+        140,
+        1188
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 53,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.75",
+      "confidence": 0.9939616322517395,
+      "bbox_px": [
+        140,
+        1166,
+        186,
+        1188
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 53,
+      "column": 3,
+      "header": "COL",
+      "text": "BK",
+      "confidence": 0.87611985206604,
+      "bbox_px": [
+        186,
+        1166,
+        251,
+        1188
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 53,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.9",
+      "confidence": 0.9814736843109131,
+      "bbox_px": [
+        251,
+        1166,
+        346,
+        1188
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 53,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        1166,
+        628,
+        1188
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 53,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "20",
+      "confidence": 0.9690465927124023,
+      "bbox_px": [
+        628,
+        1166,
+        692,
+        1188
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 53,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "STD_X117SP2150W_X1",
+      "confidence": 0.3277950584888458,
+      "bbox_px": [
+        692,
+        1166,
+        974,
+        1188
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 53,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "S/J-2",
+      "confidence": 0.9070401191711426,
+      "bbox_px": [
+        974,
+        1166,
+        1070,
+        1188
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 53,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1166,
+        1204,
+        1188
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 54,
+      "column": 0,
+      "header": "NO",
+      "text": "54",
+      "confidence": 0.9249256253242493,
+      "bbox_px": [
+        0,
+        1188,
+        72,
+        1210
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 54,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2763",
+      "confidence": 0.8772016167640686,
+      "bbox_px": [
+        72,
+        1188,
+        140,
+        1210
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 54,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1188,
+        186,
+        1210
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 54,
+      "column": 3,
+      "header": "COL",
+      "text": "GY/GN",
+      "confidence": 0.9663314819335938,
+      "bbox_px": [
+        186,
+        1188,
+        251,
+        1210
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 54,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1188,
+        346,
+        1210
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 54,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        1188,
+        628,
+        1210
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 54,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "17",
+      "confidence": 0.9842754006385803,
+      "bbox_px": [
+        628,
+        1188,
+        692,
+        1210
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 54,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13590001_M617LEFT_FRONT_X1",
+      "confidence": 0.6303408145904541,
+      "bbox_px": [
+        692,
+        1188,
+        974,
+        1210
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 54,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "3",
+      "confidence": 0.947758138179779,
+      "bbox_px": [
+        974,
+        1188,
+        1070,
+        1210
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 54,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1188,
+        1204,
+        1210
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 55,
+      "column": 0,
+      "header": "NO",
+      "text": "55",
+      "confidence": 0.9292391538619995,
+      "bbox_px": [
+        0,
+        1210,
+        72,
+        1232
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 55,
+      "column": 1,
+      "header": "WIRE",
+      "text": "12417",
+      "confidence": 0.9393831491470337,
+      "bbox_px": [
+        72,
+        1210,
+        140,
+        1232
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 55,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1210,
+        186,
+        1232
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 55,
+      "column": 3,
+      "header": "COL",
+      "text": "BU",
+      "confidence": 0.7550188302993774,
+      "bbox_px": [
+        186,
+        1210,
+        251,
+        1232
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 55,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1210,
+        346,
+        1232
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 55,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13590425_Y572LEFT_FRONT_X1",
+      "confidence": 0.4442039430141449,
+      "bbox_px": [
+        346,
+        1210,
+        628,
+        1232
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 55,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "10",
+      "confidence": 0.8538548946380615,
+      "bbox_px": [
+        628,
+        1210,
+        692,
+        1232
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 55,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13592509_A470LEFT_FRONT_X1",
+      "confidence": 0.3579024076461792,
+      "bbox_px": [
+        692,
+        1210,
+        974,
+        1232
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 55,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "12",
+      "confidence": 0.960374116897583,
+      "bbox_px": [
+        974,
+        1210,
+        1070,
+        1232
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 55,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1210,
+        1204,
+        1232
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 56,
+      "column": 0,
+      "header": "NO",
+      "text": "56",
+      "confidence": 0.8859163522720337,
+      "bbox_px": [
+        0,
+        1232,
+        72,
+        1254
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 56,
+      "column": 1,
+      "header": "WIRE",
+      "text": "3140",
+      "confidence": 0.9739952087402344,
+      "bbox_px": [
+        72,
+        1232,
+        140,
+        1254
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 56,
+      "column": 2,
+      "header": "SQUA",
+      "text": "1.5",
+      "confidence": 0.8764868378639221,
+      "bbox_px": [
+        140,
+        1232,
+        186,
+        1254
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 56,
+      "column": 3,
+      "header": "COL",
+      "text": "RD/GN",
+      "confidence": 0.9016769528388977,
+      "bbox_px": [
+        186,
+        1232,
+        251,
+        1254
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 56,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P2.4",
+      "confidence": 0.9655864238739014,
+      "bbox_px": [
+        251,
+        1232,
+        346,
+        1254
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 56,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        1232,
+        628,
+        1254
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 56,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "3",
+      "confidence": 0.9846670627593994,
+      "bbox_px": [
+        628,
+        1232,
+        692,
+        1254
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 56,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13591047_Y626LEFT_FRONT_MAO_X2",
+      "confidence": 0.7973337769508362,
+      "bbox_px": [
+        692,
+        1232,
+        974,
+        1254
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 56,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "1",
+      "confidence": 0.9575291872024536,
+      "bbox_px": [
+        974,
+        1232,
+        1070,
+        1254
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 56,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1232,
+        1204,
+        1254
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 57,
+      "column": 0,
+      "header": "NO",
+      "text": "57",
+      "confidence": 0.9029358625411987,
+      "bbox_px": [
+        0,
+        1254,
+        72,
+        1276
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 57,
+      "column": 1,
+      "header": "WIRE",
+      "text": "1690",
+      "confidence": 0.9631198048591614,
+      "bbox_px": [
+        72,
+        1254,
+        140,
+        1276
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 57,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1254,
+        186,
+        1276
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 57,
+      "column": 3,
+      "header": "COL",
+      "text": "YE/WH",
+      "confidence": 0.9231104850769043,
+      "bbox_px": [
+        186,
+        1254,
+        251,
+        1276
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 57,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1254,
+        346,
+        1276
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 57,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13543056_X604X604_E603_LT_X2_X2",
+      "confidence": 0.6862487196922302,
+      "bbox_px": [
+        346,
+        1254,
+        628,
+        1276
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 57,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "3",
+      "confidence": 0.9846670627593994,
+      "bbox_px": [
+        628,
+        1254,
+        692,
+        1276
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 57,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        1254,
+        974,
+        1276
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 57,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "26",
+      "confidence": 0.8108731508255005,
+      "bbox_px": [
+        974,
+        1254,
+        1070,
+        1276
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 57,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1254,
+        1204,
+        1276
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 58,
+      "column": 0,
+      "header": "NO",
+      "text": "58",
+      "confidence": 0.9406944513320923,
+      "bbox_px": [
+        0,
+        1276,
+        72,
+        1298
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 58,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2861",
+      "confidence": 0.982981264591217,
+      "bbox_px": [
+        72,
+        1276,
+        140,
+        1298
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 58,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1276,
+        186,
+        1298
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 58,
+      "column": 3,
+      "header": "COL",
+      "text": "GN/WH",
+      "confidence": 0.9918555021286011,
+      "bbox_px": [
+        186,
+        1276,
+        251,
+        1298
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 58,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1276,
+        346,
+        1298
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 58,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        1276,
+        628,
+        1298
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 58,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "29",
+      "confidence": 0.9148167371749878,
+      "bbox_px": [
+        628,
+        1276,
+        692,
+        1298
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 58,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        1276,
+        974,
+        1298
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 58,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "32",
+      "confidence": 0.8856498003005981,
+      "bbox_px": [
+        974,
+        1276,
+        1070,
+        1298
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 58,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1276,
+        1204,
+        1298
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 59,
+      "column": 0,
+      "header": "NO",
+      "text": "59",
+      "confidence": 0.6972846984863281,
+      "bbox_px": [
+        0,
+        1298,
+        72,
+        1320
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 59,
+      "column": 1,
+      "header": "WIRE",
+      "text": "6134",
+      "confidence": 0.8222270011901855,
+      "bbox_px": [
+        72,
+        1298,
+        140,
+        1320
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 59,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1298,
+        186,
+        1320
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 59,
+      "column": 3,
+      "header": "COL",
+      "text": "GN/YE",
+      "confidence": 0.9711821675300598,
+      "bbox_px": [
+        186,
+        1298,
+        251,
+        1320
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 59,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1298,
+        346,
+        1320
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 59,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        1298,
+        628,
+        1320
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 59,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "43",
+      "confidence": 0.9848119616508484,
+      "bbox_px": [
+        628,
+        1298,
+        692,
+        1320
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 59,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13590001_M617LEFT_FRONT_X1",
+      "confidence": 0.6303408145904541,
+      "bbox_px": [
+        692,
+        1298,
+        974,
+        1320
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 59,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "4",
+      "confidence": 0.8980842232704163,
+      "bbox_px": [
+        974,
+        1298,
+        1070,
+        1320
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 59,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1298,
+        1204,
+        1320
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 60,
+      "column": 0,
+      "header": "NO",
+      "text": "60",
+      "confidence": 0.7543694376945496,
+      "bbox_px": [
+        0,
+        1320,
+        72,
+        1342
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 60,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2787",
+      "confidence": 0.9914411306381226,
+      "bbox_px": [
+        72,
+        1320,
+        140,
+        1342
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 60,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1320,
+        186,
+        1342
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 60,
+      "column": 3,
+      "header": "COL",
+      "text": "GY/BN",
+      "confidence": 0.9802361726760864,
+      "bbox_px": [
+        186,
+        1320,
+        251,
+        1342
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 60,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1320,
+        346,
+        1342
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 60,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        1320,
+        628,
+        1342
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 60,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "22",
+      "confidence": 0.8971095085144043,
+      "bbox_px": [
+        628,
+        1320,
+        692,
+        1342
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 60,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13543056_X604X604_E603_LT_X2_X2",
+      "confidence": 0.6862487196922302,
+      "bbox_px": [
+        692,
+        1320,
+        974,
+        1342
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 60,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "6",
+      "confidence": 0.8396745324134827,
+      "bbox_px": [
+        974,
+        1320,
+        1070,
+        1342
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 60,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1320,
+        1204,
+        1342
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 61,
+      "column": 0,
+      "header": "NO",
+      "text": "61",
+      "confidence": 0.8845324516296387,
+      "bbox_px": [
+        0,
+        1342,
+        72,
+        1364
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 61,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2150",
+      "confidence": 0.9343165755271912,
+      "bbox_px": [
+        72,
+        1342,
+        140,
+        1364
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 61,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1342,
+        186,
+        1364
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 61,
+      "column": 3,
+      "header": "COL",
+      "text": "BK",
+      "confidence": 0.87611985206604,
+      "bbox_px": [
+        186,
+        1342,
+        251,
+        1364
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 61,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1342,
+        346,
+        1364
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 61,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        1342,
+        628,
+        1364
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 61,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "12",
+      "confidence": 0.9891317486763,
+      "bbox_px": [
+        628,
+        1342,
+        692,
+        1364
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 61,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        1342,
+        974,
+        1364
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 61,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "19",
+      "confidence": 0.9169067144393921,
+      "bbox_px": [
+        974,
+        1342,
+        1070,
+        1364
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 61,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1342,
+        1204,
+        1364
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 62,
+      "column": 0,
+      "header": "NO",
+      "text": "62",
+      "confidence": 0.8039624094963074,
+      "bbox_px": [
+        0,
+        1364,
+        72,
+        1386
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 62,
+      "column": 1,
+      "header": "WIRE",
+      "text": "118",
+      "confidence": 0.8878588676452637,
+      "bbox_px": [
+        72,
+        1364,
+        140,
+        1386
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 62,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.75",
+      "confidence": 0.9939616322517395,
+      "bbox_px": [
+        140,
+        1364,
+        186,
+        1386
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 62,
+      "column": 3,
+      "header": "COL",
+      "text": "BN/BU",
+      "confidence": 0.9780847430229187,
+      "bbox_px": [
+        186,
+        1364,
+        251,
+        1386
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 62,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.9",
+      "confidence": 0.9814736843109131,
+      "bbox_px": [
+        251,
+        1364,
+        346,
+        1386
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 62,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        1364,
+        628,
+        1386
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 62,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "14",
+      "confidence": 0.9857479333877563,
+      "bbox_px": [
+        628,
+        1364,
+        692,
+        1386
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 62,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13582917_B198LEFT_FRONT_X1",
+      "confidence": 0.6276980638504028,
+      "bbox_px": [
+        692,
+        1364,
+        974,
+        1386
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 62,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "1",
+      "confidence": 0.9575291872024536,
+      "bbox_px": [
+        974,
+        1364,
+        1070,
+        1386
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 62,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "TW118_W615",
+      "confidence": 0.9378147125244141,
+      "bbox_px": [
+        1070,
+        1364,
+        1204,
+        1386
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 63,
+      "column": 0,
+      "header": "NO",
+      "text": "63",
+      "confidence": 0.7971054315567017,
+      "bbox_px": [
+        0,
+        1386,
+        72,
+        1408
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 63,
+      "column": 1,
+      "header": "WIRE",
+      "text": "8053",
+      "confidence": 0.9578026533126831,
+      "bbox_px": [
+        72,
+        1386,
+        140,
+        1408
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 63,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.75",
+      "confidence": 0.9939616322517395,
+      "bbox_px": [
+        140,
+        1386,
+        186,
+        1408
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 63,
+      "column": 3,
+      "header": "COL",
+      "text": "WH/GN",
+      "confidence": 0.989615261554718,
+      "bbox_px": [
+        186,
+        1386,
+        251,
+        1408
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 63,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.9",
+      "confidence": 0.9814736843109131,
+      "bbox_px": [
+        251,
+        1386,
+        346,
+        1408
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 63,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13512366_M651LEFT_FRONT_X1",
+      "confidence": 0.5569363236427307,
+      "bbox_px": [
+        346,
+        1386,
+        628,
+        1408
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 63,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "1",
+      "confidence": 0.9830824136734009,
+      "bbox_px": [
+        628,
+        1386,
+        692,
+        1408
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 63,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13591047_Y626LEFT_FRONT_MAO_X2",
+      "confidence": 0.7973337769508362,
+      "bbox_px": [
+        692,
+        1386,
+        974,
+        1408
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 63,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "8",
+      "confidence": 0.38422825932502747,
+      "bbox_px": [
+        974,
+        1386,
+        1070,
+        1408
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 63,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1386,
+        1204,
+        1408
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 64,
+      "column": 0,
+      "header": "NO",
+      "text": "64",
+      "confidence": 0.8386385440826416,
+      "bbox_px": [
+        0,
+        1408,
+        72,
+        1430
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 64,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2674",
+      "confidence": 0.9162147045135498,
+      "bbox_px": [
+        72,
+        1408,
+        140,
+        1430
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 64,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1408,
+        186,
+        1430
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 64,
+      "column": 3,
+      "header": "COL",
+      "text": "GY",
+      "confidence": 0.6427358388900757,
+      "bbox_px": [
+        186,
+        1408,
+        251,
+        1430
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 64,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1408,
+        346,
+        1430
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 64,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        1408,
+        628,
+        1430
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 64,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "15",
+      "confidence": 0.9904367327690125,
+      "bbox_px": [
+        628,
+        1408,
+        692,
+        1430
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 64,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13590425_Y572LEFT_FRONT_X1",
+      "confidence": 0.4442039430141449,
+      "bbox_px": [
+        692,
+        1408,
+        974,
+        1430
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 64,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "2",
+      "confidence": 0.881200909614563,
+      "bbox_px": [
+        974,
+        1408,
+        1070,
+        1430
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 64,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1408,
+        1204,
+        1430
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 65,
+      "column": 0,
+      "header": "NO",
+      "text": "65",
+      "confidence": 0.8290526866912842,
+      "bbox_px": [
+        0,
+        1430,
+        72,
+        1452
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 65,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2683",
+      "confidence": 0.9172360897064209,
+      "bbox_px": [
+        72,
+        1430,
+        140,
+        1452
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 65,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.75",
+      "confidence": 0.9939616322517395,
+      "bbox_px": [
+        140,
+        1430,
+        186,
+        1452
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 65,
+      "column": 3,
+      "header": "COL",
+      "text": "VT/GY",
+      "confidence": 0.9862592816352844,
+      "bbox_px": [
+        186,
+        1430,
+        251,
+        1452
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 65,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.9",
+      "confidence": 0.9814736843109131,
+      "bbox_px": [
+        251,
+        1430,
+        346,
+        1452
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 65,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13519739_Y626LEFT_FRONT_MAO_X1",
+      "confidence": 0.8428352475166321,
+      "bbox_px": [
+        346,
+        1430,
+        628,
+        1452
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 65,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "12",
+      "confidence": 0.9891317486763,
+      "bbox_px": [
+        628,
+        1430,
+        692,
+        1452
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 65,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        1430,
+        974,
+        1452
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 65,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "35",
+      "confidence": 0.8951148986816406,
+      "bbox_px": [
+        974,
+        1430,
+        1070,
+        1452
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 65,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1430,
+        1204,
+        1452
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 66,
+      "column": 0,
+      "header": "NO",
+      "text": "66",
+      "confidence": 0.6647424101829529,
+      "bbox_px": [
+        0,
+        1452,
+        72,
+        1474
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 66,
+      "column": 1,
+      "header": "WIRE",
+      "text": "1691",
+      "confidence": 0.9943615198135376,
+      "bbox_px": [
+        72,
+        1452,
+        140,
+        1474
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 66,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1452,
+        186,
+        1474
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 66,
+      "column": 3,
+      "header": "COL",
+      "text": "BK/YE",
+      "confidence": 0.8729286193847656,
+      "bbox_px": [
+        186,
+        1452,
+        251,
+        1474
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 66,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1452,
+        346,
+        1474
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 66,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13543056_X604X604_E603_LT_X2_X2",
+      "confidence": 0.6862487196922302,
+      "bbox_px": [
+        346,
+        1452,
+        628,
+        1474
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 66,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "5",
+      "confidence": 0.9280694127082825,
+      "bbox_px": [
+        628,
+        1452,
+        692,
+        1474
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 66,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        1452,
+        974,
+        1474
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 66,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "25",
+      "confidence": 0.8744350671768188,
+      "bbox_px": [
+        974,
+        1452,
+        1070,
+        1474
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 66,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1452,
+        1204,
+        1474
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 67,
+      "column": 0,
+      "header": "NO",
+      "text": "67",
+      "confidence": 0.8051474094390869,
+      "bbox_px": [
+        0,
+        1474,
+        72,
+        1496
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 67,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2132",
+      "confidence": 0.965135931968689,
+      "bbox_px": [
+        72,
+        1474,
+        140,
+        1496
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 67,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1474,
+        186,
+        1496
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 67,
+      "column": 3,
+      "header": "COL",
+      "text": "OG/GN",
+      "confidence": 0.9916760325431824,
+      "bbox_px": [
+        186,
+        1474,
+        251,
+        1496
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 67,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1474,
+        346,
+        1496
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 67,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        346,
+        1474,
+        628,
+        1496
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 67,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "27",
+      "confidence": 0.8539752960205078,
+      "bbox_px": [
+        628,
+        1474,
+        692,
+        1496
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 67,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "19151432_B63DOOR_LFR_X1",
+      "confidence": 0.36816415190696716,
+      "bbox_px": [
+        692,
+        1474,
+        974,
+        1496
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 67,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "1",
+      "confidence": 0.9575291872024536,
+      "bbox_px": [
+        974,
+        1474,
+        1070,
+        1496
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 67,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "TW2132_W61",
+      "confidence": 0.901445209980011,
+      "bbox_px": [
+        1070,
+        1474,
+        1204,
+        1496
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 68,
+      "column": 0,
+      "header": "NO",
+      "text": "68",
+      "confidence": 0.8258874416351318,
+      "bbox_px": [
+        0,
+        1496,
+        72,
+        1518
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 68,
+      "column": 1,
+      "header": "WIRE",
+      "text": "6134",
+      "confidence": 0.8222270011901855,
+      "bbox_px": [
+        72,
+        1496,
+        140,
+        1518
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 68,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1496,
+        186,
+        1518
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 68,
+      "column": 3,
+      "header": "COL",
+      "text": "GN/YE",
+      "confidence": 0.9711821675300598,
+      "bbox_px": [
+        186,
+        1496,
+        251,
+        1518
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 68,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1496,
+        346,
+        1518
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 68,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        1496,
+        628,
+        1518
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 68,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "14",
+      "confidence": 0.9857479333877563,
+      "bbox_px": [
+        628,
+        1496,
+        692,
+        1518
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 68,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        1496,
+        974,
+        1518
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 68,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "43",
+      "confidence": 0.9330720901489258,
+      "bbox_px": [
+        974,
+        1496,
+        1070,
+        1518
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 68,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1496,
+        1204,
+        1518
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 69,
+      "column": 0,
+      "header": "NO",
+      "text": "69",
+      "confidence": 0.6526983380317688,
+      "bbox_px": [
+        0,
+        1518,
+        72,
+        1540
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 69,
+      "column": 1,
+      "header": "WIRE",
+      "text": "673",
+      "confidence": 0.7869439125061035,
+      "bbox_px": [
+        72,
+        1518,
+        140,
+        1540
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 69,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1518,
+        186,
+        1540
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 69,
+      "column": 3,
+      "header": "COL",
+      "text": "BK/BN",
+      "confidence": 0.9808443784713745,
+      "bbox_px": [
+        186,
+        1518,
+        251,
+        1540
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 69,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1518,
+        346,
+        1540
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 69,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        1518,
+        628,
+        1540
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 69,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "28",
+      "confidence": 0.9440913200378418,
+      "bbox_px": [
+        628,
+        1518,
+        692,
+        1540
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 69,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13543056_X604X604_E603_LT_X2_X2",
+      "confidence": 0.6862487196922302,
+      "bbox_px": [
+        692,
+        1518,
+        974,
+        1540
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 69,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "4",
+      "confidence": 0.8980842232704163,
+      "bbox_px": [
+        974,
+        1518,
+        1070,
+        1540
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 69,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1518,
+        1204,
+        1540
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 70,
+      "column": 0,
+      "header": "NO",
+      "text": "70",
+      "confidence": 0.9466894268989563,
+      "bbox_px": [
+        0,
+        1540,
+        72,
+        1562
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 70,
+      "column": 1,
+      "header": "WIRE",
+      "text": "2114",
+      "confidence": 0.9143099784851074,
+      "bbox_px": [
+        72,
+        1540,
+        140,
+        1562
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 70,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1540,
+        186,
+        1562
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 70,
+      "column": 3,
+      "header": "COL",
+      "text": "WH/GY",
+      "confidence": 0.9181171655654907,
+      "bbox_px": [
+        186,
+        1540,
+        251,
+        1562
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 70,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1540,
+        346,
+        1562
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 70,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13532124_X604X604_E603_LT_X1_X1",
+      "confidence": 0.7133903503417969,
+      "bbox_px": [
+        346,
+        1540,
+        628,
+        1562
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 70,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "11",
+      "confidence": 0.9746928811073303,
+      "bbox_px": [
+        628,
+        1540,
+        692,
+        1562
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 70,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        1540,
+        974,
+        1562
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 70,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "8",
+      "confidence": 0.38422825932502747,
+      "bbox_px": [
+        974,
+        1540,
+        1070,
+        1562
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 70,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1540,
+        1204,
+        1562
+      ],
+      "decision_source": "pixel_identical_twist"
+    },
+    {
+      "row": 71,
+      "column": 0,
+      "header": "NO",
+      "text": "71",
+      "confidence": 0.9632708430290222,
+      "bbox_px": [
+        0,
+        1562,
+        72,
+        1584
+      ],
+      "decision_source": "sequence_check"
+    },
+    {
+      "row": 71,
+      "column": 1,
+      "header": "WIRE",
+      "text": "615",
+      "confidence": 0.8303731083869934,
+      "bbox_px": [
+        72,
+        1562,
+        140,
+        1584
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 71,
+      "column": 2,
+      "header": "SQUA",
+      "text": "0.5",
+      "confidence": 0.9507284164428711,
+      "bbox_px": [
+        140,
+        1562,
+        186,
+        1584
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 71,
+      "column": 3,
+      "header": "COL",
+      "text": "WH",
+      "confidence": 0.6962509751319885,
+      "bbox_px": [
+        186,
+        1562,
+        251,
+        1584
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 71,
+      "column": 4,
+      "header": "MAT",
+      "text": "CU-R2P1.6",
+      "confidence": 0.992469072341919,
+      "bbox_px": [
+        251,
+        1562,
+        346,
+        1584
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 71,
+      "column": 5,
+      "header": "FROM_CONNECTOR",
+      "text": "13535680_X644X505_FL_X1",
+      "confidence": 0.34918105602264404,
+      "bbox_px": [
+        346,
+        1562,
+        628,
+        1584
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 71,
+      "column": 6,
+      "header": "PIN ID1",
+      "text": "41",
+      "confidence": 0.757859468460083,
+      "bbox_px": [
+        628,
+        1562,
+        692,
+        1584
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 71,
+      "column": 7,
+      "header": "TO_CONNECTOR",
+      "text": "13551224_X11X500_FL_X1",
+      "confidence": 0.44041907787323,
+      "bbox_px": [
+        692,
+        1562,
+        974,
+        1584
+      ],
+      "decision_source": "pixel_identical_connector"
+    },
+    {
+      "row": 71,
+      "column": 8,
+      "header": "PIN ID2",
+      "text": "5",
+      "confidence": 0.8534234762191772,
+      "bbox_px": [
+        974,
+        1562,
+        1070,
+        1584
+      ],
+      "decision_source": "ocr"
+    },
+    {
+      "row": 71,
+      "column": 9,
+      "header": "TWIST & SHIELD",
+      "text": "0",
+      "confidence": 0.0,
+      "bbox_px": [
+        1070,
+        1562,
+        1204,
+        1584
+      ],
+      "decision_source": "pixel_identical_twist"
+    }
+  ]
+}
