@@ -3,3 +3,4 @@ opencv-python-headless==5.0.0.93
 pypdfium2==5.13.0
 ezdxf==1.4.4
 Pillow==12.3.0
+pymupdf==1.28.2
