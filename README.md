@@ -1,5 +1,7 @@
 # 전기 제어회로·하네스 도면 → 로컬 CAD
 
+과제 1 PDF→블록 DWG와 과제 2 벡터 PDF 변경 비교를 합친 웹은 `start_cad_workbench.ps1`로 실행합니다. 브라우저 주소는 `http://127.0.0.1:8502`입니다. 사용법과 범위는 [CAD_WORKBENCH.md](CAD_WORKBENCH.md)에 정리했습니다.
+
 VS Code에서 `harness_workflow.ipynb`를 열고 커널을 `.venv-ml\Scripts\python.exe`로 선택하세요.
 현재 상태는 **검토 가능한 파이프라인 구현**입니다. 회사 도면의 완전 자동 복원 모델을 학습 완료한 상태가 아닙니다.
 

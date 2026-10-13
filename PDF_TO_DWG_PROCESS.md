@@ -11,7 +11,7 @@
 
 ## 새 웹의 실제 동작
 
-`start_pdf_to_dwg_web.ps1`로 로컬 Streamlit 웹을 실행한다. PDF를 올리면 파일 크기, 페이지 수, 벡터 선 유무를 검사하고 전체 미리보기를 보여 준다.
+`start_cad_workbench.ps1`로 과제 1·2 통합 Streamlit 웹을 실행한다. 과제 1에서 PDF를 올리면 파일 크기, 페이지 수, 벡터 선 유무를 검사하고 전체 미리보기를 보여 준다.
 
 | 단계 | 기존 샘플과 파일 내용이 같은 PDF | 같은 양식의 새 PDF |
 | --- | --- | --- |
@@ -29,7 +29,7 @@
 
 ```powershell
 .\.venv-ml\Scripts\python.exe -m pip install -r requirements.txt
-.\start_pdf_to_dwg_web.ps1
+.\start_cad_workbench.ps1
 ```
 
 브라우저 주소는 `http://127.0.0.1:8502`다. 이 PC에 AutoCAD 2027 Core Console과 `C:\Users\Win11Pro\Desktop\drawing\dataset_640`, `labels_640`이 있어야 새 PDF 변환이 동작한다. 동일 샘플 PDF를 선택할 때는 검증된 결과가 저장소 안에 있으므로 템플릿·AutoCAD 없이도 다운로드할 수 있다.
