@@ -5,7 +5,19 @@
 VS Code에서 `harness_workflow.ipynb`를 열고 커널을 `.venv-ml\Scripts\python.exe`로 선택하세요.
 현재 상태는 **검토 가능한 파이프라인 구현**입니다. 회사 도면의 완전 자동 복원 모델을 학습 완료한 상태가 아닙니다.
 
-## 실행
+## 과제 1·2 통합 화면 실행
+
+프로젝트 폴더의 PowerShell에서:
+
+```powershell
+.\start_cad_workbench.ps1
+```
+
+브라우저: http://127.0.0.1:8502 (`pdf_to_dwg_web.py`)
+
+새로 클론한 폴더에는 `.venv-ml`이 포함되지 않습니다. 먼저 Python 가상환경을 만들고 `requirements.txt`를 설치해야 합니다. 과제 1에서 새 PDF를 DWG로 변환하려면 별도로 AutoCAD Core Console과 심볼 데이터 폴더도 필요합니다. 자세한 내용은 [CAD_WORKBENCH.md](CAD_WORKBENCH.md)를 보세요.
+
+## 예전 로컬 하네스 분석 화면 (별도 앱)
 
 프로젝트 폴더의 PowerShell에서:
 
@@ -13,7 +25,7 @@ VS Code에서 `harness_workflow.ipynb`를 열고 커널을 `.venv-ml\Scripts\pyt
 .\start_streamlit.ps1
 ```
 
-브라우저: http://127.0.0.1:8501
+브라우저: http://127.0.0.1:8501 (`app.py`). 위 통합 화면과 다른 앱입니다.
 
 상단의 `도면 두 개 자동 변경 비교`에서 전도면과 후도면 PDF/이미지를 함께 올릴 수 있습니다. 앱은 두 페이지를 ORB+RANSAC으로 정렬하고, 빨간 변경 주석이 있으면 로컬 PaddleOCR로 문구를 읽어 변경 목록과 동일 좌표의 전후 확대 이미지를 보여 줍니다. 빨간 주석이 없는 문서는 2픽셀 허용 선 흔적 차이를 후보로 표시합니다. 저장된 결과 선택에서 `블라인드 샘플 · 빨간 정답 없음`과 `표시본 샘플 · 빨간 주석 OCR`을 바로 비교할 수 있습니다.
 
