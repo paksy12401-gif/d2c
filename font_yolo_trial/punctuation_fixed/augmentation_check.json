@@ -1,0 +1,14 @@
+{
+  "train": {
+    "punctuation_boxes": 2313,
+    "rejected_by_identity_augmentation": 0
+  },
+  "val": {
+    "punctuation_boxes": 390,
+    "rejected_by_identity_augmentation": 0
+  },
+  "test": {
+    "punctuation_boxes": 510,
+    "rejected_by_identity_augmentation": 0
+  }
+}

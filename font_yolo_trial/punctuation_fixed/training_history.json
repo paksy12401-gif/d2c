@@ -1,0 +1,58 @@
+{
+  "labels": [
+    ":",
+    "-",
+    "/",
+    ".",
+    "'"
+  ],
+  "source": {
+    "path": "C:\\Users\\Win11Pro\\AppData\\Local\\Temp\\codex-clipboard-580f19c4-1fb3-4de3-bb5c-a9b9e4c84613.png",
+    "copy": "source_punctuation.png",
+    "sha256": "6b8eca2793f1074d47b4a3502fb450d191b22dc285ea750f232ce1e3800482f0",
+    "classes": [
+      ":",
+      "-",
+      "/",
+      ".",
+      "'"
+    ]
+  },
+  "initial_stage": {
+    "directory": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\punctuation",
+    "completed_epochs": 19,
+    "stopped_to_fix": "Thin hyphen boxes were removed by the default <=2px augmentation size filter.",
+    "continued_from": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\punctuation\\training\\weights\\last.pt",
+    "checkpoint_sha256": "07b7c5f27b0cec017467f486784e8cbdb9e3fdc9f78a5de78c62fecbb3ff4c1f"
+  },
+  "corrected_stage": {
+    "directory": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\punctuation_fixed",
+    "planned_epochs": 25,
+    "annotation_fix": "Minimum punctuation bounding-box side 4px; identical image pixel hashes and class order.",
+    "augmentation_check": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\punctuation_fixed\\augmentation_check.json",
+    "completed_epochs": 25,
+    "best_weights": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\punctuation_fixed\\training\\weights\\best.pt",
+    "best_weights_sha256": "f5a11424cd54a3939ffe46d62e390096a2301d7314df295765e00fcb0cfaeac2"
+  },
+  "inference": {
+    "conf": 0.1,
+    "iou": 0.5,
+    "end2end": false
+  },
+  "evaluation": {
+    "synthetic": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\punctuation_fixed\\results.json",
+    "direct_comparison": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\punctuation_fixed\\user_comparison\\results.json",
+    "new_character_source_labels_detected": [
+      ":",
+      "-",
+      "/",
+      ".",
+      "'"
+    ],
+    "direct_drawing_limitations": [
+      "P misclassified as F in tiled inference.",
+      "Some hyphen positions still missing or misclassified; a drawing line falsely detected as a hyphen.",
+      "Korean is not represented in this YOLO classifier."
+    ]
+  }
+}

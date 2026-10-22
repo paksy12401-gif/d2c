@@ -1,0 +1,136 @@
+{
+  "source": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\verified_dwg\\20261014\\symbols_59_with_editable_work_notes.dwg",
+  "regions": [
+    {
+      "name": "caption_04",
+      "pdf_box": [
+        2047,
+        956,
+        2378,
+        1002
+      ],
+      "outlines_hidden": 82,
+      "texts": [
+        "부자재 리스트 17번",
+        "GROMMET 적용후 2번 COLDMELT 적용할것"
+      ]
+    },
+    {
+      "name": "caption_11",
+      "pdf_box": [
+        1976,
+        1495,
+        2183,
+        1527
+      ],
+      "outlines_hidden": 31,
+      "texts": [
+        "FLEECE TAPE 2회 적용"
+      ]
+    },
+    {
+      "name": "caption_12",
+      "pdf_box": [
+        3110,
+        1552,
+        3277,
+        1581
+      ],
+      "outlines_hidden": 31,
+      "texts": [
+        "FLEECE TAPE 2회 적용"
+      ]
+    },
+    {
+      "name": "caption_13",
+      "pdf_box": [
+        1990,
+        1807,
+        2160,
+        1852
+      ],
+      "outlines_hidden": 52,
+      "texts": [
+        "부자재 리스트 2번",
+        "COLDMELT 적용할것"
+      ]
+    },
+    {
+      "name": "upper_callout",
+      "pdf_box": [
+        3430,
+        400,
+        3590,
+        425
+      ],
+      "outlines_hidden": 54,
+      "texts": [
+        "SLEEVE 적용할것.",
+        "P/NO : SA-08D-0BD-BK"
+      ]
+    },
+    {
+      "name": "middle_callout",
+      "pdf_box": [
+        3370,
+        1330,
+        3710,
+        1400
+      ],
+      "outlines_hidden": 89,
+      "texts": [
+        "FLEECE TAPE 2회 적용",
+        "부자재 리스트 2번 : COLDMELT 적용할것"
+      ]
+    },
+    {
+      "name": "left_note",
+      "pdf_box": [
+        1940,
+        1620,
+        2140,
+        1665
+      ],
+      "outlines_hidden": 31,
+      "texts": [
+        "FLEECE TAPE 2회 적용"
+      ]
+    },
+    {
+      "name": "splice_point",
+      "pdf_box": [
+        2690,
+        1590,
+        2810,
+        1620
+      ],
+      "outlines_hidden": 14,
+      "texts": [
+        "SPLICE POINT"
+      ]
+    },
+    {
+      "name": "bom_title",
+      "pdf_box": [
+        5250,
+        180,
+        6980,
+        270
+      ],
+      "outlines_hidden": 65,
+      "texts": [
+        "부자재 LIST ( 커넥터, B/CABLE, 그로멧, TAPE등 )"
+      ]
+    }
+  ],
+  "additional_editable_lines": 13,
+  "hidden_outlines": 449,
+  "original_layers_off": [
+    "CAPTION_ORIGINAL_OUTLINES",
+    "BOM_ORIGINAL_OUTLINES",
+    "WORK_NOTE_ORIGINAL_OUTLINES",
+    "ADDITIONAL_TEXT_ORIGINAL_OUTLINES"
+  ],
+  "scope": "descriptive notes, captions, callouts, and BOM title",
+  "excluded": "dimensions, circled numbers, and struck-out BOM row 27"
+}

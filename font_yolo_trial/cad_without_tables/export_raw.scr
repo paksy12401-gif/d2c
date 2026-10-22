@@ -1,0 +1,7 @@
+(setvar "FILEDIA" 0)
+_.SAVEAS
+_DXF
+16
+raw_import.dxf
+_.QUIT
+_N

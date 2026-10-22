@@ -1,0 +1,12 @@
+{
+  "matched_classes": 62,
+  "classifier_convolutions": 6,
+  "case_sensitive": true,
+  "new_classes": [
+    ":",
+    "-",
+    "/",
+    ".",
+    "'"
+  ]
+}

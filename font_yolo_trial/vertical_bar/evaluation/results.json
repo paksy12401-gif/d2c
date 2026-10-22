@@ -1,0 +1,403 @@
+{
+  "confidence": 0.1,
+  "iou": 0.5,
+  "model_sha256": {
+    "before": "f5a11424cd54a3939ffe46d62e390096a2301d7314df295765e00fcb0cfaeac2",
+    "after": "3eba0bd0f13a99f27e39de2aea7b30e4bdac6f496e95c50c7fa8f861d65259b7"
+  },
+  "scope": "Synthetic splits reuse the training glyph templates. The supplied screenshot is training material. Neither is independent real-drawing accuracy.",
+  "datasets": {
+    "old_alphanumeric": {
+      "images": 130,
+      "before": {
+        "overall": {
+          "tp": 1944,
+          "fp": 66,
+          "fn": 31,
+          "precision": 0.9671641791044776,
+          "recall": 0.9843037974683544
+        },
+        "selected_classes": {
+          "|": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "precision": 0.0,
+            "recall": 0.0
+          },
+          "I": {
+            "tp": 29,
+            "fp": 0,
+            "fn": 0,
+            "precision": 1.0,
+            "recall": 1.0
+          },
+          "l": {
+            "tp": 41,
+            "fp": 2,
+            "fn": 2,
+            "precision": 0.9534883720930233,
+            "recall": 0.9534883720930233
+          },
+          "1": {
+            "tp": 30,
+            "fp": 1,
+            "fn": 0,
+            "precision": 0.967741935483871,
+            "recall": 1.0
+          }
+        }
+      },
+      "after": {
+        "overall": {
+          "tp": 1944,
+          "fp": 58,
+          "fn": 31,
+          "precision": 0.971028971028971,
+          "recall": 0.9843037974683544
+        },
+        "selected_classes": {
+          "|": {
+            "tp": 0,
+            "fp": 5,
+            "fn": 0,
+            "precision": 0.0,
+            "recall": 0.0
+          },
+          "I": {
+            "tp": 28,
+            "fp": 0,
+            "fn": 1,
+            "precision": 1.0,
+            "recall": 0.9655172413793104
+          },
+          "l": {
+            "tp": 41,
+            "fp": 1,
+            "fn": 2,
+            "precision": 0.9761904761904762,
+            "recall": 0.9534883720930233
+          },
+          "1": {
+            "tp": 30,
+            "fp": 2,
+            "fn": 0,
+            "precision": 0.9375,
+            "recall": 1.0
+          }
+        }
+      },
+      "previously_correct_glyphs_lost": 7
+    },
+    "old_punctuation": {
+      "images": 130,
+      "before": {
+        "overall": {
+          "tp": 2017,
+          "fp": 57,
+          "fn": 39,
+          "precision": 0.9725168756027001,
+          "recall": 0.9810311284046692
+        },
+        "selected_classes": {
+          "|": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 0,
+            "precision": 0.0,
+            "recall": 0.0
+          },
+          "I": {
+            "tp": 31,
+            "fp": 0,
+            "fn": 0,
+            "precision": 1.0,
+            "recall": 1.0
+          },
+          "l": {
+            "tp": 19,
+            "fp": 6,
+            "fn": 4,
+            "precision": 0.76,
+            "recall": 0.8260869565217391
+          },
+          "1": {
+            "tp": 26,
+            "fp": 0,
+            "fn": 2,
+            "precision": 1.0,
+            "recall": 0.9285714285714286
+          }
+        }
+      },
+      "after": {
+        "overall": {
+          "tp": 2018,
+          "fp": 61,
+          "fn": 38,
+          "precision": 0.9706589706589707,
+          "recall": 0.9815175097276264
+        },
+        "selected_classes": {
+          "|": {
+            "tp": 0,
+            "fp": 4,
+            "fn": 0,
+            "precision": 0.0,
+            "recall": 0.0
+          },
+          "I": {
+            "tp": 31,
+            "fp": 1,
+            "fn": 0,
+            "precision": 0.96875,
+            "recall": 1.0
+          },
+          "l": {
+            "tp": 19,
+            "fp": 2,
+            "fn": 4,
+            "precision": 0.9047619047619048,
+            "recall": 0.8260869565217391
+          },
+          "1": {
+            "tp": 27,
+            "fp": 1,
+            "fn": 1,
+            "precision": 0.9642857142857143,
+            "recall": 0.9642857142857143
+          }
+        }
+      },
+      "previously_correct_glyphs_lost": 6
+    },
+    "new_bar_scenes": {
+      "images": 130,
+      "before": {
+        "overall": {
+          "tp": 1393,
+          "fp": 422,
+          "fn": 362,
+          "precision": 0.7674931129476584,
+          "recall": 0.7937321937321937
+        },
+        "selected_classes": {
+          "|": {
+            "tp": 0,
+            "fp": 0,
+            "fn": 354,
+            "precision": 0.0,
+            "recall": 0.0
+          },
+          "I": {
+            "tp": 51,
+            "fp": 15,
+            "fn": 0,
+            "precision": 0.7727272727272727,
+            "recall": 1.0
+          },
+          "l": {
+            "tp": 66,
+            "fp": 327,
+            "fn": 0,
+            "precision": 0.16793893129770993,
+            "recall": 1.0
+          },
+          "1": {
+            "tp": 64,
+            "fp": 0,
+            "fn": 0,
+            "precision": 1.0,
+            "recall": 1.0
+          }
+        }
+      },
+      "after": {
+        "overall": {
+          "tp": 1749,
+          "fp": 24,
+          "fn": 6,
+          "precision": 0.9864636209813875,
+          "recall": 0.9965811965811966
+        },
+        "selected_classes": {
+          "|": {
+            "tp": 354,
+            "fp": 14,
+            "fn": 0,
+            "precision": 0.9619565217391305,
+            "recall": 1.0
+          },
+          "I": {
+            "tp": 51,
+            "fp": 0,
+            "fn": 0,
+            "precision": 1.0,
+            "recall": 1.0
+          },
+          "l": {
+            "tp": 64,
+            "fp": 0,
+            "fn": 2,
+            "precision": 1.0,
+            "recall": 0.9696969696969697
+          },
+          "1": {
+            "tp": 64,
+            "fp": 1,
+            "fn": 0,
+            "precision": 0.9846153846153847,
+            "recall": 1.0
+          }
+        }
+      },
+      "previously_correct_glyphs_lost": 3
+    }
+  },
+  "source": {
+    "before": {
+      "native_padded": {
+        "bar_tp": 0,
+        "fp": 5,
+        "fn": 3,
+        "rows": [
+          "llIll"
+        ],
+        "detections": [
+          {
+            "label": "l",
+            "confidence": 0.5250991582870483,
+            "xyxy": [
+              101.90934753417969,
+              33.58201217651367,
+              116.54719543457031,
+              111.92341613769531
+            ]
+          },
+          {
+            "label": "l",
+            "confidence": 0.37768858671188354,
+            "xyxy": [
+              62.355674743652344,
+              30.872467041015625,
+              77.33216094970703,
+              113.27330017089844
+            ]
+          },
+          {
+            "label": "l",
+            "confidence": 0.3386772871017456,
+            "xyxy": [
+              17.35797882080078,
+              28.894989013671875,
+              43.367637634277344,
+              133.57151794433594
+            ]
+          },
+          {
+            "label": "I",
+            "confidence": 0.19461852312088013,
+            "xyxy": [
+              63.081581115722656,
+              33.463050842285156,
+              78.20201873779297,
+              115.48395538330078
+            ]
+          },
+          {
+            "label": "l",
+            "confidence": 0.13659612834453583,
+            "xyxy": [
+              88.31144714355469,
+              32.4957275390625,
+              115.98551940917969,
+              113.07197570800781
+            ]
+          }
+        ]
+      },
+      "full_384": {
+        "bar_tp": 0,
+        "fp": 1,
+        "fn": 3,
+        "rows": [
+          "l"
+        ],
+        "detections": [
+          {
+            "label": "l",
+            "confidence": 0.1363435834646225,
+            "xyxy": [
+              28.58321762084961,
+              1.3890631198883057,
+              36.72698974609375,
+              34.00469207763672
+            ]
+          }
+        ]
+      }
+    },
+    "after": {
+      "native_padded": {
+        "bar_tp": 3,
+        "fp": 0,
+        "fn": 0,
+        "rows": [
+          "|||"
+        ],
+        "detections": [
+          {
+            "label": "|",
+            "confidence": 0.9431701302528381,
+            "xyxy": [
+              101.77983093261719,
+              33.514259338378906,
+              116.41209411621094,
+              112.87516021728516
+            ]
+          },
+          {
+            "label": "|",
+            "confidence": 0.9307815432548523,
+            "xyxy": [
+              62.660614013671875,
+              33.73191452026367,
+              77.14865112304688,
+              113.27723693847656
+            ]
+          },
+          {
+            "label": "|",
+            "confidence": 0.9297538995742798,
+            "xyxy": [
+              25.726661682128906,
+              31.971206665039062,
+              37.828041076660156,
+              135.6012725830078
+            ]
+          }
+        ]
+      },
+      "full_384": {
+        "bar_tp": 0,
+        "fp": 1,
+        "fn": 3,
+        "rows": [
+          "l"
+        ],
+        "detections": [
+          {
+            "label": "l",
+            "confidence": 0.4075488746166229,
+            "xyxy": [
+              28.448341369628906,
+              0.11492174863815308,
+              36.556949615478516,
+              34.352176666259766
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

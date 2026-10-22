@@ -1,0 +1,5487 @@
+{
+  "llm_inference": false,
+  "word_correction": false,
+  "training": false,
+  "paddle_proposal_gate": false,
+  "note": "Experimental original-vector segmentation. Underscores are explicit geometry rules, not a learned YOLO class.",
+  "source_sha256": "ee26fa0e6c5027a48efca1ea954c0ee6f4f08f92e1456c975b8bd96c6b4da1c1",
+  "regions_sha256": "3ba09aa185d49138ed8f6f2ad143beeaf3cd6900bac5f666f18dd0e9c9d30e1b",
+  "model_sha256": {
+    "letters": "131253cd6313ccde6fecd8168c5351185b1189be5be2a1d51f690ae2b2d7be08",
+    "symbols": "f5a11424cd54a3939ffe46d62e390096a2301d7314df295765e00fcb0cfaeac2"
+  },
+  "records": [
+    {
+      "id": "L01",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            3631.16,
+            282.94000000000005,
+            3639.66,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9757049679756165
+        },
+        {
+          "box_pdf": [
+            3639.66,
+            282.94000000000005,
+            3648.88,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9888831973075867
+        },
+        {
+          "box_pdf": [
+            3648.88,
+            282.94000000000005,
+            3657.38,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "o",
+          "score": 0.8535402417182922
+        },
+        {
+          "box_pdf": [
+            3657.38,
+            282.94000000000005,
+            3673.68,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.975181519985199
+        },
+        {
+          "box_pdf": [
+            3683.6,
+            282.94000000000005,
+            3701.32,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.9876014590263367
+        },
+        {
+          "box_pdf": [
+            3701.32,
+            282.94000000000005,
+            3709.82,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "o",
+          "score": 0.8535402417182922
+        },
+        {
+          "box_pdf": [
+            3719.74,
+            282.94000000000005,
+            3728.96,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "x",
+          "score": 0.8045689463615417
+        },
+        {
+          "box_pdf": [
+            3728.96,
+            282.94000000000005,
+            3733.21,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9787160158157349
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FRoN Mo x1"
+      ]
+    },
+    {
+      "id": "L01",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            3631.16,
+            282.94000000000005,
+            3639.66,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9683204889297485
+        },
+        {
+          "box_pdf": [
+            3639.66,
+            282.94000000000005,
+            3648.88,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9843794703483582
+        },
+        {
+          "box_pdf": [
+            3648.88,
+            282.94000000000005,
+            3657.38,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9435980916023254
+        },
+        {
+          "box_pdf": [
+            3657.38,
+            282.94000000000005,
+            3673.68,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9884258508682251
+        },
+        {
+          "box_pdf": [
+            3683.6,
+            282.94000000000005,
+            3701.32,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.990898072719574
+        },
+        {
+          "box_pdf": [
+            3701.32,
+            282.94000000000005,
+            3709.82,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9435980916023254
+        },
+        {
+          "box_pdf": [
+            3719.74,
+            282.94000000000005,
+            3728.96,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.833713710308075
+        },
+        {
+          "box_pdf": [
+            3728.96,
+            282.94000000000005,
+            3733.21,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9889283180236816
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FROT MO X1"
+      ]
+    },
+    {
+      "id": "L01",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            3631.16,
+            282.94000000000005,
+            3639.66,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9867074489593506
+        },
+        {
+          "box_pdf": [
+            3639.66,
+            282.94000000000005,
+            3648.88,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9868573546409607
+        },
+        {
+          "box_pdf": [
+            3648.88,
+            282.94000000000005,
+            3657.38,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9774056077003479
+        },
+        {
+          "box_pdf": [
+            3657.38,
+            282.94000000000005,
+            3673.68,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.9854326844215393
+        },
+        {
+          "box_pdf": [
+            3683.6,
+            282.94000000000005,
+            3701.32,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "A",
+          "score": 0.9890986680984497
+        },
+        {
+          "box_pdf": [
+            3701.32,
+            282.94000000000005,
+            3709.82,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9774056077003479
+        },
+        {
+          "box_pdf": [
+            3719.74,
+            282.94000000000005,
+            3728.96,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.9151626825332642
+        },
+        {
+          "box_pdf": [
+            3728.96,
+            282.94000000000005,
+            3733.21,
+            292.1500000000001
+          ],
+          "path_id": 39225,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9780828952789307
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FRON AO X1"
+      ]
+    },
+    {
+      "id": "L02",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2865.92,
+            1067.5900000000001,
+            2874.43,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9757049679756165
+        },
+        {
+          "box_pdf": [
+            2874.43,
+            1067.5900000000001,
+            2883.64,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9888831973075867
+        },
+        {
+          "box_pdf": [
+            2883.64,
+            1067.5900000000001,
+            2892.14,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "o",
+          "score": 0.9197990894317627
+        },
+        {
+          "box_pdf": [
+            2892.14,
+            1067.5900000000001,
+            2908.44,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.975181519985199
+        },
+        {
+          "box_pdf": [
+            2918.36,
+            1067.5900000000001,
+            2936.08,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.9876014590263367
+        },
+        {
+          "box_pdf": [
+            2936.08,
+            1067.5900000000001,
+            2944.58,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "o",
+          "score": 0.8492043614387512
+        },
+        {
+          "box_pdf": [
+            2954.5,
+            1067.5900000000001,
+            2963.72,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "x",
+          "score": 0.8045689463615417
+        },
+        {
+          "box_pdf": [
+            2963.72,
+            1067.5900000000001,
+            2971.51,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "2",
+          "score": 0.9674898386001587
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FRoN Mo x2"
+      ]
+    },
+    {
+      "id": "L02",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2865.92,
+            1067.5900000000001,
+            2874.43,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9683204889297485
+        },
+        {
+          "box_pdf": [
+            2874.43,
+            1067.5900000000001,
+            2883.64,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9843794703483582
+        },
+        {
+          "box_pdf": [
+            2883.64,
+            1067.5900000000001,
+            2892.14,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9560251235961914
+        },
+        {
+          "box_pdf": [
+            2892.14,
+            1067.5900000000001,
+            2908.44,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9884258508682251
+        },
+        {
+          "box_pdf": [
+            2918.36,
+            1067.5900000000001,
+            2936.08,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.990898072719574
+        },
+        {
+          "box_pdf": [
+            2936.08,
+            1067.5900000000001,
+            2944.58,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9560251235961914
+        },
+        {
+          "box_pdf": [
+            2954.5,
+            1067.5900000000001,
+            2963.72,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.833713710308075
+        },
+        {
+          "box_pdf": [
+            2963.72,
+            1067.5900000000001,
+            2971.51,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "2",
+          "score": 0.9706774353981018
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FROT MO X2"
+      ]
+    },
+    {
+      "id": "L02",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2865.92,
+            1067.5900000000001,
+            2874.43,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9867074489593506
+        },
+        {
+          "box_pdf": [
+            2874.43,
+            1067.5900000000001,
+            2883.64,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9868573546409607
+        },
+        {
+          "box_pdf": [
+            2883.64,
+            1067.5900000000001,
+            2892.14,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9774056077003479
+        },
+        {
+          "box_pdf": [
+            2892.14,
+            1067.5900000000001,
+            2908.44,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.9849836230278015
+        },
+        {
+          "box_pdf": [
+            2918.36,
+            1067.5900000000001,
+            2936.08,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "A",
+          "score": 0.9893150329589844
+        },
+        {
+          "box_pdf": [
+            2936.08,
+            1067.5900000000001,
+            2944.58,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9774056077003479
+        },
+        {
+          "box_pdf": [
+            2954.5,
+            1067.5900000000001,
+            2963.72,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.9151626825332642
+        },
+        {
+          "box_pdf": [
+            2963.72,
+            1067.5900000000001,
+            2971.51,
+            1076.8
+          ],
+          "path_id": 39227,
+          "source": "isolated_vector_yolo",
+          "text": "2",
+          "score": 0.9769342541694641
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FRON AO X2"
+      ]
+    },
+    {
+      "id": "L03",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2927.29,
+            1371.21,
+            2935.8,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9757049679756165
+        },
+        {
+          "box_pdf": [
+            2935.8,
+            1371.21,
+            2945.01,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9888831973075867
+        },
+        {
+          "box_pdf": [
+            2945.01,
+            1371.21,
+            2953.52,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.7362866997718811
+        },
+        {
+          "box_pdf": [
+            2953.52,
+            1371.21,
+            2969.81,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.975181519985199
+        },
+        {
+          "box_pdf": [
+            2979.74,
+            1371.21,
+            2997.45,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.9876014590263367
+        },
+        {
+          "box_pdf": [
+            2997.45,
+            1371.21,
+            3005.96,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.7362866997718811
+        },
+        {
+          "box_pdf": [
+            3015.88,
+            1371.21,
+            3025.09,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "x",
+          "score": 0.8045689463615417
+        },
+        {
+          "box_pdf": [
+            3025.09,
+            1371.21,
+            3029.34,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9787160158157349
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FRON MO x1"
+      ]
+    },
+    {
+      "id": "L03",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2927.29,
+            1371.21,
+            2935.8,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9683204889297485
+        },
+        {
+          "box_pdf": [
+            2935.8,
+            1371.21,
+            2945.01,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9843794703483582
+        },
+        {
+          "box_pdf": [
+            2945.01,
+            1371.21,
+            2953.52,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9560251235961914
+        },
+        {
+          "box_pdf": [
+            2953.52,
+            1371.21,
+            2969.81,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9884258508682251
+        },
+        {
+          "box_pdf": [
+            2979.74,
+            1371.21,
+            2997.45,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.990898072719574
+        },
+        {
+          "box_pdf": [
+            2997.45,
+            1371.21,
+            3005.96,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9560251235961914
+        },
+        {
+          "box_pdf": [
+            3015.88,
+            1371.21,
+            3025.09,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.833713710308075
+        },
+        {
+          "box_pdf": [
+            3025.09,
+            1371.21,
+            3029.34,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9889283180236816
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FROT MO X1"
+      ]
+    },
+    {
+      "id": "L03",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2927.29,
+            1371.21,
+            2935.8,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9867074489593506
+        },
+        {
+          "box_pdf": [
+            2935.8,
+            1371.21,
+            2945.01,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9868573546409607
+        },
+        {
+          "box_pdf": [
+            2945.01,
+            1371.21,
+            2953.52,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9774056077003479
+        },
+        {
+          "box_pdf": [
+            2953.52,
+            1371.21,
+            2969.81,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.9854326844215393
+        },
+        {
+          "box_pdf": [
+            2979.74,
+            1371.21,
+            2997.45,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "A",
+          "score": 0.9893150329589844
+        },
+        {
+          "box_pdf": [
+            2997.45,
+            1371.21,
+            3005.96,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9774056077003479
+        },
+        {
+          "box_pdf": [
+            3015.88,
+            1371.21,
+            3025.09,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.9151626825332642
+        },
+        {
+          "box_pdf": [
+            3025.09,
+            1371.21,
+            3029.34,
+            1380.42
+          ],
+          "path_id": 39229,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9780828952789307
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FRON AO X1"
+      ]
+    },
+    {
+      "id": "L04",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            1363.07,
+            2126.79,
+            1371.57,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9761443734169006
+        },
+        {
+          "box_pdf": [
+            1371.57,
+            2126.79,
+            1380.78,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9888831973075867
+        },
+        {
+          "box_pdf": [
+            1380.78,
+            2126.79,
+            1389.29,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.7362866997718811
+        },
+        {
+          "box_pdf": [
+            1389.29,
+            2126.79,
+            1405.59,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.975181519985199
+        },
+        {
+          "box_pdf": [
+            1415.51,
+            2126.79,
+            1424.72,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "x",
+          "score": 0.8045689463615417
+        },
+        {
+          "box_pdf": [
+            1424.72,
+            2126.79,
+            1428.97,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9787160158157349
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FRON x1"
+      ]
+    },
+    {
+      "id": "L04",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            1363.07,
+            2126.79,
+            1371.57,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9683204889297485
+        },
+        {
+          "box_pdf": [
+            1371.57,
+            2126.79,
+            1380.78,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9845188856124878
+        },
+        {
+          "box_pdf": [
+            1380.78,
+            2126.79,
+            1389.29,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9518389701843262
+        },
+        {
+          "box_pdf": [
+            1389.29,
+            2126.79,
+            1405.59,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9884258508682251
+        },
+        {
+          "box_pdf": [
+            1415.51,
+            2126.79,
+            1424.72,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.833713710308075
+        },
+        {
+          "box_pdf": [
+            1424.72,
+            2126.79,
+            1428.97,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9885901808738708
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FROT X1"
+      ]
+    },
+    {
+      "id": "L04",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            1363.07,
+            2126.79,
+            1371.57,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9867074489593506
+        },
+        {
+          "box_pdf": [
+            1371.57,
+            2126.79,
+            1380.78,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9868573546409607
+        },
+        {
+          "box_pdf": [
+            1380.78,
+            2126.79,
+            1389.29,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9774056077003479
+        },
+        {
+          "box_pdf": [
+            1389.29,
+            2126.79,
+            1405.59,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.9854326844215393
+        },
+        {
+          "box_pdf": [
+            1415.51,
+            2126.79,
+            1424.72,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.9151626825332642
+        },
+        {
+          "box_pdf": [
+            1424.72,
+            2126.79,
+            1428.97,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9780828952789307
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FRON X1"
+      ]
+    },
+    {
+      "id": "L05",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2429.09,
+            2127.9300000000003,
+            2437.59,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9757049679756165
+        },
+        {
+          "box_pdf": [
+            2437.59,
+            2127.9300000000003,
+            2446.81,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9888831973075867
+        },
+        {
+          "box_pdf": [
+            2446.81,
+            2127.9300000000003,
+            2455.31,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "o",
+          "score": 0.8535402417182922
+        },
+        {
+          "box_pdf": [
+            2455.31,
+            2127.9300000000003,
+            2471.61,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.975181519985199
+        },
+        {
+          "box_pdf": [
+            2481.53,
+            2127.9300000000003,
+            2490.74,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "x",
+          "score": 0.8045689463615417
+        },
+        {
+          "box_pdf": [
+            2490.74,
+            2127.9300000000003,
+            2494.99,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9787160158157349
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FRoN x1"
+      ]
+    },
+    {
+      "id": "L05",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2429.09,
+            2127.9300000000003,
+            2437.59,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9683204889297485
+        },
+        {
+          "box_pdf": [
+            2437.59,
+            2127.9300000000003,
+            2446.81,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9843794703483582
+        },
+        {
+          "box_pdf": [
+            2446.81,
+            2127.9300000000003,
+            2455.31,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9560251235961914
+        },
+        {
+          "box_pdf": [
+            2455.31,
+            2127.9300000000003,
+            2471.61,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9884258508682251
+        },
+        {
+          "box_pdf": [
+            2481.53,
+            2127.9300000000003,
+            2490.74,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.833713710308075
+        },
+        {
+          "box_pdf": [
+            2490.74,
+            2127.9300000000003,
+            2494.99,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9889283180236816
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FROT X1"
+      ]
+    },
+    {
+      "id": "L05",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2429.09,
+            2127.9300000000003,
+            2437.59,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9867074489593506
+        },
+        {
+          "box_pdf": [
+            2437.59,
+            2127.9300000000003,
+            2446.81,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9868573546409607
+        },
+        {
+          "box_pdf": [
+            2446.81,
+            2127.9300000000003,
+            2455.31,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9774056077003479
+        },
+        {
+          "box_pdf": [
+            2455.31,
+            2127.9300000000003,
+            2471.61,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.9854326844215393
+        },
+        {
+          "box_pdf": [
+            2481.53,
+            2127.9300000000003,
+            2490.74,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.9151626825332642
+        },
+        {
+          "box_pdf": [
+            2490.74,
+            2127.9300000000003,
+            2494.99,
+            2137.14
+          ],
+          "path_id": 39241,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9780828952789307
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FRON X1"
+      ]
+    },
+    {
+      "id": "L06",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            541.04,
+            2127.51,
+            550.26,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "x",
+          "score": 0.8045689463615417
+        },
+        {
+          "box_pdf": [
+            550.26,
+            2127.51,
+            554.51,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9787160158157349
+        },
+        {
+          "box_pdf": [
+            564.43,
+            2127.51,
+            573.64,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "x",
+          "score": 0.8045689463615417
+        },
+        {
+          "box_pdf": [
+            573.64,
+            2127.51,
+            577.89,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9787160158157349
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "x1 x1"
+      ]
+    },
+    {
+      "id": "L06",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            541.04,
+            2127.51,
+            550.26,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.833713710308075
+        },
+        {
+          "box_pdf": [
+            550.26,
+            2127.51,
+            554.51,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9885901808738708
+        },
+        {
+          "box_pdf": [
+            564.43,
+            2127.51,
+            573.64,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.833713710308075
+        },
+        {
+          "box_pdf": [
+            573.64,
+            2127.51,
+            577.89,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9885901808738708
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "X1 X1"
+      ]
+    },
+    {
+      "id": "L06",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            541.04,
+            2127.51,
+            550.26,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.9151626825332642
+        },
+        {
+          "box_pdf": [
+            550.26,
+            2127.51,
+            554.51,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9780828952789307
+        },
+        {
+          "box_pdf": [
+            564.43,
+            2127.51,
+            573.64,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.9151626825332642
+        },
+        {
+          "box_pdf": [
+            573.64,
+            2127.51,
+            577.89,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9780828952789307
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "X1 X1"
+      ]
+    },
+    {
+      "id": "L07",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            473.01,
+            2127.51,
+            481.52,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9844812154769897
+        },
+        {
+          "box_pdf": [
+            481.52,
+            2127.51,
+            489.31,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "6",
+          "score": 0.9617674946784973
+        },
+        {
+          "box_pdf": [
+            489.31,
+            2127.51,
+            497.81,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "0",
+          "score": 0.9453550577163696
+        },
+        {
+          "box_pdf": [
+            497.81,
+            2127.51,
+            505.61,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "3",
+          "score": 0.9729165434837341
+        },
+        {
+          "box_pdf": [
+            515.53,
+            2127.51,
+            523.33,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.9784881472587585
+        },
+        {
+          "box_pdf": [
+            523.33,
+            2127.51,
+            531.12,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9887831807136536
+        },
+        {
+          "box_pdf": [
+            541.04,
+            2127.51,
+            550.26,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "x",
+          "score": 0.8045689463615417
+        },
+        {
+          "box_pdf": [
+            550.26,
+            2127.51,
+            554.51,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9787160158157349
+        },
+        {
+          "box_pdf": [
+            564.43,
+            2127.51,
+            573.64,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "x",
+          "score": 0.8045689463615417
+        },
+        {
+          "box_pdf": [
+            573.64,
+            2127.51,
+            577.89,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9787160158157349
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "E603 LT x1 x1"
+      ]
+    },
+    {
+      "id": "L07",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            473.01,
+            2127.51,
+            481.52,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9902263879776001
+        },
+        {
+          "box_pdf": [
+            481.52,
+            2127.51,
+            489.31,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "6",
+          "score": 0.9899200201034546
+        },
+        {
+          "box_pdf": [
+            489.31,
+            2127.51,
+            497.81,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "0",
+          "score": 0.9800325036048889
+        },
+        {
+          "box_pdf": [
+            497.81,
+            2127.51,
+            505.61,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "3",
+          "score": 0.9848461151123047
+        },
+        {
+          "box_pdf": [
+            515.53,
+            2127.51,
+            523.33,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.9764779806137085
+        },
+        {
+          "box_pdf": [
+            523.33,
+            2127.51,
+            531.12,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.986954391002655
+        },
+        {
+          "box_pdf": [
+            541.04,
+            2127.51,
+            550.26,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.833713710308075
+        },
+        {
+          "box_pdf": [
+            550.26,
+            2127.51,
+            554.51,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9885901808738708
+        },
+        {
+          "box_pdf": [
+            564.43,
+            2127.51,
+            573.64,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.833713710308075
+        },
+        {
+          "box_pdf": [
+            573.64,
+            2127.51,
+            577.89,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9885901808738708
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "E603 LT X1 X1"
+      ]
+    },
+    {
+      "id": "L07",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            473.01,
+            2127.51,
+            481.52,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.981245756149292
+        },
+        {
+          "box_pdf": [
+            481.52,
+            2127.51,
+            489.31,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "6",
+          "score": 0.9927217364311218
+        },
+        {
+          "box_pdf": [
+            489.31,
+            2127.51,
+            497.81,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "0",
+          "score": 0.9920376539230347
+        },
+        {
+          "box_pdf": [
+            497.81,
+            2127.51,
+            505.61,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "3",
+          "score": 0.9876230955123901
+        },
+        {
+          "box_pdf": [
+            515.53,
+            2127.51,
+            523.33,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.98270183801651
+        },
+        {
+          "box_pdf": [
+            523.33,
+            2127.51,
+            531.12,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9885340332984924
+        },
+        {
+          "box_pdf": [
+            541.04,
+            2127.51,
+            550.26,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.9151626825332642
+        },
+        {
+          "box_pdf": [
+            550.26,
+            2127.51,
+            554.51,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9780828952789307
+        },
+        {
+          "box_pdf": [
+            564.43,
+            2127.51,
+            573.64,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "X",
+          "score": 0.9151626825332642
+        },
+        {
+          "box_pdf": [
+            573.64,
+            2127.51,
+            577.89,
+            2136.73
+          ],
+          "path_id": 39253,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9780828952789307
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "E603 LT X1 X1"
+      ]
+    },
+    {
+      "id": "L08",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            3122.71,
+            1561.15,
+            3131.22,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9757049679756165
+        },
+        {
+          "box_pdf": [
+            3131.22,
+            1561.15,
+            3139.01,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.9784881472587585
+        },
+        {
+          "box_pdf": [
+            3139.01,
+            1561.15,
+            3147.52,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9844812154769897
+        },
+        {
+          "box_pdf": [
+            3147.52,
+            1561.15,
+            3156.02,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9847203493118286
+        },
+        {
+          "box_pdf": [
+            3156.02,
+            1561.15,
+            3164.52,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "C",
+          "score": 0.9813748598098755
+        },
+        {
+          "box_pdf": [
+            3164.52,
+            1561.15,
+            3173.03,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9844812154769897
+        },
+        {
+          "box_pdf": [
+            3179.41,
+            1561.15,
+            3187.2,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9887831807136536
+        },
+        {
+          "box_pdf": [
+            3187.2,
+            1561.15,
+            3196.41,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "A",
+          "score": 0.98134446144104
+        },
+        {
+          "box_pdf": [
+            3196.41,
+            1561.15,
+            3204.92,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "P",
+          "score": 0.9852342009544373
+        },
+        {
+          "box_pdf": [
+            3204.92,
+            1561.15,
+            3213.42,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9847203493118286
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FLEECE TAPE"
+      ]
+    },
+    {
+      "id": "L08",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            3122.71,
+            1561.15,
+            3131.22,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9683204889297485
+        },
+        {
+          "box_pdf": [
+            3131.22,
+            1561.15,
+            3139.01,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.9764779806137085
+        },
+        {
+          "box_pdf": [
+            3139.01,
+            1561.15,
+            3147.52,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9902263879776001
+        },
+        {
+          "box_pdf": [
+            3147.52,
+            1561.15,
+            3156.02,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9902263879776001
+        },
+        {
+          "box_pdf": [
+            3156.02,
+            1561.15,
+            3164.52,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "C",
+          "score": 0.9909672141075134
+        },
+        {
+          "box_pdf": [
+            3164.52,
+            1561.15,
+            3173.03,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9902263879776001
+        },
+        {
+          "box_pdf": [
+            3179.41,
+            1561.15,
+            3187.2,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.986954391002655
+        },
+        {
+          "box_pdf": [
+            3187.2,
+            1561.15,
+            3196.41,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "A",
+          "score": 0.9768261909484863
+        },
+        {
+          "box_pdf": [
+            3196.41,
+            1561.15,
+            3204.92,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "P",
+          "score": 0.9914359450340271
+        },
+        {
+          "box_pdf": [
+            3204.92,
+            1561.15,
+            3213.42,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9902263879776001
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FLEECE TAPE"
+      ]
+    },
+    {
+      "id": "L08",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            3122.71,
+            1561.15,
+            3131.22,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9867074489593506
+        },
+        {
+          "box_pdf": [
+            3131.22,
+            1561.15,
+            3139.01,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.98270183801651
+        },
+        {
+          "box_pdf": [
+            3139.01,
+            1561.15,
+            3147.52,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.981245756149292
+        },
+        {
+          "box_pdf": [
+            3147.52,
+            1561.15,
+            3156.02,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.981586754322052
+        },
+        {
+          "box_pdf": [
+            3156.02,
+            1561.15,
+            3164.52,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "C",
+          "score": 0.9879107475280762
+        },
+        {
+          "box_pdf": [
+            3164.52,
+            1561.15,
+            3173.03,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.981245756149292
+        },
+        {
+          "box_pdf": [
+            3179.41,
+            1561.15,
+            3187.2,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9885340332984924
+        },
+        {
+          "box_pdf": [
+            3187.2,
+            1561.15,
+            3196.41,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "A",
+          "score": 0.9852449297904968
+        },
+        {
+          "box_pdf": [
+            3196.41,
+            1561.15,
+            3204.92,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "P",
+          "score": 0.993359386920929
+        },
+        {
+          "box_pdf": [
+            3204.92,
+            1561.15,
+            3213.42,
+            1570.37
+          ],
+          "path_id": 38768,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.981586754322052
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "FLEECE TAPE"
+      ]
+    },
+    {
+      "id": "L09",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2702.13,
+            1597.0500000000002,
+            2710.64,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "S",
+          "score": 0.9666069149971008
+        },
+        {
+          "box_pdf": [
+            2710.64,
+            1597.0500000000002,
+            2719.14,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "P",
+          "score": 0.9848091006278992
+        },
+        {
+          "box_pdf": [
+            2719.14,
+            1597.0500000000002,
+            2726.93,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.9784881472587585
+        },
+        {
+          "box_pdf": [
+            2726.93,
+            1597.0500000000002,
+            2729.77,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "I",
+          "score": 0.9797291159629822
+        },
+        {
+          "box_pdf": [
+            2729.77,
+            1597.0500000000002,
+            2738.27,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "C",
+          "score": 0.9813748598098755
+        },
+        {
+          "box_pdf": [
+            2738.27,
+            1597.0500000000002,
+            2746.78,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9844812154769897
+        },
+        {
+          "box_pdf": [
+            2753.16,
+            1597.0500000000002,
+            2761.66,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "P",
+          "score": 0.9848091006278992
+        },
+        {
+          "box_pdf": [
+            2761.66,
+            1597.0500000000002,
+            2770.16,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "o",
+          "score": 0.8492043614387512
+        },
+        {
+          "box_pdf": [
+            2770.16,
+            1597.0500000000002,
+            2789.3,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9792080521583557
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "SPLICE PoT"
+      ]
+    },
+    {
+      "id": "L09",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2702.13,
+            1597.0500000000002,
+            2710.64,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "S",
+          "score": 0.9584885239601135
+        },
+        {
+          "box_pdf": [
+            2710.64,
+            1597.0500000000002,
+            2719.14,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "P",
+          "score": 0.9914359450340271
+        },
+        {
+          "box_pdf": [
+            2719.14,
+            1597.0500000000002,
+            2726.93,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.9764779806137085
+        },
+        {
+          "box_pdf": [
+            2726.93,
+            1597.0500000000002,
+            2729.77,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "I",
+          "score": 0.9730668663978577
+        },
+        {
+          "box_pdf": [
+            2729.77,
+            1597.0500000000002,
+            2738.27,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "C",
+          "score": 0.9909672141075134
+        },
+        {
+          "box_pdf": [
+            2738.27,
+            1597.0500000000002,
+            2746.78,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9902263879776001
+        },
+        {
+          "box_pdf": [
+            2753.16,
+            1597.0500000000002,
+            2761.66,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "P",
+          "score": 0.9914359450340271
+        },
+        {
+          "box_pdf": [
+            2761.66,
+            1597.0500000000002,
+            2770.16,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9604645371437073
+        },
+        {
+          "box_pdf": [
+            2770.16,
+            1597.0500000000002,
+            2789.3,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.9869987368583679
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "SPLICE PON"
+      ]
+    },
+    {
+      "id": "L09",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2702.13,
+            1597.0500000000002,
+            2710.64,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "S",
+          "score": 0.9880576133728027
+        },
+        {
+          "box_pdf": [
+            2710.64,
+            1597.0500000000002,
+            2719.14,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "P",
+          "score": 0.99293452501297
+        },
+        {
+          "box_pdf": [
+            2719.14,
+            1597.0500000000002,
+            2726.93,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.98270183801651
+        },
+        {
+          "box_pdf": [
+            2726.93,
+            1597.0500000000002,
+            2729.77,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "I",
+          "score": 0.9660130143165588
+        },
+        {
+          "box_pdf": [
+            2729.77,
+            1597.0500000000002,
+            2738.27,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "C",
+          "score": 0.9879107475280762
+        },
+        {
+          "box_pdf": [
+            2738.27,
+            1597.0500000000002,
+            2746.78,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.981245756149292
+        },
+        {
+          "box_pdf": [
+            2753.16,
+            1597.0500000000002,
+            2761.66,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "P",
+          "score": 0.99293452501297
+        },
+        {
+          "box_pdf": [
+            2761.66,
+            1597.0500000000002,
+            2770.16,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.98213791847229
+        },
+        {
+          "box_pdf": [
+            2770.16,
+            1597.0500000000002,
+            2789.3,
+            1606.27
+          ],
+          "path_id": 38769,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.9827929735183716
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "SPLICE PON"
+      ]
+    },
+    {
+      "id": "L10",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            3216.68,
+            1313.26,
+            3225.19,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.9849103093147278
+        },
+        {
+          "box_pdf": [
+            3225.19,
+            1313.26,
+            3232.98,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "6",
+          "score": 0.9617674946784973
+        },
+        {
+          "box_pdf": [
+            3232.98,
+            1313.26,
+            3240.78,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9641668200492859
+        },
+        {
+          "box_pdf": [
+            3240.78,
+            1313.26,
+            3245.03,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9787160158157349
+        },
+        {
+          "box_pdf": [
+            3245.03,
+            1313.26,
+            3252.82,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.9784881472587585
+        },
+        {
+          "box_pdf": [
+            3252.82,
+            1313.26,
+            3261.33,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9844812154769897
+        },
+        {
+          "box_pdf": [
+            3261.33,
+            1313.26,
+            3269.83,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9761443734169006
+        },
+        {
+          "box_pdf": [
+            3269.83,
+            1313.26,
+            3277.63,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9887831807136536
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "M651LEFT"
+      ]
+    },
+    {
+      "id": "L10",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            3216.68,
+            1313.26,
+            3225.19,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.9887130260467529
+        },
+        {
+          "box_pdf": [
+            3225.19,
+            1313.26,
+            3232.98,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "6",
+          "score": 0.9899200201034546
+        },
+        {
+          "box_pdf": [
+            3232.98,
+            1313.26,
+            3240.78,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9824002981185913
+        },
+        {
+          "box_pdf": [
+            3240.78,
+            1313.26,
+            3245.03,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9885901808738708
+        },
+        {
+          "box_pdf": [
+            3245.03,
+            1313.26,
+            3252.82,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.9764779806137085
+        },
+        {
+          "box_pdf": [
+            3252.82,
+            1313.26,
+            3261.33,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9902263879776001
+        },
+        {
+          "box_pdf": [
+            3261.33,
+            1313.26,
+            3269.83,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9683204889297485
+        },
+        {
+          "box_pdf": [
+            3269.83,
+            1313.26,
+            3277.63,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.986954391002655
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "M651LEFT"
+      ]
+    },
+    {
+      "id": "L10",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            3216.68,
+            1313.26,
+            3225.19,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.9812344908714294
+        },
+        {
+          "box_pdf": [
+            3225.19,
+            1313.26,
+            3232.98,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "6",
+          "score": 0.9927217364311218
+        },
+        {
+          "box_pdf": [
+            3232.98,
+            1313.26,
+            3240.78,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9956985712051392
+        },
+        {
+          "box_pdf": [
+            3240.78,
+            1313.26,
+            3245.03,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9780828952789307
+        },
+        {
+          "box_pdf": [
+            3245.03,
+            1313.26,
+            3252.82,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.98270183801651
+        },
+        {
+          "box_pdf": [
+            3252.82,
+            1313.26,
+            3261.33,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.981245756149292
+        },
+        {
+          "box_pdf": [
+            3261.33,
+            1313.26,
+            3269.83,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9865192770957947
+        },
+        {
+          "box_pdf": [
+            3269.83,
+            1313.26,
+            3277.63,
+            1322.48
+          ],
+          "path_id": 39231,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9885340332984924
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "M651LEFT"
+      ]
+    },
+    {
+      "id": "L11",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            3107.55,
+            1334.52,
+            3116.76,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9888831973075867
+        },
+        {
+          "box_pdf": [
+            3116.76,
+            1334.52,
+            3125.26,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9844812154769897
+        },
+        {
+          "box_pdf": [
+            3125.26,
+            1334.52,
+            3134.48,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "A",
+          "score": 0.98134446144104
+        },
+        {
+          "box_pdf": [
+            3134.48,
+            1334.52,
+            3143.69,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9888831973075867
+        },
+        {
+          "box_pdf": [
+            3150.07,
+            1334.52,
+            3158.57,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "C",
+          "score": 0.9813748598098755
+        },
+        {
+          "box_pdf": [
+            3158.57,
+            1334.52,
+            3167.08,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.7362866997718811
+        },
+        {
+          "box_pdf": [
+            3167.08,
+            1334.52,
+            3177.0,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "V",
+          "score": 0.9379273056983948
+        },
+        {
+          "box_pdf": [
+            3177.0,
+            1334.52,
+            3185.5,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9847203493118286
+        },
+        {
+          "box_pdf": [
+            3185.5,
+            1334.52,
+            3194.71,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9888831973075867
+        },
+        {
+          "box_pdf": [
+            3201.09,
+            1334.52,
+            3209.6,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.9829383492469788
+        },
+        {
+          "box_pdf": [
+            3209.6,
+            1334.52,
+            3218.1,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "o",
+          "score": 0.8535402417182922
+        },
+        {
+          "box_pdf": [
+            3224.48,
+            1336.65,
+            3225.89,
+            1343.03
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "l",
+          "score": 0.1902979612350464
+        },
+        {
+          "box_pdf": [
+            3232.27,
+            1334.52,
+            3240.78,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.7362866997718811
+        },
+        {
+          "box_pdf": [
+            3240.78,
+            1334.52,
+            3249.28,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "P",
+          "score": 0.9848091006278992
+        },
+        {
+          "box_pdf": [
+            3249.28,
+            1334.52,
+            3257.78,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "U",
+          "score": 0.9688901305198669
+        },
+        {
+          "box_pdf": [
+            3257.78,
+            1334.52,
+            3265.58,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "8",
+          "score": 0.9683414101600647
+        },
+        {
+          "box_pdf": [
+            3265.58,
+            1334.52,
+            3273.38,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "8",
+          "score": 0.9683414101600647
+        },
+        {
+          "box_pdf": [
+            3273.38,
+            1334.52,
+            3281.17,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9641668200492859
+        },
+        {
+          "box_pdf": [
+            3281.17,
+            1334.52,
+            3288.97,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "6",
+          "score": 0.9617674946784973
+        },
+        {
+          "box_pdf": [
+            3288.97,
+            1334.52,
+            3296.76,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "7",
+          "score": 0.9873945713043213
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "REAR COVER No l OPU88567"
+      ]
+    },
+    {
+      "id": "L11",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            3107.55,
+            1334.52,
+            3116.76,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9845188856124878
+        },
+        {
+          "box_pdf": [
+            3116.76,
+            1334.52,
+            3125.26,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9902263879776001
+        },
+        {
+          "box_pdf": [
+            3125.26,
+            1334.52,
+            3134.48,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "A",
+          "score": 0.9767986536026001
+        },
+        {
+          "box_pdf": [
+            3134.48,
+            1334.52,
+            3143.69,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9845188856124878
+        },
+        {
+          "box_pdf": [
+            3150.07,
+            1334.52,
+            3158.57,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "C",
+          "score": 0.9909672141075134
+        },
+        {
+          "box_pdf": [
+            3158.57,
+            1334.52,
+            3167.08,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9604645371437073
+        },
+        {
+          "box_pdf": [
+            3167.08,
+            1334.52,
+            3177.0,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "V",
+          "score": 0.9298221468925476
+        },
+        {
+          "box_pdf": [
+            3177.0,
+            1334.52,
+            3185.5,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9902263879776001
+        },
+        {
+          "box_pdf": [
+            3185.5,
+            1334.52,
+            3194.71,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9845188856124878
+        },
+        {
+          "box_pdf": [
+            3201.09,
+            1334.52,
+            3209.6,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.9816969037055969
+        },
+        {
+          "box_pdf": [
+            3209.6,
+            1334.52,
+            3218.1,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9604645371437073
+        },
+        {
+          "box_pdf": [
+            3224.48,
+            1336.65,
+            3225.89,
+            1343.03
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "l",
+          "score": 0.39602553844451904
+        },
+        {
+          "box_pdf": [
+            3232.27,
+            1334.52,
+            3240.78,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9604645371437073
+        },
+        {
+          "box_pdf": [
+            3240.78,
+            1334.52,
+            3249.28,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "P",
+          "score": 0.9914359450340271
+        },
+        {
+          "box_pdf": [
+            3249.28,
+            1334.52,
+            3257.78,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "U",
+          "score": 0.9825066924095154
+        },
+        {
+          "box_pdf": [
+            3257.78,
+            1334.52,
+            3265.58,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "8",
+          "score": 0.9713276624679565
+        },
+        {
+          "box_pdf": [
+            3265.58,
+            1334.52,
+            3273.38,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "8",
+          "score": 0.9713276624679565
+        },
+        {
+          "box_pdf": [
+            3273.38,
+            1334.52,
+            3281.17,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9824002981185913
+        },
+        {
+          "box_pdf": [
+            3281.17,
+            1334.52,
+            3288.97,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "6",
+          "score": 0.9899200201034546
+        },
+        {
+          "box_pdf": [
+            3288.97,
+            1334.52,
+            3296.76,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "7",
+          "score": 0.9873360991477966
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "REAR COVER NO l OPU88567"
+      ]
+    },
+    {
+      "id": "L11",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            3107.55,
+            1334.52,
+            3116.76,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.988818347454071
+        },
+        {
+          "box_pdf": [
+            3116.76,
+            1334.52,
+            3125.26,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.981586754322052
+        },
+        {
+          "box_pdf": [
+            3125.26,
+            1334.52,
+            3134.48,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "A",
+          "score": 0.9853298664093018
+        },
+        {
+          "box_pdf": [
+            3134.48,
+            1334.52,
+            3143.69,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.988818347454071
+        },
+        {
+          "box_pdf": [
+            3150.07,
+            1334.52,
+            3158.57,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "C",
+          "score": 0.9879107475280762
+        },
+        {
+          "box_pdf": [
+            3158.57,
+            1334.52,
+            3167.08,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9774056077003479
+        },
+        {
+          "box_pdf": [
+            3167.08,
+            1334.52,
+            3177.0,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "V",
+          "score": 0.9629557728767395
+        },
+        {
+          "box_pdf": [
+            3177.0,
+            1334.52,
+            3185.5,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.981586754322052
+        },
+        {
+          "box_pdf": [
+            3185.5,
+            1334.52,
+            3194.71,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.988818347454071
+        },
+        {
+          "box_pdf": [
+            3201.09,
+            1334.52,
+            3209.6,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "N",
+          "score": 0.9838882684707642
+        },
+        {
+          "box_pdf": [
+            3209.6,
+            1334.52,
+            3218.1,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.98213791847229
+        },
+        {
+          "box_pdf": [
+            3224.48,
+            1336.65,
+            3225.89,
+            1343.03
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "j",
+          "score": 0.10333725810050964
+        },
+        {
+          "box_pdf": [
+            3232.27,
+            1334.52,
+            3240.78,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9774056077003479
+        },
+        {
+          "box_pdf": [
+            3240.78,
+            1334.52,
+            3249.28,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "P",
+          "score": 0.99293452501297
+        },
+        {
+          "box_pdf": [
+            3249.28,
+            1334.52,
+            3257.78,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "U",
+          "score": 0.9717587232589722
+        },
+        {
+          "box_pdf": [
+            3257.78,
+            1334.52,
+            3265.58,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "8",
+          "score": 0.9810529351234436
+        },
+        {
+          "box_pdf": [
+            3265.58,
+            1334.52,
+            3273.38,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "8",
+          "score": 0.9810529351234436
+        },
+        {
+          "box_pdf": [
+            3273.38,
+            1334.52,
+            3281.17,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9956985712051392
+        },
+        {
+          "box_pdf": [
+            3281.17,
+            1334.52,
+            3288.97,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "6",
+          "score": 0.9927217364311218
+        },
+        {
+          "box_pdf": [
+            3288.97,
+            1334.52,
+            3296.76,
+            1343.74
+          ],
+          "path_id": 39233,
+          "source": "isolated_vector_yolo",
+          "text": "7",
+          "score": 0.9940233826637268
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "REAR COVER NO j OPU88567"
+      ]
+    },
+    {
+      "id": "L12",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2059.72,
+            979.54,
+            2070.65,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "G",
+          "score": 0.9858456254005432
+        },
+        {
+          "box_pdf": [
+            2070.65,
+            979.54,
+            2082.5,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9890216588973999
+        },
+        {
+          "box_pdf": [
+            2082.5,
+            979.54,
+            2093.43,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "o",
+          "score": 0.7453956604003906
+        },
+        {
+          "box_pdf": [
+            2093.43,
+            979.54,
+            2104.37,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.9848869442939758
+        },
+        {
+          "box_pdf": [
+            2104.37,
+            979.54,
+            2115.3,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.9848869442939758
+        },
+        {
+          "box_pdf": [
+            2115.3,
+            979.54,
+            2126.23,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9845630526542664
+        },
+        {
+          "box_pdf": [
+            2126.23,
+            979.54,
+            2136.25,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.988520622253418
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "GRoMMET"
+      ]
+    },
+    {
+      "id": "L12",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2059.72,
+            979.54,
+            2070.65,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "G",
+          "score": 0.9899234175682068
+        },
+        {
+          "box_pdf": [
+            2070.65,
+            979.54,
+            2082.5,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9854516386985779
+        },
+        {
+          "box_pdf": [
+            2082.5,
+            979.54,
+            2093.43,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.9645451903343201
+        },
+        {
+          "box_pdf": [
+            2093.43,
+            979.54,
+            2104.37,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.9865911602973938
+        },
+        {
+          "box_pdf": [
+            2104.37,
+            979.54,
+            2115.3,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.9865911602973938
+        },
+        {
+          "box_pdf": [
+            2115.3,
+            979.54,
+            2126.23,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9876525402069092
+        },
+        {
+          "box_pdf": [
+            2126.23,
+            979.54,
+            2136.25,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9868369102478027
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "GROMMET"
+      ]
+    },
+    {
+      "id": "L12",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            2059.72,
+            979.54,
+            2070.65,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "G",
+          "score": 0.9856979846954346
+        },
+        {
+          "box_pdf": [
+            2070.65,
+            979.54,
+            2082.5,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "R",
+          "score": 0.9871661067008972
+        },
+        {
+          "box_pdf": [
+            2082.5,
+            979.54,
+            2093.43,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "O",
+          "score": 0.987163782119751
+        },
+        {
+          "box_pdf": [
+            2093.43,
+            979.54,
+            2104.37,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.98282790184021
+        },
+        {
+          "box_pdf": [
+            2104.37,
+            979.54,
+            2115.3,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "M",
+          "score": 0.9828051924705505
+        },
+        {
+          "box_pdf": [
+            2115.3,
+            979.54,
+            2126.23,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.982873260974884
+        },
+        {
+          "box_pdf": [
+            2126.23,
+            979.54,
+            2136.25,
+            991.3900000000001
+          ],
+          "path_id": 38767,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9820786118507385
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "GROMMET"
+      ]
+    },
+    {
+      "id": "L13",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            4218.43,
+            1334.22,
+            4226.23,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "b",
+          "score": 0.9789824485778809
+        },
+        {
+          "box_pdf": [
+            4226.23,
+            1334.22,
+            4227.65,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "l",
+          "score": 0.9650991559028625
+        },
+        {
+          "box_pdf": [
+            4227.65,
+            1334.22,
+            4229.06,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "l",
+          "score": 0.9650991559028625
+        },
+        {
+          "box_pdf": [
+            4229.06,
+            1334.22,
+            4233.31,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9787160158157349
+        },
+        {
+          "box_pdf": [
+            4233.31,
+            1334.22,
+            4241.11,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9641668200492859
+        },
+        {
+          "box_pdf": [
+            4241.11,
+            1334.22,
+            4248.91,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "9",
+          "score": 0.8786861896514893
+        },
+        {
+          "box_pdf": [
+            4248.91,
+            1334.22,
+            4253.16,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9787160158157349
+        },
+        {
+          "box_pdf": [
+            4253.16,
+            1334.22,
+            4261.66,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "4",
+          "score": 0.9707276225090027
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "bll15914"
+      ]
+    },
+    {
+      "id": "L13",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            4218.43,
+            1334.22,
+            4226.23,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "b",
+          "score": 0.990380048751831
+        },
+        {
+          "box_pdf": [
+            4226.23,
+            1334.22,
+            4227.65,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "l",
+          "score": 0.9626840353012085
+        },
+        {
+          "box_pdf": [
+            4227.65,
+            1334.22,
+            4229.06,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "l",
+          "score": 0.9626840353012085
+        },
+        {
+          "box_pdf": [
+            4229.06,
+            1334.22,
+            4233.31,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9889283180236816
+        },
+        {
+          "box_pdf": [
+            4233.31,
+            1334.22,
+            4241.11,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9824002981185913
+        },
+        {
+          "box_pdf": [
+            4241.11,
+            1334.22,
+            4248.91,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "9",
+          "score": 0.9230785965919495
+        },
+        {
+          "box_pdf": [
+            4248.91,
+            1334.22,
+            4253.16,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9889283180236816
+        },
+        {
+          "box_pdf": [
+            4253.16,
+            1334.22,
+            4261.66,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "4",
+          "score": 0.9623077511787415
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "bll15914"
+      ]
+    },
+    {
+      "id": "L13",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            4218.43,
+            1334.22,
+            4226.23,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "b",
+          "score": 0.9765087962150574
+        },
+        {
+          "box_pdf": [
+            4226.23,
+            1334.22,
+            4227.65,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "l",
+          "score": 0.9557312726974487
+        },
+        {
+          "box_pdf": [
+            4227.65,
+            1334.22,
+            4229.06,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "l",
+          "score": 0.9557312726974487
+        },
+        {
+          "box_pdf": [
+            4229.06,
+            1334.22,
+            4233.31,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9780828952789307
+        },
+        {
+          "box_pdf": [
+            4233.31,
+            1334.22,
+            4241.11,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9956195950508118
+        },
+        {
+          "box_pdf": [
+            4241.11,
+            1334.22,
+            4248.91,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "9",
+          "score": 0.9917719960212708
+        },
+        {
+          "box_pdf": [
+            4248.91,
+            1334.22,
+            4253.16,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9780828952789307
+        },
+        {
+          "box_pdf": [
+            4253.16,
+            1334.22,
+            4261.66,
+            1343.43
+          ],
+          "path_id": 39236,
+          "source": "isolated_vector_yolo",
+          "text": "4",
+          "score": 0.9888045191764832
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "bll15914"
+      ]
+    },
+    {
+      "id": "L14",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            1287.24,
+            2137.42,
+            1291.49,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9787160158157349
+        },
+        {
+          "box_pdf": [
+            1291.49,
+            2137.42,
+            1299.29,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "3",
+          "score": 0.9728685617446899
+        },
+        {
+          "box_pdf": [
+            1299.29,
+            2137.42,
+            1307.08,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9641668200492859
+        },
+        {
+          "box_pdf": [
+            1307.08,
+            2137.42,
+            1314.88,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "9",
+          "score": 0.8786861896514893
+        },
+        {
+          "box_pdf": [
+            1314.88,
+            2137.42,
+            1322.67,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "2",
+          "score": 0.9674898386001587
+        },
+        {
+          "box_pdf": [
+            1322.67,
+            2137.42,
+            1330.47,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9641668200492859
+        },
+        {
+          "box_pdf": [
+            1330.47,
+            2137.42,
+            1338.97,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "0",
+          "score": 0.9453550577163696
+        },
+        {
+          "box_pdf": [
+            1338.97,
+            2137.42,
+            1346.77,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "9",
+          "score": 0.8786861896514893
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "13592509"
+      ]
+    },
+    {
+      "id": "L14",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            1287.24,
+            2137.42,
+            1291.49,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9885901808738708
+        },
+        {
+          "box_pdf": [
+            1291.49,
+            2137.42,
+            1299.29,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "3",
+          "score": 0.9840304851531982
+        },
+        {
+          "box_pdf": [
+            1299.29,
+            2137.42,
+            1307.08,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9817337989807129
+        },
+        {
+          "box_pdf": [
+            1307.08,
+            2137.42,
+            1314.88,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "9",
+          "score": 0.9244804382324219
+        },
+        {
+          "box_pdf": [
+            1314.88,
+            2137.42,
+            1322.67,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "2",
+          "score": 0.9707607626914978
+        },
+        {
+          "box_pdf": [
+            1322.67,
+            2137.42,
+            1330.47,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9817337989807129
+        },
+        {
+          "box_pdf": [
+            1330.47,
+            2137.42,
+            1338.97,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "0",
+          "score": 0.9800325036048889
+        },
+        {
+          "box_pdf": [
+            1338.97,
+            2137.42,
+            1346.77,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "9",
+          "score": 0.9244804382324219
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "13592509"
+      ]
+    },
+    {
+      "id": "L14",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            1287.24,
+            2137.42,
+            1291.49,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9780828952789307
+        },
+        {
+          "box_pdf": [
+            1291.49,
+            2137.42,
+            1299.29,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "3",
+          "score": 0.9876230955123901
+        },
+        {
+          "box_pdf": [
+            1299.29,
+            2137.42,
+            1307.08,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9956195950508118
+        },
+        {
+          "box_pdf": [
+            1307.08,
+            2137.42,
+            1314.88,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "9",
+          "score": 0.9917719960212708
+        },
+        {
+          "box_pdf": [
+            1314.88,
+            2137.42,
+            1322.67,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "2",
+          "score": 0.9769342541694641
+        },
+        {
+          "box_pdf": [
+            1322.67,
+            2137.42,
+            1330.47,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9956195950508118
+        },
+        {
+          "box_pdf": [
+            1330.47,
+            2137.42,
+            1338.97,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "0",
+          "score": 0.9921934604644775
+        },
+        {
+          "box_pdf": [
+            1338.97,
+            2137.42,
+            1346.77,
+            2146.63
+          ],
+          "path_id": 39249,
+          "source": "isolated_vector_yolo",
+          "text": "9",
+          "score": 0.9917719960212708
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "13592509"
+      ]
+    },
+    {
+      "id": "L15",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            431.91,
+            2148.77,
+            436.16,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9787160158157349
+        },
+        {
+          "box_pdf": [
+            436.16,
+            2148.77,
+            443.96,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "3",
+          "score": 0.9729165434837341
+        },
+        {
+          "box_pdf": [
+            443.96,
+            2148.77,
+            451.75,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "3",
+          "score": 0.9729165434837341
+        },
+        {
+          "box_pdf": [
+            451.75,
+            2148.77,
+            459.55,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9641668200492859
+        },
+        {
+          "box_pdf": [
+            459.55,
+            2148.77,
+            467.34,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "2",
+          "score": 0.9672672748565674
+        },
+        {
+          "box_pdf": [
+            467.34,
+            2148.77,
+            475.14,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "2",
+          "score": 0.9672672748565674
+        },
+        {
+          "box_pdf": [
+            475.14,
+            2148.77,
+            483.64,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "4",
+          "score": 0.970542311668396
+        },
+        {
+          "box_pdf": [
+            483.64,
+            2148.77,
+            492.15,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "4",
+          "score": 0.970542311668396
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "13352244"
+      ]
+    },
+    {
+      "id": "L15",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            431.91,
+            2148.77,
+            436.16,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9885901808738708
+        },
+        {
+          "box_pdf": [
+            436.16,
+            2148.77,
+            443.96,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "3",
+          "score": 0.9848461151123047
+        },
+        {
+          "box_pdf": [
+            443.96,
+            2148.77,
+            451.75,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "3",
+          "score": 0.9848461151123047
+        },
+        {
+          "box_pdf": [
+            451.75,
+            2148.77,
+            459.55,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9824002981185913
+        },
+        {
+          "box_pdf": [
+            459.55,
+            2148.77,
+            467.34,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "2",
+          "score": 0.9707607626914978
+        },
+        {
+          "box_pdf": [
+            467.34,
+            2148.77,
+            475.14,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "2",
+          "score": 0.9707607626914978
+        },
+        {
+          "box_pdf": [
+            475.14,
+            2148.77,
+            483.64,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "4",
+          "score": 0.9623077511787415
+        },
+        {
+          "box_pdf": [
+            483.64,
+            2148.77,
+            492.15,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "4",
+          "score": 0.9623077511787415
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "13352244"
+      ]
+    },
+    {
+      "id": "L15",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            431.91,
+            2148.77,
+            436.16,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "1",
+          "score": 0.9780828952789307
+        },
+        {
+          "box_pdf": [
+            436.16,
+            2148.77,
+            443.96,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "3",
+          "score": 0.9876230955123901
+        },
+        {
+          "box_pdf": [
+            443.96,
+            2148.77,
+            451.75,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "3",
+          "score": 0.9876230955123901
+        },
+        {
+          "box_pdf": [
+            451.75,
+            2148.77,
+            459.55,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "5",
+          "score": 0.9956195950508118
+        },
+        {
+          "box_pdf": [
+            459.55,
+            2148.77,
+            467.34,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "2",
+          "score": 0.9769342541694641
+        },
+        {
+          "box_pdf": [
+            467.34,
+            2148.77,
+            475.14,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "2",
+          "score": 0.9769342541694641
+        },
+        {
+          "box_pdf": [
+            475.14,
+            2148.77,
+            483.64,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "4",
+          "score": 0.9883214831352234
+        },
+        {
+          "box_pdf": [
+            483.64,
+            2148.77,
+            492.15,
+            2157.9900000000002
+          ],
+          "path_id": 39255,
+          "source": "isolated_vector_yolo",
+          "text": "4",
+          "score": 0.9888045191764832
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "13352244"
+      ]
+    },
+    {
+      "id": "L16",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            1286.53,
+            2126.79,
+            1295.74,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "A",
+          "score": 0.98134446144104
+        },
+        {
+          "box_pdf": [
+            1295.74,
+            2126.79,
+            1304.25,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "4",
+          "score": 0.970542311668396
+        },
+        {
+          "box_pdf": [
+            1304.25,
+            2126.79,
+            1312.04,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "7",
+          "score": 0.9873945713043213
+        },
+        {
+          "box_pdf": [
+            1312.04,
+            2126.79,
+            1320.55,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "0",
+          "score": 0.9453550577163696
+        },
+        {
+          "box_pdf": [
+            1320.55,
+            2126.79,
+            1328.34,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.9784881472587585
+        },
+        {
+          "box_pdf": [
+            1328.34,
+            2126.79,
+            1336.85,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9844812154769897
+        },
+        {
+          "box_pdf": [
+            1336.85,
+            2126.79,
+            1345.35,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9761443734169006
+        },
+        {
+          "box_pdf": [
+            1345.35,
+            2126.79,
+            1353.15,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9887831807136536
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "A470LEFT"
+      ]
+    },
+    {
+      "id": "L16",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            1286.53,
+            2126.79,
+            1295.74,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "A",
+          "score": 0.9768261909484863
+        },
+        {
+          "box_pdf": [
+            1295.74,
+            2126.79,
+            1304.25,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "4",
+          "score": 0.9627435803413391
+        },
+        {
+          "box_pdf": [
+            1304.25,
+            2126.79,
+            1312.04,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "7",
+          "score": 0.9873360991477966
+        },
+        {
+          "box_pdf": [
+            1312.04,
+            2126.79,
+            1320.55,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "0",
+          "score": 0.9800325036048889
+        },
+        {
+          "box_pdf": [
+            1320.55,
+            2126.79,
+            1328.34,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.9764779806137085
+        },
+        {
+          "box_pdf": [
+            1328.34,
+            2126.79,
+            1336.85,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9902263879776001
+        },
+        {
+          "box_pdf": [
+            1336.85,
+            2126.79,
+            1345.35,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9683204889297485
+        },
+        {
+          "box_pdf": [
+            1345.35,
+            2126.79,
+            1353.15,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.986954391002655
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "A470LEFT"
+      ]
+    },
+    {
+      "id": "L16",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [
+        {
+          "box_pdf": [
+            1286.53,
+            2126.79,
+            1295.74,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "A",
+          "score": 0.9852203130722046
+        },
+        {
+          "box_pdf": [
+            1295.74,
+            2126.79,
+            1304.25,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "4",
+          "score": 0.9887839555740356
+        },
+        {
+          "box_pdf": [
+            1304.25,
+            2126.79,
+            1312.04,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "7",
+          "score": 0.9940242171287537
+        },
+        {
+          "box_pdf": [
+            1312.04,
+            2126.79,
+            1320.55,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "0",
+          "score": 0.9921914935112
+        },
+        {
+          "box_pdf": [
+            1320.55,
+            2126.79,
+            1328.34,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "L",
+          "score": 0.9827070832252502
+        },
+        {
+          "box_pdf": [
+            1328.34,
+            2126.79,
+            1336.85,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "E",
+          "score": 0.9812358617782593
+        },
+        {
+          "box_pdf": [
+            1336.85,
+            2126.79,
+            1345.35,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "F",
+          "score": 0.9867033958435059
+        },
+        {
+          "box_pdf": [
+            1345.35,
+            2126.79,
+            1353.15,
+            2136.0
+          ],
+          "path_id": 39248,
+          "source": "isolated_vector_yolo",
+          "text": "T",
+          "score": 0.9885127544403076
+        }
+      ],
+      "path_count": 1,
+      "raw_lines": [
+        "A470LEFT"
+      ]
+    },
+    {
+      "id": "D23",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [],
+      "path_count": 0,
+      "raw_lines": []
+    },
+    {
+      "id": "D23",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [],
+      "path_count": 0,
+      "raw_lines": []
+    },
+    {
+      "id": "D23",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [],
+      "path_count": 0,
+      "raw_lines": []
+    },
+    {
+      "id": "D24",
+      "target_height": 32,
+      "boxes": [],
+      "glyphs": [],
+      "path_count": 0,
+      "raw_lines": []
+    },
+    {
+      "id": "D24",
+      "target_height": 40,
+      "boxes": [],
+      "glyphs": [],
+      "path_count": 0,
+      "raw_lines": []
+    },
+    {
+      "id": "D24",
+      "target_height": 56,
+      "boxes": [],
+      "glyphs": [],
+      "path_count": 0,
+      "raw_lines": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "source_crop_xyxy": [
+    16,
+    8,
+    153,
+    133
+  ],
+  "scale": 0.4,
+  "raw_predicted_lines": [
+    "bll"
+  ],
+  "note": "Diagnostic prefix crop excluding clear numerals; not an independent accuracy evaluation."
+}

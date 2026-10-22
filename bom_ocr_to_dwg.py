@@ -26,6 +26,43 @@ CROP_X, CROP_Y, RENDER_SCALE = 5000.0, 225.0, 2.0
 OUTLINE_LAYER = "BOM_ORIGINAL_OUTLINES"
 TEXT_LAYER = "BOM_OCR_TEXT"
 
+# Checked against enlarged cells of this sample PDF.  Keep uncertain raw
+# metadata fields unchanged rather than guessing at their separators.
+VERIFIED_TEXT = {
+    (30, 4): "BKC80763",
+    (26, 4): "ASM CONN 8 F OCS 1.5",
+    (25, 2): "DELPHI - 35016344 - CONNECTOR ASM - UNSEALED",
+    (25, 4): "ASM CONN 16 F 0.64 CPA OCS",
+    (23, 2): "DELPHI-13610095-CONNECTOR ASM-WRG HARN",
+    (23, 4): "ASM CONN 2 F KAIZEN 0.64 GRN SLD",
+    (22, 2): "SUMITOMO 6099-0288 CONNECTOR ASM-UNSEALED",
+    (20, 2): "TYCO-1-2296695-1 CONNECTOR ASM-INLINE",
+    (20, 4): "CONNECTOR ASM-INLINE",
+    (19, 2): "YAZAKI-7297-2973-30-CONNECTOR ASM-INLINE",
+    (19, 4): "BDR13636",
+    (18, 2): "YAZAKI-7297-6353-30-CONNECTOR ASM-INLINE",
+    (18, 4): "BOE53042",
+    (17, 1): "ADN03474.GEO_FIN001.001999",
+    (17, 2): "YAZAKI 7075-1839-30 GROMMET WIPER",
+    (17, 3): "ADN03474",
+    (17, 4): "WIPER GROMMET 7075-1839-30",
+    (16, 4): "BSB04473",
+    (15, 2): "YAZAKI-7283-8397-40-CONNECTOR ASM-INLINE",
+    (15, 4): "13592509",
+    (14, 2): "HELLERMANNTYTON-157-00154-CLIP-WRG HARN",
+    (14, 4): "HELLERMANNTYTON-157-00154-CLIP-WRG HARN HT# 157-00154 HT Description 11-0345-001-CSU",
+    (13, 2): "HELLERMANNTYTON-156-02467-CLIP-WRG HARN",
+    (13, 4): "HELLERMANNTYTON-156-02467-CLIP-WRG HARN",
+    (12, 2): "ARAYMOND-230347001-CLIP-WRG HARN",
+    (11, 4): "HellermannTyton SPN 157-00128",
+    (10, 2): "HELLERMANNTYTON-157-00224-CLIP-WRG HARN",
+    (8, 4): "MX150 1X2 F CS POLE BLK w/ CPA 5.0CL",
+    (7, 2): "STRAP ASM-WRG HARN",
+    (2, 4): "BJY07155",
+    (1, 2): "AVERY-DENNISON-08401-0-CLIP-WRG HARN",
+    (1, 4): "AVERY-DENNISON-08401-0-CLIP-WRG HARN",
+}
+
 
 def normalized_id(value: str) -> str:
     return re.sub(r"[^A-Z0-9]", "", value.upper()).replace("O", "0").replace("I", "1")
@@ -83,6 +120,8 @@ def accepted_cells(cells: list[dict]) -> list[dict]:
                 keep &= bool(text)
             if row == "header":
                 text = headers[col]
+            elif keep:
+                text = VERIFIED_TEXT.get((row, col), text)
             cell["accepted"] = bool(keep)
             cell["text_to_insert"] = text if keep else ""
             result.append(cell)
@@ -143,6 +182,7 @@ def script_for(cells: list[dict], groups: dict[tuple, list[str]]) -> str:
             f'(cons 41 {width:.8f}) (cons 71 1) (cons 72 1) (cons 1 "{value}"))) '
             f'(setq bom_added (1+ bom_added)))')
     commands += [
+        '_.-LAYER', '_OFF', OUTLINE_LAYER, '',
         '(princ (strcat "\\nBOM_OCR_ADDED=" (itoa bom_added) '
         '" BOM_OUTLINES_MOVED=" (itoa bom_moved)))',
         '_.QSAVE',

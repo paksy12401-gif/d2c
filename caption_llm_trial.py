@@ -121,6 +121,7 @@ def build() -> None:
                          "text": value, "outline_count": len(handles),
                          "pdf_bbox": [left, glyph_top, right, max(b[3] for b in glyph_boxes)]})
     commands += [
+        '_.-LAYER', '_OFF', 'CAPTION_ORIGINAL_OUTLINES', '',
         '(princ (strcat "\\nCAP_ADDED=" (itoa cap_added) " CAP_MOVED=" (itoa cap_moved)))',
         '_.QSAVE',
         '_.QUIT',

@@ -1,0 +1,12 @@
+{
+  "id": "H01",
+  "initial": "14580_X604X604_A471_X1",
+  "reviewed": "14590_X604X604_A471_X1",
+  "evidence": "H01_fourth_source.png: render only the original PDF segments; no model text is rendered in this evidence.",
+  "reason": "Fourth digit verified as 9 from original PDF subpath; the adjacent 5 shares the missing lower-left stroke and made the initial combined image look like 8.",
+  "predictions_changed": false,
+  "prediction_hashes": {
+    "development_predictions.json": "f00574b7966611ab71f65775cca41e93b33f83a2e6d2d3d9c30e944f3403b98d",
+    "audit_predictions.json": "4a5e35c5effe8160067583a5226949624361440fbd37279ecc735e1f7242ed3d"
+  }
+}

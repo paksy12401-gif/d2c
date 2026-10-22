@@ -1,0 +1,19 @@
+{
+  "pipeline_version": "symbol-blocks-v9-exact-geometry",
+  "input_model_entities": 8767,
+  "converted_source_entities": 44,
+  "new_block_references": 1,
+  "unique_block_definitions": 1,
+  "reused_block_references": 0,
+  "pipe_entities_left_unblocked": 0,
+  "pdf_background_layers_locked": false,
+  "output_model_entities": 8724,
+  "skipped_review_boxes": 0,
+  "included_review_boxes": 0,
+  "existing_symbol_blocks": 59,
+  "final_symbol_blocks": 60,
+  "fitting_entities": 44,
+  "input_dwg": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\\uae30\uc5c5\ud504\ub85c\uc81d\ud2b8 cad\\verified_dwg\\20261014\\symbols_59_bom_title_fit.dwg",
+  "output_dwg": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\\uae30\uc5c5\ud504\ub85c\uc81d\ud2b8 cad\\verified_dwg\\20261016\\symbols_60_bom_title_fit.dwg",
+  "excluded_pipe_geometry": true
+}

@@ -1,0 +1,20 @@
+{
+  "usage": "Evaluation only. Full 13 branch captions visually reviewed against isolated original SVG stroke groups. Same-PDF audit after seeing model output, not a blind benchmark; never loaded by recognition.",
+  "source_evidence": "output/cad_text_audit/assets/P*_parts.png",
+  "ambiguity_note": "Round O/0 glyphs within part-name codes can be visually ambiguous. Conventional transcriptions are recorded; original semantic character identity is not guaranteed by outlines.",
+  "answers": [
+    {"id":"P39225","reference":"분기명 : 13519739_Y626LEFT_FRONT_MAO_X1"},
+    {"id":"P39227","reference":"분기명 : 13591047_Y626LEFT_FRONT_MAO_X2"},
+    {"id":"P39229","reference":"분기명 : 13519739_Y626LEFT_FRONT_MAO_X1"},
+    {"id":"P39231","reference":"분기명 : 13512366_M651LEFT_FRONT_X1"},
+    {"id":"P39234","reference":"분기명 : 13514590_X604X604_A471_X1"},
+    {"id":"P39237","reference":"분기명 : 13590425_Y572LEFT_FRONT_X1"},
+    {"id":"P39239","reference":"분기명 : 19151432_B63DOOR_LFR_X1"},
+    {"id":"P39241","reference":"분기명 : 13582917_B198LEFT_FRONT_X1"},
+    {"id":"P39243","reference":"분기명 : 13551224_X11X500_FL_X1"},
+    {"id":"P39246","reference":"분기명 : 13535680_X644X505_FL_X1"},
+    {"id":"P39248","reference":"분기명 : 13592509_A470LEFT_FRONT_X1"},
+    {"id":"P39250","reference":"분기명 : 13543056_X604X604_E603_LT_X2_X2"},
+    {"id":"P39253","reference":"분기명 : 13532124_X604X604_E603_LT_X1_X1"}
+  ]
+}

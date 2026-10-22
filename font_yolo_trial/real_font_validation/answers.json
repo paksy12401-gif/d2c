@@ -1,0 +1,230 @@
+{
+  "usage": "Evaluation only. Never loaded by inference or training. Assistant visual references are not externally certified.",
+  "whitespace_policy": "Ignore whitespace for character scoring; raw outputs retained.",
+  "answers": [
+    {
+      "id": "L01",
+      "reference": "FRONT_MAO_X1",
+      "old_proposal": 29,
+      "ambiguities": [
+        {
+          "index": 8,
+          "allowed": [
+            "O",
+            "0"
+          ]
+        }
+      ],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L02",
+      "reference": "FRONT_MAO_X2",
+      "old_proposal": 77,
+      "ambiguities": [
+        {
+          "index": 8,
+          "allowed": [
+            "O",
+            "0"
+          ]
+        }
+      ],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L03",
+      "reference": "FRONT_MAO_X1",
+      "old_proposal": 101,
+      "ambiguities": [
+        {
+          "index": 8,
+          "allowed": [
+            "O",
+            "0"
+          ]
+        }
+      ],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L04",
+      "reference": "FRONT_X1",
+      "old_proposal": 134,
+      "ambiguities": [],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L05",
+      "reference": "FRONT_X1",
+      "old_proposal": 150,
+      "ambiguities": [],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L06",
+      "reference": "X1_X1",
+      "old_proposal": 122,
+      "ambiguities": [],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L07",
+      "reference": "E603_LT_X1_X1",
+      "old_proposal": 173,
+      "ambiguities": [
+        {
+          "index": 2,
+          "allowed": [
+            "O",
+            "0"
+          ]
+        }
+      ],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L08",
+      "reference": "FLEECE TAPE",
+      "old_proposal": 105,
+      "ambiguities": [],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L09",
+      "reference": "SPLICE POINT",
+      "old_proposal": 87,
+      "ambiguities": [],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L10",
+      "reference": "M651LEFT",
+      "old_proposal": 95,
+      "ambiguities": [],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L11",
+      "reference": "REAR COVER NO: OPU88567",
+      "old_proposal": 97,
+      "ambiguities": [
+        {
+          "index": 12,
+          "allowed": [
+            "O",
+            "0"
+          ]
+        }
+      ],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L12",
+      "reference": "GROMMET",
+      "old_proposal": null,
+      "ambiguities": [],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L13",
+      "reference": "bll15914",
+      "old_proposal": null,
+      "ambiguities": [],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L14",
+      "reference": "13592509",
+      "old_proposal": null,
+      "ambiguities": [
+        {
+          "index": 6,
+          "allowed": [
+            "0",
+            "O"
+          ]
+        }
+      ],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L15",
+      "reference": "13352244",
+      "old_proposal": null,
+      "ambiguities": [],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "L16",
+      "reference": "A470LEFT",
+      "old_proposal": 133,
+      "ambiguities": [
+        {
+          "index": 3,
+          "allowed": [
+            "0",
+            "O"
+          ]
+        }
+      ],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "K17",
+      "reference": "작업 주기",
+      "old_proposal": 200,
+      "ambiguities": [],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "K18",
+      "reference": "3. 부자재 LIST 참조하여 적용할것.",
+      "old_proposal": 204,
+      "ambiguities": [],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "N19",
+      "reference": "95",
+      "old_proposal": null,
+      "ambiguities": [],
+      "reference_origin": "embedded PDF text; LucidaHandwriting-Italic; already editable, not the supplied CAD font"
+    },
+    {
+      "id": "N20",
+      "reference": "140",
+      "old_proposal": null,
+      "ambiguities": [],
+      "reference_origin": "embedded PDF text; LucidaHandwriting-Italic; already editable, not the supplied CAD font"
+    },
+    {
+      "id": "N21",
+      "reference": "170",
+      "old_proposal": null,
+      "ambiguities": [],
+      "reference_origin": "embedded PDF text; LucidaHandwriting-Italic; already editable, not the supplied CAD font"
+    },
+    {
+      "id": "N22",
+      "reference": "200",
+      "old_proposal": null,
+      "ambiguities": [],
+      "reference_origin": "embedded PDF text; LucidaHandwriting-Italic; already editable, not the supplied CAD font"
+    },
+    {
+      "id": "D23",
+      "reference": "",
+      "old_proposal": null,
+      "ambiguities": [],
+      "reference_origin": "assistant visual review authorized for validation only"
+    },
+    {
+      "id": "D24",
+      "reference": "",
+      "old_proposal": null,
+      "ambiguities": [],
+      "reference_origin": "assistant visual review authorized for validation only"
+    }
+  ]
+}

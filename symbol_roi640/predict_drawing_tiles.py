@@ -40,7 +40,7 @@ def suppress(rows,iou_threshold=.45):
     return sorted(keep,key=lambda r:(r['class_id'],r['raster_bbox_xyxy'][1],r['raster_bbox_xyxy'][0]))
 
 
-def run(image_path,weights,out,dpi=144,confidence=.25):
+def run(image_path,weights,out,dpi=144,confidence=.25,window_sizes=(320,640,1280,2560),classes=None):
     if out.exists():raise FileExistsError(out)
     out.mkdir(parents=True)
     # Trusted local PDF render: permit its known 119 MP page dimensions.
@@ -55,7 +55,7 @@ def run(image_path,weights,out,dpi=144,confidence=.25):
     def flush():
         nonlocal processed
         predictions=model.predict(source=tiles,imgsz=640,batch=16,device=0,conf=confidence,
-                                  iou=.7,augment=False,verbose=False)
+                                  classes=classes,iou=.7,augment=False,verbose=False)
         for result,(x,y,window) in zip(predictions,metadata):
             factor=window/640
             for b,c,score in zip(result.boxes.xyxy.cpu().numpy(),result.boxes.cls.cpu().numpy(),result.boxes.conf.cpu().numpy()):
@@ -73,7 +73,7 @@ def run(image_path,weights,out,dpi=144,confidence=.25):
         if processed%160==0:print('processed_tiles',processed,flush=True)
     # 320 preserves/enlarges tiny glyphs; 640 preserves native raster detail;
     # 1280/2560 provide context for tall connector reference pictures.
-    for window in [320,640,1280,2560]:
+    for window in window_sizes:
         for y in starts(h,window):
             for x in starts(w,window):
                 tile=Image.new('RGB',(window,window),'white')
@@ -96,7 +96,8 @@ def run(image_path,weights,out,dpi=144,confidence=.25):
         with (out/name).open('r+b') as saved_image:
             saved_image.flush();os.fsync(saved_image.fileno())
     summary={'raster_size':[w,h],'render_dpi':dpi,'source_image':str(image_path),'weights':str(weights),
-             'window_sizes_px':[320,640,1280,2560],'overlap_fraction':.25,'model_input_px':640,
+             'window_sizes_px':list(window_sizes),'overlap_fraction':.25,'model_input_px':640,
+             'classes':classes,
              'processed_tiles':processed,'raw_candidates':len(rows),'merged_candidates':len(detections),
              'confidence_threshold':confidence,'global_nms_iou':.45,
              'class_candidate_counts':dict(Counter(r['class_name'] for r in detections)),
@@ -124,4 +125,6 @@ if __name__=='__main__':
     p=argparse.ArgumentParser();p.add_argument('--image',required=True);p.add_argument('--weights',required=True)
     p.add_argument('--out',required=True);p.add_argument('--dpi',type=float,default=144)
     p.add_argument('--conf',type=float,default=.25)
-    a=p.parse_args();run(Path(a.image),Path(a.weights),Path(a.out),a.dpi,a.conf)
+    p.add_argument('--windows',type=int,nargs='+',default=[320,640,1280,2560])
+    p.add_argument('--classes',type=int,nargs='+')
+    a=p.parse_args();run(Path(a.image),Path(a.weights),Path(a.out),a.dpi,a.conf,a.windows,a.classes)

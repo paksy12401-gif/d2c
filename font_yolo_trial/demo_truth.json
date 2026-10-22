@@ -1,0 +1,435 @@
+{
+  "image": "demo_spline.png",
+  "width": 640,
+  "height": 384,
+  "rows": [
+    {
+      "row": 0,
+      "text": "SPLINE",
+      "bbox_xyxy": [
+        199,
+        26,
+        441,
+        70
+      ]
+    },
+    {
+      "row": 1,
+      "text": "FLEECE TAPE",
+      "bbox_xyxy": [
+        82,
+        122,
+        558,
+        166
+      ]
+    },
+    {
+      "row": 2,
+      "text": "COLDMELT",
+      "bbox_xyxy": [
+        145,
+        218,
+        495,
+        262
+      ]
+    },
+    {
+      "row": 3,
+      "text": "SPLICE POINT",
+      "bbox_xyxy": [
+        88,
+        314,
+        552,
+        358
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "class_id": 18,
+      "char": "S",
+      "row": 0,
+      "bbox_xyxy": [
+        199,
+        26,
+        240,
+        70
+      ]
+    },
+    {
+      "class_id": 15,
+      "char": "P",
+      "row": 0,
+      "bbox_xyxy": [
+        245,
+        26,
+        287,
+        70
+      ]
+    },
+    {
+      "class_id": 11,
+      "char": "L",
+      "row": 0,
+      "bbox_xyxy": [
+        292,
+        26,
+        329,
+        70
+      ]
+    },
+    {
+      "class_id": 8,
+      "char": "I",
+      "row": 0,
+      "bbox_xyxy": [
+        334,
+        26,
+        348,
+        70
+      ]
+    },
+    {
+      "class_id": 13,
+      "char": "N",
+      "row": 0,
+      "bbox_xyxy": [
+        353,
+        26,
+        395,
+        70
+      ]
+    },
+    {
+      "class_id": 4,
+      "char": "E",
+      "row": 0,
+      "bbox_xyxy": [
+        400,
+        26,
+        441,
+        70
+      ]
+    },
+    {
+      "class_id": 5,
+      "char": "F",
+      "row": 1,
+      "bbox_xyxy": [
+        82,
+        122,
+        124,
+        166
+      ]
+    },
+    {
+      "class_id": 11,
+      "char": "L",
+      "row": 1,
+      "bbox_xyxy": [
+        129,
+        122,
+        166,
+        166
+      ]
+    },
+    {
+      "class_id": 4,
+      "char": "E",
+      "row": 1,
+      "bbox_xyxy": [
+        171,
+        122,
+        212,
+        166
+      ]
+    },
+    {
+      "class_id": 4,
+      "char": "E",
+      "row": 1,
+      "bbox_xyxy": [
+        217,
+        122,
+        258,
+        166
+      ]
+    },
+    {
+      "class_id": 2,
+      "char": "C",
+      "row": 1,
+      "bbox_xyxy": [
+        263,
+        122,
+        304,
+        166
+      ]
+    },
+    {
+      "class_id": 4,
+      "char": "E",
+      "row": 1,
+      "bbox_xyxy": [
+        309,
+        122,
+        350,
+        166
+      ]
+    },
+    {
+      "class_id": 19,
+      "char": "T",
+      "row": 1,
+      "bbox_xyxy": [
+        378,
+        122,
+        415,
+        166
+      ]
+    },
+    {
+      "class_id": 0,
+      "char": "A",
+      "row": 1,
+      "bbox_xyxy": [
+        420,
+        122,
+        465,
+        166
+      ]
+    },
+    {
+      "class_id": 15,
+      "char": "P",
+      "row": 1,
+      "bbox_xyxy": [
+        470,
+        122,
+        512,
+        166
+      ]
+    },
+    {
+      "class_id": 4,
+      "char": "E",
+      "row": 1,
+      "bbox_xyxy": [
+        517,
+        122,
+        558,
+        166
+      ]
+    },
+    {
+      "class_id": 2,
+      "char": "C",
+      "row": 2,
+      "bbox_xyxy": [
+        145,
+        218,
+        186,
+        262
+      ]
+    },
+    {
+      "class_id": 14,
+      "char": "O",
+      "row": 2,
+      "bbox_xyxy": [
+        191,
+        218,
+        231,
+        262
+      ]
+    },
+    {
+      "class_id": 11,
+      "char": "L",
+      "row": 2,
+      "bbox_xyxy": [
+        236,
+        218,
+        273,
+        262
+      ]
+    },
+    {
+      "class_id": 3,
+      "char": "D",
+      "row": 2,
+      "bbox_xyxy": [
+        278,
+        218,
+        319,
+        262
+      ]
+    },
+    {
+      "class_id": 12,
+      "char": "M",
+      "row": 2,
+      "bbox_xyxy": [
+        324,
+        218,
+        365,
+        262
+      ]
+    },
+    {
+      "class_id": 4,
+      "char": "E",
+      "row": 2,
+      "bbox_xyxy": [
+        370,
+        218,
+        411,
+        262
+      ]
+    },
+    {
+      "class_id": 11,
+      "char": "L",
+      "row": 2,
+      "bbox_xyxy": [
+        416,
+        218,
+        453,
+        262
+      ]
+    },
+    {
+      "class_id": 19,
+      "char": "T",
+      "row": 2,
+      "bbox_xyxy": [
+        458,
+        218,
+        495,
+        262
+      ]
+    },
+    {
+      "class_id": 18,
+      "char": "S",
+      "row": 3,
+      "bbox_xyxy": [
+        88,
+        314,
+        129,
+        358
+      ]
+    },
+    {
+      "class_id": 15,
+      "char": "P",
+      "row": 3,
+      "bbox_xyxy": [
+        134,
+        314,
+        176,
+        358
+      ]
+    },
+    {
+      "class_id": 11,
+      "char": "L",
+      "row": 3,
+      "bbox_xyxy": [
+        181,
+        314,
+        218,
+        358
+      ]
+    },
+    {
+      "class_id": 8,
+      "char": "I",
+      "row": 3,
+      "bbox_xyxy": [
+        223,
+        314,
+        237,
+        358
+      ]
+    },
+    {
+      "class_id": 2,
+      "char": "C",
+      "row": 3,
+      "bbox_xyxy": [
+        242,
+        314,
+        283,
+        358
+      ]
+    },
+    {
+      "class_id": 4,
+      "char": "E",
+      "row": 3,
+      "bbox_xyxy": [
+        288,
+        314,
+        329,
+        358
+      ]
+    },
+    {
+      "class_id": 15,
+      "char": "P",
+      "row": 3,
+      "bbox_xyxy": [
+        357,
+        314,
+        399,
+        358
+      ]
+    },
+    {
+      "class_id": 14,
+      "char": "O",
+      "row": 3,
+      "bbox_xyxy": [
+        404,
+        314,
+        444,
+        358
+      ]
+    },
+    {
+      "class_id": 8,
+      "char": "I",
+      "row": 3,
+      "bbox_xyxy": [
+        449,
+        314,
+        463,
+        358
+      ]
+    },
+    {
+      "class_id": 13,
+      "char": "N",
+      "row": 3,
+      "bbox_xyxy": [
+        468,
+        314,
+        510,
+        358
+      ]
+    },
+    {
+      "class_id": 19,
+      "char": "T",
+      "row": 3,
+      "bbox_xyxy": [
+        515,
+        314,
+        552,
+        358
+      ]
+    }
+  ],
+  "evaluation_scope": "Synthetic demonstration using the same source glyph templates as training; not an independent real-world test."
+}

@@ -1,0 +1,421 @@
+{
+  "usage": "Frame label references visually verified from frame_sources.png BEFORE new frame model evaluation. Reference only; never loaded by inference/training. No sequence correction is used in inference.",
+  "answers": [
+    {
+      "id": "F38425",
+      "reference": "1"
+    },
+    {
+      "id": "F38426",
+      "reference": "1"
+    },
+    {
+      "id": "F38427",
+      "reference": "2"
+    },
+    {
+      "id": "F38428",
+      "reference": "2"
+    },
+    {
+      "id": "F38429",
+      "reference": "3"
+    },
+    {
+      "id": "F38430",
+      "reference": "3"
+    },
+    {
+      "id": "F38431",
+      "reference": "4"
+    },
+    {
+      "id": "F38432",
+      "reference": "4"
+    },
+    {
+      "id": "F38433",
+      "reference": "5"
+    },
+    {
+      "id": "F38434",
+      "reference": "5"
+    },
+    {
+      "id": "F38435",
+      "reference": "6"
+    },
+    {
+      "id": "F38436",
+      "reference": "6"
+    },
+    {
+      "id": "F38437",
+      "reference": "7"
+    },
+    {
+      "id": "F38438",
+      "reference": "7"
+    },
+    {
+      "id": "F38439",
+      "reference": "8"
+    },
+    {
+      "id": "F38440",
+      "reference": "8"
+    },
+    {
+      "id": "F38441",
+      "reference": "9"
+    },
+    {
+      "id": "F38442",
+      "reference": "9"
+    },
+    {
+      "id": "F38443",
+      "reference": "10"
+    },
+    {
+      "id": "F38444",
+      "reference": "10"
+    },
+    {
+      "id": "F38445",
+      "reference": "11"
+    },
+    {
+      "id": "F38446",
+      "reference": "11"
+    },
+    {
+      "id": "F38447",
+      "reference": "12"
+    },
+    {
+      "id": "F38448",
+      "reference": "12"
+    },
+    {
+      "id": "F38449",
+      "reference": "13"
+    },
+    {
+      "id": "F38450",
+      "reference": "13"
+    },
+    {
+      "id": "F38451",
+      "reference": "14"
+    },
+    {
+      "id": "F38452",
+      "reference": "14"
+    },
+    {
+      "id": "F38453",
+      "reference": "15"
+    },
+    {
+      "id": "F38454",
+      "reference": "15"
+    },
+    {
+      "id": "F38455",
+      "reference": "16"
+    },
+    {
+      "id": "F38456",
+      "reference": "16"
+    },
+    {
+      "id": "F38457",
+      "reference": "17"
+    },
+    {
+      "id": "F38458",
+      "reference": "17"
+    },
+    {
+      "id": "F38459",
+      "reference": "18"
+    },
+    {
+      "id": "F38460",
+      "reference": "18"
+    },
+    {
+      "id": "F38461",
+      "reference": "19"
+    },
+    {
+      "id": "F38462",
+      "reference": "19"
+    },
+    {
+      "id": "F38463",
+      "reference": "20"
+    },
+    {
+      "id": "F38464",
+      "reference": "20"
+    },
+    {
+      "id": "F38465",
+      "reference": "21"
+    },
+    {
+      "id": "F38466",
+      "reference": "21"
+    },
+    {
+      "id": "F38467",
+      "reference": "22"
+    },
+    {
+      "id": "F38468",
+      "reference": "22"
+    },
+    {
+      "id": "F38469",
+      "reference": "23"
+    },
+    {
+      "id": "F38470",
+      "reference": "23"
+    },
+    {
+      "id": "F38471",
+      "reference": "24"
+    },
+    {
+      "id": "F38472",
+      "reference": "24"
+    },
+    {
+      "id": "F38473",
+      "reference": "25"
+    },
+    {
+      "id": "F38474",
+      "reference": "25"
+    },
+    {
+      "id": "F38475",
+      "reference": "26"
+    },
+    {
+      "id": "F38476",
+      "reference": "26"
+    },
+    {
+      "id": "F38477",
+      "reference": "27"
+    },
+    {
+      "id": "F38478",
+      "reference": "27"
+    },
+    {
+      "id": "F38479",
+      "reference": "28"
+    },
+    {
+      "id": "F38480",
+      "reference": "28"
+    },
+    {
+      "id": "F38481",
+      "reference": "29"
+    },
+    {
+      "id": "F38482",
+      "reference": "29"
+    },
+    {
+      "id": "F38483",
+      "reference": "30"
+    },
+    {
+      "id": "F38484",
+      "reference": "30"
+    },
+    {
+      "id": "F38485",
+      "reference": "31"
+    },
+    {
+      "id": "F38486",
+      "reference": "31"
+    },
+    {
+      "id": "F38487",
+      "reference": "32"
+    },
+    {
+      "id": "F38488",
+      "reference": "32"
+    },
+    {
+      "id": "F38489",
+      "reference": "33"
+    },
+    {
+      "id": "F38490",
+      "reference": "33"
+    },
+    {
+      "id": "F38491",
+      "reference": "34"
+    },
+    {
+      "id": "F38492",
+      "reference": "34"
+    },
+    {
+      "id": "F38493",
+      "reference": "35"
+    },
+    {
+      "id": "F38494",
+      "reference": "35"
+    },
+    {
+      "id": "F38495",
+      "reference": "36"
+    },
+    {
+      "id": "F38496",
+      "reference": "36"
+    },
+    {
+      "id": "F38497",
+      "reference": "37"
+    },
+    {
+      "id": "F38498",
+      "reference": "37"
+    },
+    {
+      "id": "F38499",
+      "reference": "38"
+    },
+    {
+      "id": "F38500",
+      "reference": "38"
+    },
+    {
+      "id": "F38501",
+      "reference": "39"
+    },
+    {
+      "id": "F38502",
+      "reference": "39"
+    },
+    {
+      "id": "F38503",
+      "reference": "40"
+    },
+    {
+      "id": "F38504",
+      "reference": "40"
+    },
+    {
+      "id": "F38505",
+      "reference": "41"
+    },
+    {
+      "id": "F38506",
+      "reference": "41"
+    },
+    {
+      "id": "F38507",
+      "reference": "42"
+    },
+    {
+      "id": "F38508",
+      "reference": "42"
+    },
+    {
+      "id": "F38509",
+      "reference": "43"
+    },
+    {
+      "id": "F38510",
+      "reference": "43"
+    },
+    {
+      "id": "F38511",
+      "reference": "44"
+    },
+    {
+      "id": "F38512",
+      "reference": "44"
+    },
+    {
+      "id": "F38513",
+      "reference": "A"
+    },
+    {
+      "id": "F38514",
+      "reference": "A"
+    },
+    {
+      "id": "F38515",
+      "reference": "B"
+    },
+    {
+      "id": "F38516",
+      "reference": "B"
+    },
+    {
+      "id": "F38517",
+      "reference": "C"
+    },
+    {
+      "id": "F38518",
+      "reference": "C"
+    },
+    {
+      "id": "F38519",
+      "reference": "D"
+    },
+    {
+      "id": "F38520",
+      "reference": "D"
+    },
+    {
+      "id": "F38521",
+      "reference": "E"
+    },
+    {
+      "id": "F38522",
+      "reference": "E"
+    },
+    {
+      "id": "F38523",
+      "reference": "F"
+    },
+    {
+      "id": "F38524",
+      "reference": "F"
+    },
+    {
+      "id": "F38525",
+      "reference": "G"
+    },
+    {
+      "id": "F38526",
+      "reference": "G"
+    },
+    {
+      "id": "F38527",
+      "reference": "H"
+    },
+    {
+      "id": "F38528",
+      "reference": "H"
+    }
+  ]
+}

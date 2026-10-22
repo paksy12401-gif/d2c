@@ -1,0 +1,8 @@
+<!doctype html><html lang="ko"><meta charset="utf-8"><title>지정 도면 YOLO26 검출</title>
+<style>body{margin:0;font:15px system-ui;background:#f4f6f8}header{padding:12px;background:white}aside{position:absolute;top:85px;bottom:0;width:240px;overflow:auto}button{display:block;width:95%;margin:5px;padding:8px;border:1px solid #ddd;background:white;cursor:pointer}#viewer{position:absolute;left:245px;right:0;top:85px;bottom:0;overflow:auto;background:#bbb}img{display:block;max-width:none}</style>
+<header><b>지정 도면 검출 후보</b> · confidence ≥ 0.25 · 1개<br>확대 <input id="zoom" type="range" min="0.1" max="2" step="0.05" value="0.25"> <span id="scale"></span> · 왼쪽 후보를 누르면 해당 위치로 이동합니다. 후보의 정확성은 도면에서 확인하세요.</header>
+<aside><button onclick="focusBox(4522.40185546875,2877.7572021484375)">D0001 · 1 · 0.32</button></aside><div id="viewer"><img id="drawing" src="drawing_detections.png"></div>
+<script>const viewer=document.getElementById('viewer'),picture=document.getElementById('drawing'),zoom=document.getElementById('zoom');
+function resize(){picture.style.width=(25002*Number(zoom.value))+'px';document.getElementById('scale').textContent=Math.round(Number(zoom.value)*100)+'%'}
+function focusBox(x,y){viewer.scrollTo({left:x*Number(zoom.value)-viewer.clientWidth/2,top:y*Number(zoom.value)-viewer.clientHeight/2,behavior:'smooth'})}
+zoom.oninput=resize;resize();</script></html>

@@ -29,8 +29,8 @@ ROOT = Path(__file__).resolve().parent
 OUTPUT_ROOT = ROOT / "output" / "pdf_to_dwg_web"
 SAMPLE_PDF = ROOT / "source_inputs" / "DWG 객체 변환 샘플.pdf"
 STARTER_DWG = ROOT / "source_inputs" / "Drawing1.dwg"
-CHECKED_DWG = ROOT / "verified_dwg" / "20261013" / "symbols_59_with_circuit_table_all_captions.dwg"
-CHECKED_DETECTIONS = ROOT / "combined_shape_output" / "20261012_182144_178758" / "combined_candidates.json"
+CHECKED_DWG = ROOT / "verified_dwg" / "20261016" / "symbols_60_bom_title_fit.dwg"
+CHECKED_DETECTIONS = ROOT / "combined_shape_output" / "20261016_class1_added" / "combined_candidates.json"
 DEFAULT_DATA_ROOT = Path.home() / "Desktop" / "drawing"
 MAX_PDF_BYTES = 40 * 1024 * 1024
 _SEARCH_LOCK = threading.Lock()
@@ -235,8 +235,11 @@ def convert_pdf(data: bytes, *, data_root: Path = DEFAULT_DATA_ROOT,
         checked_preview = CHECKED_DETECTIONS.with_name("combined_candidates.pdf")
         if checked_preview.is_file():
             shutil.copy2(checked_preview, folder / "detections.pdf")
-        report = {**metadata, "mode": "verified_identical_pdf", "symbol_blocks": 59,
-                  "caption_texts": 31, "bom_texts": 155, "circuit_cells": 720,
+        report = {**metadata, "mode": "verified_identical_pdf", "symbol_blocks": 60,
+                  "caption_texts": 31, "work_note_texts": 5,
+                  "additional_description_texts": 13,
+                  "bom_corrected_cells": 32,
+                  "bom_texts": 155, "circuit_cells": 720,
                   "candidate_count": len(detections["displayed_detections"]),
                   "note": "SHA-256이 같은 원본 PDF의 검증 완료 DWG를 재사용했습니다."}
     else:

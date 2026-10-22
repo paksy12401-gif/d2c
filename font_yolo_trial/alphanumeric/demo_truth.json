@@ -1,0 +1,369 @@
+{
+  "image": "demo_spline.png",
+  "width": 640,
+  "height": 384,
+  "rows": [
+    {
+      "row": 0,
+      "text": "Abc123",
+      "bbox_xyxy": [
+        200,
+        25,
+        440,
+        72
+      ]
+    },
+    {
+      "row": 1,
+      "text": "FLEECE TAPE",
+      "bbox_xyxy": [
+        81,
+        120,
+        559,
+        168
+      ]
+    },
+    {
+      "row": 2,
+      "text": "xY789",
+      "bbox_xyxy": [
+        214,
+        217,
+        425,
+        263
+      ]
+    },
+    {
+      "row": 3,
+      "text": "456O0lI1",
+      "bbox_xyxy": [
+        186,
+        313,
+        453,
+        360
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "class_id": 0,
+      "char": "A",
+      "row": 0,
+      "bbox_xyxy": [
+        200,
+        25,
+        246,
+        71
+      ]
+    },
+    {
+      "class_id": 27,
+      "char": "b",
+      "row": 0,
+      "bbox_xyxy": [
+        250,
+        25,
+        291,
+        72
+      ]
+    },
+    {
+      "class_id": 28,
+      "char": "c",
+      "row": 0,
+      "bbox_xyxy": [
+        294,
+        35,
+        335,
+        72
+      ]
+    },
+    {
+      "class_id": 53,
+      "char": "1",
+      "row": 0,
+      "bbox_xyxy": [
+        338,
+        26,
+        359,
+        70
+      ]
+    },
+    {
+      "class_id": 54,
+      "char": "2",
+      "row": 0,
+      "bbox_xyxy": [
+        362,
+        26,
+        400,
+        71
+      ]
+    },
+    {
+      "class_id": 55,
+      "char": "3",
+      "row": 0,
+      "bbox_xyxy": [
+        403,
+        26,
+        440,
+        71
+      ]
+    },
+    {
+      "class_id": 5,
+      "char": "F",
+      "row": 1,
+      "bbox_xyxy": [
+        81,
+        121,
+        124,
+        166
+      ]
+    },
+    {
+      "class_id": 11,
+      "char": "L",
+      "row": 1,
+      "bbox_xyxy": [
+        127,
+        121,
+        167,
+        168
+      ]
+    },
+    {
+      "class_id": 4,
+      "char": "E",
+      "row": 1,
+      "bbox_xyxy": [
+        170,
+        121,
+        213,
+        168
+      ]
+    },
+    {
+      "class_id": 4,
+      "char": "E",
+      "row": 1,
+      "bbox_xyxy": [
+        216,
+        121,
+        259,
+        168
+      ]
+    },
+    {
+      "class_id": 2,
+      "char": "C",
+      "row": 1,
+      "bbox_xyxy": [
+        262,
+        121,
+        305,
+        168
+      ]
+    },
+    {
+      "class_id": 4,
+      "char": "E",
+      "row": 1,
+      "bbox_xyxy": [
+        308,
+        121,
+        351,
+        168
+      ]
+    },
+    {
+      "class_id": 19,
+      "char": "T",
+      "row": 1,
+      "bbox_xyxy": [
+        377,
+        120,
+        416,
+        166
+      ]
+    },
+    {
+      "class_id": 0,
+      "char": "A",
+      "row": 1,
+      "bbox_xyxy": [
+        419,
+        121,
+        466,
+        167
+      ]
+    },
+    {
+      "class_id": 15,
+      "char": "P",
+      "row": 1,
+      "bbox_xyxy": [
+        469,
+        121,
+        513,
+        167
+      ]
+    },
+    {
+      "class_id": 4,
+      "char": "E",
+      "row": 1,
+      "bbox_xyxy": [
+        516,
+        121,
+        559,
+        168
+      ]
+    },
+    {
+      "class_id": 49,
+      "char": "x",
+      "row": 2,
+      "bbox_xyxy": [
+        214,
+        227,
+        250,
+        263
+      ]
+    },
+    {
+      "class_id": 24,
+      "char": "Y",
+      "row": 2,
+      "bbox_xyxy": [
+        253,
+        217,
+        301,
+        262
+      ]
+    },
+    {
+      "class_id": 59,
+      "char": "7",
+      "row": 2,
+      "bbox_xyxy": [
+        305,
+        218,
+        343,
+        262
+      ]
+    },
+    {
+      "class_id": 60,
+      "char": "8",
+      "row": 2,
+      "bbox_xyxy": [
+        346,
+        218,
+        384,
+        263
+      ]
+    },
+    {
+      "class_id": 61,
+      "char": "9",
+      "row": 2,
+      "bbox_xyxy": [
+        387,
+        218,
+        425,
+        263
+      ]
+    },
+    {
+      "class_id": 56,
+      "char": "4",
+      "row": 3,
+      "bbox_xyxy": [
+        186,
+        314,
+        227,
+        358
+      ]
+    },
+    {
+      "class_id": 57,
+      "char": "5",
+      "row": 3,
+      "bbox_xyxy": [
+        230,
+        314,
+        268,
+        359
+      ]
+    },
+    {
+      "class_id": 58,
+      "char": "6",
+      "row": 3,
+      "bbox_xyxy": [
+        271,
+        314,
+        309,
+        359
+      ]
+    },
+    {
+      "class_id": 14,
+      "char": "O",
+      "row": 3,
+      "bbox_xyxy": [
+        312,
+        313,
+        355,
+        360
+      ]
+    },
+    {
+      "class_id": 52,
+      "char": "0",
+      "row": 3,
+      "bbox_xyxy": [
+        358,
+        314,
+        399,
+        359
+      ]
+    },
+    {
+      "class_id": 37,
+      "char": "l",
+      "row": 3,
+      "bbox_xyxy": [
+        402,
+        313,
+        411,
+        360
+      ]
+    },
+    {
+      "class_id": 8,
+      "char": "I",
+      "row": 3,
+      "bbox_xyxy": [
+        414,
+        313,
+        429,
+        360
+      ]
+    },
+    {
+      "class_id": 53,
+      "char": "1",
+      "row": 3,
+      "bbox_xyxy": [
+        432,
+        314,
+        453,
+        358
+      ]
+    }
+  ],
+  "evaluation_scope": "Synthetic demonstration using the same source glyph templates as training; not an independent real-world test."
+}

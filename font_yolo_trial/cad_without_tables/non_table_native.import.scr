@@ -1,0 +1,20 @@
+(setvar "FILEDIA" 0)
+(setvar "CMDECHO" 0)
+(setq old_pdf_filter (getvar "PDFIMPORTFILTER"))
+(setvar "PDFIMPORTFILTER" 0)
+_.ERASE
+_ALL
+
+_.-PDFIMPORT
+_F
+source.pdf
+1
+0,0
+1
+0
+(setvar "PDFIMPORTFILTER" old_pdf_filter)
+(setq img_ss (ssget "_X" (list (cons 0 "IMAGE"))))
+(if img_ss (progn (setq img_i 0) (while (< img_i (sslength img_ss)) (setq img_ed (entget (cdr (assoc 340 (entget (ssname img_ss img_i)))))) (setq img_old (cdr (assoc 1 img_ed))) (setq img_rel (strcat "PDF Images\\" (vl-filename-base img_old) (vl-filename-extension img_old))) (entmod (subst (cons 1 img_rel) (assoc 1 img_ed) img_ed)) (setq img_i (1+ img_i)))))
+_.QSAVE
+_.QUIT
+_N

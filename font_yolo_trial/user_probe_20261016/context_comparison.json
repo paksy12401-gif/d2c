@@ -1,0 +1,14 @@
+[
+  {
+    "condition": "full_control",
+    "predicted": [
+      "lS I"
+    ]
+  },
+  {
+    "condition": "digits_region_removed",
+    "predicted": [
+      "dl"
+    ]
+  }
+]

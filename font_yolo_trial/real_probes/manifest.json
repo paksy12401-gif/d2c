@@ -1,0 +1,156 @@
+{
+  "purpose": "Held-out real-drawing qualitative probes for the A-Z font trial",
+  "usage": "Inference/visual inspection only; do not include in train or validation datasets",
+  "limitation": "No per-character labels; not a labeled full-drawing detection metric",
+  "coordinate_system": "PDF points, top-left origin, x rightwards, y downwards",
+  "source_pdf": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\source_inputs\\DWG 객체 변환 샘플.pdf",
+  "source_sha256": "ee26fa0e6c5027a48efca1ea954c0ee6f4f08f92e1456c975b8bd96c6b4da1c1",
+  "reference_script": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\complete_text_restoration.py",
+  "reference_script_sha256": "fa5b45f5c4ee3b3fd74e4386dca2e7c93faafd69c484621f624e49e4810608eb",
+  "source_inventory": [
+    {
+      "path": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\source_inputs\\DWG 객체 변환 샘플.pdf",
+      "sha256": "ee26fa0e6c5027a48efca1ea954c0ee6f4f08f92e1456c975b8bd96c6b4da1c1",
+      "page_sizes_pdf_points": [
+        [
+          12500.7900390625,
+          2383.93994140625
+        ]
+      ]
+    },
+    {
+      "path": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\source_inputs\\DWG 객체 변환 예시.pdf",
+      "sha256": "b3c54f4f9d960ae4b5cbd361d1b6ae9ba6ef1f44a9667a83436babef23d058ef",
+      "page_sizes_pdf_points": [
+        [
+          12500.7998046875,
+          2383.93994140625
+        ]
+      ]
+    }
+  ],
+  "probes": [
+    {
+      "id": "splice_point",
+      "image": "splice_point.png",
+      "image_sha256": "ac151242059ecd097e43bec7b5ba048d7c540c06177ff71e61112edddead7ed7",
+      "source_path": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\source_inputs\\DWG 객체 변환 샘플.pdf",
+      "source_sha256": "ee26fa0e6c5027a48efca1ea954c0ee6f4f08f92e1456c975b8bd96c6b4da1c1",
+      "page_index": 0,
+      "source_page_size_pdf_points": [
+        12500.7900390625,
+        2383.93994140625
+      ],
+      "crop_pdf_rect": [
+        2675,
+        1575,
+        2825,
+        1635
+      ],
+      "render_scale_pixels_per_pdf_point": 4.0,
+      "render_dpi": 288.0,
+      "image_size_pixels": [
+        600,
+        240
+      ],
+      "expected_english_portions": [
+        "SPLICE POINT"
+      ],
+      "known_source_texts": [
+        "SPLICE POINT"
+      ],
+      "reference_region_name": "splice_point",
+      "reference_text_region_pdf_rect": [
+        2690,
+        1590,
+        2810,
+        1620
+      ],
+      "preserved_context": "Unaltered PDF crop, including surrounding linework and non-Latin characters",
+      "evaluation_note": "Qualitative only; expected text is from a prior visually checked source script, not new character annotations",
+      "visual_inspection": "Angular, single-line uppercase glyphs visually resemble the supplied A-Z strip. Glyphs are tightly set and some edges touch; leader lines lie directly below the word and a circled numeral is retained."
+    },
+    {
+      "id": "caption_11",
+      "image": "caption_11.png",
+      "image_sha256": "1662ffd1f36670e98145d3998ba0c204c19d709da7a6afa63bc7f14bf2487a2b",
+      "source_path": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\source_inputs\\DWG 객체 변환 샘플.pdf",
+      "source_sha256": "ee26fa0e6c5027a48efca1ea954c0ee6f4f08f92e1456c975b8bd96c6b4da1c1",
+      "page_index": 0,
+      "source_page_size_pdf_points": [
+        12500.7900390625,
+        2383.93994140625
+      ],
+      "crop_pdf_rect": [
+        1958,
+        1475,
+        2200,
+        1547
+      ],
+      "render_scale_pixels_per_pdf_point": 4.0,
+      "render_dpi": 288.0,
+      "image_size_pixels": [
+        968,
+        288
+      ],
+      "expected_english_portions": [
+        "FLEECE TAPE"
+      ],
+      "known_source_texts": [
+        "FLEECE TAPE 2회 적용"
+      ],
+      "reference_region_name": "caption_11",
+      "reference_text_region_pdf_rect": [
+        1976,
+        1495,
+        2183,
+        1527
+      ],
+      "preserved_context": "Unaltered PDF crop, including surrounding linework and non-Latin characters",
+      "evaluation_note": "Qualitative only; expected text is from a prior visually checked source script, not new character annotations",
+      "visual_inspection": "Angular, single-line uppercase glyphs visually resemble the supplied A-Z strip. English letters have very tight spacing; Korean text and a numeral remain in the crop, with a small leader fragment at the right edge."
+    },
+    {
+      "id": "middle_callout",
+      "image": "middle_callout.png",
+      "image_sha256": "5dbb183877f65dc4a19006d9134f5fa7099f3e2a9e752a89ea8d99d9a5bda18e",
+      "source_path": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\source_inputs\\DWG 객체 변환 샘플.pdf",
+      "source_sha256": "ee26fa0e6c5027a48efca1ea954c0ee6f4f08f92e1456c975b8bd96c6b4da1c1",
+      "page_index": 0,
+      "source_page_size_pdf_points": [
+        12500.7900390625,
+        2383.93994140625
+      ],
+      "crop_pdf_rect": [
+        3350,
+        1310,
+        3730,
+        1420
+      ],
+      "render_scale_pixels_per_pdf_point": 4.0,
+      "render_dpi": 288.0,
+      "image_size_pixels": [
+        1520,
+        440
+      ],
+      "expected_english_portions": [
+        "FLEECE TAPE",
+        "COLDMELT"
+      ],
+      "known_source_texts": [
+        "FLEECE TAPE 2회 적용",
+        "부자재 리스트 2번 : COLDMELT 적용할것"
+      ],
+      "reference_region_name": "middle_callout",
+      "reference_text_region_pdf_rect": [
+        3370,
+        1330,
+        3710,
+        1400
+      ],
+      "preserved_context": "Unaltered PDF crop, including surrounding linework and non-Latin characters",
+      "evaluation_note": "Qualitative only; expected text is from a prior visually checked source script, not new character annotations",
+      "visual_inspection": "Angular, single-line uppercase glyphs visually resemble the supplied A-Z strip. Two text rows include Korean characters, and adjacent colored drawing lines, arrows and large numerals remain. Latin glyphs can touch, making segmentation harder than the spaced reference alphabet."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "region": "L15",
+  "initial_reference": "13552244",
+  "reviewed_reference": "13352244",
+  "evidence_image": "L15_zoom.png",
+  "reason": "Source PDF rendered at 20 pixels per point confirms the third glyph is 3; no recognition predictions were changed.",
+  "predictions_sha256_unchanged": "9f0715662175f6a2f20e3f84a1d5da23f957da4a6717df3306d3f4e20c5d0a41",
+  "inference_regions_sha256_unchanged": "3ba09aa185d49138ed8f6f2ad143beeaf3cd6900bac5f666f18dd0e9c9d30e1b"
+}

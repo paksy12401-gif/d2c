@@ -3,7 +3,7 @@ import unittest
 
 import pymupdf
 
-from pdf_to_dwg_workflow import SAMPLE_PDF, _assign_fresh_entities, convert_pdf, inspect_pdf
+from pdf_to_dwg_workflow import CHECKED_DWG, SAMPLE_PDF, _assign_fresh_entities, convert_pdf, inspect_pdf
 
 
 class PdfToDwgWorkflowTests(unittest.TestCase):
@@ -45,7 +45,11 @@ class PdfToDwgWorkflowTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as folder:
             result = convert_pdf(SAMPLE_PDF.read_bytes(), output_root=Path(folder))
             self.assertEqual(result["report"]["mode"], "verified_identical_pdf")
-            self.assertEqual(result["report"]["symbol_blocks"], 59)
+            self.assertEqual(result["report"]["symbol_blocks"], 60)
+            self.assertEqual(result["report"]["candidate_count"], 60)
+            self.assertEqual(result["report"]["additional_description_texts"], 13)
+            self.assertEqual(result["report"]["bom_corrected_cells"], 32)
+            self.assertEqual(result["dwg"].read_bytes(), CHECKED_DWG.read_bytes())
             self.assertTrue(result["archive"].is_file())
 
 

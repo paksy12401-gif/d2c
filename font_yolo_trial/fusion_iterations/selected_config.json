@@ -1,0 +1,5 @@
+{
+  "chosen_before_audit": "hybrid_spaced_h40",
+  "selection": "Development diagnostics only; vector groups + existing 62-class YOLO, trained 68-class symbols, word OCR, native PDF text. Raster-only fallback uses trained h56.",
+  "code_sha256": "8bfc5472d93c45d1d8fa81704071e4517858c18f5834db6504385438178c630d"
+}

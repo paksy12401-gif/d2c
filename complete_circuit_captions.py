@@ -102,6 +102,7 @@ def main() -> None:
         manifest.append({**group, "hidden_outline_count": len(handles)})
     added = sum(len(group["texts"]) for group in GROUPS)
     commands += [
+        '_.-LAYER', '_OFF', 'CAPTION_ORIGINAL_OUTLINES', '',
         '(princ (strcat "\\nEXTRA_ADDED=" (itoa extra_added) '
         '" EXTRA_MOVED=" (itoa extra_moved)))',
         '_.QSAVE', '_.QUIT', '_N',

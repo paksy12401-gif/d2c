@@ -17,6 +17,8 @@ runs/
 .ultralytics/
 .model_cache/
 *.log
+acad.err
+tmp/
 
 
 tools/

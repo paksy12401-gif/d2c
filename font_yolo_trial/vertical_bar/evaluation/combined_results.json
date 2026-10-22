@@ -1,0 +1,86 @@
+{
+  "scope": "Same-template synthetic diagnostic; no independent drawing accuracy claim.",
+  "datasets": {
+    "old_alphanumeric": {
+      "images": 130,
+      "before": {
+        "tp": 1939,
+        "fp": 67,
+        "fn": 36,
+        "precision": 0.9666001994017946,
+        "recall": 0.9817721518987341
+      },
+      "after": {
+        "tp": 1939,
+        "fp": 67,
+        "fn": 36,
+        "precision": 0.9666001994017946,
+        "recall": 0.9817721518987341
+      },
+      "bar": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0
+      },
+      "previously_correct_old_glyphs_lost": [],
+      "accepted_bars": 0,
+      "bar_false_positives_on_empty_drawing_scenes": 0
+    },
+    "old_punctuation": {
+      "images": 130,
+      "before": {
+        "tp": 2019,
+        "fp": 103,
+        "fn": 37,
+        "precision": 0.9514608859566447,
+        "recall": 0.9820038910505836
+      },
+      "after": {
+        "tp": 2019,
+        "fp": 103,
+        "fn": 37,
+        "precision": 0.9514608859566447,
+        "recall": 0.9820038910505836
+      },
+      "bar": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0
+      },
+      "previously_correct_old_glyphs_lost": [],
+      "accepted_bars": 0,
+      "bar_false_positives_on_empty_drawing_scenes": 0
+    },
+    "new_bar_scenes": {
+      "images": 130,
+      "before": {
+        "tp": 1394,
+        "fp": 457,
+        "fn": 361,
+        "precision": 0.7531064289573204,
+        "recall": 0.7943019943019943
+      },
+      "after": {
+        "tp": 1673,
+        "fp": 197,
+        "fn": 82,
+        "precision": 0.8946524064171123,
+        "recall": 0.9532763532763533
+      },
+      "bar": {
+        "tp": 279,
+        "fp": 0,
+        "fn": 75,
+        "precision": 1.0,
+        "recall": 0.788135593220339
+      },
+      "previously_correct_old_glyphs_lost": [],
+      "accepted_bars": 279,
+      "bar_false_positives_on_empty_drawing_scenes": 0
+    }
+  }
+}

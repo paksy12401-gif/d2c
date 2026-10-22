@@ -1,0 +1,320 @@
+{
+  "scope": "Diagnostic prior-seen user sample; not an independent accuracy test.",
+  "created_at_utc": "2026-10-16T07:04:53.845983+00:00",
+  "source": "C:\\Users\\Win11Pro\\AppData\\Local\\Temp\\codex-clipboard-6d0164de-59ad-4b42-8741-1675a80e10ca.png",
+  "source_sha256": "c5564ab961abb73ebdaee3c050759e44f1e5a3f900e6e2e574b9fdde11dc502e",
+  "source_size_pixels": [
+    549,
+    138
+  ],
+  "visually_inferred_text": "bll15914",
+  "text_status": "Not user-confirmed; not used to correct or score model predictions.",
+  "device": "0",
+  "confidence_threshold": 0.25,
+  "iou": 0.5,
+  "agnostic_nms": false,
+  "word_correction": false,
+  "normalization": {
+    "scale": 0.4,
+    "interpolation": "cv2.INTER_AREA",
+    "canvas_size_pixels": [
+      384,
+      384
+    ],
+    "background_bgr": [
+      255,
+      255,
+      255
+    ],
+    "offset_xy": [
+      70,
+      150
+    ]
+  },
+  "inputs": {
+    "original": {
+      "path": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\alphanumeric\\user_comparison\\input_original.png",
+      "sha256": "5b79b6ab2743e59432d3a340e52fbeeb728db33d06da25f35c35f60162c9094b",
+      "size_pixels": [
+        549,
+        138
+      ],
+      "inference_imgsz": 640
+    },
+    "normalized": {
+      "path": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\alphanumeric\\user_comparison\\input_normalized.png",
+      "sha256": "29b6f0fc7674a5e430ab61e4a6a803a29c73881f11e8a40bd6b8995eb3a04e4d",
+      "size_pixels": [
+        384,
+        384
+      ],
+      "inference_imgsz": 384
+    }
+  },
+  "models": {
+    "old": {
+      "weights": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\mixed\\training\\weights\\best.pt",
+      "weights_sha256": "a3dc65b7845a802ffd1bd61d428ec1bd530e5540cf7279bb3ae1de3d20d7e5be",
+      "names": {
+        "0": "A",
+        "1": "B",
+        "2": "C",
+        "3": "D",
+        "4": "E",
+        "5": "F",
+        "6": "G",
+        "7": "H",
+        "8": "I",
+        "9": "J",
+        "10": "K",
+        "11": "L",
+        "12": "M",
+        "13": "N",
+        "14": "O",
+        "15": "P",
+        "16": "Q",
+        "17": "R",
+        "18": "S",
+        "19": "T",
+        "20": "U",
+        "21": "V",
+        "22": "W",
+        "23": "X",
+        "24": "Y",
+        "25": "Z",
+        "26": "a",
+        "27": "b",
+        "28": "c",
+        "29": "d",
+        "30": "e",
+        "31": "f",
+        "32": "g",
+        "33": "h",
+        "34": "i",
+        "35": "j",
+        "36": "k",
+        "37": "l",
+        "38": "m",
+        "39": "n",
+        "40": "o",
+        "41": "p",
+        "42": "q",
+        "43": "r",
+        "44": "s",
+        "45": "t",
+        "46": "u",
+        "47": "v",
+        "48": "w",
+        "49": "x",
+        "50": "y",
+        "51": "z"
+      }
+    },
+    "new": {
+      "weights": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\alphanumeric\\training\\weights\\best.pt",
+      "weights_sha256": "131253cd6313ccde6fecd8168c5351185b1189be5be2a1d51f690ae2b2d7be08",
+      "names": {
+        "0": "A",
+        "1": "B",
+        "2": "C",
+        "3": "D",
+        "4": "E",
+        "5": "F",
+        "6": "G",
+        "7": "H",
+        "8": "I",
+        "9": "J",
+        "10": "K",
+        "11": "L",
+        "12": "M",
+        "13": "N",
+        "14": "O",
+        "15": "P",
+        "16": "Q",
+        "17": "R",
+        "18": "S",
+        "19": "T",
+        "20": "U",
+        "21": "V",
+        "22": "W",
+        "23": "X",
+        "24": "Y",
+        "25": "Z",
+        "26": "a",
+        "27": "b",
+        "28": "c",
+        "29": "d",
+        "30": "e",
+        "31": "f",
+        "32": "g",
+        "33": "h",
+        "34": "i",
+        "35": "j",
+        "36": "k",
+        "37": "l",
+        "38": "m",
+        "39": "n",
+        "40": "o",
+        "41": "p",
+        "42": "q",
+        "43": "r",
+        "44": "s",
+        "45": "t",
+        "46": "u",
+        "47": "v",
+        "48": "w",
+        "49": "x",
+        "50": "y",
+        "51": "z",
+        "52": "0",
+        "53": "1",
+        "54": "2",
+        "55": "3",
+        "56": "4",
+        "57": "5",
+        "58": "6",
+        "59": "7",
+        "60": "8",
+        "61": "9"
+      }
+    }
+  },
+  "predictions": [
+    {
+      "model": "old",
+      "transform": "original",
+      "annotated_image": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\alphanumeric\\user_comparison\\old_original.png",
+      "raw_predicted_lines": [
+        "L L"
+      ],
+      "detections": [
+        {
+          "character": "L",
+          "class_id": 11,
+          "confidence": 0.9657679200172424,
+          "input_pixel_xyxy": [
+            181.2859649658203,
+            79.54039001464844,
+            208.1864013671875,
+            126.166259765625
+          ]
+        },
+        {
+          "character": "L",
+          "class_id": 11,
+          "confidence": 0.8429281711578369,
+          "input_pixel_xyxy": [
+            414.6625671386719,
+            75.76398468017578,
+            441.9913635253906,
+            126.67389678955078
+          ]
+        }
+      ]
+    },
+    {
+      "model": "old",
+      "transform": "normalized",
+      "annotated_image": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\alphanumeric\\user_comparison\\old_normalized.png",
+      "raw_predicted_lines": [
+        "lS I"
+      ],
+      "detections": [
+        {
+          "character": "I",
+          "class_id": 8,
+          "confidence": 0.7279954552650452,
+          "input_pixel_xyxy": [
+            272.5181579589844,
+            150.00091552734375,
+            289.06884765625,
+            197.8756561279297
+          ]
+        },
+        {
+          "character": "S",
+          "class_id": 18,
+          "confidence": 0.3485561013221741,
+          "input_pixel_xyxy": [
+            151.419677734375,
+            155.5310821533203,
+            192.0760955810547,
+            201.52780151367188
+          ]
+        },
+        {
+          "character": "l",
+          "class_id": 37,
+          "confidence": 0.2723185122013092,
+          "input_pixel_xyxy": [
+            123.32975769042969,
+            152.87156677246094,
+            146.93455505371094,
+            200.52613830566406
+          ]
+        }
+      ]
+    },
+    {
+      "model": "new",
+      "transform": "original",
+      "annotated_image": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\alphanumeric\\user_comparison\\new_original.png",
+      "raw_predicted_lines": [],
+      "detections": []
+    },
+    {
+      "model": "new",
+      "transform": "normalized",
+      "annotated_image": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\alphanumeric\\user_comparison\\new_normalized.png",
+      "raw_predicted_lines": [
+        "55 II"
+      ],
+      "detections": [
+        {
+          "character": "5",
+          "class_id": 57,
+          "confidence": 0.603493332862854,
+          "input_pixel_xyxy": [
+            151.83595275878906,
+            155.32339477539062,
+            190.8214111328125,
+            201.37855529785156
+          ]
+        },
+        {
+          "character": "5",
+          "class_id": 57,
+          "confidence": 0.3976546823978424,
+          "input_pixel_xyxy": [
+            151.7734832763672,
+            155.36599731445312,
+            190.8225555419922,
+            200.62794494628906
+          ]
+        },
+        {
+          "character": "I",
+          "class_id": 8,
+          "confidence": 0.3273441791534424,
+          "input_pixel_xyxy": [
+            226.8704376220703,
+            152.04600524902344,
+            248.48825073242188,
+            201.2633514404297
+          ]
+        },
+        {
+          "character": "I",
+          "class_id": 8,
+          "confidence": 0.27596279978752136,
+          "input_pixel_xyxy": [
+            261.4530029296875,
+            150.27903747558594,
+            288.89813232421875,
+            198.58497619628906
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "source": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\alphanumeric\\sample_23476557\\source.png",
+  "source_sha256": "bca6c69ef330cac70e7b00b854c0edae54b8605661df7310d1dbfefef03bc673",
+  "manual_crop": false,
+  "word_correction": false,
+  "training": false,
+  "yolo_conf": 0.1,
+  "ocr_acceptance_score": 0.7,
+  "glyph_rows": [
+    {
+      "center": 44.87409210205078,
+      "top": 24.971529960632324,
+      "bottom": 64.84317779541016
+    },
+    {
+      "center": 88.90412902832031,
+      "top": 68.98462677001953,
+      "bottom": 108.88450622558594
+    }
+  ],
+  "yolo_only_lines": [
+    "SLEEVE 9eZZ.",
+    "PNO : SA-C8D-CBD-BK"
+  ],
+  "raw_ocr_auto": [
+    {
+      "text": "묘한거",
+      "score": 0.42031097412109375,
+      "polygon": [
+        [
+          267,
+          20
+        ],
+        [
+          432,
+          20
+        ],
+        [
+          432,
+          49
+        ],
+        [
+          267,
+          49
+        ]
+      ]
+    },
+    {
+      "text": "D",
+      "score": 0.7161538600921631,
+      "polygon": [
+        [
+          429,
+          51
+        ],
+        [
+          437,
+          51
+        ],
+        [
+          437,
+          63
+        ],
+        [
+          429,
+          63
+        ]
+      ]
+    },
+    {
+      "text": "B",
+      "score": 0.44100478291511536,
+      "polygon": [
+        [
+          166,
+          74
+        ],
+        [
+          178,
+          74
+        ],
+        [
+          178,
+          90
+        ],
+        [
+          166,
+          90
+        ]
+      ]
+    },
+    {
+      "text": "E",
+      "score": 0.539962887763977,
+      "polygon": [
+        [
+          168,
+          96
+        ],
+        [
+          178,
+          96
+        ],
+        [
+          178,
+          105
+        ],
+        [
+          168,
+          105
+        ]
+      ]
+    }
+  ],
+  "automatic_regions": [
+    {
+      "xyxy": [
+        273,
+        25,
+        437,
+        66
+      ],
+      "cap_height": 39.87164783477783,
+      "proposal": [
+        261,
+        14,
+        443,
+        67
+      ],
+      "text": "적용할것",
+      "score": 0.9965701699256897,
+      "korean_text": "적용할것"
+    },
+    {
+      "xyxy": [
+        169,
+        79,
+        176,
+        106
+      ],
+      "cap_height": 39.899879455566406,
+      "proposal": [
+        160,
+        66,
+        184,
+        115
+      ],
+      "text": "",
+      "score": 0.0,
+      "korean_text": null
+    }
+  ],
+  "suppressed_yolo_inside_korean": [
+    {
+      "label": "Z",
+      "xyxy": [
+        388.7181091308594,
+        24.736780166625977,
+        411.9715270996094,
+        49.811805725097656
+      ],
+      "replaced_by": "적용할것"
+    },
+    {
+      "label": "9",
+      "xyxy": [
+        313.4447021484375,
+        24.939992904663086,
+        350.34130859375,
+        66.75745391845703
+      ],
+      "replaced_by": "적용할것"
+    },
+    {
+      "label": "e",
+      "xyxy": [
+        351.3133544921875,
+        26.285276412963867,
+        385.97540283203125,
+        66.61311340332031
+      ],
+      "replaced_by": "적용할것"
+    },
+    {
+      "label": "Z",
+      "xyxy": [
+        382.3531799316406,
+        25.003067016601562,
+        427.2482604980469,
+        71.6238021850586
+      ],
+      "replaced_by": "적용할것"
+    }
+  ],
+  "combined_lines": [
+    "SLEEVE 적용할것.",
+    "PNO : SA-C8D-CBD-BK"
+  ],
+  "models": {
+    "letters": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\alphanumeric\\training\\weights\\best.pt",
+    "symbols": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\punctuation_fixed\\training\\weights\\best.pt",
+    "korean_detection": "C:\\Users\\Win11Pro\\Documents\\CAD_OCR_MODELS\\official_models\\PP-OCRv5_server_det",
+    "korean_recognition": "C:\\Users\\Win11Pro\\Documents\\CAD_OCR_MODELS\\official_models\\korean_PP-OCRv5_mobile_rec"
+  }
+}

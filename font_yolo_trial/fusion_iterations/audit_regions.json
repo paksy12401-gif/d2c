@@ -1,0 +1,155 @@
+{
+  "source": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\cad_without_tables\\source.pdf",
+  "source_sha256": "ee26fa0e6c5027a48efca1ea954c0ee6f4f08f92e1456c975b8bd96c6b4da1c1",
+  "regions": [
+    {
+      "id": "H01",
+      "box_pdf": [
+        4160.5,
+        1309.0,
+        4334.5,
+        1323.5
+      ],
+      "proposal_id": 112
+    },
+    {
+      "id": "H03",
+      "box_pdf": [
+        2314.840087890625,
+        1520.7977294921875,
+        2367.512939453125,
+        1589.3092041015625
+      ],
+      "proposal_id": 136
+    },
+    {
+      "id": "H04",
+      "box_pdf": [
+        4155.0,
+        1263.0,
+        4198.5,
+        1284.0
+      ],
+      "proposal_id": 111
+    },
+    {
+      "id": "H08",
+      "box_pdf": [
+        3406.0,
+        1328.5,
+        3601.0,
+        1348.0
+      ],
+      "proposal_id": 98
+    },
+    {
+      "id": "H09",
+      "box_pdf": [
+        2913.5,
+        1332.5,
+        2976.0,
+        1350.0
+      ],
+      "proposal_id": 96
+    },
+    {
+      "id": "H11",
+      "box_pdf": [
+        6066.14,
+        1367.52,
+        7027.9,
+        1397.89
+      ],
+      "proposal_id": 201
+    },
+    {
+      "id": "H12",
+      "box_pdf": [
+        6066.14,
+        1428.26,
+        7119.02,
+        1456.61
+      ],
+      "proposal_id": 202
+    },
+    {
+      "id": "H14",
+      "box_pdf": [
+        6066.14,
+        1549.74,
+        6950.96,
+        1578.09
+      ],
+      "proposal_id": 205
+    }
+  ],
+  "role": "Audit: references frozen before model evaluation. Same PDF/font, not independent drawing accuracy.",
+  "excluded_before_evaluation": [
+    {
+      "id": "H02",
+      "box_pdf": [
+        2139.0,
+        973.5,
+        2175.5,
+        990.5
+      ],
+      "proposal_id": 66,
+      "reason": "Partial OCR proposal; not a complete readable field. Retained as localization failures, excluded from character-scoring audit."
+    },
+    {
+      "id": "H05",
+      "box_pdf": [
+        3644.0,
+        1361.0,
+        3695.0,
+        1372.5
+      ],
+      "proposal_id": 114,
+      "reason": "Partial OCR proposal; not a complete readable field. Retained as localization failures, excluded from character-scoring audit."
+    },
+    {
+      "id": "H06",
+      "box_pdf": [
+        2525.0,
+        786.0,
+        2560.5,
+        797.5
+      ],
+      "proposal_id": 62,
+      "reason": "Partial OCR proposal; not a complete readable field. Retained as localization failures, excluded from character-scoring audit."
+    },
+    {
+      "id": "H07",
+      "box_pdf": [
+        3417.5,
+        1359.0,
+        3487.5,
+        1376.5
+      ],
+      "proposal_id": 99,
+      "reason": "Partial OCR proposal; not a complete readable field. Retained as localization failures, excluded from character-scoring audit."
+    },
+    {
+      "id": "H10",
+      "box_pdf": [
+        1615.5,
+        978.0,
+        1673.0,
+        992.0
+      ],
+      "proposal_id": 55,
+      "reason": "Partial OCR proposal; not a complete readable field. Retained as localization failures, excluded from character-scoring audit."
+    },
+    {
+      "id": "H13",
+      "box_pdf": [
+        6820.0,
+        1426.5,
+        6874.0,
+        1453.0
+      ],
+      "proposal_id": 203,
+      "reason": "Partial OCR proposal; not a complete readable field. Retained as localization failures, excluded from character-scoring audit."
+    }
+  ]
+}

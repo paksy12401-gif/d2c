@@ -1,0 +1,109 @@
+{
+  "classes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z",
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z",
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    ":",
+    "-",
+    "/",
+    ".",
+    "'",
+    "|"
+  ],
+  "new_class_id": 67,
+  "source_sha256": "9416bd1bbc34fa595ea515ccb6c94dbf8a20dd624e3369261d9d6071a92a1741",
+  "source_boxes": [
+    [
+      27,
+      34,
+      37,
+      137
+    ],
+    [
+      64,
+      34,
+      76,
+      113
+    ],
+    [
+      103,
+      34,
+      115,
+      113
+    ]
+  ],
+  "splits": {
+    "train": {
+      "replay": 624,
+      "added": 416
+    },
+    "val": {
+      "replay": 104,
+      "added": 104
+    },
+    "test": {
+      "replay": 130,
+      "added": 130
+    }
+  },
+  "scope": "All splits share supplied glyph templates. Original screenshot is training material, not independent validation. No drawing text answers or LLM recognition used."
+}

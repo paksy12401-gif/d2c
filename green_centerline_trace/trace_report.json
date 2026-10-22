@@ -1,0 +1,108 @@
+{
+  "source_pdf": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\source_inputs\\DWG 객체 변환 샘플.pdf",
+  "green_pdf_paths": 64,
+  "red_centerline_pdf_paths": 4,
+  "source_dash_segments": 541,
+  "route_axes": 11,
+  "confirmed_runs": 12,
+  "inferred_long_gaps": 1,
+  "short_gap_threshold_pdf_pt": 3.5,
+  "inferred_gap_max_pdf_pt": 250.0,
+  "confirmed": [
+    {
+      "axis": "H",
+      "position_pdf_pt": 1172.4,
+      "start_pdf_pt": 2859.5,
+      "end_pdf_pt": 3356.699951171875,
+      "source_dash_count": 29
+    },
+    {
+      "axis": "H",
+      "position_pdf_pt": 1741.8,
+      "start_pdf_pt": 458.4200134277344,
+      "end_pdf_pt": 4810.759765625,
+      "source_dash_count": 253
+    },
+    {
+      "axis": "V",
+      "position_pdf_pt": 622.0,
+      "start_pdf_pt": 1741.8099365234375,
+      "end_pdf_pt": 1902.47998046875,
+      "source_dash_count": 9
+    },
+    {
+      "axis": "V",
+      "position_pdf_pt": 1136.3,
+      "start_pdf_pt": 1741.8099365234375,
+      "end_pdf_pt": 2072.909912109375,
+      "source_dash_count": 18
+    },
+    {
+      "axis": "V",
+      "position_pdf_pt": 1502.3,
+      "start_pdf_pt": 1518.02001953125,
+      "end_pdf_pt": 1741.8099365234375,
+      "source_dash_count": 11
+    },
+    {
+      "axis": "V",
+      "position_pdf_pt": 2253.6,
+      "start_pdf_pt": 1133.6298828125,
+      "end_pdf_pt": 2046.0299072265625,
+      "source_dash_count": 52
+    },
+    {
+      "axis": "V",
+      "position_pdf_pt": 2442.6,
+      "start_pdf_pt": 905.3699951171875,
+      "end_pdf_pt": 1741.8099365234375,
+      "source_dash_count": 46
+    },
+    {
+      "axis": "V",
+      "position_pdf_pt": 3057.6,
+      "start_pdf_pt": 1172.3798828125,
+      "end_pdf_pt": 1343.949951171875,
+      "source_dash_count": 11
+    },
+    {
+      "axis": "V",
+      "position_pdf_pt": 3102.5,
+      "start_pdf_pt": 1400.669921875,
+      "end_pdf_pt": 1741.8099365234375,
+      "source_dash_count": 21
+    },
+    {
+      "axis": "V",
+      "position_pdf_pt": 3356.7,
+      "start_pdf_pt": 345.39990234375,
+      "end_pdf_pt": 1172.3798828125,
+      "source_dash_count": 46
+    },
+    {
+      "axis": "V",
+      "position_pdf_pt": 3356.7,
+      "start_pdf_pt": 1367.919921875,
+      "end_pdf_pt": 1741.8099365234375,
+      "source_dash_count": 22
+    },
+    {
+      "axis": "V",
+      "position_pdf_pt": 4117.7,
+      "start_pdf_pt": 1439.389892578125,
+      "end_pdf_pt": 1741.8099365234375,
+      "source_dash_count": 15
+    }
+  ],
+  "inferred": [
+    {
+      "axis": "V",
+      "position_pdf_pt": 3356.7,
+      "start_pdf_pt": 1172.3798828125,
+      "end_pdf_pt": 1367.919921875,
+      "gap_pdf_pt": 195.54
+    }
+  ],
+  "dxf": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\green_centerline_trace\\green_centerlines.dxf",
+  "overlay_pdf": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\green_centerline_trace\\green_centerlines_overlay.pdf"
+}

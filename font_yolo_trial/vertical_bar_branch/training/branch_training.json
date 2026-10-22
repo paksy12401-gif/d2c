@@ -1,0 +1,8 @@
+{
+  "original_state_tensors": 708,
+  "trainable_parameters": 359686,
+  "old_feature_layers_frozen": true,
+  "old_classifier_branches_frozen": true,
+  "old_batch_norm_frozen": true,
+  "new_class": "|"
+}

@@ -1,0 +1,29 @@
+{
+  "source": "C:\\Users\\Win11Pro\\AppData\\Local\\Temp\\codex-clipboard-6d0164de-59ad-4b42-8741-1675a80e10ca.png",
+  "raw_predicted_lines": [
+    "L L"
+  ],
+  "digits_trained": false,
+  "detections": [
+    {
+      "label": "L",
+      "confidence": 0.9657679200172424,
+      "bbox": [
+        181.2859649658203,
+        79.54039001464844,
+        208.1864013671875,
+        126.166259765625
+      ]
+    },
+    {
+      "label": "L",
+      "confidence": 0.8429281711578369,
+      "bbox": [
+        414.6625671386719,
+        75.76398468017578,
+        441.9913635253906,
+        126.67389678955078
+      ]
+    }
+  ]
+}

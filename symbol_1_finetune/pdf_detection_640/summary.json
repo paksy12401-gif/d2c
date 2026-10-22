@@ -1,0 +1,26 @@
+{
+  "raster_size": [
+    25002,
+    4768
+  ],
+  "render_dpi": 144.0,
+  "source_image": "symbol_roi640\\known_drawing_training_20261008\\render\\pdf_full_144dpi.png",
+  "weights": "symbol_1_finetune\\class_1\\weights\\best.pt",
+  "window_sizes_px": [
+    640
+  ],
+  "overlap_fraction": 0.25,
+  "model_input_px": 640,
+  "classes": [
+    0
+  ],
+  "processed_tiles": 399,
+  "raw_candidates": 1,
+  "merged_candidates": 1,
+  "confidence_threshold": 0.25,
+  "global_nms_iou": 0.45,
+  "class_candidate_counts": {
+    "1": 1
+  },
+  "scope": "Candidate locations in the known PDF; no complete-page certified ground truth accuracy."
+}

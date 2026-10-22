@@ -1,0 +1,19 @@
+세로줄 기호 | 추가 학습
+
+정답: | (새 클래스 67). I / l / 1과 별도 클래스입니다.
+가중치: font_yolo_trial/vertical_bar/training/weights/best.pt
+기존 영문·숫자·기호 모델은 덮어쓰지 않았습니다.
+
+기존 문자 모델을 유지하면서 |만 보충하는 실행 명령:
+.venv-ml/Scripts/python.exe font_yolo_trial/vertical_bar_reader.py --input "입력이미지.png" --output "output/vertical_bar_result"
+
+첨부 원본 실행 예:
+.venv-ml/Scripts/python.exe font_yolo_trial/vertical_bar_reader.py --input font_yolo_trial/vertical_bar/source_vertical_bar.png --output font_yolo_trial/vertical_bar/evaluation/combined_source
+
+결합 검사: font_yolo_trial/vertical_bar/evaluation/combined_report.html
+모델 단독 검사: font_yolo_trial/vertical_bar/evaluation/report.html
+
+주의: 합성 검사는 학습과 같은 글꼴 템플릿을 사용했습니다. 첨부 스크린샷도 학습 자료입니다.
+다른 실제 도면의 정확도는 아직 검증하지 않았습니다.
+외형이 완전히 같은 I/l/|는 이미지 모양만으로 항상 구분할 수 없습니다.
+기존 DWG와 기본 PreservedReader는 이번 작업에서 교체하지 않았습니다.

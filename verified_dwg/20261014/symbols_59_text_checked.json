@@ -1,0 +1,231 @@
+{
+  "source": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\verified_dwg\\20261014\\symbols_59_text_corrected.dwg",
+  "verified_bom_corrections": [
+    {
+      "row": 30,
+      "column": 4,
+      "handle": "8E23",
+      "old_ocr": "BKC8O763",
+      "pdf_verified": "BKC80763"
+    },
+    {
+      "row": 26,
+      "column": 4,
+      "handle": "8E32",
+      "old_ocr": "ASM CONN 8 F CCS1.5",
+      "pdf_verified": "ASM CONN 8 F OCS 1.5"
+    },
+    {
+      "row": 25,
+      "column": 2,
+      "handle": "8E35",
+      "old_ocr": "DELPHI – 35O16344 – CONNECTOR ASM – UNSEALED",
+      "pdf_verified": "DELPHI - 35016344 - CONNECTOR ASM - UNSEALED"
+    },
+    {
+      "row": 25,
+      "column": 4,
+      "handle": "8E37",
+      "old_ocr": "ASM CONN 16 F O.64 CPA OCS",
+      "pdf_verified": "ASM CONN 16 F 0.64 CPA OCS"
+    },
+    {
+      "row": 23,
+      "column": 2,
+      "handle": "8E3F",
+      "old_ocr": "DELPHI–1361O095-CONNECTOR ASM-WRG HARN",
+      "pdf_verified": "DELPHI-13610095-CONNECTOR ASM-WRG HARN"
+    },
+    {
+      "row": 23,
+      "column": 4,
+      "handle": "8E41",
+      "old_ocr": "ASM CONN 2 F KAIZEN O.64 GRN SLD",
+      "pdf_verified": "ASM CONN 2 F KAIZEN 0.64 GRN SLD"
+    },
+    {
+      "row": 22,
+      "column": 2,
+      "handle": "8E44",
+      "old_ocr": "SUMITOMO 6099–O288 CONNECTOR ASM-UNSEALED",
+      "pdf_verified": "SUMITOMO 6099-0288 CONNECTOR ASM-UNSEALED"
+    },
+    {
+      "row": 20,
+      "column": 2,
+      "handle": "8E4E",
+      "old_ocr": "TYCO-1-2296695–1 CONNECTOR ASM–INL INE",
+      "pdf_verified": "TYCO-1-2296695-1 CONNECTOR ASM-INLINE"
+    },
+    {
+      "row": 20,
+      "column": 4,
+      "handle": "8E50",
+      "old_ocr": "CONNECTORASM—INLINE",
+      "pdf_verified": "CONNECTOR ASM-INLINE"
+    },
+    {
+      "row": 19,
+      "column": 2,
+      "handle": "8E53",
+      "old_ocr": "YAZAK1-7297-2973-30-CONNECTOR ASM–INL INE",
+      "pdf_verified": "YAZAKI-7297-2973-30-CONNECTOR ASM-INLINE"
+    },
+    {
+      "row": 19,
+      "column": 4,
+      "handle": "8E55",
+      "old_ocr": "BDR1 3636",
+      "pdf_verified": "BDR13636"
+    },
+    {
+      "row": 18,
+      "column": 2,
+      "handle": "8E58",
+      "old_ocr": "YAZAK1-7297–6353-30-CONNECTOR ASM–INLINE",
+      "pdf_verified": "YAZAKI-7297-6353-30-CONNECTOR ASM-INLINE"
+    },
+    {
+      "row": 18,
+      "column": 4,
+      "handle": "8E5A",
+      "old_ocr": "BOE53O42",
+      "pdf_verified": "BOE53042"
+    },
+    {
+      "row": 17,
+      "column": 1,
+      "handle": "8E5C",
+      "old_ocr": "ADNO3474.GEO_FIN001.001999",
+      "pdf_verified": "ADN03474.GEO_FIN001.001999"
+    },
+    {
+      "row": 17,
+      "column": 2,
+      "handle": "8E5D",
+      "old_ocr": "YAZAK1 7075–1839-30 GROMMET WIPER",
+      "pdf_verified": "YAZAKI 7075-1839-30 GROMMET WIPER"
+    },
+    {
+      "row": 17,
+      "column": 3,
+      "handle": "8E5E",
+      "old_ocr": "ADNO3474",
+      "pdf_verified": "ADN03474"
+    },
+    {
+      "row": 17,
+      "column": 4,
+      "handle": "8E5F",
+      "old_ocr": "WIPER GROMMET 7O75–1839–30",
+      "pdf_verified": "WIPER GROMMET 7075-1839-30"
+    },
+    {
+      "row": 16,
+      "column": 4,
+      "handle": "8E64",
+      "old_ocr": "BSBO4473",
+      "pdf_verified": "BSB04473"
+    },
+    {
+      "row": 15,
+      "column": 2,
+      "handle": "8E67",
+      "old_ocr": "YAZAK1-7283-8397–40-CONNECTOR ASM–INLINE",
+      "pdf_verified": "YAZAKI-7283-8397-40-CONNECTOR ASM-INLINE"
+    },
+    {
+      "row": 15,
+      "column": 4,
+      "handle": "8E69",
+      "old_ocr": "1 3592509",
+      "pdf_verified": "13592509"
+    },
+    {
+      "row": 14,
+      "column": 2,
+      "handle": "8E6C",
+      "old_ocr": "HELLERMANNTYTON–157-OO154-CLIP-WRG HARN",
+      "pdf_verified": "HELLERMANNTYTON-157-00154-CLIP-WRG HARN"
+    },
+    {
+      "row": 14,
+      "column": 4,
+      "handle": "8E6E",
+      "old_ocr": "HELLERMANNTYTON–157-00154-CLIP-WRG HARN HT# 157-00154 HT DeSCript ion 11-0345-001-CSU",
+      "pdf_verified": "HELLERMANNTYTON-157-00154-CLIP-WRG HARN HT# 157-00154 HT Description 11-0345-001-CSU"
+    },
+    {
+      "row": 13,
+      "column": 2,
+      "handle": "8E71",
+      "old_ocr": "HELLERMANNTYTON–156–02467-CL IP-WRG HARN",
+      "pdf_verified": "HELLERMANNTYTON-156-02467-CLIP-WRG HARN"
+    },
+    {
+      "row": 13,
+      "column": 4,
+      "handle": "8E73",
+      "old_ocr": "HELLERMANNTYTON–156–O2467–CL IP–WRG HARN",
+      "pdf_verified": "HELLERMANNTYTON-156-02467-CLIP-WRG HARN"
+    },
+    {
+      "row": 12,
+      "column": 2,
+      "handle": "8E76",
+      "old_ocr": "ARAYMOND–230347001–CLIP-WRG HARN",
+      "pdf_verified": "ARAYMOND-230347001-CLIP-WRG HARN"
+    },
+    {
+      "row": 11,
+      "column": 4,
+      "handle": "8E7D",
+      "old_ocr": "HellermannTyton SPN 157–OO128",
+      "pdf_verified": "HellermannTyton SPN 157-00128"
+    },
+    {
+      "row": 10,
+      "column": 2,
+      "handle": "8E80",
+      "old_ocr": "HELLERMANNTYTON–157-O0224–CL IP-WRG HARN",
+      "pdf_verified": "HELLERMANNTYTON-157-00224-CLIP-WRG HARN"
+    },
+    {
+      "row": 8,
+      "column": 4,
+      "handle": "8E8C",
+      "old_ocr": "M×15O 1×2 F CS POL E BLK w/ CPA 5.OCL",
+      "pdf_verified": "MX150 1X2 F CS POLE BLK w/ CPA 5.0CL"
+    },
+    {
+      "row": 7,
+      "column": 2,
+      "handle": "8E8F",
+      "old_ocr": "STRAPASM-WRG HARN",
+      "pdf_verified": "STRAP ASM-WRG HARN"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "handle": "8EAA",
+      "old_ocr": "BJ YO7155",
+      "pdf_verified": "BJY07155"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "handle": "8EAD",
+      "old_ocr": "AVERY-DENNISON-O84O1–O-CLIP-WRG HARN",
+      "pdf_verified": "AVERY-DENNISON-08401-0-CLIP-WRG HARN"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "handle": "8EAF",
+      "old_ocr": "AVERY-DENNISON-O84O1–O-CLIP-WRG HARN",
+      "pdf_verified": "AVERY-DENNISON-08401-0-CLIP-WRG HARN"
+    }
+  ],
+  "count": 32,
+  "method": "enlarged source-PDF cells matched to DWG MTEXT"
+}

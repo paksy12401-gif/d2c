@@ -1,0 +1,90 @@
+[
+  {
+    "proposal": 29,
+    "target_height": 32,
+    "paddle_raw": "FRONT_MAO_X1",
+    "baseline": [
+      "FRONT MAo xl"
+    ],
+    "merged": [
+      "FRONT-MAo xl"
+    ]
+  },
+  {
+    "proposal": 29,
+    "target_height": 40,
+    "paddle_raw": "FRONT_MAO_X1",
+    "baseline": [
+      "FRRONTuMAOLX1"
+    ],
+    "merged": [
+      "FRRONTu-MAOLX1"
+    ]
+  },
+  {
+    "proposal": 29,
+    "target_height": 56,
+    "paddle_raw": "FRONT_MAO_X1",
+    "baseline": [
+      "FRONTuMAOLX1"
+    ],
+    "merged": [
+      "FRONTuMAOLX1"
+    ]
+  },
+  {
+    "proposal": 29,
+    "target_height": 72,
+    "paddle_raw": "FRONT_MAO_X1",
+    "baseline": [
+      "LFRONTLMAOLX1"
+    ],
+    "merged": [
+      "LFRONTL-MAOL-X1"
+    ]
+  },
+  {
+    "proposal": 105,
+    "target_height": 32,
+    "paddle_raw": "PFEOE TAPE",
+    "baseline": [
+      "FLEE0E TAFE"
+    ],
+    "merged": [
+      "FLEE0E TAFE"
+    ]
+  },
+  {
+    "proposal": 105,
+    "target_height": 40,
+    "paddle_raw": "PFEOE TAPE",
+    "baseline": [
+      "FLEECE TAPE"
+    ],
+    "merged": [
+      "FLEECE TAPE"
+    ]
+  },
+  {
+    "proposal": 105,
+    "target_height": 56,
+    "paddle_raw": "PFEOE TAPE",
+    "baseline": [
+      "FLEE0E TAPE"
+    ],
+    "merged": [
+      "FLEE0E TAPE"
+    ]
+  },
+  {
+    "proposal": 105,
+    "target_height": 72,
+    "paddle_raw": "PFEOE TAPE",
+    "baseline": [
+      "FLEE0E TAPE"
+    ],
+    "merged": [
+      "FLEE0E TAPE"
+    ]
+  }
+]

@@ -1,0 +1,415 @@
+{
+  "source": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\cad_without_tables\\source.pdf",
+  "source_sha256": "ee26fa0e6c5027a48efca1ea954c0ee6f4f08f92e1456c975b8bd96c6b4da1c1",
+  "llm_inference": false,
+  "regions": [
+    {
+      "id": "L01",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        3629.0,
+        282.75,
+        3733.5,
+        292.25
+      ],
+      "reference_cap_height_pdf": 9.5,
+      "source_box_before_height_measurement": [
+        3629.0,
+        280.5,
+        3733.5,
+        293.5
+      ]
+    },
+    {
+      "id": "L02",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        2858.5,
+        1067.5,
+        2972.0,
+        1077.0
+      ],
+      "reference_cap_height_pdf": 9.5,
+      "source_box_before_height_measurement": [
+        2858.5,
+        1062.5,
+        2972.0,
+        1080.0
+      ]
+    },
+    {
+      "id": "L03",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        2927.0,
+        1371.0,
+        3029.0,
+        1380.5
+      ],
+      "reference_cap_height_pdf": 9.5,
+      "source_box_before_height_measurement": [
+        2927.0,
+        1368.5,
+        3029.0,
+        1381.5
+      ]
+    },
+    {
+      "id": "L04",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        1359.5,
+        2126.5,
+        1428.0,
+        2136.25
+      ],
+      "reference_cap_height_pdf": 9.75,
+      "source_box_before_height_measurement": [
+        1359.5,
+        2125.0,
+        1428.0,
+        2136.0
+      ]
+    },
+    {
+      "id": "L05",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        2425.0,
+        2127.75,
+        2495.0,
+        2137.25
+      ],
+      "reference_cap_height_pdf": 9.5,
+      "source_box_before_height_measurement": [
+        2425.0,
+        2125.0,
+        2495.0,
+        2139.0
+      ]
+    },
+    {
+      "id": "L06",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        540.5,
+        2127.5,
+        577.0,
+        2137.0
+      ],
+      "reference_cap_height_pdf": 9.5,
+      "source_box_before_height_measurement": [
+        540.5,
+        2126.0,
+        577.0,
+        2137.0
+      ]
+    },
+    {
+      "id": "L07",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        466.5,
+        2127.25,
+        577.0,
+        2137.0
+      ],
+      "reference_cap_height_pdf": 9.75,
+      "source_box_before_height_measurement": [
+        466.5,
+        2126.5,
+        577.0,
+        2137.0
+      ]
+    },
+    {
+      "id": "L08",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        3120.0,
+        1561.0,
+        3214.5,
+        1570.5
+      ],
+      "reference_cap_height_pdf": 9.5,
+      "source_box_before_height_measurement": [
+        3120.0,
+        1558.0,
+        3214.5,
+        1571.5
+      ]
+    },
+    {
+      "id": "L09",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        2697.5,
+        1594.25,
+        2798.0,
+        1606.5
+      ],
+      "reference_cap_height_pdf": 12.25,
+      "source_box_before_height_measurement": [
+        2697.5,
+        1589.5,
+        2798.0,
+        1610.0
+      ]
+    },
+    {
+      "id": "L10",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        3209.5,
+        1313.0,
+        3278.0,
+        1322.75
+      ],
+      "reference_cap_height_pdf": 9.75,
+      "source_box_before_height_measurement": [
+        3209.5,
+        1311.0,
+        3278.0,
+        1322.5
+      ]
+    },
+    {
+      "id": "L11",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        3104.0,
+        1334.25,
+        3297.0,
+        1344.0
+      ],
+      "reference_cap_height_pdf": 9.75,
+      "source_box_before_height_measurement": [
+        3104.0,
+        1331.5,
+        3297.0,
+        1345.0
+      ]
+    },
+    {
+      "id": "L12",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        2055.0,
+        979.25,
+        2131.0,
+        991.5
+      ],
+      "reference_cap_height_pdf": 12.25,
+      "source_box_before_height_measurement": [
+        2055.0,
+        978.0,
+        2131.0,
+        992.0
+      ]
+    },
+    {
+      "id": "L13",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        4217.0,
+        1334.0,
+        4265.0,
+        1343.5
+      ],
+      "reference_cap_height_pdf": 9.5,
+      "source_box_before_height_measurement": [
+        4217.0,
+        1333.0,
+        4265.0,
+        1347.0
+      ]
+    },
+    {
+      "id": "L14",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        1288.0,
+        2137.25,
+        1351.0,
+        2146.75
+      ],
+      "reference_cap_height_pdf": 9.5,
+      "source_box_before_height_measurement": [
+        1288.0,
+        2134.0,
+        1351.0,
+        2147.0
+      ]
+    },
+    {
+      "id": "L15",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        430.0,
+        2148.5,
+        494.0,
+        2158.25
+      ],
+      "reference_cap_height_pdf": 9.75,
+      "source_box_before_height_measurement": [
+        430.0,
+        2146.0,
+        494.0,
+        2159.0
+      ]
+    },
+    {
+      "id": "L16",
+      "kind": "outlined_latin",
+      "box_pdf": [
+        1284.5,
+        2126.5,
+        1353.0,
+        2136.25
+      ],
+      "reference_cap_height_pdf": 9.75,
+      "source_box_before_height_measurement": [
+        1284.5,
+        2124.0,
+        1353.0,
+        2135.0
+      ]
+    },
+    {
+      "id": "K17",
+      "kind": "korean",
+      "box_pdf": [
+        6058.0,
+        1306.5,
+        6202.5,
+        1335.25
+      ],
+      "reference_cap_height_pdf": 28.75,
+      "source_box_before_height_measurement": [
+        6058.0,
+        1294.5,
+        6202.5,
+        1340.0
+      ]
+    },
+    {
+      "id": "K18",
+      "kind": "korean",
+      "box_pdf": [
+        6059.5,
+        1488.75,
+        6564.0,
+        1517.5
+      ],
+      "reference_cap_height_pdf": 28.75,
+      "source_box_before_height_measurement": [
+        6059.5,
+        1476.5,
+        6564.0,
+        1525.5
+      ]
+    },
+    {
+      "id": "N19",
+      "kind": "native_font_control",
+      "box_pdf": [
+        1149.4000244140625,
+        2009.0,
+        1184.5155029296875,
+        2029.0
+      ],
+      "reference_cap_height_pdf": 20.0,
+      "source_box_before_height_measurement": [
+        1149.4000244140625,
+        2009.15673828125,
+        1184.5155029296875,
+        2035.2066650390625
+      ]
+    },
+    {
+      "id": "N20",
+      "kind": "native_font_control",
+      "box_pdf": [
+        1146.449951171875,
+        1852.25,
+        1199.1231689453125,
+        1872.75
+      ],
+      "reference_cap_height_pdf": 20.5,
+      "source_box_before_height_measurement": [
+        1146.449951171875,
+        1852.526611328125,
+        1199.1231689453125,
+        1878.57666015625
+      ]
+    },
+    {
+      "id": "N21",
+      "kind": "native_font_control",
+      "box_pdf": [
+        1612.2900390625,
+        1761.0,
+        1664.9632568359375,
+        1781.5
+      ],
+      "reference_cap_height_pdf": 20.5,
+      "source_box_before_height_measurement": [
+        1612.2900390625,
+        1760.676513671875,
+        1664.9632568359375,
+        1786.7265625
+      ]
+    },
+    {
+      "id": "N22",
+      "kind": "native_font_control",
+      "box_pdf": [
+        2449.320068359375,
+        1033.0,
+        2501.992919921875,
+        1052.75
+      ],
+      "reference_cap_height_pdf": 19.75,
+      "source_box_before_height_measurement": [
+        2449.320068359375,
+        1032.78662109375,
+        2501.992919921875,
+        1058.836669921875
+      ]
+    },
+    {
+      "id": "D23",
+      "kind": "drawing_negative",
+      "box_pdf": [
+        1945.0,
+        495.0,
+        1980.0,
+        585.0
+      ],
+      "reference_cap_height_pdf": 13,
+      "source_box_before_height_measurement": [
+        1945.0,
+        495.0,
+        1980.0,
+        585.0
+      ]
+    },
+    {
+      "id": "D24",
+      "kind": "drawing_negative",
+      "box_pdf": [
+        1690.0,
+        729.0,
+        1730.0,
+        821.0
+      ],
+      "reference_cap_height_pdf": 13,
+      "source_box_before_height_measurement": [
+        1690.0,
+        729.0,
+        1730.0,
+        821.0
+      ]
+    }
+  ]
+}

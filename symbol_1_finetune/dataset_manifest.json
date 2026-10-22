@@ -1,0 +1,488 @@
+[
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r000_s0_color.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r000_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r000_s0_gray.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r000_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r000_s1_color.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r000_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r000_s1_gray.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r000_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r090_s0_color.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r090_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r090_s0_gray.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r090_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r090_s1_color.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r090_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r090_s1_gray.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r090_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r180_s0_color.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r180_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r180_s0_gray.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r180_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r180_s1_color.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r180_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r180_s1_gray.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r180_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r270_s0_color.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r270_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r270_s0_gray.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r270_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_001_augmented_src_001_r270_s1_color.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r270_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\val\\val_isolated_src_001_augmented_src_001_r270_s1_gray.png",
+    "source": "images/train/isolated_src_001_augmented_src_001_r270_s1_gray.png",
+    "split": "val",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\val\\val_isolated_src_001_original_src_001.png",
+    "source": "images/train/isolated_src_001_original_src_001.png",
+    "split": "val",
+    "class_1_boxes": 1
+  },
+  {
+    "image": "dataset\\images\\val\\val_isolated_src_069_augmented_src_069_r180_s0_color.png",
+    "source": "images/train/isolated_src_069_augmented_src_069_r180_s0_color.png",
+    "split": "val",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\val\\val_isolated_src_067_augmented_src_067_r270_s0_gray.png",
+    "source": "images/train/isolated_src_067_augmented_src_067_r270_s0_gray.png",
+    "split": "val",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\val\\val_isolated_src_024_augmented_src_024_r270_s1_gray.png",
+    "source": "images/train/isolated_src_024_augmented_src_024_r270_s1_gray.png",
+    "split": "val",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\val\\val_isolated_src_045_augmented_src_045_r000_s0_gray.png",
+    "source": "images/train/isolated_src_045_augmented_src_045_r000_s0_gray.png",
+    "split": "val",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\val\\val_isolated_src_014_augmented_src_014_r270_s1_gray.png",
+    "source": "images/train/isolated_src_014_augmented_src_014_r270_s1_gray.png",
+    "split": "val",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\val\\val_isolated_src_013_augmented_src_013_r000_s1_color.png",
+    "source": "images/train/isolated_src_013_augmented_src_013_r000_s1_color.png",
+    "split": "val",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\val\\val_isolated_src_043_augmented_src_043_r180_s1_color.png",
+    "source": "images/train/isolated_src_043_augmented_src_043_r180_s1_color.png",
+    "split": "val",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\val\\val_isolated_src_026_augmented_src_026_r000_s0_gray.png",
+    "source": "images/train/isolated_src_026_augmented_src_026_r000_s0_gray.png",
+    "split": "val",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_002_augmented_src_002_r000_s0_color.png",
+    "source": "images/train/isolated_src_002_augmented_src_002_r000_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_047_augmented_src_047_r270_s0_gray.png",
+    "source": "images/train/isolated_src_047_augmented_src_047_r270_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_038_augmented_src_038_r180_s0_gray.png",
+    "source": "images/train/isolated_src_038_augmented_src_038_r180_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_028_augmented_src_028_r000_s0_color.png",
+    "source": "images/train/isolated_src_028_augmented_src_028_r000_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_036_augmented_src_036_r270_s1_gray.png",
+    "source": "images/train/isolated_src_036_augmented_src_036_r270_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_019_augmented_src_019_r000_s1_color.png",
+    "source": "images/train/isolated_src_019_augmented_src_019_r000_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_040_augmented_src_040_r090_s1_color.png",
+    "source": "images/train/isolated_src_040_augmented_src_040_r090_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_050_augmented_src_050_r180_s0_color.png",
+    "source": "images/train/isolated_src_050_augmented_src_050_r180_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_046_augmented_src_046_r090_s1_gray.png",
+    "source": "images/train/isolated_src_046_augmented_src_046_r090_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_048_augmented_src_048_r180_s1_color.png",
+    "source": "images/train/isolated_src_048_augmented_src_048_r180_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_021_augmented_src_021_r000_s1_gray.png",
+    "source": "images/train/isolated_src_021_augmented_src_021_r000_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_048_augmented_src_048_r000_s1_gray.png",
+    "source": "images/train/isolated_src_048_augmented_src_048_r000_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_026_original_src_026.png",
+    "source": "images/train/isolated_src_026_original_src_026.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_051_augmented_src_051_r000_s1_color.png",
+    "source": "images/train/isolated_src_051_augmented_src_051_r000_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_022_augmented_src_022_r270_s0_gray.png",
+    "source": "images/train/isolated_src_022_augmented_src_022_r270_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_041_augmented_src_041_r000_s1_color.png",
+    "source": "images/train/isolated_src_041_augmented_src_041_r000_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_045_augmented_src_045_r180_s0_gray.png",
+    "source": "images/train/isolated_src_045_augmented_src_045_r180_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_035_augmented_src_035_r270_s1_gray.png",
+    "source": "images/train/isolated_src_035_augmented_src_035_r270_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_050_augmented_src_050_r180_s0_gray.png",
+    "source": "images/train/isolated_src_050_augmented_src_050_r180_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_064_augmented_src_064_r180_s0_gray.png",
+    "source": "images/train/isolated_src_064_augmented_src_064_r180_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_017_augmented_src_017_r180_s0_color.png",
+    "source": "images/train/isolated_src_017_augmented_src_017_r180_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_069_augmented_src_069_r270_s0_color.png",
+    "source": "images/train/isolated_src_069_augmented_src_069_r270_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_065_augmented_src_065_r000_s0_color.png",
+    "source": "images/train/isolated_src_065_augmented_src_065_r000_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_065_augmented_src_065_r000_s0_gray.png",
+    "source": "images/train/isolated_src_065_augmented_src_065_r000_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_024_augmented_src_024_r180_s1_color.png",
+    "source": "images/train/isolated_src_024_augmented_src_024_r180_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_015_augmented_src_015_r090_s1_gray.png",
+    "source": "images/train/isolated_src_015_augmented_src_015_r090_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_019_original_src_019.png",
+    "source": "images/train/isolated_src_019_original_src_019.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_013_augmented_src_013_r180_s1_gray.png",
+    "source": "images/train/isolated_src_013_augmented_src_013_r180_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_002_augmented_src_002_r270_s0_color.png",
+    "source": "images/train/isolated_src_002_augmented_src_002_r270_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_038_augmented_src_038_r270_s1_gray.png",
+    "source": "images/train/isolated_src_038_augmented_src_038_r270_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_067_augmented_src_067_r090_s0_color.png",
+    "source": "images/train/isolated_src_067_augmented_src_067_r090_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_021_augmented_src_021_r090_s0_gray.png",
+    "source": "images/train/isolated_src_021_augmented_src_021_r090_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_014_augmented_src_014_r000_s0_color.png",
+    "source": "images/train/isolated_src_014_augmented_src_014_r000_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_029_augmented_src_029_r270_s0_gray.png",
+    "source": "images/train/isolated_src_029_augmented_src_029_r270_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_064_augmented_src_064_r090_s0_color.png",
+    "source": "images/train/isolated_src_064_augmented_src_064_r090_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_015_augmented_src_015_r270_s1_gray.png",
+    "source": "images/train/isolated_src_015_augmented_src_015_r270_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_035_augmented_src_035_r180_s1_color.png",
+    "source": "images/train/isolated_src_035_augmented_src_035_r180_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_053_augmented_src_053_r180_s0_color.png",
+    "source": "images/train/isolated_src_053_augmented_src_053_r180_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_046_augmented_src_046_r270_s1_gray.png",
+    "source": "images/train/isolated_src_046_augmented_src_046_r270_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_017_augmented_src_017_r090_s1_color.png",
+    "source": "images/train/isolated_src_017_augmented_src_017_r090_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_022_augmented_src_022_r000_s1_gray.png",
+    "source": "images/train/isolated_src_022_augmented_src_022_r000_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_029_augmented_src_029_r090_s0_color.png",
+    "source": "images/train/isolated_src_029_augmented_src_029_r090_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_055_original_src_055.png",
+    "source": "images/train/isolated_src_055_original_src_055.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_043_augmented_src_043_r270_s0_gray.png",
+    "source": "images/train/isolated_src_043_augmented_src_043_r270_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_040_augmented_src_040_r180_s1_color.png",
+    "source": "images/train/isolated_src_040_augmented_src_040_r180_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_055_augmented_src_055_r180_s1_gray.png",
+    "source": "images/train/isolated_src_055_augmented_src_055_r180_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_036_augmented_src_036_r090_s0_color.png",
+    "source": "images/train/isolated_src_036_augmented_src_036_r090_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_010_augmented_src_010_r180_s1_gray.png",
+    "source": "images/train/isolated_src_010_augmented_src_010_r180_s1_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_047_augmented_src_047_r180_s1_color.png",
+    "source": "images/train/isolated_src_047_augmented_src_047_r180_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_028_augmented_src_028_r180_s0_gray.png",
+    "source": "images/train/isolated_src_028_augmented_src_028_r180_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_053_augmented_src_053_r090_s1_color.png",
+    "source": "images/train/isolated_src_053_augmented_src_053_r090_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_041_augmented_src_041_r000_s0_gray.png",
+    "source": "images/train/isolated_src_041_augmented_src_041_r000_s0_gray.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_025_augmented_src_025_r090_s1_color.png",
+    "source": "images/train/isolated_src_025_augmented_src_025_r090_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_051_augmented_src_051_r180_s1_color.png",
+    "source": "images/train/isolated_src_051_augmented_src_051_r180_s1_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_010_augmented_src_010_r270_s0_color.png",
+    "source": "images/train/isolated_src_010_augmented_src_010_r270_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  },
+  {
+    "image": "dataset\\images\\train\\train_isolated_src_025_augmented_src_025_r090_s0_color.png",
+    "source": "images/train/isolated_src_025_augmented_src_025_r090_s0_color.png",
+    "split": "train",
+    "class_1_boxes": 0
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "usage": "Evaluation only. Not loaded by inference. Source-only visual review of full captions; 13 connector captions added before inspecting their machine text. Two rear-cover captions expand previously tested partial fields. Same PDF, not an independent drawing.",
+  "source_evidence": ["source_sheet_3.png", "source_sheet_4.png", "source_sheet_5.png", "source_sheet_6.png", "new_connector_sources.png"],
+  "answers": [
+    {"id": "P39226", "reference": "CONNECTOR NO : 13590001"},
+    {"id": "P39228", "reference": "CONNECTOR NO : 13591047"},
+    {"id": "P39230", "reference": "CONNECTOR NO : 13519739"},
+    {"id": "P39232", "reference": "CONNECTOR NO : 13512366"},
+    {"id": "P39235", "reference": "CONNECTOR NO : 13514590"},
+    {"id": "P39238", "reference": "CONNECTOR NO : 13590425"},
+    {"id": "P39240", "reference": "CONNECTOR NO : 19151432"},
+    {"id": "P39242", "reference": "CONNECTOR NO : 13582917"},
+    {"id": "P39244", "reference": "CONNECTOR NO : 13551224"},
+    {"id": "P39247", "reference": "CONNECTOR NO : 13535680"},
+    {"id": "P39249", "reference": "CONNECTOR NO : 13592509"},
+    {"id": "P39251", "reference": "CONNECTOR NO : 13543066"},
+    {"id": "P39254", "reference": "CONNECTOR NO : 13532124"},
+    {"id": "P39233", "reference": "REAR COVER NO : OPU88567"},
+    {"id": "P39236", "reference": "REAR COVER NO : bll15914"}
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "source": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\기업프로젝트 cad\\font_yolo_trial\\alphanumeric\\sample_23476557\\source.png",
+  "source_sha256": "bca6c69ef330cac70e7b00b854c0edae54b8605661df7310d1dbfefef03bc673",
+  "detector": "C:\\Users\\Win11Pro\\Documents\\CAD_OCR_MODELS\\official_models\\PP-OCRv5_server_det",
+  "recognizer": "C:\\Users\\Win11Pro\\Documents\\CAD_OCR_MODELS\\official_models\\korean_PP-OCRv5_mobile_rec",
+  "scope": "Pretrained local Korean OCR; no training or text correction. Cropped inputs are manually selected diagnostics.",
+  "full_image": [
+    {
+      "scale": 1,
+      "interpolation": "none",
+      "elapsed_seconds": 1.9281994999982999,
+      "recognition_filter_threshold": 0.0,
+      "texts": [
+        {
+          "text": "묘한기",
+          "confidence": 0.4824959933757782,
+          "polygon_original_pixels": [
+            [
+              268.0,
+              20.0
+            ],
+            [
+              432.0,
+              20.0
+            ],
+            [
+              432.0,
+              49.0
+            ],
+            [
+              268.0,
+              49.0
+            ]
+          ]
+        },
+        {
+          "text": "I",
+          "confidence": 0.1891215741634369,
+          "polygon_original_pixels": [
+            [
+              428.0,
+              51.0
+            ],
+            [
+              438.0,
+              51.0
+            ],
+            [
+              438.0,
+              63.0
+            ],
+            [
+              428.0,
+              63.0
+            ]
+          ]
+        },
+        {
+          "text": "B",
+          "confidence": 0.5900925993919373,
+          "polygon_original_pixels": [
+            [
+              166.0,
+              74.0
+            ],
+            [
+              179.0,
+              74.0
+            ],
+            [
+              179.0,
+              90.0
+            ],
+            [
+              166.0,
+              90.0
+            ]
+          ]
+        },
+        {
+          "text": "E",
+          "confidence": 0.6605002880096436,
+          "polygon_original_pixels": [
+            [
+              167.0,
+              96.0
+            ],
+            [
+              178.0,
+              96.0
+            ],
+            [
+              178.0,
+              106.0
+            ],
+            [
+              167.0,
+              106.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "scale": 2,
+      "interpolation": "cubic",
+      "elapsed_seconds": 5.155035900002986,
+      "recognition_filter_threshold": 0.0,
+      "texts": [
+        {
+          "text": "료하기",
+          "confidence": 0.526201069355011,
+          "polygon_original_pixels": [
+            [
+              275.0,
+              23.5
+            ],
+            [
+              433.0,
+              23.5
+            ],
+            [
+              433.0,
+              49.0
+            ],
+            [
+              275.0,
+              49.0
+            ]
+          ]
+        },
+        {
+          "text": "E",
+          "confidence": 0.17892052233219147,
+          "polygon_original_pixels": [
+            [
+              427.5,
+              51.0
+            ],
+            [
+              438.0,
+              51.0
+            ],
+            [
+              438.0,
+              64.0
+            ],
+            [
+              427.5,
+              64.0
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "manual_recognition": [
+    {
+      "crop": "upper_line",
+      "source_xyxy": [
+        35,
+        15,
+        445,
+        68
+      ],
+      "manual_crop": true,
+      "border_pixels": 4,
+      "text": "SFVE 적용할것",
+      "confidence": 0.8690963387489319
+    },
+    {
+      "crop": "korean_only",
+      "source_xyxy": [
+        266,
+        15,
+        445,
+        68
+      ],
+      "manual_crop": true,
+      "border_pixels": 4,
+      "text": "적용할것",
+      "confidence": 0.9973547458648682
+    },
+    {
+      "crop": "lower_line",
+      "source_xyxy": [
+        35,
+        68,
+        663,
+        114
+      ],
+      "manual_crop": true,
+      "border_pixels": 4,
+      "text": "PNO : SA-C8D-OBD-BK",
+      "confidence": 0.9205602407455444
+    }
+  ]
+}

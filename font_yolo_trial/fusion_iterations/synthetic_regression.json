@@ -1,0 +1,21 @@
+{
+  "original_62": {
+    "scope": "Same-template synthetic regression; no punctuation ground truth in this older set.",
+    "images": 130,
+    "tp": 1939,
+    "fp": 63,
+    "fn": 36,
+    "precision": 0.9685314685314685,
+    "recall": 0.9817721518987341
+  },
+  "fine_tuned_68": {
+    "scope": "Same-template synthetic regression; no punctuation ground truth in this older set.",
+    "images": 130,
+    "tp": 1900,
+    "fp": 112,
+    "fn": 75,
+    "precision": 0.9443339960238568,
+    "recall": 0.9620253164556962
+  },
+  "scope": "Same-template synthetic regression only; new model is not substituted for the original vector-letter reader."
+}

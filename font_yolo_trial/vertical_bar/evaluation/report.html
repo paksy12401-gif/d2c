@@ -1,0 +1,146 @@
+<!doctype html><meta charset="utf-8"><title>Vertical bar training</title><style>body{font:16px sans-serif;max-width:1000px;margin:32px auto}table{border-collapse:collapse}td,th{padding:9px;border:1px solid #aaa}img{max-width:48%}</style><h1>| 추가 학습 비교</h1><p>기존 I · l · 1 클래스는 유지하고 | 를 67번으로 추가했습니다. 기존 배포 모델은 교체하지 않았습니다.</p><p>아래 수치는 같은 글꼴 템플릿으로 만든 합성 검사입니다. 첨부 스크린샷도 학습에 사용했으므로 독립 평가가 아닙니다.</p><table><tr><th>진단 세트</th><th>모델</th><th>전체 정밀도</th><th>전체 재현율</th><th>| 정답 검출</th><th>| 오탐</th></tr><tr><td>old_alphanumeric</td><td>before</td><td>96.716%</td><td>98.430%</td><td>0/0</td><td>0</td></tr><tr><td>old_alphanumeric</td><td>after</td><td>97.103%</td><td>98.430%</td><td>0/0</td><td>5</td></tr><tr><td>old_punctuation</td><td>before</td><td>97.252%</td><td>98.103%</td><td>0/0</td><td>0</td></tr><tr><td>old_punctuation</td><td>after</td><td>97.066%</td><td>98.152%</td><td>0/0</td><td>4</td></tr><tr><td>new_bar_scenes</td><td>before</td><td>76.749%</td><td>79.373%</td><td>0/354</td><td>0</td></tr><tr><td>new_bar_scenes</td><td>after</td><td>98.646%</td><td>99.658%</td><td>354/354</td><td>14</td></tr></table><h2>첨부 원본: native padded</h2><img src="before_native_padded.png"><img src="after_native_padded.png"><pre>{
+  &quot;before&quot;: {
+    &quot;native_padded&quot;: {
+      &quot;bar_tp&quot;: 0,
+      &quot;fp&quot;: 5,
+      &quot;fn&quot;: 3,
+      &quot;rows&quot;: [
+        &quot;llIll&quot;
+      ],
+      &quot;detections&quot;: [
+        {
+          &quot;label&quot;: &quot;l&quot;,
+          &quot;confidence&quot;: 0.5250991582870483,
+          &quot;xyxy&quot;: [
+            101.90934753417969,
+            33.58201217651367,
+            116.54719543457031,
+            111.92341613769531
+          ]
+        },
+        {
+          &quot;label&quot;: &quot;l&quot;,
+          &quot;confidence&quot;: 0.37768858671188354,
+          &quot;xyxy&quot;: [
+            62.355674743652344,
+            30.872467041015625,
+            77.33216094970703,
+            113.27330017089844
+          ]
+        },
+        {
+          &quot;label&quot;: &quot;l&quot;,
+          &quot;confidence&quot;: 0.3386772871017456,
+          &quot;xyxy&quot;: [
+            17.35797882080078,
+            28.894989013671875,
+            43.367637634277344,
+            133.57151794433594
+          ]
+        },
+        {
+          &quot;label&quot;: &quot;I&quot;,
+          &quot;confidence&quot;: 0.19461852312088013,
+          &quot;xyxy&quot;: [
+            63.081581115722656,
+            33.463050842285156,
+            78.20201873779297,
+            115.48395538330078
+          ]
+        },
+        {
+          &quot;label&quot;: &quot;l&quot;,
+          &quot;confidence&quot;: 0.13659612834453583,
+          &quot;xyxy&quot;: [
+            88.31144714355469,
+            32.4957275390625,
+            115.98551940917969,
+            113.07197570800781
+          ]
+        }
+      ]
+    },
+    &quot;full_384&quot;: {
+      &quot;bar_tp&quot;: 0,
+      &quot;fp&quot;: 1,
+      &quot;fn&quot;: 3,
+      &quot;rows&quot;: [
+        &quot;l&quot;
+      ],
+      &quot;detections&quot;: [
+        {
+          &quot;label&quot;: &quot;l&quot;,
+          &quot;confidence&quot;: 0.1363435834646225,
+          &quot;xyxy&quot;: [
+            28.58321762084961,
+            1.3890631198883057,
+            36.72698974609375,
+            34.00469207763672
+          ]
+        }
+      ]
+    }
+  },
+  &quot;after&quot;: {
+    &quot;native_padded&quot;: {
+      &quot;bar_tp&quot;: 3,
+      &quot;fp&quot;: 0,
+      &quot;fn&quot;: 0,
+      &quot;rows&quot;: [
+        &quot;|||&quot;
+      ],
+      &quot;detections&quot;: [
+        {
+          &quot;label&quot;: &quot;|&quot;,
+          &quot;confidence&quot;: 0.9431701302528381,
+          &quot;xyxy&quot;: [
+            101.77983093261719,
+            33.514259338378906,
+            116.41209411621094,
+            112.87516021728516
+          ]
+        },
+        {
+          &quot;label&quot;: &quot;|&quot;,
+          &quot;confidence&quot;: 0.9307815432548523,
+          &quot;xyxy&quot;: [
+            62.660614013671875,
+            33.73191452026367,
+            77.14865112304688,
+            113.27723693847656
+          ]
+        },
+        {
+          &quot;label&quot;: &quot;|&quot;,
+          &quot;confidence&quot;: 0.9297538995742798,
+          &quot;xyxy&quot;: [
+            25.726661682128906,
+            31.971206665039062,
+            37.828041076660156,
+            135.6012725830078
+          ]
+        }
+      ]
+    },
+    &quot;full_384&quot;: {
+      &quot;bar_tp&quot;: 0,
+      &quot;fp&quot;: 1,
+      &quot;fn&quot;: 3,
+      &quot;rows&quot;: [
+        &quot;l&quot;
+      ],
+      &quot;detections&quot;: [
+        {
+          &quot;label&quot;: &quot;l&quot;,
+          &quot;confidence&quot;: 0.4075488746166229,
+          &quot;xyxy&quot;: [
+            28.448341369628906,
+            0.11492174863815308,
+            36.556949615478516,
+            34.352176666259766
+          ]
+        }
+      ]
+    }
+  }
+}</pre>
