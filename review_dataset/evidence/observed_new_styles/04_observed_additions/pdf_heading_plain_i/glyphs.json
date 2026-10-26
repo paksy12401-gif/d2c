@@ -1,0 +1,344 @@
+{
+  "font_id": "pdf_heading_plain_i",
+  "folder": "04_observed_additions/pdf_heading_plain_i",
+  "display_name": "원본: 얇은 VIEW J · 단일 세로획 I",
+  "provenance_status": "observed_pdf_glyphs_partial_not_complete_font",
+  "source": "source_geometry.json",
+  "exact_original_font_identified": false,
+  "review_note": "가로획 있는 VIEW와 다른 원본 모양. 기존 CAD의 폭·선폭 변형일 가능성은 남음.",
+  "glyphs": [
+    {
+      "char": "V",
+      "class_id": 21,
+      "image": "04_observed_additions/pdf_heading_plain_i/images/U0056_V.png",
+      "label": "04_observed_additions/pdf_heading_plain_i/labels/U0056_V.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        193,
+        156,
+        447,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "212f4d73220be0b4bf17640bd81a4a0f1c9c2711e950bb5a3098ac68ea4598c9",
+      "style_id": "pdf_heading_plain_i",
+      "source_path_ids": [
+        129388
+      ],
+      "source_segment_indices": [
+        292593,
+        292594
+      ],
+      "source_bbox": [
+        1595.27001953125,
+        1209.830078125,
+        1601.7900390625,
+        1218.469970703125
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.024653084236538895,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.639892578125,
+      "baseline_y": 1218.469970703125,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    },
+    {
+      "char": "I",
+      "class_id": 8,
+      "image": "04_observed_additions/pdf_heading_plain_i/images/U0049_I.png",
+      "label": "04_observed_additions/pdf_heading_plain_i/labels/U0049_I.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        315,
+        159,
+        325,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "eddfe61cfa058d0d029bbbe4eecb6c7d68ca7d81ecbd50416ff48f1d4d511cbb",
+      "style_id": "pdf_heading_plain_i",
+      "source_path_ids": [
+        129389
+      ],
+      "source_segment_indices": [
+        292595
+      ],
+      "source_bbox": [
+        1603.489990234375,
+        1209.830078125,
+        1603.489990234375,
+        1218.469970703125
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.024653084236538895,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.639892578125,
+      "baseline_y": 1218.469970703125,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null,
+      "isolated_training_eligible": false,
+      "ambiguous_visual_characters": [
+        "I",
+        "l"
+      ],
+      "ambiguity_note": "The VIEW context identifies I; a lone straight stroke does not independently identify I versus lowercase l."
+    },
+    {
+      "char": "E",
+      "class_id": 4,
+      "image": "04_observed_additions/pdf_heading_plain_i/images/U0045_E.png",
+      "label": "04_observed_additions/pdf_heading_plain_i/labels/U0045_E.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        211,
+        154,
+        425,
+        485
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "68b8f588506b15cf157e982cd74a3f51abf72010d6a2b38e098771de6fac7cd7",
+      "style_id": "pdf_heading_plain_i",
+      "source_path_ids": [
+        129390,
+        129391,
+        129392
+      ],
+      "source_segment_indices": [
+        292596,
+        292597,
+        292598,
+        292599
+      ],
+      "source_bbox": [
+        1606.8199462890625,
+        1209.830078125,
+        1612.3499755859375,
+        1218.469970703125
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.024653084236538895,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.639892578125,
+      "baseline_y": 1218.469970703125,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    },
+    {
+      "char": "W",
+      "class_id": 22,
+      "image": "04_observed_additions/pdf_heading_plain_i/images/U0057_W.png",
+      "label": "04_observed_additions/pdf_heading_plain_i/labels/U0057_W.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        159,
+        154,
+        481,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "36c17d4d53ed37b4fc7d5440c502d61247a64ac0c464f8028054de95c9dc7cf5",
+      "style_id": "pdf_heading_plain_i",
+      "source_path_ids": [
+        129393
+      ],
+      "source_segment_indices": [
+        292600,
+        292601,
+        292602,
+        292603
+      ],
+      "source_bbox": [
+        1614.760009765625,
+        1209.830078125,
+        1623.1199951171875,
+        1218.469970703125
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.024653084236538895,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.639892578125,
+      "baseline_y": 1218.469970703125,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    },
+    {
+      "char": "J",
+      "class_id": 9,
+      "image": "04_observed_additions/pdf_heading_plain_i/images/U004A_J.png",
+      "label": "04_observed_additions/pdf_heading_plain_i/labels/U004A_J.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        233,
+        159,
+        407,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "8766dbe7a645b7bb5189704e29aae1ba3757180b05869afe1f8d61d2dbfac3af",
+      "style_id": "pdf_heading_plain_i",
+      "source_path_ids": [
+        129394
+      ],
+      "source_segment_indices": [
+        292604,
+        292605,
+        292606,
+        292607,
+        292608,
+        292609,
+        292610,
+        292611,
+        292612
+      ],
+      "source_bbox": [
+        1632.469970703125,
+        1209.830078125,
+        1636.800048828125,
+        1218.469970703125
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.024653084236538895,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.639892578125,
+      "baseline_y": 1218.469970703125,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    }
+  ],
+  "missing_chars": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "F",
+    "G",
+    "H",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "X",
+    "Y",
+    "Z",
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z",
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "complete": false,
+  "image_size": [
+    640,
+    640
+  ],
+  "contact_sheet": "04_observed_additions/pdf_heading_plain_i/contact_sheet.png"
+}

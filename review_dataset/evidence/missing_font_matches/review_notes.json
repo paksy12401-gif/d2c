@@ -1,0 +1,73 @@
+{
+  "exact_original_font_identified": false,
+  "source_geometry_is_evidence": true,
+  "candidate_match_is_not_recognition_accuracy": true,
+  "reviewed_source_comparison_images": ["U01_comparison.png", "U02_comparison.png", "U03_comparison.png", "U04_comparison.png", "U05a_comparison.png", "U06_comparison.png", "LF19_comparison.png"],
+  "observed_glyph_contact_sheet_reviewed": "observed_additions/contact_sheet.png",
+  "recommendations": [
+    {
+      "source_examples": ["LEVER", "COVER"],
+      "candidate_font_id": "batang_face1",
+      "candidate_name": "BatangChe",
+      "vector_json": "vectors/batang_face1.json",
+      "render_mode": "filled",
+      "width_factor": 1.0,
+      "stroke_ratio": 0.0,
+      "assessment": "Best tested candidate for both words; source outlines are visibly polygonized and some local stroke differences remain. Not exact font identification."
+    },
+    {
+      "source_examples": ["VIEW \"H\"", "DETAIL C"],
+      "candidate_font_id": "gulim_face0",
+      "candidate_name": "Gulim",
+      "vector_json": "vectors/gulim_face0.json",
+      "render_mode": "filled",
+      "width_factor": 1.0,
+      "stroke_ratio": 0.0,
+      "assessment": "Consistent best tested candidate for two independent phrases. Rounded Gulim corners correspond to polygonized source corners; not proof of exact original font."
+    },
+    {
+      "source_examples": ["table ordinal 2"],
+      "candidate_font_id": "gulim_face1",
+      "candidate_name": "GulimChe",
+      "vector_json": "vectors/gulim_face1.json",
+      "render_mode": "filled",
+      "width_factor": 1.0,
+      "stroke_ratio": 0.0,
+      "assessment": "Closest among tested candidates for this numeral, but Gulim regular is close too. A single numeral does not establish a distinct font family from VIEW/DETAIL."
+    },
+    {
+      "source_examples": ["FRNT_MAIN", "CS PAD"],
+      "candidate_font_ids": ["malgun_ttf", "malgunbd_ttf"],
+      "render_mode": "filled",
+      "width_factor": 1.0,
+      "stroke_ratio": 0.0,
+      "assessment": "Alternative approximate candidates for the same note style. Whole-word results favor regular for FRNT_MAIN and bold for CS PAD, but FRNT and MAIN subword tests change the ranking. Do not call these two independently established source font styles."
+    },
+    {
+      "source_examples": ["KET"],
+      "candidate_font_id": "ariali_ttf",
+      "render_mode": "outline",
+      "assessment": "Outlined Arial Italic is the closest tested general font, but the source K joint and proportions differ substantially. Preserve only observed K/E/T as a logo-like partial style; do not generalize this evidence into a verified 62-character source font."
+    },
+    {
+      "source_examples": ["mm"],
+      "candidate_font_id": null,
+      "assessment": "No sufficiently close candidate found. Source stems/arches differ from all tested fonts. Candidate rank alone is not enough to select a source font."
+    }
+  ],
+  "observed_additions": {
+    "manifest": "observed_additions/masters_manifest.json",
+    "styles": 4,
+    "glyphs": 21,
+    "filled_contours_closed": true,
+    "source_path_only_rendering": true,
+    "common_baseline_and_cap_height": true,
+    "not_included": "COVER individual glyphs were not extracted because projection bands overlap; full original word remains as evidence. The upright digit 1 beside KET is not merged into its oblique logo style."
+  },
+  "limits": [
+    "The source word and installed candidate use one global width factor and one common tracking value per word; glyph geometry is not independently warped.",
+    "Scores are raster shape distances normalized by ink height, not accuracy percentages or probabilities.",
+    "Filled/outline/stroke rendering must remain distinct in dataset generation.",
+    "Windows font collection face indices and hashes are recorded. Font binaries are not included in the evidence package."
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "valid_structure": true,
+  "glyph_count": 34,
+  "styles": {
+    "pdf_heading_capped_i": 6,
+    "pdf_heading_plain_i": 5,
+    "pdf_table_filled": 13,
+    "pdf_small_pin_digits": 10
+  },
+  "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+  "old_source_manifest_sha256": "873fad5ed26e5368934978eb37ffd33f815ba95138b194914f91b47696399464",
+  "masters_manifest_sha256": "0a2109663b7b258a41cb90734d67c747056d2bd9764a3796020ee4369f6986c4",
+  "visual_review": [
+    "ownership_final_00.png",
+    "ownership_final_01.png",
+    "heading_font_comparison_00.png",
+    "heading_font_comparison_01.png",
+    "table_m_degeneracy_review.png"
+  ],
+  "canonical_m_complete_original_contour": true,
+  "excluded_m_remains_evidence_only": true,
+  "exact_font_identity_claimed": false
+}

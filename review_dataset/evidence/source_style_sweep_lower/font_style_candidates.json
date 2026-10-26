@@ -1,0 +1,897 @@
+{
+  "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+  "scope": "English letters/digits only; lowerhalf geographic source font coverage audit",
+  "whole_lowerhalf_tiles_reviewed": 12,
+  "all_text_instances_enumerated": false,
+  "findings": [
+    {
+      "tile": "L00",
+      "display_size": [
+        1513,
+        1632
+      ],
+      "style_candidates": [
+        {
+          "display_bbox": [
+            259,
+            681,
+            318,
+            718
+          ],
+          "text": "LOT",
+          "kind": "annotation_latin_round_upright",
+          "reason": "Latin inside Korean note looks rounded/upright and less condensed than terminal codes; needs close crop and existing-ROMANS comparison"
+        },
+        {
+          "display_bbox": [
+            451,
+            73,
+            523,
+            96
+          ],
+          "text": "J/COVER",
+          "kind": "boxed_small_annotation",
+          "reason": "Small upright label, potentially same monoline CAD under width/size change"
+        }
+      ],
+      "existing_observed": [
+        "serif italic component title PE_JB and wire tokens",
+        "very condensed upright CAD codes RP102/UCB-XH000",
+        "small pin indices and +/- numeric offsets"
+      ],
+      "reviewed": true,
+      "source_bbox_pdf": [
+        0.0,
+        793.0,
+        389.1266682942708,
+        1205.2000122070312
+      ]
+    },
+    {
+      "tile": "L01",
+      "display_size": [
+        1541,
+        1599
+      ],
+      "style_candidates": [
+        {
+          "display_bbox": [
+            889,
+            109,
+            971,
+            145
+          ],
+          "text": "LEVER",
+          "kind": "upright_serif_condensed",
+          "reason": "Clear upright serif letters unlike slanted serif component titles; strongest additional family candidate"
+        },
+        {
+          "display_bbox": [
+            1110,
+            84,
+            1315,
+            116
+          ],
+          "text": "FRNT_CONT11",
+          "kind": "annotation_sans_upright",
+          "reason": "Rounded upright wider sans annotation versus condensed terminal CAD codes; compare actual strokes before declaring new font"
+        },
+        {
+          "display_bbox": [
+            1438,
+            549,
+            1540,
+            594
+          ],
+          "text": "VIEW",
+          "kind": "wide_thin_CAD",
+          "reason": "Very thin wide capitals, potentially same CAD stroke family under width/weight change"
+        }
+      ],
+      "existing_observed": [
+        "serif slanted titles and wire tokens",
+        "narrow CAD terminal codes and dimensions",
+        "small pin numbering"
+      ],
+      "reviewed": true,
+      "source_bbox_pdf": [
+        359.1266682942708,
+        793.0,
+        763.2533365885416,
+        1205.2000122070312
+      ]
+    },
+    {
+      "tile": "L02",
+      "display_size": [
+        1540,
+        1600
+      ],
+      "style_candidates": [
+        {
+          "display_bbox": [
+            1170,
+            101,
+            1358,
+            137
+          ],
+          "text": "COVER LEVER",
+          "kind": "upright_serif_condensed",
+          "reason": "Two clear boxed words with upright serif forms, appears different from italic FCU_A title directly beside them"
+        },
+        {
+          "display_bbox": [
+            430,
+            73,
+            600,
+            103
+          ],
+          "text": "1.0~1.2kgf.m",
+          "kind": "annotation_sans_upright",
+          "reason": "Unrepresented lowercase kgf.m and round decimal forms in Korean-associated note"
+        },
+        {
+          "display_bbox": [
+            14,
+            551,
+            242,
+            591
+          ],
+          "text": "VIEW \"A\"",
+          "kind": "wide_thin_CAD",
+          "reason": "Unusually wide thin mono-stroke CAD heading; likely width/lineweight variant"
+        }
+      ],
+      "existing_observed": [
+        "serif slanted EARTH_FRNT titles and wirelabels",
+        "narrow upright CAD terminal codes/connectorpartnumbers"
+      ],
+      "reviewed": true,
+      "source_bbox_pdf": [
+        733.2533365885416,
+        793.0,
+        1137.3800048828125,
+        1205.2000122070312
+      ]
+    },
+    {
+      "tile": "L03",
+      "display_size": [
+        1541,
+        1599
+      ],
+      "style_candidates": [
+        {
+          "display_bbox": [
+            1167,
+            773,
+            1244,
+            803
+          ],
+          "text": "COVER",
+          "kind": "upright_serif_condensed",
+          "reason": "Repeated clear upright serif word distinct from slanted V2LC_SIG nearby"
+        },
+        {
+          "display_bbox": [
+            392,
+            1352,
+            605,
+            1400
+          ],
+          "text": "SERVICE_INTERLOCK SERVICE_PLUG",
+          "kind": "annotation_sans_upright",
+          "reason": "Upright Latin in Korean-associated note contrasts with italic service title; compare outline vs monoline"
+        }
+      ],
+      "existing_observed": [
+        "slanted serif titles",
+        "condensed upright CAD labels",
+        "thin condensed rotated dimension numerals"
+      ],
+      "reviewed": true,
+      "source_bbox_pdf": [
+        1107.3800048828125,
+        793.0,
+        1511.5066731770833,
+        1205.2000122070312
+      ]
+    },
+    {
+      "tile": "L04",
+      "display_size": [
+        1540,
+        1600
+      ],
+      "style_candidates": [
+        {
+          "display_bbox": [
+            166,
+            1045,
+            333,
+            1083
+          ],
+          "text": "DETAIL D",
+          "kind": "annotation_sans_upright",
+          "reason": "Large rounded upright sans, clear isolated word useful for matching against width-scaled CAD model"
+        }
+      ],
+      "existing_observed": [
+        "slanted serif titles and wiretokens",
+        "condensed CAD pinlabels",
+        "dimensionnumerals across rotations and size"
+      ],
+      "reviewed": true,
+      "source_bbox_pdf": [
+        1481.5066731770833,
+        793.0,
+        1885.6333414713542,
+        1205.2000122070312
+      ]
+    },
+    {
+      "tile": "L05",
+      "display_size": [
+        1514,
+        1631
+      ],
+      "style_candidates": [
+        {
+          "display_bbox": [
+            225,
+            35,
+            304,
+            68
+          ],
+          "text": "COVER",
+          "kind": "upright_serif_condensed",
+          "reason": "Another repeated upright serif boxed label over RANC_SNSR_FL"
+        }
+      ],
+      "existing_observed": [
+        "italic serif component names/wires",
+        "condensed CAD numerals/dimensions",
+        "single-letter clip labels inside diamonds"
+      ],
+      "reviewed": true,
+      "source_bbox_pdf": [
+        1855.6333414713542,
+        793.0,
+        2244.760009765625,
+        1205.2000122070312
+      ]
+    },
+    {
+      "tile": "L10",
+      "display_size": [
+        1512,
+        1632
+      ],
+      "style_candidates": [],
+      "existing_observed": [
+        "condensed monoline CAD terminal/pinlabels and tiny slotnumbers",
+        "slanted serif wiretokens; no visually independent new type in this tile"
+      ],
+      "reviewed": true,
+      "source_bbox_pdf": [
+        0.0,
+        1175.2000122070312,
+        389.1266682942708,
+        1587.4000244140625
+      ]
+    },
+    {
+      "tile": "L11",
+      "display_size": [
+        1540,
+        1600
+      ],
+      "style_candidates": [
+        {
+          "display_bbox": [
+            869,
+            729,
+            944,
+            759
+          ],
+          "text": "LEVER",
+          "kind": "upright_serif_condensed",
+          "reason": "Clear separate upright serif LEVER above CAD partnumber LKSASDP035F1"
+        },
+        {
+          "display_bbox": [
+            1300,
+            150,
+            1485,
+            185
+          ],
+          "text": "C/TUBE 5",
+          "kind": "wide_thin_CAD",
+          "reason": "Wide light annotation with uppercase C/TUBE and numeral5, candidate width/lineweight variation"
+        }
+      ],
+      "existing_observed": [
+        "slanted serif titles and wires",
+        "narrow CAD partcodes",
+        "tiny monoline pinindices"
+      ],
+      "reviewed": true,
+      "source_bbox_pdf": [
+        359.1266682942708,
+        1175.2000122070312,
+        763.2533365885416,
+        1587.4000244140625
+      ]
+    },
+    {
+      "tile": "L12",
+      "display_size": [
+        1540,
+        1600
+      ],
+      "style_candidates": [],
+      "existing_observed": [
+        "Existing slanted serif titles and wirelabels",
+        "CAD condensed dimensions including arbitraryrotation",
+        "pin codes and small dimension font match existing broad family"
+      ],
+      "reviewed": true,
+      "source_bbox_pdf": [
+        733.2533365885416,
+        1175.2000122070312,
+        1137.3800048828125,
+        1587.4000244140625
+      ]
+    },
+    {
+      "tile": "L13",
+      "display_size": [
+        1540,
+        1600
+      ],
+      "style_candidates": [
+        {
+          "display_bbox": [
+            490,
+            119,
+            709,
+            159
+          ],
+          "text": "VIEW \"C\"",
+          "kind": "wide_polygonal_CAD",
+          "reason": "Thin very wide word with visibly chamfered/octagonal C; compare original-user CAD sheet and romans instead of assuming width stretch"
+        }
+      ],
+      "existing_observed": [
+        "same italic serif component names and wires",
+        "condensed CAD pin labels and small partcodes"
+      ],
+      "reviewed": true,
+      "source_bbox_pdf": [
+        1107.3800048828125,
+        1175.2000122070312,
+        1511.5066731770833,
+        1587.4000244140625
+      ]
+    },
+    {
+      "tile": "L14",
+      "display_size": [
+        1540,
+        1600
+      ],
+      "style_candidates": [
+        {
+          "display_bbox": [
+            846,
+            373,
+            1048,
+            416
+          ],
+          "text": "VIEW \"G\"",
+          "kind": "annotation_sans_upright",
+          "reason": "Thick rounded upright sans heading; contrast with nearby thin VIEW J and compare line structure separately from penweight"
+        },
+        {
+          "display_bbox": [
+            430,
+            156,
+            598,
+            198
+          ],
+          "text": "VIEW J",
+          "kind": "wide_thin_CAD",
+          "reason": "Very light wide monoline letters; provides J/I/W for shape comparison"
+        }
+      ],
+      "existing_observed": [
+        "italic serif FRNT title and wires",
+        "condensed CAD partcodes and dimensions",
+        "same letter-family differently scaled/slanted placements"
+      ],
+      "reviewed": true,
+      "source_bbox_pdf": [
+        1481.5066731770833,
+        1175.2000122070312,
+        1885.6333414713542,
+        1587.4000244140625
+      ]
+    },
+    {
+      "tile": "L15",
+      "display_size": [
+        1513,
+        1632
+      ],
+      "style_candidates": [
+        {
+          "display_bbox": [
+            1090,
+            355,
+            1114,
+            613
+          ],
+          "text": "1 2 3 4 5 6 7 8 9 10",
+          "kind": "table_wide_numeric",
+          "reason": "Table ordinal digits visibly wider/rounder than adjacent itemcodes; may be width/weight variation of monoline family, requires geometry match"
+        },
+        {
+          "display_bbox": [
+            1280,
+            354,
+            1379,
+            613
+          ],
+          "text": "6TPP110080 / RIBON-7 / LB06401820",
+          "kind": "table_condensed_codes",
+          "reason": "Strongly condensed upright itemcode family; baseline/width settings need representation though likely existing CAD"
+        },
+        {
+          "display_bbox": [
+            1471,
+            355,
+            1508,
+            614
+          ],
+          "text": "mm EA",
+          "kind": "table_lowercase_units",
+          "reason": "Lowercase mm absent from current PDF canonical bank; family likely CAD but need source evidence"
+        }
+      ],
+      "existing_observed": [
+        "same serif italic FRNT_FEMT12 and wires",
+        "condensed CAD connectorcodes/pinlabels",
+        "Korean body excluded by scope"
+      ],
+      "reviewed": true,
+      "source_bbox_pdf": [
+        1855.6333414713542,
+        1175.2000122070312,
+        2244.760009765625,
+        1587.4000244140625
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "display_bbox": [
+        259,
+        681,
+        318,
+        718
+      ],
+      "text": "LOT",
+      "kind": "annotation_latin_round_upright",
+      "reason": "Latin inside Korean note looks rounded/upright and less condensed than terminal codes; needs close crop and existing-ROMANS comparison",
+      "id": "LF00",
+      "source_tile": "L00",
+      "bbox": [
+        66.63301387970918,
+        960.6530330882354,
+        81.81196298744217,
+        970.1694240196078
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF00_source.png"
+    },
+    {
+      "display_bbox": [
+        451,
+        73,
+        523,
+        96
+      ],
+      "text": "J/COVER",
+      "kind": "boxed_small_annotation",
+      "reason": "Small upright label, potentially same monoline CAD under width/size change",
+      "id": "LF01",
+      "source_tile": "L00",
+      "bbox": [
+        116.02891606080634,
+        804.2755821078431,
+        134.55237937871777,
+        810.1911764705883
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF01_source.png"
+    },
+    {
+      "display_bbox": [
+        889,
+        109,
+        971,
+        145
+      ],
+      "text": "LEVER",
+      "kind": "upright_serif_condensed",
+      "reason": "Clear upright serif letters unlike slanted serif component titles; strongest additional family candidate",
+      "id": "LF02",
+      "source_tile": "L01",
+      "bbox": [
+        592.4819570677945,
+        814.1133520950594,
+        614.0062919152961,
+        823.5636335209506
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF02_source.png"
+    },
+    {
+      "display_bbox": [
+        1110,
+        84,
+        1315,
+        116
+      ],
+      "text": "FRNT_CONT11",
+      "kind": "annotation_sans_upright",
+      "reason": "Rounded upright wider sans annotation versus condensed terminal CAD codes; compare actual strokes before declaring new font",
+      "id": "LF03",
+      "source_tile": "L01",
+      "bbox": [
+        650.4926644006953,
+        807.5506566604128,
+        704.3035015194492,
+        815.9509068167605
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF03_source.png"
+    },
+    {
+      "display_bbox": [
+        1438,
+        549,
+        1540,
+        594
+      ],
+      "text": "VIEW",
+      "kind": "wide_thin_CAD",
+      "reason": "Very thin wide capitals, potentially same CAD stroke family under width/weight change",
+      "id": "LF04",
+      "source_tile": "L01",
+      "bbox": [
+        736.5900037907018,
+        929.6167917448405,
+        763.3641764058866,
+        941.4296435272045
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF04_source.png"
+    },
+    {
+      "display_bbox": [
+        1170,
+        101,
+        1358,
+        137
+      ],
+      "text": "COVER LEVER",
+      "kind": "upright_serif_condensed",
+      "reason": "Two clear boxed words with upright serif forms, appears different from italic FCU_A title directly beside them",
+      "id": "LF05",
+      "source_tile": "L02",
+      "bbox": [
+        1040.3783365885415,
+        811.99671875,
+        1089.7283365885417,
+        821.44109375
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF05_source.png"
+    },
+    {
+      "display_bbox": [
+        430,
+        73,
+        600,
+        103
+      ],
+      "text": "1.0~1.2kgf.m",
+      "kind": "annotation_sans_upright",
+      "reason": "Unrepresented lowercase kgf.m and round decimal forms in Korean-associated note",
+      "id": "LF06",
+      "source_tile": "L02",
+      "bbox": [
+        846.1283365885416,
+        804.65109375,
+        890.7533365885416,
+        812.52140625
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF06_source.png"
+    },
+    {
+      "display_bbox": [
+        14,
+        551,
+        242,
+        591
+      ],
+      "text": "VIEW \"A\"",
+      "kind": "wide_thin_CAD",
+      "reason": "Unusually wide thin mono-stroke CAD heading; likely width/lineweight variant",
+      "id": "LF07",
+      "source_tile": "L02",
+      "bbox": [
+        736.9283365885416,
+        930.05140625,
+        796.7783365885416,
+        940.54515625
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF07_source.png"
+    },
+    {
+      "display_bbox": [
+        1167,
+        773,
+        1244,
+        803
+      ],
+      "text": "COVER",
+      "kind": "upright_serif_condensed",
+      "reason": "Repeated clear upright serif word distinct from slanted V2LC_SIG nearby",
+      "id": "LF08",
+      "source_tile": "L03",
+      "bbox": [
+        1413.7080386271343,
+        988.4185428392746,
+        1433.919914032715,
+        996.2937773608505
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF08_source.png"
+    },
+    {
+      "display_bbox": [
+        392,
+        1352,
+        605,
+        1400
+      ],
+      "text": "SERVICE_INTERLOCK SERVICE_PLUG",
+      "kind": "annotation_sans_upright",
+      "reason": "Upright Latin in Korean-associated note contrasts with italic service title; compare outline vs monoline",
+      "id": "LF09",
+      "source_tile": "L03",
+      "bbox": [
+        1210.2768251294056,
+        1140.4105691056911,
+        1266.187597355233,
+        1153.0109443402125
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF09_source.png"
+    },
+    {
+      "display_bbox": [
+        166,
+        1045,
+        333,
+        1083
+      ],
+      "text": "DETAIL D",
+      "kind": "annotation_sans_upright",
+      "reason": "Large rounded upright sans, clear isolated word useful for matching against width-scaled CAD model",
+      "id": "LF10",
+      "source_tile": "L04",
+      "bbox": [
+        1525.0816731770833,
+        1059.64921875,
+        1568.9191731770832,
+        1069.61828125
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF10_source.png"
+    },
+    {
+      "display_bbox": [
+        225,
+        35,
+        304,
+        68
+      ],
+      "text": "COVER",
+      "kind": "upright_serif_condensed",
+      "reason": "Another repeated upright serif boxed label over RANC_SNSR_FL",
+      "id": "LF11",
+      "source_tile": "L05",
+      "bbox": [
+        1913.5180838755814,
+        794.5075107296137,
+        1933.84206009751,
+        803.0003065603923
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF11_source.png"
+    },
+    {
+      "display_bbox": [
+        869,
+        729,
+        944,
+        759
+      ],
+      "text": "LEVER",
+      "kind": "upright_serif_condensed",
+      "reason": "Clear separate upright serif LEVER above CAD partnumber LKSASDP035F1",
+      "id": "LF12",
+      "source_tile": "L11",
+      "bbox": [
+        587.3802397228422,
+        1359.0625122070312,
+        607.0799150475176,
+        1366.9375122070312
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF12_source.png"
+    },
+    {
+      "display_bbox": [
+        1300,
+        150,
+        1485,
+        185
+      ],
+      "text": "C/TUBE 5",
+      "kind": "wide_thin_CAD",
+      "reason": "Wide light annotation with uppercase C/TUBE and numeral5, candidate width/lineweight variation",
+      "id": "LF13",
+      "source_tile": "L11",
+      "bbox": [
+        700.5877072553099,
+        1207.0750122070312,
+        749.1802397228423,
+        1216.2625122070312
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF13_source.png"
+    },
+    {
+      "display_bbox": [
+        490,
+        119,
+        709,
+        159
+      ],
+      "text": "VIEW \"C\"",
+      "kind": "wide_polygonal_CAD",
+      "reason": "Thin very wide word with visibly chamfered/octagonal C; compare original-user CAD sheet and romans instead of assuming width stretch",
+      "id": "LF14",
+      "source_tile": "L13",
+      "bbox": [
+        1236.084550337358,
+        1198.9375122070312,
+        1293.60760228541,
+        1209.4375122070312
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF14_source.png"
+    },
+    {
+      "display_bbox": [
+        846,
+        373,
+        1048,
+        416
+      ],
+      "text": "VIEW \"G\"",
+      "kind": "annotation_sans_upright",
+      "reason": "Thick rounded upright sans heading; contrast with nearby thin VIEW J and compare line structure separately from penweight",
+      "id": "LF15",
+      "source_tile": "L14",
+      "bbox": [
+        1703.5816731770833,
+        1265.6125122070312,
+        1756.6066731770834,
+        1276.9000122070313
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF15_source.png"
+    },
+    {
+      "display_bbox": [
+        430,
+        156,
+        598,
+        198
+      ],
+      "text": "VIEW J",
+      "kind": "wide_thin_CAD",
+      "reason": "Very light wide monoline letters; provides J/I/W for shape comparison",
+      "id": "LF16",
+      "source_tile": "L14",
+      "bbox": [
+        1594.3816731770833,
+        1208.6500122070313,
+        1638.4816731770832,
+        1219.6750122070312
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF16_source.png"
+    },
+    {
+      "display_bbox": [
+        1090,
+        355,
+        1114,
+        613
+      ],
+      "text": "1 2 3 4 5 6 7 8 9 10",
+      "kind": "table_wide_numeric",
+      "reason": "Table ordinal digits visibly wider/rounder than adjacent itemcodes; may be width/weight variation of monoline family, requires geometry match",
+      "id": "LF17",
+      "source_tile": "L15",
+      "bbox": [
+        2136.23810022879,
+        1259.0603063246783,
+        2142.416553632623,
+        1325.4573651482078
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF17_source.png"
+    },
+    {
+      "display_bbox": [
+        1280,
+        354,
+        1379,
+        613
+      ],
+      "text": "6TPP110080 / RIBON-7 / LB06401820",
+      "kind": "table_condensed_codes",
+      "reason": "Strongly condensed upright itemcode family; baseline/width settings need representation though likely existing CAD",
+      "id": "LF18",
+      "source_tile": "L15",
+      "bbox": [
+        2185.1508563424713,
+        1258.8029533835017,
+        2210.636976633284,
+        1325.4573651482078
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF18_source.png"
+    },
+    {
+      "display_bbox": [
+        1471,
+        355,
+        1508,
+        614
+      ],
+      "text": "mm EA",
+      "kind": "table_lowercase_units",
+      "reason": "Lowercase mm absent from current PDF canonical bank; family likely CAD but need source evidence",
+      "id": "LF19",
+      "source_tile": "L15",
+      "bbox": [
+        2234.321048014646,
+        1259.0603063246783,
+        2243.846163678889,
+        1325.7147180893842
+      ],
+      "classification": "visual_style_candidate_not_font_identity_proof",
+      "crop": "LF19_source.png"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Excluded source glyph: path5780, local segments0:52. Its third stem has zero filled area in the original PDF; never use this m as a training target. A complete second m in path5783 segments52:107 replaces it in canonical masters. These files remain evidence only.

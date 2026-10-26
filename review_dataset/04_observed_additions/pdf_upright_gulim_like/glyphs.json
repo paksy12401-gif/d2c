@@ -1,0 +1,367 @@
+{
+  "font_id": "pdf_upright_gulim_like",
+  "folder": "04_observed_additions/pdf_upright_gulim_like",
+  "display_name": "원본: 채움형 DETAIL C",
+  "provenance_status": "observed_pdf_glyphs_partial_not_complete_font",
+  "source": "evidence/missing_font_matches/observed_additions/masters_manifest.json",
+  "review_note": "원본 경로에서 분리한 실제 글자. 빈칸은 미확보이며, 다른 글꼴로 채워 넣지 않음.",
+  "glyphs": [
+    {
+      "char": "D",
+      "class_id": 3,
+      "image": "04_observed_additions/pdf_upright_gulim_like/images/U0044_D.png",
+      "label": "04_observed_additions/pdf_upright_gulim_like/labels/U0044_D.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        191,
+        158,
+        449,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "8bf441b8d49fba4c419e055adc14dbe00c6382120f82ccaa4fade176b561f799",
+      "id": "pdf_upright_gulim_like_U0044",
+      "source_path_ids": [
+        128395
+      ],
+      "source_bbox": [
+        490.6099853515625,
+        576.9900512695312,
+        495.1400146484375,
+        582.7300415039062
+      ],
+      "source_cap_height": 5.739990234375,
+      "source_baseline_y": 582.7300415039062,
+      "source_coordinate_system": "pdf_y_down",
+      "render_mode": "filled",
+      "source_word": "DETAILC",
+      "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_font_identity_verified": false,
+      "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+      "original_path_shared_with_other_letters": true,
+      "source_stroke_width": 0,
+      "stroke_ratio": 0,
+      "source_vector": "evidence/missing_font_matches/observed_additions/pdf_upright_gulim_like/U0044.npy"
+    },
+    {
+      "char": "E",
+      "class_id": 4,
+      "image": "04_observed_additions/pdf_upright_gulim_like/images/U0045_E.png",
+      "label": "04_observed_additions/pdf_upright_gulim_like/labels/U0045_E.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        211,
+        159,
+        429,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "469cc1212a6cf7429e9cd590bd2f440c6d5d21f8254169837943ac57be650ff6",
+      "id": "pdf_upright_gulim_like_U0045",
+      "source_path_ids": [
+        128395
+      ],
+      "source_bbox": [
+        496.3500061035156,
+        576.9900512695312,
+        500.1700134277344,
+        582.7300415039062
+      ],
+      "source_cap_height": 5.739990234375,
+      "source_baseline_y": 582.7300415039062,
+      "source_coordinate_system": "pdf_y_down",
+      "render_mode": "filled",
+      "source_word": "DETAILC",
+      "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_font_identity_verified": false,
+      "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+      "original_path_shared_with_other_letters": true,
+      "source_stroke_width": 0,
+      "stroke_ratio": 0,
+      "source_vector": "evidence/missing_font_matches/observed_additions/pdf_upright_gulim_like/U0045.npy"
+    },
+    {
+      "char": "T",
+      "class_id": 19,
+      "image": "04_observed_additions/pdf_upright_gulim_like/images/U0054_T.png",
+      "label": "04_observed_additions/pdf_upright_gulim_like/labels/U0054_T.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        205,
+        159,
+        435,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "56710b4b5ed299caafa11ed6ee32105d788963373307ae0fb944c64ee81a3017",
+      "id": "pdf_upright_gulim_like_U0054",
+      "source_path_ids": [
+        128395
+      ],
+      "source_bbox": [
+        500.6700134277344,
+        576.9900512695312,
+        504.7099914550781,
+        582.7300415039062
+      ],
+      "source_cap_height": 5.739990234375,
+      "source_baseline_y": 582.7300415039062,
+      "source_coordinate_system": "pdf_y_down",
+      "render_mode": "filled",
+      "source_word": "DETAILC",
+      "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_font_identity_verified": false,
+      "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+      "original_path_shared_with_other_letters": true,
+      "source_stroke_width": 0,
+      "stroke_ratio": 0,
+      "source_vector": "evidence/missing_font_matches/observed_additions/pdf_upright_gulim_like/U0054.npy"
+    },
+    {
+      "char": "A",
+      "class_id": 0,
+      "image": "04_observed_additions/pdf_upright_gulim_like/images/U0041_A.png",
+      "label": "04_observed_additions/pdf_upright_gulim_like/labels/U0041_A.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        191,
+        159,
+        449,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c3711f2c82211ba695f894b361ed22ec2262ecae54f7b6e79aace3a1cbfbfeaa",
+      "id": "pdf_upright_gulim_like_U0041",
+      "source_path_ids": [
+        128395
+      ],
+      "source_bbox": [
+        505.489990234375,
+        576.9900512695312,
+        510.0199890136719,
+        582.7300415039062
+      ],
+      "source_cap_height": 5.739990234375,
+      "source_baseline_y": 582.7300415039062,
+      "source_coordinate_system": "pdf_y_down",
+      "render_mode": "filled",
+      "source_word": "DETAILC",
+      "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_font_identity_verified": false,
+      "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+      "original_path_shared_with_other_letters": true,
+      "source_stroke_width": 0,
+      "stroke_ratio": 0,
+      "source_vector": "evidence/missing_font_matches/observed_additions/pdf_upright_gulim_like/U0041.npy"
+    },
+    {
+      "char": "I",
+      "class_id": 8,
+      "image": "04_observed_additions/pdf_upright_gulim_like/images/U0049_I.png",
+      "label": "04_observed_additions/pdf_upright_gulim_like/labels/U0049_I.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        304,
+        159,
+        336,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "27954c992c4f1a1ecf8d54a81f022275b9d01e37bd1b147ae027b34d7ddc7d21",
+      "id": "pdf_upright_gulim_like_U0049",
+      "source_path_ids": [
+        128395
+      ],
+      "source_bbox": [
+        511.2300109863281,
+        576.9900512695312,
+        511.7200012207031,
+        582.7300415039062
+      ],
+      "source_cap_height": 5.739990234375,
+      "source_baseline_y": 582.7300415039062,
+      "source_coordinate_system": "pdf_y_down",
+      "render_mode": "filled",
+      "source_word": "DETAILC",
+      "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_font_identity_verified": false,
+      "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+      "original_path_shared_with_other_letters": true,
+      "source_stroke_width": 0,
+      "stroke_ratio": 0,
+      "source_vector": "evidence/missing_font_matches/observed_additions/pdf_upright_gulim_like/U0049.npy"
+    },
+    {
+      "char": "L",
+      "class_id": 11,
+      "image": "04_observed_additions/pdf_upright_gulim_like/images/U004C_L.png",
+      "label": "04_observed_additions/pdf_upright_gulim_like/labels/U004C_L.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        218,
+        159,
+        422,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "3d5e92081dcbdfb8d4f3b548fdf88bf659c3f06c8edabea9d3effae47c714be4",
+      "id": "pdf_upright_gulim_like_U004C",
+      "source_path_ids": [
+        128395
+      ],
+      "source_bbox": [
+        513.1400146484375,
+        576.9900512695312,
+        516.760009765625,
+        582.7300415039062
+      ],
+      "source_cap_height": 5.739990234375,
+      "source_baseline_y": 582.7300415039062,
+      "source_coordinate_system": "pdf_y_down",
+      "render_mode": "filled",
+      "source_word": "DETAILC",
+      "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_font_identity_verified": false,
+      "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+      "original_path_shared_with_other_letters": true,
+      "source_stroke_width": 0,
+      "stroke_ratio": 0,
+      "source_vector": "evidence/missing_font_matches/observed_additions/pdf_upright_gulim_like/U004C.npy"
+    },
+    {
+      "char": "C",
+      "class_id": 2,
+      "image": "04_observed_additions/pdf_upright_gulim_like/images/U0043_C.png",
+      "label": "04_observed_additions/pdf_upright_gulim_like/labels/U0043_C.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        183,
+        159,
+        457,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "660b604ba1b2b134a5c5be90a96f4bfb9637206e7ef9485eb92e633e83763f36",
+      "id": "pdf_upright_gulim_like_U0043",
+      "source_path_ids": [
+        128395
+      ],
+      "source_bbox": [
+        519.8699951171875,
+        576.9900512695312,
+        524.6900024414062,
+        582.7300415039062
+      ],
+      "source_cap_height": 5.739990234375,
+      "source_baseline_y": 582.7300415039062,
+      "source_coordinate_system": "pdf_y_down",
+      "render_mode": "filled",
+      "source_word": "DETAILC",
+      "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_font_identity_verified": false,
+      "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+      "original_path_shared_with_other_letters": true,
+      "source_stroke_width": 0,
+      "stroke_ratio": 0,
+      "source_vector": "evidence/missing_font_matches/observed_additions/pdf_upright_gulim_like/U0043.npy"
+    }
+  ],
+  "missing_chars": [
+    "B",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z",
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z",
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "complete": false,
+  "image_size": [
+    640,
+    640
+  ],
+  "contact_sheet": "04_observed_additions/pdf_upright_gulim_like/contact_sheet.png"
+}

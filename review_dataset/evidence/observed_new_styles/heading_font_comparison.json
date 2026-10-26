@@ -1,0 +1,1034 @@
+{
+  "note": "BBox-fitted shape comparison; width normalized separately. Not font identity proof. Raster user sheet has thicker input than decoded centerlines.",
+  "styles": [
+    {
+      "style_id": "pdf_heading_capped_i",
+      "records": [
+        {
+          "char": "A",
+          "scores": [
+            {
+              "font": "user_sheet",
+              "mean_distance_cap": 0.005998843349516392,
+              "p95_distance_cap": 0.01685452088713646,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.00852702148258686
+            },
+            {
+              "font": "isocp",
+              "mean_distance_cap": 0.012590433470904827,
+              "p95_distance_cap": 0.02329237572848797,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.01608428983017802
+            },
+            {
+              "font": "isocp2",
+              "mean_distance_cap": 0.012590433470904827,
+              "p95_distance_cap": 0.02329237572848797,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.01608428983017802
+            },
+            {
+              "font": "isocp3",
+              "mean_distance_cap": 0.012590433470904827,
+              "p95_distance_cap": 0.02329237572848797,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.01608428983017802
+            },
+            {
+              "font": "romans",
+              "mean_distance_cap": 0.01991944946348667,
+              "p95_distance_cap": 0.0416666679084301,
+              "source_coverage_004cap": 0.7773584905660378,
+              "candidate_coverage_004cap": 0.7755905511811023,
+              "score": 0.026169449649751188
+            },
+            {
+              "font": "simplex",
+              "mean_distance_cap": 0.01991944946348667,
+              "p95_distance_cap": 0.0416666679084301,
+              "source_coverage_004cap": 0.7773584905660378,
+              "candidate_coverage_004cap": 0.7755905511811023,
+              "score": 0.026169449649751188
+            },
+            {
+              "font": "romand",
+              "mean_distance_cap": 0.02424883469939232,
+              "p95_distance_cap": 0.05363711342215538,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.5653923541247485,
+              "score": 0.03229440171271562
+            },
+            {
+              "font": "txt",
+              "mean_distance_cap": 0.05094415321946144,
+              "p95_distance_cap": 0.11129852384328842,
+              "source_coverage_004cap": 0.35471698113207545,
+              "candidate_coverage_004cap": 0.3194444444444444,
+              "score": 0.0676389317959547
+            },
+            {
+              "font": "romanc",
+              "mean_distance_cap": 0.06189717352390289,
+              "p95_distance_cap": 0.15290012955665588,
+              "source_coverage_004cap": 0.39622641509433965,
+              "candidate_coverage_004cap": 0.2883116883116883,
+              "score": 0.08483219295740127
+            },
+            {
+              "font": "gothice",
+              "mean_distance_cap": 0.06516283750534058,
+              "p95_distance_cap": 0.15901023149490356,
+              "source_coverage_004cap": 0.5773584905660377,
+              "candidate_coverage_004cap": 0.2847222222222222,
+              "score": 0.08901437222957612
+            }
+          ]
+        },
+        {
+          "char": "C",
+          "scores": [
+            {
+              "font": "user_sheet",
+              "mean_distance_cap": 0.00813860259950161,
+              "p95_distance_cap": 0.02083333395421505,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.011263602692633868
+            },
+            {
+              "font": "txt",
+              "mean_distance_cap": 0.010927604511380196,
+              "p95_distance_cap": 0.04394514113664627,
+              "source_coverage_004cap": 0.9301310043668122,
+              "candidate_coverage_004cap": 0.9294605809128631,
+              "score": 0.017519375681877135
+            },
+            {
+              "font": "romans",
+              "mean_distance_cap": 0.01670233905315399,
+              "p95_distance_cap": 0.045389462262392044,
+              "source_coverage_004cap": 0.8733624454148472,
+              "candidate_coverage_004cap": 0.8722466960352423,
+              "score": 0.0235107583925128
+            },
+            {
+              "font": "simplex",
+              "mean_distance_cap": 0.01670233905315399,
+              "p95_distance_cap": 0.045389462262392044,
+              "source_coverage_004cap": 0.8733624454148472,
+              "candidate_coverage_004cap": 0.8722466960352423,
+              "score": 0.0235107583925128
+            },
+            {
+              "font": "romand",
+              "mean_distance_cap": 0.027305295690894127,
+              "p95_distance_cap": 0.06748654693365097,
+              "source_coverage_004cap": 0.8733624454148472,
+              "candidate_coverage_004cap": 0.5363636363636364,
+              "score": 0.037428277730941775
+            },
+            {
+              "font": "romanc",
+              "mean_distance_cap": 0.029795154929161072,
+              "p95_distance_cap": 0.07485224306583405,
+              "source_coverage_004cap": 0.8558951965065502,
+              "candidate_coverage_004cap": 0.574468085106383,
+              "score": 0.04102299138903618
+            },
+            {
+              "font": "isocp",
+              "mean_distance_cap": 0.027537856251001358,
+              "p95_distance_cap": 0.1520213782787323,
+              "source_coverage_004cap": 0.8165938864628821,
+              "candidate_coverage_004cap": 0.8382978723404255,
+              "score": 0.0503410629928112
+            },
+            {
+              "font": "isocp2",
+              "mean_distance_cap": 0.027537856251001358,
+              "p95_distance_cap": 0.1520213782787323,
+              "source_coverage_004cap": 0.8165938864628821,
+              "candidate_coverage_004cap": 0.8382978723404255,
+              "score": 0.0503410629928112
+            },
+            {
+              "font": "isocp3",
+              "mean_distance_cap": 0.027537856251001358,
+              "p95_distance_cap": 0.1520213782787323,
+              "source_coverage_004cap": 0.8165938864628821,
+              "candidate_coverage_004cap": 0.8382978723404255,
+              "score": 0.0503410629928112
+            },
+            {
+              "font": "gothice",
+              "mean_distance_cap": 0.08511880040168762,
+              "p95_distance_cap": 0.2596888840198517,
+              "source_coverage_004cap": 0.6768558951965066,
+              "candidate_coverage_004cap": 0.2234185733512786,
+              "score": 0.12407213300466538
+            }
+          ]
+        },
+        {
+          "char": "E",
+          "scores": [
+            {
+              "font": "isocp",
+              "mean_distance_cap": 0.004584979265928268,
+              "p95_distance_cap": 0.02083333395421505,
+              "source_coverage_004cap": 0.9855907780979827,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.007709979359060526
+            },
+            {
+              "font": "isocp2",
+              "mean_distance_cap": 0.004584979265928268,
+              "p95_distance_cap": 0.02083333395421505,
+              "source_coverage_004cap": 0.9855907780979827,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.007709979359060526
+            },
+            {
+              "font": "isocp3",
+              "mean_distance_cap": 0.004584979265928268,
+              "p95_distance_cap": 0.02083333395421505,
+              "source_coverage_004cap": 0.9855907780979827,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.007709979359060526
+            },
+            {
+              "font": "romans",
+              "mean_distance_cap": 0.004847994074225426,
+              "p95_distance_cap": 0.020231327041983604,
+              "source_coverage_004cap": 0.9510086455331412,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.007882693130522967
+            },
+            {
+              "font": "simplex",
+              "mean_distance_cap": 0.004847994074225426,
+              "p95_distance_cap": 0.020231327041983604,
+              "source_coverage_004cap": 0.9510086455331412,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.007882693130522967
+            },
+            {
+              "font": "user_sheet",
+              "mean_distance_cap": 0.007925797253847122,
+              "p95_distance_cap": 0.015625,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.010269547253847123
+            },
+            {
+              "font": "txt",
+              "mean_distance_cap": 0.01125123631209135,
+              "p95_distance_cap": 0.08359353989362717,
+              "source_coverage_004cap": 0.9193083573487032,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.023790267296135426
+            },
+            {
+              "font": "romand",
+              "mean_distance_cap": 0.018906855955719948,
+              "p95_distance_cap": 0.06660228967666626,
+              "source_coverage_004cap": 0.9423631123919308,
+              "candidate_coverage_004cap": 0.534621578099839,
+              "score": 0.028897199407219888
+            },
+            {
+              "font": "gothice",
+              "mean_distance_cap": 0.06327764689922333,
+              "p95_distance_cap": 0.1768740713596344,
+              "source_coverage_004cap": 0.5619596541786743,
+              "candidate_coverage_004cap": 0.23027166882276842,
+              "score": 0.08980875760316849
+            },
+            {
+              "font": "romanc",
+              "mean_distance_cap": 0.06219109892845154,
+              "p95_distance_cap": 0.1979166716337204,
+              "source_coverage_004cap": 0.6628242074927954,
+              "candidate_coverage_004cap": 0.4722222222222222,
+              "score": 0.0918785996735096
+            }
+          ]
+        },
+        {
+          "char": "I",
+          "scores": [
+            {
+              "font": "txt",
+              "mean_distance_cap": 0.0,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0
+            },
+            {
+              "font": "user_sheet",
+              "mean_distance_cap": 0.006160951219499111,
+              "p95_distance_cap": 0.015625,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.008504701219499112
+            },
+            {
+              "font": "romanc",
+              "mean_distance_cap": 0.014296285808086395,
+              "p95_distance_cap": 0.02083333395421505,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.017421285901218653
+            },
+            {
+              "font": "isocp",
+              "mean_distance_cap": 0.014297385700047016,
+              "p95_distance_cap": 0.06458333134651184,
+              "source_coverage_004cap": 0.7124183006535948,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.023984885402023794
+            },
+            {
+              "font": "isocp2",
+              "mean_distance_cap": 0.014297385700047016,
+              "p95_distance_cap": 0.06458333134651184,
+              "source_coverage_004cap": 0.7124183006535948,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.023984885402023794
+            },
+            {
+              "font": "isocp3",
+              "mean_distance_cap": 0.014297385700047016,
+              "p95_distance_cap": 0.06458333134651184,
+              "source_coverage_004cap": 0.7124183006535948,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.023984885402023794
+            },
+            {
+              "font": "romans",
+              "mean_distance_cap": 0.014297385700047016,
+              "p95_distance_cap": 0.06458333134651184,
+              "source_coverage_004cap": 0.7124183006535948,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.023984885402023794
+            },
+            {
+              "font": "simplex",
+              "mean_distance_cap": 0.014297385700047016,
+              "p95_distance_cap": 0.06458333134651184,
+              "source_coverage_004cap": 0.7124183006535948,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.023984885402023794
+            },
+            {
+              "font": "gothice",
+              "mean_distance_cap": 0.04289189726114273,
+              "p95_distance_cap": 0.1008124127984047,
+              "source_coverage_004cap": 0.8235294117647058,
+              "candidate_coverage_004cap": 0.33874239350912777,
+              "score": 0.058013759180903436
+            },
+            {
+              "font": "romand",
+              "mean_distance_cap": 0.08729860186576843,
+              "p95_distance_cap": 0.1458333283662796,
+              "source_coverage_004cap": 0.41830065359477125,
+              "candidate_coverage_004cap": 0.28225806451612906,
+              "score": 0.10917360112071037
+            }
+          ]
+        },
+        {
+          "char": "V",
+          "scores": [
+            {
+              "font": "txt",
+              "mean_distance_cap": 0.0,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0
+            },
+            {
+              "font": "isocp",
+              "mean_distance_cap": 0.0,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0
+            },
+            {
+              "font": "isocp2",
+              "mean_distance_cap": 0.0,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0
+            },
+            {
+              "font": "isocp3",
+              "mean_distance_cap": 0.0,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0
+            },
+            {
+              "font": "romans",
+              "mean_distance_cap": 0.0,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0
+            },
+            {
+              "font": "simplex",
+              "mean_distance_cap": 0.0,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0
+            },
+            {
+              "font": "user_sheet",
+              "mean_distance_cap": 0.00481783039867878,
+              "p95_distance_cap": 0.010416666977107525,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.006380330445244909
+            },
+            {
+              "font": "romand",
+              "mean_distance_cap": 0.01371915452182293,
+              "p95_distance_cap": 0.03294039145112038,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.5461956521739131,
+              "score": 0.018660213239490984
+            },
+            {
+              "font": "romanc",
+              "mean_distance_cap": 0.06560559570789337,
+              "p95_distance_cap": 0.16314969956874847,
+              "source_coverage_004cap": 0.42487046632124353,
+              "candidate_coverage_004cap": 0.2543859649122807,
+              "score": 0.09007805064320565
+            },
+            {
+              "font": "gothice",
+              "mean_distance_cap": 0.08061982691287994,
+              "p95_distance_cap": 0.19976109266281128,
+              "source_coverage_004cap": 0.6010362694300518,
+              "candidate_coverage_004cap": 0.19655172413793104,
+              "score": 0.11058399081230164
+            }
+          ]
+        },
+        {
+          "char": "W",
+          "scores": [
+            {
+              "font": "user_sheet",
+              "mean_distance_cap": 0.007298238109797239,
+              "p95_distance_cap": 0.02083333395421505,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.9917864476386037,
+              "score": 0.010423238202929497
+            },
+            {
+              "font": "romand",
+              "mean_distance_cap": 0.01773778721690178,
+              "p95_distance_cap": 0.03802376613020897,
+              "source_coverage_004cap": 0.9973753280839895,
+              "candidate_coverage_004cap": 0.8488372093023255,
+              "score": 0.023441352136433124
+            },
+            {
+              "font": "romans",
+              "mean_distance_cap": 0.027082156389951706,
+              "p95_distance_cap": 0.0520833320915699,
+              "source_coverage_004cap": 0.7244094488188977,
+              "candidate_coverage_004cap": 0.7303664921465969,
+              "score": 0.03489465620368719
+            },
+            {
+              "font": "simplex",
+              "mean_distance_cap": 0.027082156389951706,
+              "p95_distance_cap": 0.0520833320915699,
+              "source_coverage_004cap": 0.7244094488188977,
+              "candidate_coverage_004cap": 0.7303664921465969,
+              "score": 0.03489465620368719
+            },
+            {
+              "font": "isocp",
+              "mean_distance_cap": 0.03895340487360954,
+              "p95_distance_cap": 0.13938918709754944,
+              "source_coverage_004cap": 0.6325459317585301,
+              "candidate_coverage_004cap": 0.7232704402515723,
+              "score": 0.05986178293824196
+            },
+            {
+              "font": "isocp2",
+              "mean_distance_cap": 0.03895340487360954,
+              "p95_distance_cap": 0.13938918709754944,
+              "source_coverage_004cap": 0.6325459317585301,
+              "candidate_coverage_004cap": 0.7232704402515723,
+              "score": 0.05986178293824196
+            },
+            {
+              "font": "isocp3",
+              "mean_distance_cap": 0.03895340487360954,
+              "p95_distance_cap": 0.13938918709754944,
+              "source_coverage_004cap": 0.6325459317585301,
+              "candidate_coverage_004cap": 0.7232704402515723,
+              "score": 0.05986178293824196
+            },
+            {
+              "font": "gothice",
+              "mean_distance_cap": 0.05147699639201164,
+              "p95_distance_cap": 0.13184048235416412,
+              "source_coverage_004cap": 0.7532808398950132,
+              "candidate_coverage_004cap": 0.3261410788381743,
+              "score": 0.07125306874513626
+            },
+            {
+              "font": "romanc",
+              "mean_distance_cap": 0.051027677953243256,
+              "p95_distance_cap": 0.14629170298576355,
+              "source_coverage_004cap": 0.6272965879265092,
+              "candidate_coverage_004cap": 0.41737649063032367,
+              "score": 0.07297143340110779
+            },
+            {
+              "font": "txt",
+              "mean_distance_cap": 0.05794656649231911,
+              "p95_distance_cap": 0.23678021132946014,
+              "source_coverage_004cap": 0.5643044619422573,
+              "candidate_coverage_004cap": 0.7167832167832168,
+              "score": 0.09346359819173813
+            }
+          ]
+        }
+      ],
+      "ranking": [
+        {
+          "font": "user_sheet",
+          "median": 0.009398284368216991
+        },
+        {
+          "font": "isocp",
+          "median": 0.020034587616100906
+        },
+        {
+          "font": "isocp2",
+          "median": 0.020034587616100906
+        },
+        {
+          "font": "isocp3",
+          "median": 0.020034587616100906
+        },
+        {
+          "font": "txt",
+          "median": 0.02065482148900628
+        },
+        {
+          "font": "romans",
+          "median": 0.023747821897268297
+        },
+        {
+          "font": "simplex",
+          "median": 0.023747821897268297
+        },
+        {
+          "font": "romand",
+          "median": 0.030595800559967756
+        },
+        {
+          "font": "romanc",
+          "median": 0.07890181317925453
+        },
+        {
+          "font": "gothice",
+          "median": 0.08941156491637231
+        }
+      ]
+    },
+    {
+      "style_id": "pdf_heading_plain_i",
+      "records": [
+        {
+          "char": "V",
+          "scores": [
+            {
+              "font": "user_sheet",
+              "mean_distance_cap": 0.006603507790714502,
+              "p95_distance_cap": 0.01685452088713646,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.009131685923784971
+            },
+            {
+              "font": "txt",
+              "mean_distance_cap": 0.009594217874109745,
+              "p95_distance_cap": 0.02083333395421505,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.012719217967242003
+            },
+            {
+              "font": "isocp",
+              "mean_distance_cap": 0.009594217874109745,
+              "p95_distance_cap": 0.02083333395421505,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.012719217967242003
+            },
+            {
+              "font": "isocp2",
+              "mean_distance_cap": 0.009594217874109745,
+              "p95_distance_cap": 0.02083333395421505,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.012719217967242003
+            },
+            {
+              "font": "isocp3",
+              "mean_distance_cap": 0.009594217874109745,
+              "p95_distance_cap": 0.02083333395421505,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.012719217967242003
+            },
+            {
+              "font": "romans",
+              "mean_distance_cap": 0.009594217874109745,
+              "p95_distance_cap": 0.02083333395421505,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.012719217967242003
+            },
+            {
+              "font": "simplex",
+              "mean_distance_cap": 0.009594217874109745,
+              "p95_distance_cap": 0.02083333395421505,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.012719217967242003
+            },
+            {
+              "font": "romand",
+              "mean_distance_cap": 0.01769040897488594,
+              "p95_distance_cap": 0.03846440091729164,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.6859504132231405,
+              "score": 0.023460069112479685
+            },
+            {
+              "font": "romanc",
+              "mean_distance_cap": 0.04808693379163742,
+              "p95_distance_cap": 0.11228635907173157,
+              "source_coverage_004cap": 0.5104166666666666,
+              "candidate_coverage_004cap": 0.3447204968944099,
+              "score": 0.06492988765239716
+            },
+            {
+              "font": "gothice",
+              "mean_distance_cap": 0.06083693727850914,
+              "p95_distance_cap": 0.15291602909564972,
+              "source_coverage_004cap": 0.6666666666666666,
+              "candidate_coverage_004cap": 0.25359477124183005,
+              "score": 0.0837743416428566
+            }
+          ]
+        },
+        {
+          "char": "I",
+          "scores": [
+            {
+              "font": "isocp",
+              "mean_distance_cap": 0.0,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0
+            },
+            {
+              "font": "isocp2",
+              "mean_distance_cap": 0.0,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0
+            },
+            {
+              "font": "isocp3",
+              "mean_distance_cap": 0.0,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0
+            },
+            {
+              "font": "romans",
+              "mean_distance_cap": 0.0,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0
+            },
+            {
+              "font": "simplex",
+              "mean_distance_cap": 0.0,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0
+            },
+            {
+              "font": "txt",
+              "mean_distance_cap": 0.0036157025024294853,
+              "p95_distance_cap": 0.02604166604578495,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.9008264462809917,
+              "score": 0.007521952409297228
+            },
+            {
+              "font": "user_sheet",
+              "mean_distance_cap": 0.007849438115954399,
+              "p95_distance_cap": 0.03125,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.8297872340425532,
+              "score": 0.0125369381159544
+            },
+            {
+              "font": "romanc",
+              "mean_distance_cap": 0.011707811616361141,
+              "p95_distance_cap": 0.0260416679084301,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.9444444444444444,
+              "score": 0.015614061802625655
+            },
+            {
+              "font": "gothice",
+              "mean_distance_cap": 0.018917690962553024,
+              "p95_distance_cap": 0.046875,
+              "source_coverage_004cap": 0.9278350515463918,
+              "candidate_coverage_004cap": 0.598014888337469,
+              "score": 0.025948940962553024
+            },
+            {
+              "font": "romand",
+              "mean_distance_cap": 0.0585087314248085,
+              "p95_distance_cap": 0.0625,
+              "source_coverage_004cap": 0.08247422680412371,
+              "candidate_coverage_004cap": 0.06481481481481481,
+              "score": 0.0678837314248085
+            }
+          ]
+        },
+        {
+          "char": "E",
+          "scores": [
+            {
+              "font": "romans",
+              "mean_distance_cap": 2.0265888451831415e-05,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 2.0265888451831415e-05
+            },
+            {
+              "font": "simplex",
+              "mean_distance_cap": 2.0265888451831415e-05,
+              "p95_distance_cap": 0.0,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 2.0265888451831415e-05
+            },
+            {
+              "font": "txt",
+              "mean_distance_cap": 0.003017494920641184,
+              "p95_distance_cap": 0.02083333395421505,
+              "source_coverage_004cap": 0.98828125,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.006142495013773441
+            },
+            {
+              "font": "isocp",
+              "mean_distance_cap": 0.005385084543377161,
+              "p95_distance_cap": 0.03125,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.9735849056603774,
+              "score": 0.010072584543377162
+            },
+            {
+              "font": "isocp2",
+              "mean_distance_cap": 0.005385084543377161,
+              "p95_distance_cap": 0.03125,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.9735849056603774,
+              "score": 0.010072584543377162
+            },
+            {
+              "font": "isocp3",
+              "mean_distance_cap": 0.005385084543377161,
+              "p95_distance_cap": 0.03125,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.9735849056603774,
+              "score": 0.010072584543377162
+            },
+            {
+              "font": "user_sheet",
+              "mean_distance_cap": 0.010310875251889229,
+              "p95_distance_cap": 0.0260416679084301,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.9175475687103594,
+              "score": 0.014217125438153743
+            },
+            {
+              "font": "romand",
+              "mean_distance_cap": 0.01202293112874031,
+              "p95_distance_cap": 0.02604166604578495,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.5417515274949084,
+              "score": 0.015929181035608052
+            },
+            {
+              "font": "romanc",
+              "mean_distance_cap": 0.060306087136268616,
+              "p95_distance_cap": 0.1614583432674408,
+              "source_coverage_004cap": 0.62109375,
+              "candidate_coverage_004cap": 0.4046610169491525,
+              "score": 0.08452483862638474
+            },
+            {
+              "font": "gothice",
+              "mean_distance_cap": 0.063051737844944,
+              "p95_distance_cap": 0.14758187532424927,
+              "source_coverage_004cap": 0.56640625,
+              "candidate_coverage_004cap": 0.21303656597774245,
+              "score": 0.08518901914358139
+            }
+          ]
+        },
+        {
+          "char": "W",
+          "scores": [
+            {
+              "font": "romans",
+              "mean_distance_cap": 0.006419725716114044,
+              "p95_distance_cap": 0.010416666977107525,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.007982225762680173
+            },
+            {
+              "font": "simplex",
+              "mean_distance_cap": 0.006419725716114044,
+              "p95_distance_cap": 0.010416666977107525,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.007982225762680173
+            },
+            {
+              "font": "user_sheet",
+              "mean_distance_cap": 0.01079764124006033,
+              "p95_distance_cap": 0.02688686177134514,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.9763779527559056,
+              "score": 0.0148306705057621
+            },
+            {
+              "font": "romand",
+              "mean_distance_cap": 0.013415675610303879,
+              "p95_distance_cap": 0.0288402047008276,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 0.8250728862973761,
+              "score": 0.01774170631542802
+            },
+            {
+              "font": "isocp",
+              "mean_distance_cap": 0.0287485308945179,
+              "p95_distance_cap": 0.14173543453216553,
+              "source_coverage_004cap": 0.7112860892388452,
+              "candidate_coverage_004cap": 0.839622641509434,
+              "score": 0.05000884607434272
+            },
+            {
+              "font": "isocp2",
+              "mean_distance_cap": 0.0287485308945179,
+              "p95_distance_cap": 0.14173543453216553,
+              "source_coverage_004cap": 0.7112860892388452,
+              "candidate_coverage_004cap": 0.839622641509434,
+              "score": 0.05000884607434272
+            },
+            {
+              "font": "isocp3",
+              "mean_distance_cap": 0.0287485308945179,
+              "p95_distance_cap": 0.14173543453216553,
+              "source_coverage_004cap": 0.7112860892388452,
+              "candidate_coverage_004cap": 0.839622641509434,
+              "score": 0.05000884607434272
+            },
+            {
+              "font": "gothice",
+              "mean_distance_cap": 0.04846946895122528,
+              "p95_distance_cap": 0.11728954315185547,
+              "source_coverage_004cap": 0.7139107611548556,
+              "candidate_coverage_004cap": 0.32504288164665524,
+              "score": 0.0660629004240036
+            },
+            {
+              "font": "romanc",
+              "mean_distance_cap": 0.05886908620595932,
+              "p95_distance_cap": 0.13814674317836761,
+              "source_coverage_004cap": 0.47244094488188976,
+              "candidate_coverage_004cap": 0.4113597246127367,
+              "score": 0.07959109768271447
+            },
+            {
+              "font": "txt",
+              "mean_distance_cap": 0.07167142629623413,
+              "p95_distance_cap": 0.24522726237773895,
+              "source_coverage_004cap": 0.38320209973753283,
+              "candidate_coverage_004cap": 0.5034965034965035,
+              "score": 0.10845551565289496
+            }
+          ]
+        },
+        {
+          "char": "J",
+          "scores": [
+            {
+              "font": "romans",
+              "mean_distance_cap": 0.00146812095772475,
+              "p95_distance_cap": 0.010416666977107525,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0030306210042908787
+            },
+            {
+              "font": "simplex",
+              "mean_distance_cap": 0.00146812095772475,
+              "p95_distance_cap": 0.010416666977107525,
+              "source_coverage_004cap": 1.0,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.0030306210042908787
+            },
+            {
+              "font": "user_sheet",
+              "mean_distance_cap": 0.010516678914427757,
+              "p95_distance_cap": 0.03709951043128967,
+              "source_coverage_004cap": 0.9328859060402684,
+              "candidate_coverage_004cap": 0.9727047146401985,
+              "score": 0.016081605479121207
+            },
+            {
+              "font": "txt",
+              "mean_distance_cap": 0.009620952419936657,
+              "p95_distance_cap": 0.05431472510099411,
+              "source_coverage_004cap": 0.9194630872483222,
+              "candidate_coverage_004cap": 1.0,
+              "score": 0.01776816118508577
+            },
+            {
+              "font": "romand",
+              "mean_distance_cap": 0.013953687623143196,
+              "p95_distance_cap": 0.03125,
+              "source_coverage_004cap": 0.9664429530201343,
+              "candidate_coverage_004cap": 0.5899280575539568,
+              "score": 0.018641187623143197
+            },
+            {
+              "font": "isocp",
+              "mean_distance_cap": 0.024479631334543228,
+              "p95_distance_cap": 0.15685614943504333,
+              "source_coverage_004cap": 0.7919463087248322,
+              "candidate_coverage_004cap": 0.9083969465648855,
+              "score": 0.04800805374979973
+            },
+            {
+              "font": "isocp2",
+              "mean_distance_cap": 0.024479631334543228,
+              "p95_distance_cap": 0.15685614943504333,
+              "source_coverage_004cap": 0.7919463087248322,
+              "candidate_coverage_004cap": 0.9083969465648855,
+              "score": 0.04800805374979973
+            },
+            {
+              "font": "isocp3",
+              "mean_distance_cap": 0.024479631334543228,
+              "p95_distance_cap": 0.15685614943504333,
+              "source_coverage_004cap": 0.7919463087248322,
+              "candidate_coverage_004cap": 0.9083969465648855,
+              "score": 0.04800805374979973
+            },
+            {
+              "font": "gothice",
+              "mean_distance_cap": 0.08145195990800858,
+              "p95_distance_cap": 0.17834708094596863,
+              "source_coverage_004cap": 0.9261744966442953,
+              "candidate_coverage_004cap": 0.2759259259259259,
+              "score": 0.10820402204990387
+            },
+            {
+              "font": "romanc",
+              "mean_distance_cap": 0.10291731357574463,
+              "p95_distance_cap": 0.1575520932674408,
+              "source_coverage_004cap": 0.348993288590604,
+              "candidate_coverage_004cap": 0.20652173913043478,
+              "score": 0.12655012756586076
+            }
+          ]
+        }
+      ],
+      "ranking": [
+        {
+          "font": "romans",
+          "median": 0.0030306210042908787
+        },
+        {
+          "font": "simplex",
+          "median": 0.0030306210042908787
+        },
+        {
+          "font": "txt",
+          "median": 0.012719217967242003
+        },
+        {
+          "font": "isocp",
+          "median": 0.012719217967242003
+        },
+        {
+          "font": "isocp2",
+          "median": 0.012719217967242003
+        },
+        {
+          "font": "isocp3",
+          "median": 0.012719217967242003
+        },
+        {
+          "font": "user_sheet",
+          "median": 0.014217125438153743
+        },
+        {
+          "font": "romand",
+          "median": 0.018641187623143197
+        },
+        {
+          "font": "romanc",
+          "median": 0.07959109768271447
+        },
+        {
+          "font": "gothice",
+          "median": 0.0837743416428566
+        }
+      ]
+    }
+  ]
+}

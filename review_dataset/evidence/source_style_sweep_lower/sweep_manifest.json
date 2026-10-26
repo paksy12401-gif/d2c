@@ -1,0 +1,201 @@
+{
+  "source_pdf": "C:\\Users\\Win11Pro\\Documents\\ChatGPT\\\uae30\uc5c5\ud504\ub85c\uc81d\ud2b8 cad\\output\\measured_recovery_20261026\\vector\\input.pdf",
+  "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+  "tiles": [
+    {
+      "id": "L00",
+      "file": "source_L00.png",
+      "bbox_pdf": [
+        0.0,
+        793.0,
+        389.1266682942708,
+        1205.2000122070312
+      ],
+      "scale": 4,
+      "header_pixels": 30,
+      "image_size": [
+        1557,
+        1679
+      ]
+    },
+    {
+      "id": "L01",
+      "file": "source_L01.png",
+      "bbox_pdf": [
+        359.1266682942708,
+        793.0,
+        763.2533365885416,
+        1205.2000122070312
+      ],
+      "scale": 4,
+      "header_pixels": 30,
+      "image_size": [
+        1618,
+        1679
+      ]
+    },
+    {
+      "id": "L02",
+      "file": "source_L02.png",
+      "bbox_pdf": [
+        733.2533365885416,
+        793.0,
+        1137.3800048828125,
+        1205.2000122070312
+      ],
+      "scale": 4,
+      "header_pixels": 30,
+      "image_size": [
+        1617,
+        1679
+      ]
+    },
+    {
+      "id": "L03",
+      "file": "source_L03.png",
+      "bbox_pdf": [
+        1107.3800048828125,
+        793.0,
+        1511.5066731770833,
+        1205.2000122070312
+      ],
+      "scale": 4,
+      "header_pixels": 30,
+      "image_size": [
+        1618,
+        1679
+      ]
+    },
+    {
+      "id": "L04",
+      "file": "source_L04.png",
+      "bbox_pdf": [
+        1481.5066731770833,
+        793.0,
+        1885.6333414713542,
+        1205.2000122070312
+      ],
+      "scale": 4,
+      "header_pixels": 30,
+      "image_size": [
+        1617,
+        1679
+      ]
+    },
+    {
+      "id": "L05",
+      "file": "source_L05.png",
+      "bbox_pdf": [
+        1855.6333414713542,
+        793.0,
+        2244.760009765625,
+        1205.2000122070312
+      ],
+      "scale": 4,
+      "header_pixels": 30,
+      "image_size": [
+        1558,
+        1679
+      ]
+    },
+    {
+      "id": "L10",
+      "file": "source_L10.png",
+      "bbox_pdf": [
+        0.0,
+        1175.2000122070312,
+        389.1266682942708,
+        1587.4000244140625
+      ],
+      "scale": 4,
+      "header_pixels": 30,
+      "image_size": [
+        1557,
+        1680
+      ]
+    },
+    {
+      "id": "L11",
+      "file": "source_L11.png",
+      "bbox_pdf": [
+        359.1266682942708,
+        1175.2000122070312,
+        763.2533365885416,
+        1587.4000244140625
+      ],
+      "scale": 4,
+      "header_pixels": 30,
+      "image_size": [
+        1618,
+        1680
+      ]
+    },
+    {
+      "id": "L12",
+      "file": "source_L12.png",
+      "bbox_pdf": [
+        733.2533365885416,
+        1175.2000122070312,
+        1137.3800048828125,
+        1587.4000244140625
+      ],
+      "scale": 4,
+      "header_pixels": 30,
+      "image_size": [
+        1617,
+        1680
+      ]
+    },
+    {
+      "id": "L13",
+      "file": "source_L13.png",
+      "bbox_pdf": [
+        1107.3800048828125,
+        1175.2000122070312,
+        1511.5066731770833,
+        1587.4000244140625
+      ],
+      "scale": 4,
+      "header_pixels": 30,
+      "image_size": [
+        1618,
+        1680
+      ]
+    },
+    {
+      "id": "L14",
+      "file": "source_L14.png",
+      "bbox_pdf": [
+        1481.5066731770833,
+        1175.2000122070312,
+        1885.6333414713542,
+        1587.4000244140625
+      ],
+      "scale": 4,
+      "header_pixels": 30,
+      "image_size": [
+        1617,
+        1680
+      ]
+    },
+    {
+      "id": "L15",
+      "file": "source_L15.png",
+      "bbox_pdf": [
+        1855.6333414713542,
+        1175.2000122070312,
+        2244.760009765625,
+        1587.4000244140625
+      ],
+      "scale": 4,
+      "header_pixels": 30,
+      "image_size": [
+        1558,
+        1680
+      ]
+    }
+  ],
+  "native_pdf_font_entries": 0,
+  "native_text_spans": 0,
+  "scope": "lower half full geographic visual font audit, no restoration"
+}

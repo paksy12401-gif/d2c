@@ -1,0 +1,244 @@
+{
+  "font_id": "pdf_upright_serif",
+  "folder": "04_observed_additions/pdf_upright_serif",
+  "display_name": "원본: 직립 세리프 LEVER",
+  "provenance_status": "observed_pdf_glyphs_partial_not_complete_font",
+  "source": "evidence/missing_font_matches/observed_additions/masters_manifest.json",
+  "review_note": "원본 경로에서 분리한 실제 글자. 빈칸은 미확보이며, 다른 글꼴로 채워 넣지 않음.",
+  "glyphs": [
+    {
+      "char": "L",
+      "class_id": 11,
+      "image": "04_observed_additions/pdf_upright_serif/images/U004C_L.png",
+      "label": "04_observed_additions/pdf_upright_serif/labels/U004C_L.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        216,
+        159,
+        424,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "7b6c23ff8e539945dc5165afe767002688011ec804247a5d788fb42a78e39b63",
+      "id": "pdf_upright_serif_U004C",
+      "source_path_ids": [
+        69473
+      ],
+      "source_bbox": [
+        822.760009765625,
+        15.1600341796875,
+        826.0900268554688,
+        20.4100341796875
+      ],
+      "source_cap_height": 5.25,
+      "source_baseline_y": 20.4100341796875,
+      "source_coordinate_system": "pdf_y_down",
+      "render_mode": "filled",
+      "source_word": "LEVER",
+      "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_font_identity_verified": false,
+      "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+      "original_path_shared_with_other_letters": true,
+      "source_stroke_width": 0,
+      "stroke_ratio": 0,
+      "source_vector": "evidence/missing_font_matches/observed_additions/pdf_upright_serif/U004C.npy"
+    },
+    {
+      "char": "E",
+      "class_id": 4,
+      "image": "04_observed_additions/pdf_upright_serif/images/U0045_E.png",
+      "label": "04_observed_additions/pdf_upright_serif/labels/U0045_E.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        216,
+        159,
+        424,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "860675a2d0bef771be640bd0ef1841a73f5302502dac6519a29443d1e39ac58d",
+      "id": "pdf_upright_serif_U0045",
+      "source_path_ids": [
+        69473
+      ],
+      "source_bbox": [
+        826.3699951171875,
+        15.1600341796875,
+        829.7000122070312,
+        20.4100341796875
+      ],
+      "source_cap_height": 5.25,
+      "source_baseline_y": 20.4100341796875,
+      "source_coordinate_system": "pdf_y_down",
+      "render_mode": "filled",
+      "source_word": "LEVER",
+      "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_font_identity_verified": false,
+      "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+      "original_path_shared_with_other_letters": true,
+      "source_stroke_width": 0,
+      "stroke_ratio": 0,
+      "source_vector": "evidence/missing_font_matches/observed_additions/pdf_upright_serif/U0045.npy"
+    },
+    {
+      "char": "V",
+      "class_id": 21,
+      "image": "04_observed_additions/pdf_upright_serif/images/U0056_V.png",
+      "label": "04_observed_additions/pdf_upright_serif/labels/U0056_V.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        159,
+        433,
+        480
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "cadf2a99899c348d75c4b3711776f6a6a2a61d6a3d8f44fd25d4cfe28798cbd0",
+      "id": "pdf_upright_serif_U0056",
+      "source_path_ids": [
+        69473
+      ],
+      "source_bbox": [
+        829.9099731445312,
+        15.1600341796875,
+        833.530029296875,
+        20.4100341796875
+      ],
+      "source_cap_height": 5.25,
+      "source_baseline_y": 20.4100341796875,
+      "source_coordinate_system": "pdf_y_down",
+      "render_mode": "filled",
+      "source_word": "LEVER",
+      "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_font_identity_verified": false,
+      "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+      "original_path_shared_with_other_letters": true,
+      "source_stroke_width": 0,
+      "stroke_ratio": 0,
+      "source_vector": "evidence/missing_font_matches/observed_additions/pdf_upright_serif/U0056.npy"
+    },
+    {
+      "char": "R",
+      "class_id": 17,
+      "image": "04_observed_additions/pdf_upright_serif/images/U0052_R.png",
+      "label": "04_observed_additions/pdf_upright_serif/labels/U0052_R.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        159,
+        433,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "b09acacd44168a0a7a4a2dc0bda4c12cfcba544a432bc100a7bc348992587bae",
+      "id": "pdf_upright_serif_U0052",
+      "source_path_ids": [
+        69473
+      ],
+      "source_bbox": [
+        837.3499755859375,
+        15.1600341796875,
+        840.969970703125,
+        20.4100341796875
+      ],
+      "source_cap_height": 5.25,
+      "source_baseline_y": 20.4100341796875,
+      "source_coordinate_system": "pdf_y_down",
+      "render_mode": "filled",
+      "source_word": "LEVER",
+      "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_font_identity_verified": false,
+      "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+      "original_path_shared_with_other_letters": true,
+      "source_stroke_width": 0,
+      "stroke_ratio": 0,
+      "source_vector": "evidence/missing_font_matches/observed_additions/pdf_upright_serif/U0052.npy"
+    }
+  ],
+  "missing_chars": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "S",
+    "T",
+    "U",
+    "W",
+    "X",
+    "Y",
+    "Z",
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z",
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "complete": false,
+  "image_size": [
+    640,
+    640
+  ],
+  "contact_sheet": "04_observed_additions/pdf_upright_serif/contact_sheet.png"
+}

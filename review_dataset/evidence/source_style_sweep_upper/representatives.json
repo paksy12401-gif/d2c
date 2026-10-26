@@ -1,0 +1,261 @@
+{
+  "source": "C:\\Users\\Win11Pro\\Desktop\\2. 도면 비교 설계적 변경 추출 샘플\\전도면 예시.pdf",
+  "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+  "representatives": [
+    {
+      "id": "U01",
+      "visible_text_candidate": "LEVER",
+      "bbox_pdf": [
+        818,
+        11,
+        846,
+        23
+      ],
+      "image": "U01.png",
+      "shape_group_candidate": "upright_serif",
+      "interpretation": "Upright serif strokes, strong thick/thin contrast; different from the slanted wire-label sample.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "091f981a6f1bedeb2ea0eb656a4b5dbdef37eb133ea5bc0d1a83287986d8afe2"
+    },
+    {
+      "id": "U02",
+      "visible_text_candidate": "COVER",
+      "bbox_pdf": [
+        619,
+        596,
+        649,
+        609
+      ],
+      "image": "U02.png",
+      "shape_group_candidate": "upright_serif",
+      "interpretation": "Second independent location of the upright serif label style.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "3a495cd04742c9c713f9d128da99536b220258a0c53dcbef838317f0030d5254"
+    },
+    {
+      "id": "U03",
+      "visible_text_candidate": "VIEW \"H\"",
+      "bbox_pdf": [
+        913,
+        28,
+        977,
+        45
+      ],
+      "image": "U03.png",
+      "shape_group_candidate": "upright_sans",
+      "interpretation": "Smooth upright sans-serif view title, visibly heavier than the thin CAD stroke labels.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "811d51f874e5083e7ca5fb3ceb3e1f413ad82f192a9dfc1d90798c10a998785f"
+    },
+    {
+      "id": "U04",
+      "visible_text_candidate": "DETAIL C",
+      "bbox_pdf": [
+        486,
+        574,
+        528,
+        587
+      ],
+      "image": "U04.png",
+      "shape_group_candidate": "upright_sans",
+      "interpretation": "Upright sans-serif detail caption; may be the same family as VIEW at another size.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "b31e454eca4c0dfeafd06afe86920a2147ca037c5f28726931e2a2bff488cd54"
+    },
+    {
+      "id": "U05",
+      "visible_text_candidate": "FRNT_MAIN / CS PAD",
+      "bbox_pdf": [
+        414,
+        205,
+        487,
+        237
+      ],
+      "image": "U05.png",
+      "shape_group_candidate": "upright_sans_mixed_korean",
+      "interpretation": "Latin text in mixed Korean instructions; compare with view titles rather than classify only the Korean text.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "636b4968ea6950388d53b1be486b104e7a5b88eefaf6e4fbbb728125fc21bcfa"
+    },
+    {
+      "id": "U06",
+      "visible_text_candidate": "KET 1",
+      "bbox_pdf": [
+        107,
+        196,
+        139,
+        210
+      ],
+      "image": "U06.png",
+      "shape_group_candidate": "oblique_outline_sans",
+      "interpretation": "Oblique outlined sans-serif lettering; no serif terminals like the wire-label ItalicT candidate.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "427aab6573778f929f2d75aa41bd4a126acc0718340506456e3e4e69a9b037f0"
+    },
+    {
+      "id": "U07",
+      "visible_text_candidate": "111 / 112",
+      "bbox_pdf": [
+        61,
+        603,
+        100,
+        614
+      ],
+      "image": "U07.png",
+      "shape_group_candidate": "micro_pin_digits_candidate",
+      "interpretation": "Very small pin indices; closer inspection needed to distinguish actual font from lineweight/raster-size effects.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "9bea326e36221f922cf144a80e2e748963fc56e6f8d2f2a7a76d2ef3c552a48c"
+    },
+    {
+      "id": "U08",
+      "visible_text_candidate": "63 / 64 / 65",
+      "bbox_pdf": [
+        164,
+        195,
+        220,
+        203
+      ],
+      "image": "U08.png",
+      "shape_group_candidate": "micro_pin_digits_candidate",
+      "interpretation": "Small pin indices alongside narrow large part names; do not infer a new font merely from size.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "3bafba260ae7f82248f6281c3b0671655cd896bc0e141122a2073fba874438ec"
+    },
+    {
+      "id": "U09",
+      "visible_text_candidate": "8062 / SECTION D-D",
+      "bbox_pdf": [
+        741,
+        412,
+        781,
+        431
+      ],
+      "image": "U09.png",
+      "shape_group_candidate": "flattened_cad_stroke_candidate",
+      "interpretation": "Wide flat stroke lettering may be an existing CAD shape with anisotropic width/height scaling.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "e840e83882127c806054d41eee6a96fcfe8a0b01536cc4b5e467d8a48da1db1d"
+    },
+    {
+      "id": "U10",
+      "visible_text_candidate": "RP211",
+      "bbox_pdf": [
+        56,
+        105,
+        79,
+        117
+      ],
+      "image": "U10.png",
+      "shape_group_candidate": "narrow_upright_cad",
+      "interpretation": "Narrow upright component-name style; likely width variant or related stroke font, not proven a new font.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "53eaa7eab054ffa146fc17e425f5bc7c95fb01add3a4a5f347b7908612b75daa"
+    },
+    {
+      "id": "U11",
+      "visible_text_candidate": "245",
+      "bbox_pdf": [
+        572,
+        263,
+        594,
+        279
+      ],
+      "image": "U11.png",
+      "shape_group_candidate": "thin_tall_dimension_digits",
+      "interpretation": "Tall thin numeric dimension style; compare after matching cap height and width.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "c2d6df899a3638527bedeeeab2b45c541f547d9d09c6962e2dc94da3c05086ab"
+    },
+    {
+      "id": "U12",
+      "visible_text_candidate": "(W)",
+      "bbox_pdf": [
+        428,
+        181,
+        444,
+        191
+      ],
+      "image": "U12.png",
+      "shape_group_candidate": "small_parenthesized_sans",
+      "interpretation": "Compact upright parenthesized annotation, unlike narrow component labels; font identity unverified.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "cd14a329148616f0bc301967ce867e9d8e7c1b9d64f0f695a1dab319ce91fcb6"
+    },
+    {
+      "id": "U13",
+      "visible_text_candidate": "FKC-XHL206",
+      "bbox_pdf": [
+        2011,
+        216,
+        2055,
+        227
+      ],
+      "image": "U13.png",
+      "shape_group_candidate": "wide_upright_cad",
+      "interpretation": "Wider upright stroke code in the same large connector; possible width variation, no exact font claim.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "7ffa67eb3f1c814f36e3f87c8f8ad2ecef6e9fa595535c2dee518a688ad7155e"
+    },
+    {
+      "id": "U14",
+      "visible_text_candidate": "VIEW \"B\"",
+      "bbox_pdf": [
+        972,
+        431,
+        1007,
+        445
+      ],
+      "image": "U14.png",
+      "shape_group_candidate": "wide_thin_cad_view",
+      "interpretation": "A thin geometric VIEW caption differs visually from the heavy VIEW H caption; compare its stroke topology before merging styles.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "1a03c5772371df0b4e5b698b4e3cc3dfdba41592bf4512a926cf9dfc2bd54bbb"
+    },
+    {
+      "id": "U15",
+      "visible_text_candidate": "1.0~1.2kgf/m",
+      "bbox_pdf": [
+        5,
+        672,
+        57,
+        687
+      ],
+      "image": "U15.png",
+      "shape_group_candidate": "upright_sans_mixed_case",
+      "interpretation": "Torque note contains lower-case Latin kgf/m and digits, useful missing true source exemplars.",
+      "exact_font_identity_verified": false,
+      "source_modified": false,
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "image_sha256": "9c916b9ab60f61a892fb373703baf244090e60769e67833a6d362ec9cb143395"
+    }
+  ]
+}

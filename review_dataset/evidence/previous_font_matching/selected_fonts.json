@@ -1,0 +1,4167 @@
+{
+  "fonts": [
+    {
+      "font_id": "romans",
+      "display_name": "ROMANS Copyright © 1997-2004 by Autodesk, Inc.",
+      "font_path": "C:\\Program Files\\Autodesk\\AutoCAD 2027\\Fonts\\romans.shx",
+      "font_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd",
+      "vector_json": "vectors/romans.json",
+      "normalized_cap_height": 1,
+      "baseline": 0,
+      "coordinate_system": "font_y_up",
+      "canonical_count": 62,
+      "source_style_id": "pdf_cad_stroke",
+      "source_match_status": "similar_installed_font_not_exact_identity",
+      "match_notes": "Geometry compared to confirmed source glyphs with per-glyph width/height fitting. PDF tessellation and width factors may explain some differences; exact font identity unproven.",
+      "source_summary": {
+        "font_id": "romans",
+        "sample_count": 86,
+        "median_score": 0.009706409252248704,
+        "p90_score": 0.014783011563122273,
+        "near_match_count": 49
+      },
+      "semantic_contact_sheet": "canonical_62_romans.png",
+      "semantic_contact_reviewed": true,
+      "exact_shape_alias_groups": [
+        [
+          "l",
+          "I"
+        ]
+      ]
+    },
+    {
+      "font_id": "italict",
+      "display_name": "ITALICT  Copyright 1996 by Autodesk, Inc.",
+      "font_path": "C:\\Program Files\\Autodesk\\AutoCAD 2027\\Fonts\\italict.shx",
+      "font_sha256": "f8fe9d898d452d9237581375c8c342508d16b59a67e21c3469403945734c53dc",
+      "vector_json": "vectors/italict.json",
+      "normalized_cap_height": 1,
+      "baseline": 0,
+      "coordinate_system": "font_y_up",
+      "canonical_count": 62,
+      "source_style_id": "pdf_serif_outline",
+      "source_match_status": "similar_installed_font_not_exact_identity",
+      "match_notes": "Geometry compared to confirmed source glyphs with per-glyph width/height fitting. PDF tessellation and width factors may explain some differences; exact font identity unproven.",
+      "source_summary": {
+        "font_id": "italict",
+        "sample_count": 73,
+        "median_score": 0.012196013052016497,
+        "p90_score": 0.01715802378952503,
+        "near_match_count": 11
+      },
+      "semantic_contact_sheet": "canonical_62_italict.png",
+      "semantic_contact_reviewed": true,
+      "exact_shape_alias_groups": []
+    }
+  ],
+  "source_matching": "source_matching.json",
+  "source_manifest_sha256": "873fad5ed26e5368934978eb37ffd33f815ba95138b194914f91b47696399464",
+  "source_count_compared": 159,
+  "original_pdf_asset_count": 182,
+  "ambiguous_or_partial_source_labels_excluded": true,
+  "not_a_recognition_accuracy_measure": true,
+  "exact_font_identity_claim": false,
+  "selected_source_contrast": [
+    "selected_source_contrast_00.png",
+    "selected_source_contrast_01.png",
+    "selected_source_contrast_02.png"
+  ],
+  "worst_selected_matches": [
+    {
+      "source_id": "pdf_T090",
+      "character": "T",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.026678240671753884,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.021990740671753883,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.026678240671753884
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.06013879179954529,
+          "p95_distance_cap": 0.13851791620254517,
+          "source_coverage_004cap": 0.5407407407407407,
+          "candidate_coverage_004cap": 0.2402464065708419,
+          "score": 0.08091647922992706
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_R001",
+      "character": "r",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.02474488765001297,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.017524074763059616,
+          "p95_distance_cap": 0.048138752579689026,
+          "source_coverage_004cap": 0.9410480349344978,
+          "candidate_coverage_004cap": 0.8986486486486487,
+          "score": 0.02474488765001297
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.1634027361869812,
+          "p95_distance_cap": 0.36851730942726135,
+          "source_coverage_004cap": 0.1615720524017467,
+          "candidate_coverage_004cap": 0.30697674418604654,
+          "score": 0.2186803326010704
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_R000",
+      "character": "r",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.0205166794359684,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0158291794359684,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 0.9860788863109049,
+          "candidate_coverage_004cap": 0.9818181818181818,
+          "score": 0.0205166794359684
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.1876007318496704,
+          "p95_distance_cap": 0.3802518844604492,
+          "source_coverage_004cap": 0.08120649651972157,
+          "candidate_coverage_004cap": 0.21226415094339623,
+          "score": 0.2446385145187378
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T132",
+      "character": "R",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.01905905455350876,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.013590304180979729,
+          "p95_distance_cap": 0.0364583358168602,
+          "source_coverage_004cap": 0.9424083769633508,
+          "candidate_coverage_004cap": 0.9960369881109643,
+          "score": 0.01905905455350876
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.10000646114349365,
+          "p95_distance_cap": 0.30390429496765137,
+          "source_coverage_004cap": 0.3416230366492147,
+          "candidate_coverage_004cap": 0.5227272727272727,
+          "score": 0.14559210538864137
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U066",
+      "character": "8",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.018713845685124398,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.014026345685124397,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.018713845685124398
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03461369127035141,
+          "p95_distance_cap": 0.09522122144699097,
+          "source_coverage_004cap": 0.6872427983539094,
+          "candidate_coverage_004cap": 0.5208681135225376,
+          "score": 0.04889687448740006
+        }
+      ]
+    }
+  ],
+  "records": [
+    {
+      "source_id": "pdf_T002",
+      "character": "L",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0,
+          "p95_distance_cap": 0.0,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.10211169719696045,
+          "p95_distance_cap": 0.1815941035747528,
+          "source_coverage_004cap": 0.2713178294573643,
+          "candidate_coverage_004cap": 0.14018691588785046,
+          "score": 0.12935081273317336
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T003",
+      "character": "1",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0027627590578049423,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.001151718432083726,
+          "p95_distance_cap": 0.010740270838141441,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0027627590578049423
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.055131591856479645,
+          "p95_distance_cap": 0.109375,
+          "source_coverage_004cap": 0.4745762711864407,
+          "candidate_coverage_004cap": 0.23411371237458195,
+          "score": 0.07153784185647964
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T005",
+      "character": "7",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.005400219140574336,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0038377190940082073,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.005400219140574336
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04138651117682457,
+          "p95_distance_cap": 0.09469714760780334,
+          "source_coverage_004cap": 0.7142857142857143,
+          "candidate_coverage_004cap": 0.35782747603833864,
+          "score": 0.055591083317995074
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T006",
+      "character": "4",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0,
+          "p95_distance_cap": 0.0,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.040345199406147,
+          "p95_distance_cap": 0.10121864825487137,
+          "source_coverage_004cap": 0.5846153846153846,
+          "candidate_coverage_004cap": 0.4596774193548387,
+          "score": 0.05552799664437771
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T008",
+      "character": "1",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.002660116320475936,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0010976162739098072,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.002660116320475936
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0630979984998703,
+          "p95_distance_cap": 0.1197916716337204,
+          "source_coverage_004cap": 0.37606837606837606,
+          "candidate_coverage_004cap": 0.18333333333333332,
+          "score": 0.08106674924492836
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T010",
+      "character": "1",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.00675414684228599,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0032602904830127954,
+          "p95_distance_cap": 0.02329237572848797,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.00675414684228599
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.09762515127658844,
+          "p95_distance_cap": 0.18598131835460663,
+          "source_coverage_004cap": 0.25833333333333336,
+          "candidate_coverage_004cap": 0.11182108626198083,
+          "score": 0.12552234902977943
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T011",
+      "character": "2",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.009708273690193892,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.006398845463991165,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.009708273690193892
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03470625355839729,
+          "p95_distance_cap": 0.07981538772583008,
+          "source_coverage_004cap": 0.6265060240963856,
+          "candidate_coverage_004cap": 0.5189504373177842,
+          "score": 0.046678561717271805
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T012",
+      "character": "C",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.01003104941919446,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0069060493260622025,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01003104941919446
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.026693444699048996,
+          "p95_distance_cap": 0.07109294086694717,
+          "source_coverage_004cap": 0.7878787878787878,
+          "candidate_coverage_004cap": 0.643646408839779,
+          "score": 0.037357385829091073
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T013",
+      "character": "2",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.009899761341512204,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.006774761248379946,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.009899761341512204
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03944399952888489,
+          "p95_distance_cap": 0.10149116069078445,
+          "source_coverage_004cap": 0.6172839506172839,
+          "candidate_coverage_004cap": 0.4766081871345029,
+          "score": 0.05466767363250256
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T014",
+      "character": "A",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.006194820767268539,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.00463232072070241,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.006194820767268539
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.047433532774448395,
+          "p95_distance_cap": 0.10378719121217728,
+          "source_coverage_004cap": 0.45754716981132076,
+          "candidate_coverage_004cap": 0.45498783454987834,
+          "score": 0.06300161145627499
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T016",
+      "character": "S",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.007450098777189851,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0052403900772333145,
+          "p95_distance_cap": 0.014731391333043575,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.007450098777189851
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04185124486684799,
+          "p95_distance_cap": 0.08344437181949615,
+          "source_coverage_004cap": 0.535483870967742,
+          "candidate_coverage_004cap": 0.4523809523809524,
+          "score": 0.05436790063977241
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T017",
+      "character": "M",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0,
+          "p95_distance_cap": 0.0,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.05085185915231705,
+          "p95_distance_cap": 0.11554623395204544,
+          "source_coverage_004cap": 0.43535620052770446,
+          "candidate_coverage_004cap": 0.4479695431472081,
+          "score": 0.06818379424512386
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T019",
+      "character": "5",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.012477803323417903,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.009352803230285645,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.012477803323417903
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04322779178619385,
+          "p95_distance_cap": 0.08539118617773056,
+          "source_coverage_004cap": 0.5027624309392266,
+          "candidate_coverage_004cap": 0.3293051359516616,
+          "score": 0.056036469712853434
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T021",
+      "character": "5",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.012773742526769638,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.009325480088591576,
+          "p95_distance_cap": 0.022988416254520416,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.012773742526769638
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04776817932724953,
+          "p95_distance_cap": 0.08479224145412445,
+          "source_coverage_004cap": 0.45454545454545453,
+          "candidate_coverage_004cap": 0.3081570996978852,
+          "score": 0.06048701554536819
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T023",
+      "character": "1",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0030964146368205546,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.001533914590254426,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0030964146368205546
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03452931344509125,
+          "p95_distance_cap": 0.06704798340797424,
+          "source_coverage_004cap": 0.6637931034482759,
+          "candidate_coverage_004cap": 0.3908450704225352,
+          "score": 0.044586510956287385
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T024",
+      "character": "5",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.010958807822316886,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.007833807729184628,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010958807822316886
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04164643585681915,
+          "p95_distance_cap": 0.07827587425708771,
+          "source_coverage_004cap": 0.5057471264367817,
+          "candidate_coverage_004cap": 0.3373493975903614,
+          "score": 0.05338781699538231
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T025",
+      "character": "C",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.011864784359931945,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.008536913432180882,
+          "p95_distance_cap": 0.022185806185007095,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.011864784359931945
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.030212197452783585,
+          "p95_distance_cap": 0.08554628491401672,
+          "source_coverage_004cap": 0.7633136094674556,
+          "candidate_coverage_004cap": 0.6072423398328691,
+          "score": 0.043044140189886095
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T027",
+      "character": "F",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0058515102602541445,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.002726510167121887,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0058515102602541445
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0734659731388092,
+          "p95_distance_cap": 0.14145120978355408,
+          "source_coverage_004cap": 0.30201342281879195,
+          "candidate_coverage_004cap": 0.21544715447154472,
+          "score": 0.09468365460634232
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T028",
+      "character": "9",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.009634375851601363,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.006509375758469105,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.009634375851601363
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.030380405485630035,
+          "p95_distance_cap": 0.07054168730974197,
+          "source_coverage_004cap": 0.7748917748917749,
+          "candidate_coverage_004cap": 0.5877551020408164,
+          "score": 0.04096165858209133
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T029",
+      "character": "U",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0032728747697547077,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.001710374723188579,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0032728747697547077
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.06104975938796997,
+          "p95_distance_cap": 0.125,
+          "source_coverage_004cap": 0.3719806763285024,
+          "candidate_coverage_004cap": 0.3087557603686636,
+          "score": 0.07979975938796997
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T030",
+      "character": "S",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.012610690668225288,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.008492080494761467,
+          "p95_distance_cap": 0.027457401156425476,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.012610690668225288
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0409405492246151,
+          "p95_distance_cap": 0.0833333283662796,
+          "source_coverage_004cap": 0.5590062111801242,
+          "candidate_coverage_004cap": 0.44047619047619047,
+          "score": 0.05344054847955704
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T034",
+      "character": "2",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.008502606581896544,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.005377606488764286,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.008502606581896544
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03231564164161682,
+          "p95_distance_cap": 0.07638312131166458,
+          "source_coverage_004cap": 0.6875,
+          "candidate_coverage_004cap": 0.5735294117647058,
+          "score": 0.043773109838366506
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T036",
+      "character": "G",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.010932154767215253,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0078071546740829945,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010932154767215253
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.05268249660730362,
+          "p95_distance_cap": 0.13917763531208038,
+          "source_coverage_004cap": 0.35294117647058826,
+          "candidate_coverage_004cap": 0.6126482213438735,
+          "score": 0.07355914190411568
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T038",
+      "character": "E",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 2.0265888451831415e-05,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 2.0265888451831415e-05,
+          "p95_distance_cap": 0.0,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 2.0265888451831415e-05
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0824892669916153,
+          "p95_distance_cap": 0.21403656899929047,
+          "source_coverage_004cap": 0.48046875,
+          "candidate_coverage_004cap": 0.3333333333333333,
+          "score": 0.11459475234150887
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T039",
+      "character": "4",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.009704544814303518,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.008142044767737389,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.009704544814303518
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.047476813197135925,
+          "p95_distance_cap": 0.125939279794693,
+          "source_coverage_004cap": 0.5247524752475248,
+          "candidate_coverage_004cap": 0.3888888888888889,
+          "score": 0.06636770516633987
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T040",
+      "character": "B",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.006024177465587854,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0030135889537632465,
+          "p95_distance_cap": 0.02007059007883072,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.006024177465587854
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.05261262506246567,
+          "p95_distance_cap": 0.1510416567325592,
+          "source_coverage_004cap": 0.5719298245614035,
+          "candidate_coverage_004cap": 0.4792626728110599,
+          "score": 0.07526887357234954
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T042",
+      "character": "R",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.010510647483170033,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.005937082692980766,
+          "p95_distance_cap": 0.030490431934595108,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010510647483170033
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.05004663020372391,
+          "p95_distance_cap": 0.1302083432674408,
+          "source_coverage_004cap": 0.5679012345679012,
+          "candidate_coverage_004cap": 0.4683333333333333,
+          "score": 0.06957788169384002
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T044",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.011398097779601813,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.008273097686469555,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 0.9979674796747967,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.011398097779601813
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06758253276348114,
+          "p95_distance_cap": 0.167063370347023,
+          "source_coverage_004cap": 0.3150406504065041,
+          "candidate_coverage_004cap": 0.574468085106383,
+          "score": 0.0926420383155346
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T046",
+      "character": "5",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.009686455875635148,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.00656145578250289,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.009686455875635148
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06931507587432861,
+          "p95_distance_cap": 0.18037058413028717,
+          "source_coverage_004cap": 0.2693877551020408,
+          "candidate_coverage_004cap": 0.41785714285714287,
+          "score": 0.09637066349387169
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T047",
+      "character": "D",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.004154255986213684,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0025917559396475554,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.004154255986213684
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.05259818583726883,
+          "p95_distance_cap": 0.1302083432674408,
+          "source_coverage_004cap": 0.5689655172413793,
+          "candidate_coverage_004cap": 0.4453376205787781,
+          "score": 0.07212943732738494
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T048",
+      "character": "C",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.015299856010824443,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.01088043861091137,
+          "p95_distance_cap": 0.02946278266608715,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.015299856010824443
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03879120573401451,
+          "p95_distance_cap": 0.08979512751102448,
+          "source_coverage_004cap": 0.6440677966101694,
+          "candidate_coverage_004cap": 0.45646437994722955,
+          "score": 0.052260474860668184
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T049",
+      "character": "8",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.014794814214110375,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.010107314214110374,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.014794814214110375
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.030808858573436737,
+          "p95_distance_cap": 0.07232803851366043,
+          "source_coverage_004cap": 0.6322314049586777,
+          "candidate_coverage_004cap": 0.5591766723842195,
+          "score": 0.0416580643504858
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T050",
+      "character": "P",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.011314939055591822,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.008189938962459564,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.011314939055591822
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.09495988488197327,
+          "p95_distance_cap": 0.28305649757385254,
+          "source_coverage_004cap": 0.4076923076923077,
+          "candidate_coverage_004cap": 0.5490196078431373,
+          "score": 0.13741835951805115
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T051",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.013054661639034747,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.009846668690443039,
+          "p95_distance_cap": 0.02138661965727806,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.013054661639034747
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06060205399990082,
+          "p95_distance_cap": 0.155642569065094,
+          "source_coverage_004cap": 0.3250517598343685,
+          "candidate_coverage_004cap": 0.5652173913043478,
+          "score": 0.08394843935966492
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T052",
+      "character": "2",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.014863067120313645,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.010175567120313644,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.014863067120313645
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03489433228969574,
+          "p95_distance_cap": 0.10270554572343826,
+          "source_coverage_004cap": 0.7272727272727273,
+          "candidate_coverage_004cap": 0.6235294117647059,
+          "score": 0.05030016414821148
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T053",
+      "character": "3",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.010306320432573558,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0071813203394412994,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010306320432573558
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.045955367386341095,
+          "p95_distance_cap": 0.09769262373447418,
+          "source_coverage_004cap": 0.5149700598802395,
+          "candidate_coverage_004cap": 0.33967391304347827,
+          "score": 0.06060926094651222
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T054",
+      "character": "T",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.008756744815036655,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.007194244768470526,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.008756744815036655
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04067587852478027,
+          "p95_distance_cap": 0.125,
+          "source_coverage_004cap": 0.8057553956834532,
+          "candidate_coverage_004cap": 0.39068825910931176,
+          "score": 0.059425878524780276
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T057",
+      "character": "6",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.013310554903000593,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.010001126676797867,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.013310554903000593
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.035618409514427185,
+          "p95_distance_cap": 0.07236046344041824,
+          "source_coverage_004cap": 0.5863636363636363,
+          "candidate_coverage_004cap": 0.4384133611691023,
+          "score": 0.04647247903048992
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T058",
+      "character": "A",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.01137176463380456,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.008246764540672302,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01137176463380456
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04399155452847481,
+          "p95_distance_cap": 0.09845960140228271,
+          "source_coverage_004cap": 0.4790697674418605,
+          "candidate_coverage_004cap": 0.4600484261501211,
+          "score": 0.05876049473881721
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T060",
+      "character": "V",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.012719217967242003,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.009594217874109745,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.012719217967242003
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.09857429563999176,
+          "p95_distance_cap": 0.2178330421447754,
+          "source_coverage_004cap": 0.3489583333333333,
+          "candidate_coverage_004cap": 0.22401847575057737,
+          "score": 0.13124925196170806
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T062",
+      "character": "L",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.010291662346571685,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.007166662253439426,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010291662346571685
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.1817372739315033,
+          "p95_distance_cap": 0.4102643132209778,
+          "source_coverage_004cap": 0.2199630314232902,
+          "candidate_coverage_004cap": 0.436046511627907,
+          "score": 0.24327692091464997
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T063",
+      "character": "B",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.011092720832675696,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.007967720739543438,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.011092720832675696
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.07347369194030762,
+          "p95_distance_cap": 0.2533106505870819,
+          "source_coverage_004cap": 0.48203221809169766,
+          "candidate_coverage_004cap": 0.5977011494252874,
+          "score": 0.1114702895283699
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T065",
+      "character": "R",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.01429037218913436,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.010518163442611694,
+          "p95_distance_cap": 0.0251480583101511,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01429037218913436
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0916612446308136,
+          "p95_distance_cap": 0.2738737463951111,
+          "source_coverage_004cap": 0.39738562091503266,
+          "candidate_coverage_004cap": 0.5285714285714286,
+          "score": 0.13274230659008027
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T066",
+      "character": "C",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.01451662154868245,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.011022765189409256,
+          "p95_distance_cap": 0.02329237572848797,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01451662154868245
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.027914628386497498,
+          "p95_distance_cap": 0.07953307777643204,
+          "source_coverage_004cap": 0.8074534161490683,
+          "candidate_coverage_004cap": 0.6638888888888889,
+          "score": 0.0398445900529623
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T067",
+      "character": "2",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.010942384880036116,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.007817384786903858,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010942384880036116
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0627073422074318,
+          "p95_distance_cap": 0.16837257146835327,
+          "source_coverage_004cap": 0.2791164658634538,
+          "candidate_coverage_004cap": 0.47560975609756095,
+          "score": 0.08796322792768478
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T068",
+      "character": "P",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.004320189496502281,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0027576894499361515,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.004320189496502281
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0630224421620369,
+          "p95_distance_cap": 0.15356487035751343,
+          "source_coverage_004cap": 0.4880382775119617,
+          "candidate_coverage_004cap": 0.4058252427184466,
+          "score": 0.0860571727156639
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T069",
+      "character": "9",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.012308794353157283,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.009183794260025024,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.012308794353157283
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.031265608966350555,
+          "p95_distance_cap": 0.06771321594715118,
+          "source_coverage_004cap": 0.6398104265402843,
+          "candidate_coverage_004cap": 0.511578947368421,
+          "score": 0.04142259135842323
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T070",
+      "character": "B",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.011973812524229289,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.00884881243109703,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.011973812524229289
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.07261353731155396,
+          "p95_distance_cap": 0.24323821067810059,
+          "source_coverage_004cap": 0.46384039900249374,
+          "candidate_coverage_004cap": 0.5823665893271461,
+          "score": 0.10909926891326904
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T071",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.013878948520869017,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.01056952029466629,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.013878948520869017
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06684981286525726,
+          "p95_distance_cap": 0.16727674007415771,
+          "source_coverage_004cap": 0.34120171673819744,
+          "candidate_coverage_004cap": 0.5661157024793388,
+          "score": 0.09194132387638092
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T072",
+      "character": "F",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0095238097012043,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0048363097012043,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0095238097012043
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0857289582490921,
+          "p95_distance_cap": 0.18239736557006836,
+          "source_coverage_004cap": 0.34523809523809523,
+          "candidate_coverage_004cap": 0.23193916349809887,
+          "score": 0.11308856308460236
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T074",
+      "character": "5",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.01273716874420643,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.009126933291554451,
+          "p95_distance_cap": 0.024068236351013184,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01273716874420643
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06319177895784378,
+          "p95_distance_cap": 0.16160009801387787,
+          "source_coverage_004cap": 0.29707112970711297,
+          "candidate_coverage_004cap": 0.4343065693430657,
+          "score": 0.08743179365992546
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T075",
+      "character": "R",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.011917508486658335,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.008792508393526077,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.011917508486658335
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.09021203219890594,
+          "p95_distance_cap": 0.2793523073196411,
+          "source_coverage_004cap": 0.40927152317880794,
+          "candidate_coverage_004cap": 0.5549132947976878,
+          "score": 0.13211487829685212
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T076",
+      "character": "3",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.01202106410637498,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.008896064013242722,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01202106410637498
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.042213454842567444,
+          "p95_distance_cap": 0.0929003357887268,
+          "source_coverage_004cap": 0.6987179487179487,
+          "candidate_coverage_004cap": 0.38904109589041097,
+          "score": 0.05614850521087646
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T078",
+      "character": "3",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.006182388542219997,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.004619888495653868,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.006182388542219997
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.052030690014362335,
+          "p95_distance_cap": 0.11789558827877045,
+          "source_coverage_004cap": 0.5649717514124294,
+          "candidate_coverage_004cap": 0.30632911392405066,
+          "score": 0.0697150282561779
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T080",
+      "character": "B",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.00511990268714726,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0029101939871907234,
+          "p95_distance_cap": 0.014731391333043575,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.00511990268714726
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04790811240673065,
+          "p95_distance_cap": 0.12471659481525421,
+          "source_coverage_004cap": 0.5458015267175572,
+          "candidate_coverage_004cap": 0.4192,
+          "score": 0.06661560162901878
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T081",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.014380247704684733,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.01028956938534975,
+          "p95_distance_cap": 0.02727118879556656,
+          "source_coverage_004cap": 0.9979633401221996,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.014380247704684733
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06958823651075363,
+          "p95_distance_cap": 0.167233407497406,
+          "source_coverage_004cap": 0.329938900203666,
+          "candidate_coverage_004cap": 0.5690376569037657,
+          "score": 0.09467324763536453
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T082",
+      "character": "C",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.008581637078896165,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.006371928378939629,
+          "p95_distance_cap": 0.014731391333043575,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 0.9975903614457832,
+          "score": 0.008581637078896165
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.04531534016132355,
+          "p95_distance_cap": 0.1181262731552124,
+          "source_coverage_004cap": 0.40714285714285714,
+          "candidate_coverage_004cap": 0.6028708133971292,
+          "score": 0.06303428113460541
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T083",
+      "character": "R",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.012094964738935232,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.008785536512732506,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 0.9933510638297872,
+          "candidate_coverage_004cap": 0.9804177545691906,
+          "score": 0.012094964738935232
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.09963619709014893,
+          "p95_distance_cap": 0.30112379789352417,
+          "source_coverage_004cap": 0.3829787234042553,
+          "candidate_coverage_004cap": 0.5307262569832403,
+          "score": 0.14480476677417756
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T085",
+      "character": "2",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.009931122604757547,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.006437266245484352,
+          "p95_distance_cap": 0.02329237572848797,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.009931122604757547
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03698036074638367,
+          "p95_distance_cap": 0.08881043642759323,
+          "source_coverage_004cap": 0.6294117647058823,
+          "candidate_coverage_004cap": 0.501432664756447,
+          "score": 0.05030192621052265
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T086",
+      "character": "R",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.01226399214938283,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.009138992056250572,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01226399214938283
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.09308384358882904,
+          "p95_distance_cap": 0.28617459535598755,
+          "source_coverage_004cap": 0.3909677419354839,
+          "candidate_coverage_004cap": 0.5369318181818182,
+          "score": 0.13601003289222718
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T087",
+      "character": "6",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.014649578090757131,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.011155721731483936,
+          "p95_distance_cap": 0.02329237572848797,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.014649578090757131
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.022026073187589645,
+          "p95_distance_cap": 0.046875,
+          "source_coverage_004cap": 0.9626168224299065,
+          "candidate_coverage_004cap": 0.735966735966736,
+          "score": 0.029057323187589645
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T088",
+      "character": "5",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.01423628767952323,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.010926859453320503,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01423628767952323
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.07600876688957214,
+          "p95_distance_cap": 0.18184766173362732,
+          "source_coverage_004cap": 0.2521551724137931,
+          "candidate_coverage_004cap": 0.3905109489051095,
+          "score": 0.10328591614961624
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T089",
+      "character": "4",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0,
+          "p95_distance_cap": 0.0,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04352278262376785,
+          "p95_distance_cap": 0.10878460109233856,
+          "source_coverage_004cap": 0.5612244897959183,
+          "candidate_coverage_004cap": 0.42245989304812837,
+          "score": 0.059840472787618636
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T090",
+      "character": "T",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.026678240671753884,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.021990740671753883,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.026678240671753884
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.06013879179954529,
+          "p95_distance_cap": 0.13851791620254517,
+          "source_coverage_004cap": 0.5407407407407407,
+          "candidate_coverage_004cap": 0.2402464065708419,
+          "score": 0.08091647922992706
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T091",
+      "character": "5",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.009922453481703997,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.006797453388571739,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.009922453481703997
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04756350815296173,
+          "p95_distance_cap": 0.08370348066091537,
+          "source_coverage_004cap": 0.4342857142857143,
+          "candidate_coverage_004cap": 0.2822822822822823,
+          "score": 0.06011903025209904
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T092",
+      "character": "6",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.008460362115874887,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.00625065341591835,
+          "p95_distance_cap": 0.014731391333043575,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.008460362115874887
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.02809637039899826,
+          "p95_distance_cap": 0.06395890563726425,
+          "source_coverage_004cap": 0.8812785388127854,
+          "candidate_coverage_004cap": 0.6361746361746362,
+          "score": 0.037690206244587895
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T093",
+      "character": "D",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.003519208077341318,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0019567080307751894,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.003519208077341318
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0511002279818058,
+          "p95_distance_cap": 0.1302083432674408,
+          "source_coverage_004cap": 0.5701754385964912,
+          "candidate_coverage_004cap": 0.45686900958466453,
+          "score": 0.07063147947192192
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T094",
+      "character": "3",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.009435241017490626,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.006767886690795422,
+          "p95_distance_cap": 0.017782362177968025,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.009435241017490626
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.043224986642599106,
+          "p95_distance_cap": 0.09742030501365662,
+          "source_coverage_004cap": 0.6168831168831169,
+          "candidate_coverage_004cap": 0.34782608695652173,
+          "score": 0.0578380323946476
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T095",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.013132160995155573,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.009175524115562439,
+          "p95_distance_cap": 0.02637757919728756,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.013132160995155573
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06556703895330429,
+          "p95_distance_cap": 0.16273921728134155,
+          "source_coverage_004cap": 0.3297644539614561,
+          "candidate_coverage_004cap": 0.5569620253164557,
+          "score": 0.08997792154550552
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T096",
+      "character": "F",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 3.6938534321961924e-05,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 3.6938534321961924e-05,
+          "p95_distance_cap": 0.0,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 3.6938534321961924e-05
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.06609122455120087,
+          "p95_distance_cap": 0.130605086684227,
+          "source_coverage_004cap": 0.29285714285714287,
+          "candidate_coverage_004cap": 0.22505307855626328,
+          "score": 0.08568198755383491
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T098",
+      "character": "L",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.011429134290665388,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.008119706064462662,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.011429134290665388
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.19913578033447266,
+          "p95_distance_cap": 0.44539874792099,
+          "source_coverage_004cap": 0.23345588235294118,
+          "candidate_coverage_004cap": 0.449438202247191,
+          "score": 0.2659455925226212
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T099",
+      "character": "T",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.008756744815036655,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.007194244768470526,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.008756744815036655
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.049245402216911316,
+          "p95_distance_cap": 0.1336156129837036,
+          "source_coverage_004cap": 0.697841726618705,
+          "candidate_coverage_004cap": 0.34210526315789475,
+          "score": 0.06928774416446686
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T101",
+      "character": "3",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.013929249439388513,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.010435393080115318,
+          "p95_distance_cap": 0.02329237572848797,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.013929249439388513
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04156951606273651,
+          "p95_distance_cap": 0.09862999618053436,
+          "source_coverage_004cap": 0.60625,
+          "candidate_coverage_004cap": 0.3695652173913043,
+          "score": 0.05636401548981666
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T103",
+      "character": "B",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.014241498708724976,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.009553998708724976,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 0.9914529914529915,
+          "score": 0.014241498708724976
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.08112579584121704,
+          "p95_distance_cap": 0.27080368995666504,
+          "source_coverage_004cap": 0.4603960396039604,
+          "candidate_coverage_004cap": 0.5689655172413793,
+          "score": 0.12174634933471679
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T105",
+      "character": "8",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.012936815153807402,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.009627386927604675,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.012936815153807402
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03034266270697117,
+          "p95_distance_cap": 0.08825141936540604,
+          "source_coverage_004cap": 0.7563025210084033,
+          "candidate_coverage_004cap": 0.5866209262435678,
+          "score": 0.043580375611782074
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T106",
+      "character": "D",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.00774439675733447,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0040422892197966576,
+          "p95_distance_cap": 0.024680716916918755,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.00774439675733447
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.05558885261416435,
+          "p95_distance_cap": 0.14121279120445251,
+          "source_coverage_004cap": 0.5350877192982456,
+          "candidate_coverage_004cap": 0.430622009569378,
+          "score": 0.07677077129483223
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T107",
+      "character": "6",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.011232150066643954,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.008107149973511696,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.011232150066643954
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.026219211518764496,
+          "p95_distance_cap": 0.05975070595741272,
+          "source_coverage_004cap": 0.883177570093458,
+          "candidate_coverage_004cap": 0.6752688172043011,
+          "score": 0.0351818174123764
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T110",
+      "character": "8",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.01048813695088029,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.007363136857748032,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01048813695088029
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03341657668352127,
+          "p95_distance_cap": 0.08425698429346085,
+          "source_coverage_004cap": 0.6807692307692308,
+          "candidate_coverage_004cap": 0.5934959349593496,
+          "score": 0.0460551243275404
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T111",
+      "character": "S",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.009291219338774682,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.006166219245642424,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.009291219338774682
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06104203313589096,
+          "p95_distance_cap": 0.178705096244812,
+          "source_coverage_004cap": 0.4012738853503185,
+          "candidate_coverage_004cap": 0.5723905723905723,
+          "score": 0.08784779757261277
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T112",
+      "character": "W",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.00450335294008255,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0029408528935164213,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.00450335294008255
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.06579751521348953,
+          "p95_distance_cap": 0.16045895218849182,
+          "source_coverage_004cap": 0.38786279683377306,
+          "candidate_coverage_004cap": 0.32512953367875647,
+          "score": 0.08986635804176331
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T113",
+      "character": "V",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0126261574216187,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.009501157328486443,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0126261574216187
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04246971756219864,
+          "p95_distance_cap": 0.09023171663284302,
+          "source_coverage_004cap": 0.4607329842931937,
+          "candidate_coverage_004cap": 0.49489795918367346,
+          "score": 0.056004475057125094
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T114",
+      "character": "P",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.005480695888400078,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0032709871884435415,
+          "p95_distance_cap": 0.014731391333043575,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.005480695888400078
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.05363062396645546,
+          "p95_distance_cap": 0.125,
+          "source_coverage_004cap": 0.4739583333333333,
+          "candidate_coverage_004cap": 0.4153225806451613,
+          "score": 0.07238062396645546
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T115",
+      "character": "G",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.008357862289994956,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.005232862196862698,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.008357862289994956
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03201672434806824,
+          "p95_distance_cap": 0.07966640591621399,
+          "source_coverage_004cap": 0.7287234042553191,
+          "candidate_coverage_004cap": 0.531390134529148,
+          "score": 0.04396668523550033
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T119",
+      "character": "5",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.014438208565115929,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.010990288108587265,
+          "p95_distance_cap": 0.022986136376857758,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.014438208565115929
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06578890979290009,
+          "p95_distance_cap": 0.15467634797096252,
+          "source_coverage_004cap": 0.267515923566879,
+          "candidate_coverage_004cap": 0.40601503759398494,
+          "score": 0.08899036198854446
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T120",
+      "character": "8",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.010204450506716967,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.007079450413584709,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010204450506716967
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.04659447818994522,
+          "p95_distance_cap": 0.14127345383167267,
+          "source_coverage_004cap": 0.48322147651006714,
+          "candidate_coverage_004cap": 0.6246418338108882,
+          "score": 0.06778549626469613
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T122",
+      "character": "J",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0030306210042908787,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.00146812095772475,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0030306210042908787
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.12759587168693542,
+          "p95_distance_cap": 0.22335857152938843,
+          "source_coverage_004cap": 0.2214765100671141,
+          "candidate_coverage_004cap": 0.14210526315789473,
+          "score": 0.1610996574163437
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T123",
+      "character": "1",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.006668843934312463,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.005106343887746334,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.006668843934312463
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.13885170221328735,
+          "p95_distance_cap": 0.28850042819976807,
+          "source_coverage_004cap": 0.09969788519637462,
+          "candidate_coverage_004cap": 0.25,
+          "score": 0.18212676644325257
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T125",
+      "character": "2",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0183019757270813,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.013614475727081299,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 0.9878787878787879,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0183019757270813
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03598371893167496,
+          "p95_distance_cap": 0.10866780579090118,
+          "source_coverage_004cap": 0.7393939393939394,
+          "candidate_coverage_004cap": 0.6035502958579881,
+          "score": 0.05228388980031014
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T126",
+      "character": "W",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.006918753590434789,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.005210631527006626,
+          "p95_distance_cap": 0.011387480422854424,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.006918753590434789
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.09859691560268402,
+          "p95_distance_cap": 0.24159935116767883,
+          "source_coverage_004cap": 0.235595390524968,
+          "candidate_coverage_004cap": 0.31675392670157065,
+          "score": 0.13483681827783583
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T127",
+      "character": "3",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.01374026108533144,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.010153848677873611,
+          "p95_distance_cap": 0.023909416049718857,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01374026108533144
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04201485216617584,
+          "p95_distance_cap": 0.09435640275478363,
+          "source_coverage_004cap": 0.5789473684210527,
+          "candidate_coverage_004cap": 0.37228260869565216,
+          "score": 0.056168312579393385
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T128",
+      "character": "R",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.010990855935961007,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.006437397096306086,
+          "p95_distance_cap": 0.03035639226436615,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010990855935961007
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.05041198804974556,
+          "p95_distance_cap": 0.1302083432674408,
+          "source_coverage_004cap": 0.5210084033613446,
+          "candidate_coverage_004cap": 0.47892074198988194,
+          "score": 0.06994323953986167
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T130",
+      "character": "6",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.01416658954694867,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.010672733187675476,
+          "p95_distance_cap": 0.02329237572848797,
+          "source_coverage_004cap": 0.995575221238938,
+          "candidate_coverage_004cap": 0.9956331877729258,
+          "score": 0.01416658954694867
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.032598838210105896,
+          "p95_distance_cap": 0.08068942278623581,
+          "source_coverage_004cap": 0.7876106194690266,
+          "candidate_coverage_004cap": 0.5153374233128835,
+          "score": 0.04470225162804127
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T131",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.017268687672913074,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.012715228833258152,
+          "p95_distance_cap": 0.03035639226436615,
+          "source_coverage_004cap": 0.997872340425532,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.017268687672913074
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06315591931343079,
+          "p95_distance_cap": 0.16445529460906982,
+          "source_coverage_004cap": 0.3468085106382979,
+          "candidate_coverage_004cap": 0.5879828326180258,
+          "score": 0.08782421350479126
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T132",
+      "character": "R",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.01905905455350876,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.013590304180979729,
+          "p95_distance_cap": 0.0364583358168602,
+          "source_coverage_004cap": 0.9424083769633508,
+          "candidate_coverage_004cap": 0.9960369881109643,
+          "score": 0.01905905455350876
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.10000646114349365,
+          "p95_distance_cap": 0.30390429496765137,
+          "source_coverage_004cap": 0.3416230366492147,
+          "candidate_coverage_004cap": 0.5227272727272727,
+          "score": 0.14559210538864137
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T134",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.015595920756459235,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.011505242437124252,
+          "p95_distance_cap": 0.02727118879556656,
+          "source_coverage_004cap": 0.997867803837953,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.015595920756459235
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.07134052366018295,
+          "p95_distance_cap": 0.17019470036029816,
+          "source_coverage_004cap": 0.2814498933901919,
+          "candidate_coverage_004cap": 0.5364806866952789,
+          "score": 0.09686972871422768
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T135",
+      "character": "1",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.016301194578409194,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.010531534440815449,
+          "p95_distance_cap": 0.03846440091729164,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 0.7638483965014577,
+          "score": 0.016301194578409194
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.13634952902793884,
+          "p95_distance_cap": 0.3119121193885803,
+          "source_coverage_004cap": 0.17391304347826086,
+          "candidate_coverage_004cap": 0.30935251798561153,
+          "score": 0.18313634693622588
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T137",
+      "character": "1",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.00391765902750194,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0018859326373785734,
+          "p95_distance_cap": 0.013544842600822449,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.00391765902750194
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.036928191781044006,
+          "p95_distance_cap": 0.06722407788038254,
+          "source_coverage_004cap": 0.6339285714285714,
+          "candidate_coverage_004cap": 0.3626760563380282,
+          "score": 0.04701180346310139
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T142",
+      "character": "I",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.008506467239931226,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0062967585399746895,
+          "p95_distance_cap": 0.014731391333043575,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.008506467239931226
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T143",
+      "character": "9",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.017826553620398044,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.013273094780743122,
+          "p95_distance_cap": 0.03035639226436615,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.017826553620398044
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.031848423182964325,
+          "p95_distance_cap": 0.07820023596286774,
+          "source_coverage_004cap": 0.7425742574257426,
+          "candidate_coverage_004cap": 0.5206611570247934,
+          "score": 0.04357845857739449
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T144",
+      "character": "Y",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.008267103368416429,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0067046033218503,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.008267103368416429
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0702778771519661,
+          "p95_distance_cap": 0.15089842677116394,
+          "source_coverage_004cap": 0.3611111111111111,
+          "candidate_coverage_004cap": 0.2429245283018868,
+          "score": 0.09291264116764068
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T146",
+      "character": "9",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.013904913794249296,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.01059548556804657,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.013904913794249296
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.029696255922317505,
+          "p95_distance_cap": 0.06971439719200134,
+          "source_coverage_004cap": 0.7860696517412935,
+          "candidate_coverage_004cap": 0.5672268907563025,
+          "score": 0.04015341550111771
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T149",
+      "character": "D",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.012917534727603198,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.009145325981080532,
+          "p95_distance_cap": 0.0251480583101511,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.012917534727603198
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.10852990299463272,
+          "p95_distance_cap": 0.3335893452167511,
+          "source_coverage_004cap": 0.2903225806451613,
+          "candidate_coverage_004cap": 0.45625,
+          "score": 0.1585683047771454
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T150",
+      "character": "G",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.013364540599286556,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.008925016969442368,
+          "p95_distance_cap": 0.029596824198961258,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.013364540599286556
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.04261036217212677,
+          "p95_distance_cap": 0.0885416641831398,
+          "source_coverage_004cap": 0.5906735751295337,
+          "candidate_coverage_004cap": 0.38461538461538464,
+          "score": 0.05589161179959774
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T151",
+      "character": "2",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.018011507019400595,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.01307044830173254,
+          "p95_distance_cap": 0.03294039145112038,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.018011507019400595
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.034776054322719574,
+          "p95_distance_cap": 0.10950235277414322,
+          "source_coverage_004cap": 0.75625,
+          "candidate_coverage_004cap": 0.6209912536443148,
+          "score": 0.051201407238841055
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T152",
+      "character": "6",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.017449128814041613,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.012795139104127884,
+          "p95_distance_cap": 0.031026598066091537,
+          "source_coverage_004cap": 0.9951456310679612,
+          "candidate_coverage_004cap": 0.9953488372093023,
+          "score": 0.017449128814041613
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.029467253014445305,
+          "p95_distance_cap": 0.07324092090129852,
+          "source_coverage_004cap": 0.7766990291262136,
+          "candidate_coverage_004cap": 0.5798319327731093,
+          "score": 0.04045339114964008
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_T153",
+      "character": "7",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.01790174636989832,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.012633302249014378,
+          "p95_distance_cap": 0.035122960805892944,
+          "source_coverage_004cap": 0.9491525423728814,
+          "candidate_coverage_004cap": 0.975609756097561,
+          "score": 0.01790174636989832
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0606977716088295,
+          "p95_distance_cap": 0.13184772431850433,
+          "source_coverage_004cap": 0.2740112994350282,
+          "candidate_coverage_004cap": 0.5093167701863354,
+          "score": 0.08047493025660515
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U002",
+      "character": "K",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.00021949911024421453,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.00021949911024421453,
+          "p95_distance_cap": 0.0,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.00021949911024421453
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.05263344943523407,
+          "p95_distance_cap": 0.11661076545715332,
+          "source_coverage_004cap": 0.4507042253521127,
+          "candidate_coverage_004cap": 0.3717728055077453,
+          "score": 0.07012506425380707
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U007",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.011277321260422468,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.007967893034219742,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.011277321260422468
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06474919617176056,
+          "p95_distance_cap": 0.15975826978683472,
+          "source_coverage_004cap": 0.31856540084388185,
+          "candidate_coverage_004cap": 0.5541125541125541,
+          "score": 0.08871293663978577
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U010",
+      "character": "R",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.010919904615730048,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.00779490452259779,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010919904615730048
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.09741909801959991,
+          "p95_distance_cap": 0.2990056276321411,
+          "source_coverage_004cap": 0.39342105263157895,
+          "candidate_coverage_004cap": 0.553072625698324,
+          "score": 0.14226994216442107
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U011",
+      "character": "G",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.01068315776064992,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.007558157667517662,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01068315776064992
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03340888023376465,
+          "p95_distance_cap": 0.08804137259721756,
+          "source_coverage_004cap": 0.7741935483870968,
+          "candidate_coverage_004cap": 0.5169300225733634,
+          "score": 0.046615086123347284
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U013",
+      "character": "N",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.01018615933135152,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.007061159238219261,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 0.9982456140350877,
+          "score": 0.01018615933135152
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.17524534463882446,
+          "p95_distance_cap": 0.32087409496307373,
+          "source_coverage_004cap": 0.12727272727272726,
+          "candidate_coverage_004cap": 0.15806451612903225,
+          "score": 0.22337645888328553
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U015",
+      "character": "B",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.013248058501631021,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.009938630275428295,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.013248058501631021
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.07526423037052155,
+          "p95_distance_cap": 0.265815794467926,
+          "source_coverage_004cap": 0.4782608695652174,
+          "candidate_coverage_004cap": 0.5954022988505747,
+          "score": 0.11513659954071045
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U018",
+      "character": "N",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0,
+          "p95_distance_cap": 0.0,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.06241549551486969,
+          "p95_distance_cap": 0.11876826733350754,
+          "source_coverage_004cap": 0.2508710801393728,
+          "candidate_coverage_004cap": 0.3068893528183716,
+          "score": 0.08023073561489583
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U020",
+      "character": "H",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.008167132642120123,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.005499778315424919,
+          "p95_distance_cap": 0.017782362177968025,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.008167132642120123
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.2050284445285797,
+          "p95_distance_cap": 0.4100000262260437,
+          "source_coverage_004cap": 0.1146288209606987,
+          "candidate_coverage_004cap": 0.26198083067092653,
+          "score": 0.26652844846248624
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U022",
+      "character": "T",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.007542437082156539,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.005332728382200003,
+          "p95_distance_cap": 0.014731391333043575,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.007542437082156539
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.07223843038082123,
+          "p95_distance_cap": 0.20650577545166016,
+          "source_coverage_004cap": 0.2936241610738255,
+          "candidate_coverage_004cap": 0.6797752808988764,
+          "score": 0.10321429669857025
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U025",
+      "character": "C",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.010543476138263942,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.007418476045131683,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010543476138263942
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.045745186507701874,
+          "p95_distance_cap": 0.12889233231544495,
+          "source_coverage_004cap": 0.44801980198019803,
+          "candidate_coverage_004cap": 0.6206896551724138,
+          "score": 0.06507903635501862
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U027",
+      "character": "B",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.0099563573487103,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.006831357255578041,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0099563573487103
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.07891787588596344,
+          "p95_distance_cap": 0.26843762397766113,
+          "source_coverage_004cap": 0.4665841584158416,
+          "candidate_coverage_004cap": 0.5816554809843401,
+          "score": 0.1191835194826126
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U029",
+      "character": "B",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.013807083945721388,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.010497655719518661,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.013807083945721388
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0737936794757843,
+          "p95_distance_cap": 0.2508346736431122,
+          "source_coverage_004cap": 0.4476309226932668,
+          "candidate_coverage_004cap": 0.5816091954022988,
+          "score": 0.11141888052225113
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U030",
+      "character": "E",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.010707472264766694,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.007582472171634436,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 0.9986945169712794,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010707472264766694
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.08921927213668823,
+          "p95_distance_cap": 0.26349228620529175,
+          "source_coverage_004cap": 0.391644908616188,
+          "candidate_coverage_004cap": 0.5344827586206896,
+          "score": 0.12874311506748198
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U032",
+      "character": "R",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.012196013052016497,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.00907101295888424,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.012196013052016497
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.09517574310302734,
+          "p95_distance_cap": 0.29037976264953613,
+          "source_coverage_004cap": 0.41888297872340424,
+          "candidate_coverage_004cap": 0.5433526011560693,
+          "score": 0.13873270750045777
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U041",
+      "character": "A",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.01156834913417697,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.008443349041044712,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01156834913417697
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.09555600583553314,
+          "p95_distance_cap": 0.22649794816970825,
+          "source_coverage_004cap": 0.23109243697478993,
+          "candidate_coverage_004cap": 0.3836734693877551,
+          "score": 0.12953069806098938
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U043",
+      "character": "R",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.010767382383346558,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0076423822902143,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010767382383346558
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.09932893514633179,
+          "p95_distance_cap": 0.30030351877212524,
+          "source_coverage_004cap": 0.3810160427807487,
+          "candidate_coverage_004cap": 0.5308988764044944,
+          "score": 0.14437446296215056
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U044",
+      "character": "5",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.014127115719020367,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.01011020876467228,
+          "p95_distance_cap": 0.026779379695653915,
+          "source_coverage_004cap": 0.9801980198019802,
+          "candidate_coverage_004cap": 0.9947089947089947,
+          "score": 0.014127115719020367
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.05656217783689499,
+          "p95_distance_cap": 0.10526737570762634,
+          "source_coverage_004cap": 0.35148514851485146,
+          "candidate_coverage_004cap": 0.26512968299711814,
+          "score": 0.07235228419303893
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U048",
+      "character": "Z",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0,
+          "p95_distance_cap": 0.0,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.02434472180902958,
+          "p95_distance_cap": 0.13911178708076477,
+          "source_coverage_004cap": 0.8983050847457628,
+          "candidate_coverage_004cap": 0.796976241900648,
+          "score": 0.04521148987114429
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U057",
+      "character": "T",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.010383541509509087,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.007258541416376829,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010383541509509087
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0699678584933281,
+          "p95_distance_cap": 0.20357900857925415,
+          "source_coverage_004cap": 0.3148148148148148,
+          "candidate_coverage_004cap": 0.6888888888888889,
+          "score": 0.10050470978021622
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U063",
+      "character": "8",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.011382473912090064,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.008257473818957806,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.011382473912090064
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.04982416704297066,
+          "p95_distance_cap": 0.14724910259246826,
+          "source_coverage_004cap": 0.45776566757493187,
+          "candidate_coverage_004cap": 0.5982905982905983,
+          "score": 0.0719115324318409
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U066",
+      "character": "8",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.018713845685124398,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.014026345685124397,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.018713845685124398
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03461369127035141,
+          "p95_distance_cap": 0.09522122144699097,
+          "source_coverage_004cap": 0.6872427983539094,
+          "candidate_coverage_004cap": 0.5208681135225376,
+          "score": 0.04889687448740006
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U076",
+      "character": "B",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.01723375916481018,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.01176500879228115,
+          "p95_distance_cap": 0.0364583358168602,
+          "source_coverage_004cap": 0.9473023839397742,
+          "candidate_coverage_004cap": 0.9648058252427184,
+          "score": 0.01723375916481018
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.08568121492862701,
+          "p95_distance_cap": 0.2847723364830017,
+          "source_coverage_004cap": 0.3889585947302384,
+          "candidate_coverage_004cap": 0.5117773019271948,
+          "score": 0.12839706540107726
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_U077",
+      "character": "A",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.01836879290640354,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.013815334066748619,
+          "p95_distance_cap": 0.03035639226436615,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01836879290640354
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.08687141537666321,
+          "p95_distance_cap": 0.21123170852661133,
+          "source_coverage_004cap": 0.21120689655172414,
+          "candidate_coverage_004cap": 0.28688524590163933,
+          "score": 0.11855617165565491
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO000",
+      "character": "D",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.006820329744368791,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.003695329651236534,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.006820329744368791
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.050525546073913574,
+          "p95_distance_cap": 0.1302083432674408,
+          "source_coverage_004cap": 0.5732758620689655,
+          "candidate_coverage_004cap": 0.477491961414791,
+          "score": 0.07005679756402969
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO001",
+      "character": "G",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.014771208912134171,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.01008370891213417,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.014771208912134171
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.035914674401283264,
+          "p95_distance_cap": 0.0997597947716713,
+          "source_coverage_004cap": 0.7301587301587301,
+          "candidate_coverage_004cap": 0.5208791208791209,
+          "score": 0.05087864361703396
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO003",
+      "character": "D",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.004552241554483772,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.002342532854527235,
+          "p95_distance_cap": 0.014731391333043575,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.004552241554483772
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0516081303358078,
+          "p95_distance_cap": 0.1302083432674408,
+          "source_coverage_004cap": 0.5535714285714286,
+          "candidate_coverage_004cap": 0.426517571884984,
+          "score": 0.07113938182592391
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO004",
+      "character": "D",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.007775593176484108,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.004373950883746147,
+          "p95_distance_cap": 0.02267761528491974,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.007775593176484108
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.05130381882190704,
+          "p95_distance_cap": 0.1302083432674408,
+          "source_coverage_004cap": 0.5580357142857143,
+          "candidate_coverage_004cap": 0.4533762057877814,
+          "score": 0.07083507031202316
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO005",
+      "character": "D",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.009930151980370283,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.005432488396763802,
+          "p95_distance_cap": 0.029984423890709877,
+          "source_coverage_004cap": 0.9725490196078431,
+          "candidate_coverage_004cap": 0.9722222222222222,
+          "score": 0.009930151980370283
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.06975530833005905,
+          "p95_distance_cap": 0.1979600340127945,
+          "source_coverage_004cap": 0.592156862745098,
+          "candidate_coverage_004cap": 0.42048929663608564,
+          "score": 0.09944931343197823
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO006",
+      "character": "G",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.00980524867773056,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.006953466217964888,
+          "p95_distance_cap": 0.019011883065104485,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.00980524867773056
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.05002434551715851,
+          "p95_distance_cap": 0.1202879399061203,
+          "source_coverage_004cap": 0.3309982486865149,
+          "candidate_coverage_004cap": 0.5846774193548387,
+          "score": 0.06806753650307655
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO007",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.016074566915631295,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.011387066915631294,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 0.9767932489451476,
+          "candidate_coverage_004cap": 0.997872340425532,
+          "score": 0.016074566915631295
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06387468427419662,
+          "p95_distance_cap": 0.1661064773797989,
+          "source_coverage_004cap": 0.3143459915611814,
+          "candidate_coverage_004cap": 0.5844155844155844,
+          "score": 0.08879065588116646
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO008",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.015597264096140862,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.010782985016703606,
+          "p95_distance_cap": 0.03209519386291504,
+          "source_coverage_004cap": 0.9619686800894854,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.015597264096140862
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.07333095371723175,
+          "p95_distance_cap": 0.17024584114551544,
+          "source_coverage_004cap": 0.27293064876957496,
+          "candidate_coverage_004cap": 0.461864406779661,
+          "score": 0.09886782988905907
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO009",
+      "character": "G",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.015348003059625626,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.010660503059625626,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 0.981203007518797,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.015348003059625626
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.05986546352505684,
+          "p95_distance_cap": 0.1281246393918991,
+          "source_coverage_004cap": 0.31390977443609025,
+          "candidate_coverage_004cap": 0.5098814229249012,
+          "score": 0.0790841594338417
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO010",
+      "character": "G",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.012665972858667374,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.008413884788751602,
+          "p95_distance_cap": 0.028347253799438477,
+          "source_coverage_004cap": 0.9903846153846154,
+          "candidate_coverage_004cap": 0.961038961038961,
+          "score": 0.012665972858667374
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.05206309258937836,
+          "p95_distance_cap": 0.12828201055526733,
+          "source_coverage_004cap": 0.3346153846153846,
+          "candidate_coverage_004cap": 0.5614754098360656,
+          "score": 0.07130539417266846
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO011",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.010896324459463359,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0077713243663311005,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010896324459463359
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06697534769773483,
+          "p95_distance_cap": 0.16540353000164032,
+          "source_coverage_004cap": 0.30735930735930733,
+          "candidate_coverage_004cap": 0.5482456140350878,
+          "score": 0.09178587719798088
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO012",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.014965069852769373,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.010874391533434391,
+          "p95_distance_cap": 0.02727118879556656,
+          "source_coverage_004cap": 0.9749478079331941,
+          "candidate_coverage_004cap": 0.9979035639412998,
+          "score": 0.014965069852769373
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06767675280570984,
+          "p95_distance_cap": 0.16605402529239655,
+          "source_coverage_004cap": 0.32150313152400833,
+          "candidate_coverage_004cap": 0.5355648535564853,
+          "score": 0.09258485659956932
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO013",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.010412803199142218,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.00728780310600996,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.010412803199142218
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06258904933929443,
+          "p95_distance_cap": 0.15861590206623077,
+          "source_coverage_004cap": 0.3235908141962422,
+          "candidate_coverage_004cap": 0.6,
+          "score": 0.08638143464922905
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO014",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.013639680575579405,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.010330252349376678,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 0.979296066252588,
+          "score": 0.013639680575579405
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0682091936469078,
+          "p95_distance_cap": 0.16446459293365479,
+          "source_coverage_004cap": 0.3135593220338983,
+          "candidate_coverage_004cap": 0.5454545454545454,
+          "score": 0.09287888258695602
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO015",
+      "character": "R",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.01069198502227664,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.006735348142683506,
+          "p95_distance_cap": 0.02637757919728756,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 0.9973579920739762,
+          "score": 0.01069198502227664
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.09777937084436417,
+          "p95_distance_cap": 0.2914559841156006,
+          "source_coverage_004cap": 0.3647214854111406,
+          "candidate_coverage_004cap": 0.5369318181818182,
+          "score": 0.14149776846170425
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO016",
+      "character": "G",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.00978991100564599,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.007122556678950787,
+          "p95_distance_cap": 0.017782362177968025,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.00978991100564599
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.05193019658327103,
+          "p95_distance_cap": 0.15070238709449768,
+          "source_coverage_004cap": 0.3291592128801431,
+          "candidate_coverage_004cap": 0.5590551181102362,
+          "score": 0.07453555464744568
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO017",
+      "character": "D",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.0027614510850980877,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.001198951038531959,
+          "p95_distance_cap": 0.010416666977107525,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.0027614510850980877
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.05188446119427681,
+          "p95_distance_cap": 0.1302083432674408,
+          "source_coverage_004cap": 0.5701754385964912,
+          "candidate_coverage_004cap": 0.43130990415335463,
+          "score": 0.07141571268439292
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO019",
+      "character": "G",
+      "style_id": "pdf_cad_stroke",
+      "selected_best": "romans",
+      "best_score": 0.009754960238933564,
+      "scores": [
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.006629960145801306,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.009754960238933564
+        },
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.03478222340345383,
+          "p95_distance_cap": 0.07966640591621399,
+          "source_coverage_004cap": 0.6185567010309279,
+          "candidate_coverage_004cap": 0.452914798206278,
+          "score": 0.04673218429088592
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO022",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.016855082288384438,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.012167582288384438,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 0.979381443298969,
+          "candidate_coverage_004cap": 0.9688149688149689,
+          "score": 0.016855082288384438
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06556005030870438,
+          "p95_distance_cap": 0.16421857476234436,
+          "source_coverage_004cap": 0.3154639175257732,
+          "candidate_coverage_004cap": 0.5909090909090909,
+          "score": 0.09019283652305603
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO023",
+      "character": "B",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.013214601576328276,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.009123923256993294,
+          "p95_distance_cap": 0.02727118879556656,
+          "source_coverage_004cap": 0.9610705596107056,
+          "candidate_coverage_004cap": 0.9682151589242054,
+          "score": 0.013214601576328276
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.08192654699087143,
+          "p95_distance_cap": 0.27884358167648315,
+          "source_coverage_004cap": 0.43795620437956206,
+          "candidate_coverage_004cap": 0.5239130434782608,
+          "score": 0.12375308424234391
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO024",
+      "character": "3",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.011930129770189524,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.008805129677057266,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.011930129770189524
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.06899891048669815,
+          "p95_distance_cap": 0.16210897266864777,
+          "source_coverage_004cap": 0.30701754385964913,
+          "candidate_coverage_004cap": 0.5148936170212766,
+          "score": 0.09331525638699531
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO025",
+      "character": "R",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.0135280167683959,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.009437338449060917,
+          "p95_distance_cap": 0.02727118879556656,
+          "source_coverage_004cap": 0.990728476821192,
+          "candidate_coverage_004cap": 0.9725848563968669,
+          "score": 0.0135280167683959
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.10101847350597382,
+          "p95_distance_cap": 0.30183902382850647,
+          "source_coverage_004cap": 0.38145695364238413,
+          "candidate_coverage_004cap": 0.5290858725761773,
+          "score": 0.14629432708024978
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO026",
+      "character": "G",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.017734358459711073,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.012707812711596489,
+          "p95_distance_cap": 0.03351030498743057,
+          "source_coverage_004cap": 0.9562043795620438,
+          "candidate_coverage_004cap": 0.9945945945945946,
+          "score": 0.017734358459711073
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.058561597019433975,
+          "p95_distance_cap": 0.13018596172332764,
+          "source_coverage_004cap": 0.2864963503649635,
+          "candidate_coverage_004cap": 0.4921875,
+          "score": 0.07808949127793312
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO027",
+      "character": "B",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.01464270642027259,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.010870497673749924,
+          "p95_distance_cap": 0.0251480583101511,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.01464270642027259
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.0773748904466629,
+          "p95_distance_cap": 0.2765680253505707,
+          "source_coverage_004cap": 0.48759305210918114,
+          "candidate_coverage_004cap": 0.5831485587583148,
+          "score": 0.11886009424924851
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO028",
+      "character": "B",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.012850168626755476,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.00954074040055275,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 0.9865689865689866,
+          "score": 0.012850168626755476
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.07998163998126984,
+          "p95_distance_cap": 0.2741139233112335,
+          "source_coverage_004cap": 0.4703703703703704,
+          "candidate_coverage_004cap": 0.5847826086956521,
+          "score": 0.12109872847795486
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO029",
+      "character": "8",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.011272440943866969,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.00814744085073471,
+          "p95_distance_cap": 0.02083333395421505,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.011272440943866969
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.04924146085977554,
+          "p95_distance_cap": 0.14650295674800873,
+          "source_coverage_004cap": 0.4819759679572764,
+          "candidate_coverage_004cap": 0.6203966005665722,
+          "score": 0.07121690437197685
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_AUTO030",
+      "character": "R",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.012963307555764914,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.009653879329562187,
+          "p95_distance_cap": 0.02206285484135151,
+          "source_coverage_004cap": 1.0,
+          "candidate_coverage_004cap": 1.0,
+          "score": 0.012963307555764914
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.09681501984596252,
+          "p95_distance_cap": 0.2952572703361511,
+          "source_coverage_004cap": 0.391820580474934,
+          "candidate_coverage_004cap": 0.53125,
+          "score": 0.1411036103963852
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_R000",
+      "character": "r",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.0205166794359684,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.0158291794359684,
+          "p95_distance_cap": 0.03125,
+          "source_coverage_004cap": 0.9860788863109049,
+          "candidate_coverage_004cap": 0.9818181818181818,
+          "score": 0.0205166794359684
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.1876007318496704,
+          "p95_distance_cap": 0.3802518844604492,
+          "source_coverage_004cap": 0.08120649651972157,
+          "candidate_coverage_004cap": 0.21226415094339623,
+          "score": 0.2446385145187378
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_R001",
+      "character": "r",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.02474488765001297,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.017524074763059616,
+          "p95_distance_cap": 0.048138752579689026,
+          "source_coverage_004cap": 0.9410480349344978,
+          "candidate_coverage_004cap": 0.8986486486486487,
+          "score": 0.02474488765001297
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.1634027361869812,
+          "p95_distance_cap": 0.36851730942726135,
+          "source_coverage_004cap": 0.1615720524017467,
+          "candidate_coverage_004cap": 0.30697674418604654,
+          "score": 0.2186803326010704
+        }
+      ]
+    },
+    {
+      "source_id": "pdf_R002",
+      "character": "r",
+      "style_id": "pdf_serif_outline",
+      "selected_best": "italict",
+      "best_score": 0.015478858724236488,
+      "scores": [
+        {
+          "font_id": "italict",
+          "mean_distance_cap": 0.010191492736339569,
+          "p95_distance_cap": 0.03524910658597946,
+          "source_coverage_004cap": 0.9788235294117648,
+          "candidate_coverage_004cap": 0.958904109589041,
+          "score": 0.015478858724236488
+        },
+        {
+          "font_id": "romans",
+          "mean_distance_cap": 0.17419077455997467,
+          "p95_distance_cap": 0.3435761332511902,
+          "source_coverage_004cap": 0.09176470588235294,
+          "candidate_coverage_004cap": 0.21904761904761905,
+          "score": 0.2257271945476532
+        }
+      ]
+    }
+  ],
+  "no_model_training": true,
+  "no_mass_augmentation": true
+}

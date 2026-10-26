@@ -1,0 +1,1394 @@
+{
+  "font_id": "gulimche_filled_table_candidate",
+  "folder": "03_calibrated_candidates/gulimche_filled_table_candidate",
+  "display_name": "신규 후보: 굴림체 · 표 숫자 채움형",
+  "provenance_status": "source_compared_installed_font_candidate",
+  "source": "evidence/style_specs.json",
+  "family_id": "gulimche",
+  "exact_original_font_identified": false,
+  "review_note": "표 숫자 2의 비교 후보. 근거 문자가 적어 별도 원본 글꼴 확정은 보류. 실제 표 숫자·m은 원본 세트에 별도 보존.",
+  "rendering": {
+    "id": "gulimche_filled_table_candidate",
+    "family_id": "gulimche",
+    "display_name": "신규 후보: 굴림체 · 표 숫자 채움형",
+    "review_note": "표 숫자 2의 비교 후보. 근거 문자가 적어 별도 원본 글꼴 확정은 보류. 실제 표 숫자·m은 원본 세트에 별도 보존.",
+    "vector_json": "output/drawing_font_dataset_20261026/revision2/missing_font_matches/vectors/gulim_face1.json",
+    "render_mode": "filled",
+    "width_factor": 1.0,
+    "stroke_ratio": 0.0,
+    "source_evidence": "missing_font_matches/matches.json#LF17"
+  },
+  "glyphs": [
+    {
+      "char": "0",
+      "class_id": 52,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0030_0.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0030_0.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        226,
+        158,
+        414,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "e906316f0dc4a01a1666f449529074fbf617cb5bb352a0510bf96b4ee0c356f8",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "1",
+      "class_id": 53,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0031_1.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0031_1.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        277,
+        158,
+        363,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "6fbb45925570a7f24aae67546c997525d6d14c309b666969aa67aeb397a2ecb3",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "2",
+      "class_id": 54,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0032_2.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0032_2.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        225,
+        158,
+        415,
+        474
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "d4344f79865e940f9aba5f34cfd5a1b9b722f5c94729057cbca915ccd3517fa3",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "3",
+      "class_id": 55,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0033_3.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0033_3.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        226,
+        158,
+        414,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "b237381fba62b9ee02cf975a592adb96b766e508c2b9a8cb52f48b4e6577e37f",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "4",
+      "class_id": 56,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0034_4.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0034_4.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        215,
+        158,
+        425,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c936003520c7ced40c1b76bc79cceb86fa19dfae4125c5271076299d03377505",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "5",
+      "class_id": 57,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0035_5.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0035_5.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        225,
+        165,
+        415,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "b763fc8ae3cce94f7eef448c495c450160df68fde7ff7265bf01f0342d793e5f",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "6",
+      "class_id": 58,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0036_6.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0036_6.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        225,
+        158,
+        415,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "f82d0671eb58c86bae6ed09000d381c14e31178d75571b1c1bd69d58da253e07",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "7",
+      "class_id": 59,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0037_7.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0037_7.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        221,
+        165,
+        419,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "735e47a8d0bda1cd36ce876d3e01c80a72e19e82fa979f7b3771cc910e6ff969",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "8",
+      "class_id": 60,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0038_8.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0038_8.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        224,
+        158,
+        416,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "39400959cd270a9a11e1a3d8e434a6b9e8d96afb35e5fa513ddc9baa935e38a7",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "9",
+      "class_id": 61,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0039_9.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0039_9.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        226,
+        158,
+        414,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "2d97205f8defa530445e49a306d47d9f43d5b08a447773604c1166a5562d71d2",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "a",
+      "class_id": 26,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0061_a.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0061_a.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        227,
+        241,
+        413,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9d59c6672c6bc1a8fdc88c238f99023a702a708787da9cfca6b32c9e560cc69b",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "b",
+      "class_id": 27,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0062_b.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0062_b.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        232,
+        158,
+        408,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c9c00a391a3b19de2a40a6ee78ce9a44fe9b2ecb794b5a8b4b18ac0bf060a4ea",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "c",
+      "class_id": 28,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0063_c.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0063_c.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        232,
+        241,
+        408,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "1ab53322154c0d6334fe9994e11e56141a02129609ed8ec424d761e5ceb63511",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "d",
+      "class_id": 29,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0064_d.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0064_d.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        232,
+        158,
+        408,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "f06b2d1eeb942c92eb17a0dc710f65962f279154e16fccb70899b911f52af2cc",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "e",
+      "class_id": 30,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0065_e.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0065_e.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        229,
+        241,
+        411,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "f43e59834df152fc8a1b614be51a6aab3b73ee61928278fd1d3a485327e72bcf",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "f",
+      "class_id": 31,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0066_f.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0066_f.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        266,
+        158,
+        374,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "cbba6d10711603d7dea40ca5f5d8d03b6d09b86447ee8a6e189bde676ab697b2",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "g",
+      "class_id": 32,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0067_g.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0067_g.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        230,
+        241,
+        410,
+        534
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "0b980452124c203a86423d9e5d8b5af6d779a325028b1e58c36eff6f4e1fdbf6",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "h",
+      "class_id": 33,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0068_h.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0068_h.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        233,
+        158,
+        407,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "fe2ec55d3695b15fd70288a837b89a357210b76363a76db4b08349e722f3d32f",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "i",
+      "class_id": 34,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0069_i.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0069_i.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        297,
+        158,
+        343,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "f21b9c91185962a670f8c55680d8a8b11c7a802d6533863669aed2fa28a39768",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "j",
+      "class_id": 35,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U006A_j.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U006A_j.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        279,
+        158,
+        361,
+        534
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "3221bbc900113183677bf9975d6a2f52e6433b3d7a26f806161e8240e62ada61",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "k",
+      "class_id": 36,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U006B_k.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U006B_k.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        233,
+        158,
+        407,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "cfe2e0343035a7a7005a9498814dc1e18bde22e6749f52f5215ad4989cac44e0",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "l",
+      "class_id": 37,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U006C_l.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U006C_l.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        305,
+        158,
+        335,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "8c5cfcd0a0e1faac3f893fe8ceba87173f49b4218438dece8504b58cf1010013",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "m",
+      "class_id": 38,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U006D_m.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U006D_m.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        229,
+        241,
+        411,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "afd37916ba8d1e7cce2dbe0f976da640e52bceab15b1e4f9e45dc88941c641d5",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "n",
+      "class_id": 39,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U006E_n.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U006E_n.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        242,
+        241,
+        398,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c459776f338009af404074385065b6061dd9f228a7d25ad878e799bfa222b5d0",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "o",
+      "class_id": 40,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U006F_o.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U006F_o.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        227,
+        241,
+        413,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c1fa3a987e19e8a2589f8e2ef0245c8e046f77035c6676dccf559e32c3210cc4",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "p",
+      "class_id": 41,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0070_p.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0070_p.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        232,
+        241,
+        408,
+        534
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "42dbc89f3adfc524967c97d48c1fa11ba94f0d84bb882334c02905910b43780b",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "q",
+      "class_id": 42,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0071_q.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0071_q.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        232,
+        241,
+        408,
+        534
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "25c701bfc8d44406848f23ee5ae714f6d677f0427b78227c2f5bba8c19bea70c",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "r",
+      "class_id": 43,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0072_r.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0072_r.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        271,
+        241,
+        369,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "4ca0b5cf1f63f4af4e81163d9c4435639ec53f950e91698b8a2c8c874c0a4705",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "s",
+      "class_id": 44,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0073_s.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0073_s.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        233,
+        241,
+        407,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c07f598d603b0ec33f2dd9bfbd4792edb9a29ff7a57e0345ff2a5788e3b8bb6c",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "t",
+      "class_id": 45,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0074_t.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0074_t.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        266,
+        177,
+        374,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "814e33ac5eb7cd46e7cf4ff475370773da02e65a80890dff6c1b014e7b038641",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "u",
+      "class_id": 46,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0075_u.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0075_u.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        237,
+        238,
+        403,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "574c1300de9226fb3a49915c2690d50238b10915180758cc594ba8e3884ba657",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "v",
+      "class_id": 47,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0076_v.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0076_v.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        228,
+        241,
+        412,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "a3d63cf360af53bb4ba28da54af568fd042cad858fb2dac01c07447d3a4ad92d",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "w",
+      "class_id": 48,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0077_w.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0077_w.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        218,
+        240,
+        422,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "618f776179ec3c376a21aeb9bac2d2f6561fd4e8fc77bd4b013b0d1a7c304083",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "x",
+      "class_id": 49,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0078_x.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0078_x.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        234,
+        240,
+        406,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "0f0efb277ba8521461ede19f004e1b60fd0ec8090f1dbe153074a4ef43ab3160",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "y",
+      "class_id": 50,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0079_y.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0079_y.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        229,
+        240,
+        411,
+        534
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "91aff53c39412493e04b56accd5a3cbfabe78e7a83df333179549dedcf0fcea0",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "z",
+      "class_id": 51,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U007A_z.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U007A_z.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        228,
+        248,
+        412,
+        474
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "51b3ac3da1160a8445bc70d6be6929de93336a446fea056f1f1fb3b57f21aac7",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "A",
+      "class_id": 0,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0041_A.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0041_A.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        217,
+        158,
+        423,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "5b89ff17849c2da0da5f523afcb1bbd27c8ad9338d4c7582b7148e4c9a5a9793",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "B",
+      "class_id": 1,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0042_B.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0042_B.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        228,
+        165,
+        412,
+        474
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "22706ec41c583ce0f31ef4b69883c7f36664547db7609fd33a7f87da70d853c9",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "C",
+      "class_id": 2,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0043_C.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0043_C.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        226,
+        158,
+        414,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "794e0abc4dde050807092693ebf920f07a033d93f9312bc6da0166fd7df2efe7",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "D",
+      "class_id": 3,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0044_D.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0044_D.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        229,
+        165,
+        411,
+        474
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "3373e332fa95806ecb85c30a0b399a4150032e5d980b122b2df6289c9068243f",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "E",
+      "class_id": 4,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0045_E.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0045_E.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        231,
+        165,
+        409,
+        474
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c8f87ff6f3ded406c8e81c3b55b4e2d2c583452363ea935f014f1beec89e769d",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "F",
+      "class_id": 5,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0046_F.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0046_F.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        231,
+        165,
+        409,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "2df8c78f364945bb2c4b565bc7bd4cc7892822ae7d3ac6330530ad9a6d23fcf9",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "G",
+      "class_id": 6,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0047_G.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0047_G.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        225,
+        158,
+        415,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "df918be3038ed986fb08f69f5fa2284171b7e8f1728cbf2591b6acfb1eac48ac",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "H",
+      "class_id": 7,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0048_H.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0048_H.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        228,
+        158,
+        412,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "4ecc9ce953c3d3af50358889303954b71f55c9fa570a8c3cfde992fd3a12983a",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "I",
+      "class_id": 8,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0049_I.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0049_I.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        305,
+        158,
+        335,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "6fb55f572e31bea6345ef7ca1790cdf80891ff3f2e8ddc537eb9a5aa1b231e34",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "J",
+      "class_id": 9,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U004A_J.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U004A_J.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        247,
+        158,
+        393,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "246fe545da47e7fa489f3b91b0896f3e83f662800cf768415109923d2360667d",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "K",
+      "class_id": 10,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U004B_K.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U004B_K.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        225,
+        157,
+        415,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "103ede3697f28cbdd945480c146e3d7d26dd827405fd2fe1ccc6a0e7917175df",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "L",
+      "class_id": 11,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U004C_L.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U004C_L.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        232,
+        158,
+        408,
+        474
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "bcc8f5fb1872fa48b0cfd7adedc8125e1c1372e927f244edc377548340823dd3",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "M",
+      "class_id": 12,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U004D_M.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U004D_M.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        228,
+        158,
+        412,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "505abf59fa00fa3598a4e6ce0bbf596675764f1c501b382dd8e99d48eec535d9",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "N",
+      "class_id": 13,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U004E_N.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U004E_N.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        236,
+        158,
+        404,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c7636b45ffa9de818a09f27fe2c57043044472fc416d8722ed295fad2543de93",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "O",
+      "class_id": 14,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U004F_O.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U004F_O.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        225,
+        158,
+        415,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "acdc5554318d46d0d8d4ef19d75c09584fa454310f89fc4ca9cb0e30868f4e15",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "P",
+      "class_id": 15,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0050_P.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0050_P.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        229,
+        165,
+        411,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "43a98ff26b2787f27e71f2df376b5e764be09cd7bd3a810338af22cfa5c0717f",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "Q",
+      "class_id": 16,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0051_Q.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0051_Q.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        224,
+        158,
+        416,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "1f6a3e927ca35842f190340ef91f76e79edfac1199124148a77092ad62c457b5",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "R",
+      "class_id": 17,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0052_R.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0052_R.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        227,
+        165,
+        413,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "93849a54620fb81e50b2abadd8f9a4db5b182104d1d4f01ff1445e5846432bde",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "S",
+      "class_id": 18,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0053_S.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0053_S.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        224,
+        158,
+        416,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "7cb713d79412a789183f93b47bd041722e9785206956581d3605167590282ecc",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "T",
+      "class_id": 19,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0054_T.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0054_T.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        219,
+        165,
+        421,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "641865f3cb0a098952478b979a245b2a5434e39f819bce75df27341ac4c3c25e",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "U",
+      "class_id": 20,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0055_U.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0055_U.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        230,
+        158,
+        410,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "e7a62bcea56a5b0d2bda0e425a8658fdbb45a04aa4746dbc1b61349a2c79d809",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "V",
+      "class_id": 21,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0056_V.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0056_V.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        223,
+        158,
+        417,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "fdf20cc9b52e4818ea76c2e08ce55db01b553b9eef1a064541b15ad26c0a01f6",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "W",
+      "class_id": 22,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0057_W.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0057_W.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        214,
+        158,
+        426,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "974d50569f069d434452b2ee94ca3657786febedbf00eba39aa6f080bff3f76e",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "X",
+      "class_id": 23,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0058_X.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0058_X.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        229,
+        158,
+        411,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "eb70241ed00830896706907e33d8deb24a580347e86460060ff9a43e4f92b084",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "Y",
+      "class_id": 24,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U0059_Y.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U0059_Y.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        221,
+        158,
+        419,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "eb8f48aef1c0b9898bd6b619ecb6ad8992e926e0ed8911a77a58169342eae102",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    },
+    {
+      "char": "Z",
+      "class_id": 25,
+      "image": "03_calibrated_candidates/gulimche_filled_table_candidate/images/U005A_Z.png",
+      "label": "03_calibrated_candidates/gulimche_filled_table_candidate/labels/U005A_Z.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        218,
+        165,
+        422,
+        474
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "b9f2ae729c06511f247598fda72a9bbf990e073b7e3bbacbcb6decd36dd573db",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "05a38ff214ee932c6147a4e697b494040fd68ce654795f10f723c01d7bb8ee12"
+    }
+  ],
+  "missing_chars": [],
+  "complete": true,
+  "image_size": [
+    640,
+    640
+  ],
+  "contact_sheet": "03_calibrated_candidates/gulimche_filled_table_candidate/contact_sheet.png"
+}

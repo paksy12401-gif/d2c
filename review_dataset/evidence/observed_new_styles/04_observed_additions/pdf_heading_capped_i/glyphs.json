@@ -1,0 +1,391 @@
+{
+  "font_id": "pdf_heading_capped_i",
+  "folder": "04_observed_additions/pdf_heading_capped_i",
+  "display_name": "원본: 넓은 각진 VIEW · 가로획 있는 I",
+  "provenance_status": "observed_pdf_glyphs_partial_not_complete_font",
+  "source": "source_geometry.json",
+  "exact_original_font_identified": false,
+  "review_note": "VIEW A/C의 원본 획. I의 위·아래 가로획 포함; 원본 글꼴 이름은 미확정.",
+  "glyphs": [
+    {
+      "char": "A",
+      "class_id": 0,
+      "image": "04_observed_additions/pdf_heading_capped_i/images/U0041_A.png",
+      "label": "04_observed_additions/pdf_heading_capped_i/labels/U0041_A.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        154,
+        153,
+        486,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "62375b4fabf66d75a9012a9314de7dd74d87bdcafc714dc5a5583523cbb9271e",
+      "style_id": "pdf_heading_capped_i",
+      "source_path_ids": [
+        76036,
+        76041
+      ],
+      "source_segment_indices": [
+        154283,
+        154292,
+        154293,
+        154294
+      ],
+      "source_bbox": [
+        781.22998046875,
+        931.6800537109375,
+        789.3800048828125,
+        939.8300170898438
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.026135086701671546,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.14996337890625,
+      "baseline_y": 939.8300170898438,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    },
+    {
+      "char": "C",
+      "class_id": 2,
+      "image": "04_observed_additions/pdf_heading_capped_i/images/U0043_C.png",
+      "label": "04_observed_additions/pdf_heading_capped_i/labels/U0043_C.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        167,
+        153,
+        471,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "1bbc196944f1c4edf7cb11276a29636a04176c4500377e68bea9cdc2af5d6dbe",
+      "style_id": "pdf_heading_capped_i",
+      "source_path_ids": [
+        75679
+      ],
+      "source_segment_indices": [
+        149946,
+        149947,
+        149948,
+        149949,
+        149950,
+        149951,
+        149952
+      ],
+      "source_bbox": [
+        1280.9100341796875,
+        1199.760009765625,
+        1288.3499755859375,
+        1207.9100341796875
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.02613489097721486,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.1500244140625,
+      "baseline_y": 1207.9100341796875,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    },
+    {
+      "char": "E",
+      "class_id": 4,
+      "image": "04_observed_additions/pdf_heading_capped_i/images/U0045_E.png",
+      "label": "04_observed_additions/pdf_heading_capped_i/labels/U0045_E.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        167,
+        153,
+        467,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "91758619a6fc721cd56782140de4d0ab70816ec2a2abc3791a332a5e04b7f56c",
+      "style_id": "pdf_heading_capped_i",
+      "source_path_ids": [
+        76033,
+        76045
+      ],
+      "source_segment_indices": [
+        154280,
+        154305,
+        154306,
+        154307
+      ],
+      "source_bbox": [
+        751.25,
+        931.6800537109375,
+        758.6900024414062,
+        939.8300170898438
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.026135086701671546,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.14996337890625,
+      "baseline_y": 939.8300170898438,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    },
+    {
+      "char": "I",
+      "class_id": 8,
+      "image": "04_observed_additions/pdf_heading_capped_i/images/U0049_I.png",
+      "label": "04_observed_additions/pdf_heading_capped_i/labels/U0049_I.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        270,
+        153,
+        370,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "798b738a16c0d01133e849642ed4009e187d6b968b6c3e3f8638330542c77e3c",
+      "style_id": "pdf_heading_capped_i",
+      "source_path_ids": [
+        76030,
+        76031,
+        76032
+      ],
+      "source_segment_indices": [
+        154277,
+        154278,
+        154279
+      ],
+      "source_bbox": [
+        747.3499755859375,
+        931.6800537109375,
+        749.760009765625,
+        939.8300170898438
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.026135086701671546,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.14996337890625,
+      "baseline_y": 939.8300170898438,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    },
+    {
+      "char": "V",
+      "class_id": 21,
+      "image": "04_observed_additions/pdf_heading_capped_i/images/U0056_V.png",
+      "label": "04_observed_additions/pdf_heading_capped_i/labels/U0056_V.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        144,
+        156,
+        496,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "a15f5fde7e7afbd7c11fe01db3e05ed1ce2eb3ba9bfbd4787f1a9ee08f94a947",
+      "style_id": "pdf_heading_capped_i",
+      "source_path_ids": [
+        76046
+      ],
+      "source_segment_indices": [
+        154308,
+        154309
+      ],
+      "source_bbox": [
+        737.2899780273438,
+        931.6800537109375,
+        745.9400024414062,
+        939.8300170898438
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.026135086701671546,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.14996337890625,
+      "baseline_y": 939.8300170898438,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    },
+    {
+      "char": "W",
+      "class_id": 22,
+      "image": "04_observed_additions/pdf_heading_capped_i/images/U0057_W.png",
+      "label": "04_observed_additions/pdf_heading_capped_i/labels/U0057_W.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        138,
+        153,
+        502,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "e3201b672c03f95533850e143360768f5f01fb83bbffa9f2b2ab0201ceca359f",
+      "style_id": "pdf_heading_capped_i",
+      "source_path_ids": [
+        76044
+      ],
+      "source_segment_indices": [
+        154301,
+        154302,
+        154303,
+        154304
+      ],
+      "source_bbox": [
+        759.8300170898438,
+        931.6800537109375,
+        768.760009765625,
+        939.8300170898438
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.026135086701671546,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.14996337890625,
+      "baseline_y": 939.8300170898438,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    }
+  ],
+  "missing_chars": [
+    "B",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "X",
+    "Y",
+    "Z",
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z",
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "complete": false,
+  "image_size": [
+    640,
+    640
+  ],
+  "contact_sheet": "04_observed_additions/pdf_heading_capped_i/contact_sheet.png"
+}

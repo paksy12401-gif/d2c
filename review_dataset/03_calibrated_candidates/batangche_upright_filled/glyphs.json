@@ -1,0 +1,1394 @@
+{
+  "font_id": "batangche_upright_filled",
+  "folder": "03_calibrated_candidates/batangche_upright_filled",
+  "display_name": "신규 후보: 바탕체 · 직립 세리프 채움형",
+  "provenance_status": "source_compared_installed_font_candidate",
+  "source": "evidence/style_specs.json",
+  "family_id": "batangche",
+  "exact_original_font_identified": false,
+  "review_note": "LEVER/COVER 원본과 비교한 가장 가까운 설치 후보. 원본의 각진 외곽·손상까지 동일하지는 않음.",
+  "rendering": {
+    "id": "batangche_upright_filled",
+    "family_id": "batangche",
+    "display_name": "신규 후보: 바탕체 · 직립 세리프 채움형",
+    "review_note": "LEVER/COVER 원본과 비교한 가장 가까운 설치 후보. 원본의 각진 외곽·손상까지 동일하지는 않음.",
+    "vector_json": "output/drawing_font_dataset_20261026/revision2/missing_font_matches/vectors/batang_face1.json",
+    "render_mode": "filled",
+    "width_factor": 1.0,
+    "stroke_ratio": 0.0,
+    "source_evidence": "missing_font_matches/matches.json#U01,U02"
+  },
+  "glyphs": [
+    {
+      "char": "0",
+      "class_id": 52,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0030_0.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0030_0.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        226,
+        169,
+        414,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ca0788283d7cfa8df5f9aa8bb478189f895b3f2dd88303302de5068b342828d2",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "1",
+      "class_id": 53,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0031_1.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0031_1.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        242,
+        164,
+        398,
+        475
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "93867ba2a413c688459995cc9b4c916be73dfec630df8556dd2637a0556933b7",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "2",
+      "class_id": 54,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0032_2.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0032_2.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        227,
+        169,
+        413,
+        475
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ad90cb9d50313996d692171557759da98a654a2986d4e094715e80274fcb9558",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "3",
+      "class_id": 55,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0033_3.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0033_3.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        227,
+        169,
+        413,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "4da0c73451089d52a1717b2b7d0db425f075be2a81d541c85077aecb75f910ce",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "4",
+      "class_id": 56,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0034_4.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0034_4.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        220,
+        168,
+        420,
+        475
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "61bbfa4f69252a6c270b95113626d8eb16a46b8cf3ad9ea530fa546d381f6c88",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "5",
+      "class_id": 57,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0035_5.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0035_5.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        228,
+        176,
+        412,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ee6314efeb864567e1297dd94bd66270d47efab67efdddf3a9af17f8902e97db",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "6",
+      "class_id": 58,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0036_6.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0036_6.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        228,
+        169,
+        412,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "f53826fcbcdf86a8a22cc9df8eb56976fa5df8ccd939fdb4809178e35ea6f7d4",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "7",
+      "class_id": 59,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0037_7.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0037_7.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        226,
+        175,
+        415,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "d5904b7071aae39ed6aa1131a181f654182894c0e27cb07a16bd82164ee43660",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "8",
+      "class_id": 60,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0038_8.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0038_8.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        227,
+        169,
+        413,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "4ed43d63b1cc4f25148376ec66c9ae38496c36718e42e10ce97e5df590e629ac",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "9",
+      "class_id": 61,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0039_9.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0039_9.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        228,
+        169,
+        412,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "0f15b7a931c1559e4295fad33a3646465c208f7efb7faf50c62d452bc88c4af8",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "a",
+      "class_id": 26,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0061_a.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0061_a.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        228,
+        269,
+        412,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ec697d34c7e2a97dffbcdcff52b000cce28f548fbb6a59ae3b1686e1ba482dca",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "b",
+      "class_id": 27,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0062_b.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0062_b.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        222,
+        165,
+        419,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9a01664e31d577c65c6dbd8b511d46fa27e514b2802cf4a28fba940725a3ca8c",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "c",
+      "class_id": 28,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0063_c.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0063_c.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        234,
+        269,
+        406,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c2ff433dd179b6c6c7c2c316914254bae04a8b021122045642189e09c0c6e636",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "d",
+      "class_id": 29,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0064_d.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0064_d.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        221,
+        165,
+        419,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "4f0396b68febda94447b69dad2b3bec388e8236368986db9221a4f7336ab1e71",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "e",
+      "class_id": 30,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0065_e.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0065_e.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        228,
+        269,
+        412,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "d60b209fc66780bbcfbc4ef922c1f9722c49e99744faf94e4878c50198e86e01",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "f",
+      "class_id": 31,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0066_f.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0066_f.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        251,
+        163,
+        389,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "232ac0cab871b0df88be84aa407a1484126118901127e77bfbe492b57ddcab51",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "g",
+      "class_id": 32,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0067_g.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0067_g.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        217,
+        267,
+        423,
+        543
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "975a11f665729a43350825d333af3ce8c665f1c48cddcf262486f1cc41d8441e",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "h",
+      "class_id": 33,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0068_h.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0068_h.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        216,
+        165,
+        424,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "4ef8353b05224ac88135140f28782536302754f6203005ffdbbdc53ec94483b3",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "i",
+      "class_id": 34,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0069_i.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0069_i.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        275,
+        161,
+        365,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c80597946e3768f8c2a7d1f7ccec299655b2e97fb7f611c59e00ccae7a18d848",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "j",
+      "class_id": 35,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U006A_j.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U006A_j.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        265,
+        161,
+        375,
+        543
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "498adaff639328a902f19cf0cde6b7138aa3778db37639cfb6308a53054ed93d",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "k",
+      "class_id": 36,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U006B_k.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U006B_k.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        213,
+        165,
+        427,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "30474432d368914cb36a1fccd23a62334d83e4e2ef6ebae84eb9725de55779db",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "l",
+      "class_id": 37,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U006C_l.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U006C_l.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        275,
+        164,
+        366,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "b930a3726c4625c0755ed5d6c8caa439344ac9262b28582611212038b9e54593",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "m",
+      "class_id": 38,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U006D_m.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U006D_m.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        213,
+        269,
+        427,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "7d7095c5d095ca1a110ec8e8800a865f01dc32b8039bbc0ba6aee3ed20dd6cae",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "n",
+      "class_id": 39,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U006E_n.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U006E_n.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        217,
+        269,
+        422,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "90aee16a373cc0e1705953a4ef425591c5d8c4440386004df4e77d2c4c9bbb55",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "o",
+      "class_id": 40,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U006F_o.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U006F_o.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        227,
+        269,
+        413,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "dff8f89e07d00f9da839b8d7dcd576c5fac66015e48bd630cc7cf0eb2232995c",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "p",
+      "class_id": 41,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0070_p.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0070_p.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        222,
+        269,
+        418,
+        543
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "643a12b9adfba9b22f09e4443500b089b369157884d36592edbfdcad8939fabd",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "q",
+      "class_id": 42,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0071_q.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0071_q.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        222,
+        269,
+        417,
+        543
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "79be5ddbd4665ccd1072e03d51762661f16d25c7f5672eac5616edb76ed43d69",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "r",
+      "class_id": 43,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0072_r.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0072_r.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        243,
+        265,
+        397,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "4b61f39e252a249de61347bbbd2b193fa8fd44a1580102f993f127981152d0e3",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "s",
+      "class_id": 44,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0073_s.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0073_s.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        239,
+        269,
+        401,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ec50698de039f599f83a01051f58e1ea92973f6dd47e03490df839cad56238db",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "t",
+      "class_id": 45,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0074_t.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0074_t.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        252,
+        203,
+        387,
+        489
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ce99c21e57bc202f6eb81c3249e90e3d24fc3316bdb75374757820105db102fe",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "u",
+      "class_id": 46,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0075_u.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0075_u.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        217,
+        269,
+        422,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "44567b1952ba1a635a85d9551094f56943e2c85c186a95e9bb2df9fd6f29adfd",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "v",
+      "class_id": 47,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0076_v.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0076_v.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        214,
+        273,
+        426,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "7079428644a1de24981d7b617e4efc97e6f1fc1ce2b0369ead56a023e7690083",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "w",
+      "class_id": 48,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0077_w.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0077_w.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        213,
+        274,
+        427,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ca4801170bbef8aae1b9e74c8c7d223439167d3d9c1db171a9bd7321238e64b5",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "x",
+      "class_id": 49,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0078_x.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0078_x.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        222,
+        274,
+        418,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "cb4f4c612eb9030dbca008424d46158ef0793a6b6e915f83d7ba32513660f0ef",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "y",
+      "class_id": 50,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0079_y.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0079_y.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        210,
+        274,
+        428,
+        543
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "e0fc94997efe5afdc253303359c3bda0149da2b5064b0af2b7b80297fabf32fd",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "z",
+      "class_id": 51,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U007A_z.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U007A_z.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        235,
+        274,
+        405,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "b689420b881fd20a5956c74a6cf67f7b746fd79fdcb8ec15309097d2e85ed0af",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "A",
+      "class_id": 0,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0041_A.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0041_A.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        211,
+        158,
+        429,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ad1924dd8cdc3d181dc5b80b978ec2291937801feca218a9524d415252dec141",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "B",
+      "class_id": 1,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0042_B.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0042_B.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        217,
+        168,
+        423,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "30956da6e3fe46d727b7c1fa0ee43a6dcc7652c96e382af90227cdd29125718c",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "C",
+      "class_id": 2,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0043_C.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0043_C.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        218,
+        161,
+        421,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "1ce6c2fcfc37705d01076b2adc9807b9893a9699f423f72255a6865fb391a65c",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "D",
+      "class_id": 3,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0044_D.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0044_D.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        217,
+        168,
+        423,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "f3c0bf4f61d7c9e7ada99c0be69d92e51b73022a4846f85c5cbd6bec31923160",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "E",
+      "class_id": 4,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0045_E.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0045_E.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        221,
+        168,
+        421,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "f46dd1edd02f5ad1d49d1b6ea37cb65c54e57f359611988d715aec4a7d96aecf",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "F",
+      "class_id": 5,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0046_F.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0046_F.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        217,
+        168,
+        423,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9f70b6e4290f96a7c4fb3c0c1b58f946b4bbc3ad2064151fc7cb70c04d0f07dc",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "G",
+      "class_id": 6,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0047_G.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0047_G.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        213,
+        161,
+        427,
+        489
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "d99768dfc9fc7eaf040bc47c003ed0315d9ef78d911a8cd09086e958b2ee4217",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "H",
+      "class_id": 7,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0048_H.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0048_H.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        217,
+        168,
+        423,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "280b58a3e42e5226af6ca41b57ef0db9ab9223d6658287f52f5339022284ab07",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "I",
+      "class_id": 8,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0049_I.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0049_I.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        266,
+        168,
+        374,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "0eb843bc5109ee2963dbd3b9e05b2fa7a1e473ef4c4f75a27d01d5c1e227184c",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "J",
+      "class_id": 9,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U004A_J.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U004A_J.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        236,
+        168,
+        404,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "7cf6459d0a441299d320cabc36334a2c545969a18a0827236e5e95f2173cbfdf",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "K",
+      "class_id": 10,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U004B_K.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U004B_K.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        213,
+        168,
+        427,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "4ec3180e36b909bb5d6cdd46b427a60e4971a695eeda3746494b5ad45f97d40c",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "L",
+      "class_id": 11,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U004C_L.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U004C_L.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        217,
+        168,
+        423,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "1beafc814869f8f048b3730f28942e88b86763b9be9c4009df4b77f6e9e83d25",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "M",
+      "class_id": 12,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U004D_M.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U004D_M.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        215,
+        168,
+        425,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "0346f0160be174d5649d50930b277e9d3cb5b36e8300e0274405493950b14705",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "N",
+      "class_id": 13,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U004E_N.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U004E_N.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        217,
+        168,
+        423,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "4b9520258e0ed1788694e8ee88427b3e30c4b3410fbe8ba7906ceeca2824368f",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "O",
+      "class_id": 14,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U004F_O.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U004F_O.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        214,
+        161,
+        426,
+        489
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "740c2f17db1a0649fcecde7df3db97187cc176dde1b72475b194873b4ed021c6",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "P",
+      "class_id": 15,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0050_P.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0050_P.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        217,
+        168,
+        423,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "3ae61a39ce9ca5fda60874045a730a0d1c8c6723913bdd32b5952b20a1a04700",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "Q",
+      "class_id": 16,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0051_Q.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0051_Q.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        213,
+        161,
+        427,
+        530
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "70498fdaf6f513f2aaa817831c61ccd78f6b3b006a095515ae40c8eba2d00939",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "R",
+      "class_id": 17,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0052_R.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0052_R.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        213,
+        168,
+        427,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "49ea115d28458796fe26c7f58db39969a9d9658d212ec8bbde80c1fbd2e6ea4e",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "S",
+      "class_id": 18,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0053_S.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0053_S.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        223,
+        161,
+        417,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "5b83b5a8870ad10bd6ec223e07d9947eae8ab46bec9280ae6a2dab976cb2be8e",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "T",
+      "class_id": 19,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0054_T.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0054_T.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        210,
+        168,
+        430,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "556a28d9baaa634fd93ca6aa85a7607b608a7f48e1b1cec46e85c69e0eda8576",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "U",
+      "class_id": 20,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0055_U.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0055_U.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        214,
+        168,
+        426,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "a77723bf89a07315d1d0d589eff4a6d0a1786894087f803c40def14df20dff1d",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "V",
+      "class_id": 21,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0056_V.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0056_V.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        213,
+        168,
+        427,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9d65f59641aaae8597fc898753b893e52cd5e53ced31c3a08f16b7881451d054",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "W",
+      "class_id": 22,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0057_W.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0057_W.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        212,
+        168,
+        428,
+        491
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "28ff4a065360933f68f9ada8823de5e4fa3e0a4d92d92596a681de422728e742",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "X",
+      "class_id": 23,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0058_X.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0058_X.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        214,
+        168,
+        426,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "969eb3a7f021a965eb9ee1d7911b6cebe83b16df57b81f446146d79aeb114cbe",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "Y",
+      "class_id": 24,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U0059_Y.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U0059_Y.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        217,
+        168,
+        423,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "e2ae4cbe57c9df89dfa7be5c90f435ba6ad55899b0d6d0be1d8ac58997f56a43",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    },
+    {
+      "char": "Z",
+      "class_id": 25,
+      "image": "03_calibrated_candidates/batangche_upright_filled/images/U005A_Z.png",
+      "label": "03_calibrated_candidates/batangche_upright_filled/labels/U005A_Z.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        219,
+        168,
+        420,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "56414cd0343d6b9d023fb85c8e5ade0f2c2a93df73d3a8e390cf4bc93a1c304c",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "51d9a8d4205239c865e24b6eb7e6e6dbacfd59c3e2c46f623db0af45e169c9d8"
+    }
+  ],
+  "missing_chars": [],
+  "complete": true,
+  "image_size": [
+    640,
+    640
+  ],
+  "contact_sheet": "03_calibrated_candidates/batangche_upright_filled/contact_sheet.png"
+}

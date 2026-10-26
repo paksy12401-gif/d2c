@@ -1,0 +1,109 @@
+{
+  "styles": [
+    {
+      "id": "romans_normal_source_weight", "family_id": "romans",
+      "display_name": "후보: Romans · 넓은 얇은 CAD",
+      "review_note": "VIEW J 원본과 비교한 후보. 폭 1.0, 상대 선폭 0.02465. 원본 글꼴 이름 확정은 아님.",
+      "vector_json": "output/drawing_font_dataset_20261026/font_inventory/vectors/romans.json",
+      "width_factor": 1.0, "stroke_ratio": 0.024653084236538895,
+      "source_evidence": "observed_new_styles/heading_font_comparison.json"
+    },
+    {
+      "id": "romans_narrow_0500_source_weight", "family_id": "romans",
+      "display_name": "후보: Romans · 좁은 CAD 폭 0.5",
+      "review_note": "기존 원본 표본의 좁은 폭 군집에 맞춘 변형. 상대 선폭도 0.03704로 반영.",
+      "vector_json": "output/drawing_font_dataset_20261026/font_inventory/vectors/romans.json",
+      "width_factor": 0.5, "stroke_ratio": 0.03704308497264062,
+      "source_evidence": "previous_font_matching/source_width_factors.json"
+    },
+    {
+      "id": "romans_narrow_0625_source_weight", "family_id": "romans",
+      "display_name": "후보: Romans · 좁은 CAD 폭 0.625",
+      "review_note": "두 번째 폭 군집의 변형. 상대 선폭 0.04919. 별도 글꼴 가족으로 세지 않음.",
+      "vector_json": "output/drawing_font_dataset_20261026/font_inventory/vectors/romans.json",
+      "width_factor": 0.625, "stroke_ratio": 0.04919218505522117,
+      "source_evidence": "previous_font_matching/source_width_factors.json"
+    },
+    {
+      "id": "italict_title_source_weight", "family_id": "italict",
+      "display_name": "후보: ItalicT · 원본 제목 선 굵기 반영",
+      "review_note": "FRT_WIPER 원본과 비교. 기존 선폭 0.0125에서 실제 상대 선폭 0.03666으로 수정. 세리프 형태 차이는 남음.",
+      "vector_json": "output/drawing_font_dataset_20261026/font_inventory/vectors/italict.json",
+      "width_factor": 0.9948157764625264, "stroke_ratio": 0.03666132988956298,
+      "source_evidence": "title_audit/title_font_audit.json"
+    },
+    {
+      "id": "batangche_upright_filled", "family_id": "batangche",
+      "display_name": "신규 후보: 바탕체 · 직립 세리프 채움형",
+      "review_note": "LEVER/COVER 원본과 비교한 가장 가까운 설치 후보. 원본의 각진 외곽·손상까지 동일하지는 않음.",
+      "vector_json": "output/drawing_font_dataset_20261026/revision2/missing_font_matches/vectors/batang_face1.json",
+      "render_mode": "filled", "width_factor": 1.0, "stroke_ratio": 0.0,
+      "source_evidence": "missing_font_matches/matches.json#U01,U02"
+    },
+    {
+      "id": "gulim_filled", "family_id": "gulim",
+      "display_name": "신규 후보: 굴림 · VIEW / DETAIL 채움형",
+      "review_note": "VIEW H 및 DETAIL C와 비교한 후보. 원본의 낮은 정밀도 다각형 외곽과는 차이가 남음.",
+      "vector_json": "output/drawing_font_dataset_20261026/revision2/missing_font_matches/vectors/gulim_face0.json",
+      "render_mode": "filled", "width_factor": 1.0, "stroke_ratio": 0.0,
+      "source_evidence": "missing_font_matches/matches.json#U03,U04"
+    },
+    {
+      "id": "gulimche_filled_table_candidate", "family_id": "gulimche",
+      "display_name": "신규 후보: 굴림체 · 표 숫자 채움형",
+      "review_note": "표 숫자 2의 비교 후보. 근거 문자가 적어 별도 원본 글꼴 확정은 보류. 실제 표 숫자·m은 원본 세트에 별도 보존.",
+      "vector_json": "output/drawing_font_dataset_20261026/revision2/missing_font_matches/vectors/gulim_face1.json",
+      "render_mode": "filled", "width_factor": 1.0, "stroke_ratio": 0.0,
+      "source_evidence": "missing_font_matches/matches.json#LF17"
+    },
+    {
+      "id": "malgun_regular_note_candidate", "family_id": "malgun",
+      "display_name": "신규 후보: 맑은 고딕 보통 · 주석 영문",
+      "review_note": "FRNT_MAIN 비교에서 가까운 후보. 실제 원본의 정확한 글꼴을 알아낸 것은 아니며, 유사 후보로만 구분.",
+      "vector_json": "output/drawing_font_dataset_20261026/revision2/missing_font_matches/vectors/malgun_ttf.json",
+      "render_mode": "filled", "width_factor": 1.0, "stroke_ratio": 0.0,
+      "source_evidence": "missing_font_matches/matches.json#U05a"
+    },
+    {
+      "id": "malgun_bold_note_candidate", "family_id": "malgun",
+      "display_name": "신규 후보: 맑은 고딕 굵게 · 주석 영문",
+      "review_note": "CS PAD에서 보통·굵게 후보의 차이가 작아 둘 다 검토용으로 보존. 실제 서로 다른 굵기의 글꼴 사용 여부는 미확정.",
+      "vector_json": "output/drawing_font_dataset_20261026/revision2/missing_font_matches/vectors/malgunbd_ttf.json",
+      "render_mode": "filled", "width_factor": 1.0, "stroke_ratio": 0.0,
+      "source_evidence": "missing_font_matches/matches.json#U05b"
+    }
+  ],
+  "comparison_images": [
+    ["이번 전체 검토에서 수집한 원본 형태", "evidence/source_style_sweep_upper/representatives.png"],
+    ["사용자 지적 제목: 원본 / 이전 얇은 선 / 수정 굵기 / 다른 후보", "evidence/title_audit/title_lineweight_font_comparison.png"],
+    ["직립 세리프 LEVER: 원본과 설치 글꼴 비교", "evidence/missing_font_matches/U01_comparison.png"],
+    ["채움형 DETAIL C: 원본과 설치 글꼴 비교", "evidence/missing_font_matches/U04_comparison.png"],
+    ["주석 영문: 원본과 설치 글꼴 비교", "evidence/missing_font_matches/U05a_comparison.png"],
+    ["KET 윤곽 글씨: 가까운 후보도 차이가 남아 62종 확정 보류", "evidence/missing_font_matches/U06_comparison.png"],
+    ["VIEW 두 형태 및 표 숫자: 원본에서 분리한 표본", "evidence/observed_new_styles/ownership_final_00.png"],
+    ["표 단위·작은 핀 숫자: 원본에서 분리한 표본", "evidence/observed_new_styles/ownership_final_01.png"]
+  ],
+  "limitations": [
+    "원본 PDF에는 텍스트 객체와 글꼴 메타데이터가 없어 원래 글꼴 파일 이름은 확정하지 못함.",
+    "도면 전체 24구역을 시각적으로 다시 살폈으나 모든 문자 객체의 글꼴 분류를 전수 확정한 것은 아님.",
+    "62종 후보는 설치 글꼴에서 생성. 원본에 나타나지 않은 소문자·대문자까지 원본과 같다고 보장할 수 없음.",
+    "KET는 로고 같은 윤곽형이며 비교 후보와 차이가 커서 임의 62종 완성본을 만들지 않음.",
+    "맑은 고딕 보통/굵게와 굴림/굴림체는 후보 비교 단계. 각각 다른 원본 글꼴이 확인됐다는 뜻이 아님.",
+    "일부 I와 l은 같은 모양. 단독 이미지에 서로 다른 정답을 강제로 붙이는 학습은 피해야 함.",
+    "각도 증강과 YOLO 학습, 인식률 평가는 아직 수행하지 않음. 그림 겹침 점수는 인식 정확도가 아님."
+  ],
+  "audit_summary": {
+    "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+    "geographic_tiles_reviewed": 24,
+    "previous_delivery_preserved": true,
+    "confirmed_omissions_or_mismatches": [
+      {"source_example":"FRT_WIPER_MTR_LHD", "finding":"제목 선 굵기 누락", "action":"실제 0.213pt / cap 5.80994pt를 반영. 상대 선폭 0.0125 → 0.03666. 원본 제목 11자도 별도 추출."},
+      {"source_example":"COVER / LEVER", "finding":"직립 세리프 채움형 누락", "action":"원본 예시 수집, 바탕체 계열 후보 62자 추가."},
+      {"source_example":"VIEW H / DETAIL C / 표 숫자", "finding":"채움형 산세리프 누락", "action":"굴림·굴림체 후보와 실제 표 숫자·단위 추출을 분리해 제공."},
+      {"source_example":"FRNT_MAIN / CS PAD", "finding":"주석 내 다른 영문 채움형 누락", "action":"맑은 고딕 계열 보통·굵게를 미확정 후보로 제공."},
+      {"source_example":"VIEW A/C vs VIEW J", "finding":"I의 가로획 유무가 다른 형태를 구분할 필요", "action":"각각 실제 원본 표본으로 분리. 앞쪽은 사용자 CAD 시트, 뒤쪽은 Romans에 가깝다고 기록."},
+      {"source_example":"작은 핀 숫자 0~9", "finding":"작은 크기에서 선이 상대적으로 굵어지는 모습 누락", "action":"원본 숫자 10종을 실제 상대 선 굵기와 함께 추출."},
+      {"source_example":"KET", "finding":"로고 같은 기울어진 외곽선 문자 누락", "action":"원본 및 비교 근거 보존. 불충분한 근거로 A~Z/a~z/0~9 전체를 동일 글꼴로 확정하지 않음."}
+    ]
+  }
+}

@@ -1,0 +1,1053 @@
+{
+  "font_id": "pdf_cad_stroke",
+  "folder": "02_observed_pdf/pdf_cad_stroke",
+  "display_name": "원본 PDF · CAD 단선형",
+  "provenance_status": "observed_pdf_glyphs_partial_not_complete_font",
+  "source": "source_evidence/manifest.json",
+  "review_note": "원본 획을 추출한 표본. 빈칸은 미확보이며 원래 글꼴 이름은 미확정.",
+  "glyphs": [
+    {
+      "char": "1",
+      "class_id": 53,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0031_1.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0031_1.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        293,
+        155,
+        348,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "49074107fa74b87f43693ebe7e73aada8c55ab77cfd4cce1e0802999d51b2d2b",
+      "source_record_id": "pdf_T003",
+      "source_path_ids": [
+        71650
+      ],
+      "source_bbox": [
+        248.38999938964844,
+        102.469970703125,
+        249.1699981689453,
+        108.280029296875
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "2",
+      "class_id": 54,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0032_2.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0032_2.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        257,
+        152,
+        384,
+        489
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "208bb8bc80bc12cf9653cc9ed7b5f891647f0bb18f9bb707bbfa9fdc340989a7",
+      "source_record_id": "pdf_T011",
+      "source_path_ids": [
+        141838
+      ],
+      "source_bbox": [
+        1980.7099609375,
+        1422.489990234375,
+        1982.68994140625,
+        1428.22998046875
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "3",
+      "class_id": 55,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0033_3.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0033_3.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        258,
+        152,
+        382,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "6e4c4f5e0cf86bf28ae3e679359f303cf295703dec0882ecbf99d21c0b0681bd",
+      "source_record_id": "pdf_T053",
+      "source_path_ids": [
+        71762
+      ],
+      "source_bbox": [
+        252.27999877929688,
+        83.050048828125,
+        254.1999969482422,
+        88.7900390625
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "4",
+      "class_id": 56,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0034_4.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0034_4.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        253,
+        156,
+        382,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "6a14e4566e59cb4acd46c087b640c4c71b53eb232fd36e6cf71d5e217201faa9",
+      "source_record_id": "pdf_T006",
+      "source_path_ids": [
+        70599,
+        70600
+      ],
+      "source_bbox": [
+        1040.6700439453125,
+        865.4900512695312,
+        1042.800048828125,
+        871.2300415039062
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "5",
+      "class_id": 57,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0035_5.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0035_5.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        258,
+        153,
+        382,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "df73a9c2410aa3efc1c68149c9920bc3e60042f661d77cc7bd537e6913db841b",
+      "source_record_id": "pdf_T019",
+      "source_path_ids": [
+        96947
+      ],
+      "source_bbox": [
+        168.52000427246094,
+        489.6099853515625,
+        170.42999267578125,
+        495.3499755859375
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "6",
+      "class_id": 58,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0036_6.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0036_6.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        260,
+        150,
+        380,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "024e8e998ae20974c9a8f926af44a7283208280f3f1cbd04e5dff0abd13a1fee",
+      "source_record_id": "pdf_T057",
+      "source_path_ids": [
+        70097
+      ],
+      "source_bbox": [
+        562.1099853515625,
+        695.050048828125,
+        563.530029296875,
+        699.5900268554688
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "7",
+      "class_id": 59,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0037_7.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0037_7.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        259,
+        152,
+        390,
+        485
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "a2303cfeb4f768c13adf72b5c57cb5de4af34e6eb1e6421bd32ef294aa219136",
+      "source_record_id": "pdf_T005",
+      "source_path_ids": [
+        70104
+      ],
+      "source_bbox": [
+        572.8800048828125,
+        695.050048828125,
+        574.5800170898438,
+        699.5900268554688
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "8",
+      "class_id": 60,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0038_8.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0038_8.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        259,
+        152,
+        381,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "21fba7375654547e4f40e86ee2267c19f691c7024a4e414e4d31560e78d50abd",
+      "source_record_id": "pdf_T049",
+      "source_path_ids": [
+        75554
+      ],
+      "source_bbox": [
+        328.82000732421875,
+        192.469970703125,
+        330.7300109863281,
+        198.280029296875
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "9",
+      "class_id": 61,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0039_9.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0039_9.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        251,
+        152,
+        389,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "dc3cea5377eee1602cec9ae8e23e4618fde485052cf9874dcc6bc93d2629666f",
+      "source_record_id": "pdf_T028",
+      "source_path_ids": [
+        75967
+      ],
+      "source_bbox": [
+        683.2899780273438,
+        1190.6199951171875,
+        685.489990234375,
+        1196.4300537109375
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "A",
+      "class_id": 0,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0041_A.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0041_A.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        253,
+        157,
+        387,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "877a9d191b07b0ad9b603ca3ad54afc25d9af2f39f74190c057c6247ba66cd5e",
+      "source_record_id": "pdf_T014",
+      "source_path_ids": [
+        144657,
+        144658
+      ],
+      "source_bbox": [
+        1537.93994140625,
+        1486.340087890625,
+        1540.06005859375,
+        1492.090087890625
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "B",
+      "class_id": 1,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0042_B.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0042_B.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        245,
+        152,
+        396,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "bc46fb39eea33b09680a30c13e14c01c4a007f0f3ba4eb003a8ee327a378ed4e",
+      "source_record_id": "pdf_T040",
+      "source_path_ids": [
+        74135,
+        74136
+      ],
+      "source_bbox": [
+        1936.56005859375,
+        751.6800537109375,
+        1938.469970703125,
+        756.280029296875
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "C",
+      "class_id": 2,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0043_C.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0043_C.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        253,
+        152,
+        387,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "404db3fec8148145670c53ac5a04c7180b5ec23cc3268128db9a336c64e19baa",
+      "source_record_id": "pdf_T012",
+      "source_path_ids": [
+        72336
+      ],
+      "source_bbox": [
+        445.9599914550781,
+        846.7100219726562,
+        448.0899963378906,
+        852.52001953125
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "D",
+      "class_id": 3,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0044_D.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0044_D.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        259,
+        152,
+        382,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "14646452162aa4e4f71b3ff35350f89946db9095d3383cf67151a2afb218d8a6",
+      "source_record_id": "pdf_T047",
+      "source_path_ids": [
+        141793
+      ],
+      "source_bbox": [
+        1885.25,
+        1422.489990234375,
+        1887.1700439453125,
+        1428.22998046875
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "E",
+      "class_id": 4,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0045_E.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0045_E.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        211,
+        154,
+        425,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "94c71b41af33f5c8ed80e1796a7c1fe4ddfc558674092d2127d90a51d2f7d1b3",
+      "source_record_id": "pdf_T038",
+      "source_path_ids": [
+        129390,
+        129391,
+        129392
+      ],
+      "source_bbox": [
+        1606.8199462890625,
+        1209.830078125,
+        1612.3499755859375,
+        1218.469970703125
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "F",
+      "class_id": 5,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0046_F.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0046_F.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        258,
+        152,
+        376,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "075312990439dba758540c6e362bc5ae2fc6aece340c10c21e5c68888bb7a3e5",
+      "source_record_id": "pdf_T027",
+      "source_path_ids": [
+        70515,
+        70516
+      ],
+      "source_bbox": [
+        860.6699829101562,
+        865.4900512695312,
+        862.5800170898438,
+        871.2300415039062
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "G",
+      "class_id": 6,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0047_G.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0047_G.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        253,
+        153,
+        387,
+        489
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "85fdb2258172ec1cf0fa257e4c32bf4bba0159ad805eca3938d5675ffb61e9f0",
+      "source_record_id": "pdf_T115",
+      "source_path_ids": [
+        71212
+      ],
+      "source_bbox": [
+        2046.760009765625,
+        109.489990234375,
+        2048.8798828125,
+        115.22998046875
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "J",
+      "class_id": 9,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U004A_J.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U004A_J.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        233,
+        159,
+        407,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "2995fc8add2a1cb589c05dcf458caae23816ef21a0305a5a607ec334d2416856",
+      "source_record_id": "pdf_T122",
+      "source_path_ids": [
+        129394
+      ],
+      "source_bbox": [
+        1632.469970703125,
+        1209.830078125,
+        1636.800048828125,
+        1218.469970703125
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "K",
+      "class_id": 10,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U004B_K.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U004B_K.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        259,
+        155,
+        382,
+        485
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "766bb51c4e2071b7705d7d997b8472dcb2134b86ef2e71c857666eaa67385b54",
+      "source_record_id": "pdf_U002",
+      "source_path_ids": [
+        71182,
+        71183,
+        71184
+      ],
+      "source_bbox": [
+        1960.5799560546875,
+        135.1400146484375,
+        1962.5,
+        140.8800048828125
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "L",
+      "class_id": 11,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U004C_L.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U004C_L.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        257,
+        159,
+        374,
+        491
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "e586e59be80572ab1e579c5d0b6b3bc59270c6279ee17a23a828dd4754442966",
+      "source_record_id": "pdf_T002",
+      "source_path_ids": [
+        2875
+      ],
+      "source_bbox": [
+        722.6900024414062,
+        647.7900390625,
+        724.1099853515625,
+        652.1100463867188
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "M",
+      "class_id": 12,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U004D_M.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U004D_M.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        247,
+        157,
+        393,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "362de45f0d4b79f1dfe6a8b5d8a78e74c46017f7c6cd15049d3aa1e8ee54e358",
+      "source_record_id": "pdf_T017",
+      "source_path_ids": [
+        71981
+      ],
+      "source_bbox": [
+        1726.0899658203125,
+        689.7400512695312,
+        1728.5,
+        695.550048828125
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "N",
+      "class_id": 13,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U004E_N.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U004E_N.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        251,
+        155,
+        389,
+        485
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c6318686560e04895b1842184d3940fd683d768c4db020b16906df219ab7bdef",
+      "source_record_id": "pdf_U018",
+      "source_path_ids": [
+        706,
+        707,
+        708
+      ],
+      "source_bbox": [
+        1676.68994140625,
+        852.2300415039062,
+        1678.3199462890625,
+        856.5599975585938
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "P",
+      "class_id": 15,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0050_P.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0050_P.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        244,
+        151,
+        396,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "8e651fa4242c3ffb86e98a63239d6fec63ad369ba60ad420b88e60c74fea6ce1",
+      "source_record_id": "pdf_T068",
+      "source_path_ids": [
+        139909
+      ],
+      "source_bbox": [
+        601.22998046875,
+        238.1099853515625,
+        603.1400146484375,
+        242.6400146484375
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "R",
+      "class_id": 17,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0052_R.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0052_R.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        257,
+        152,
+        383,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "0d34b3bde80a8b5464457d3b98046c01f9382883a3bdc085a184682cfdf4bd4d",
+      "source_record_id": "pdf_T042",
+      "source_path_ids": [
+        71378,
+        71379
+      ],
+      "source_bbox": [
+        287.5,
+        183.1199951171875,
+        289.489990234375,
+        188.9300537109375
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "S",
+      "class_id": 18,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0053_S.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0053_S.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        259,
+        152,
+        381,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "dce87b9883af90de990ecfa20bfb01877fc89631fafe2d583688ebb8f1519e43",
+      "source_record_id": "pdf_T016",
+      "source_path_ids": [
+        98341
+      ],
+      "source_bbox": [
+        949.4600219726562,
+        920.6199951171875,
+        951.3800048828125,
+        926.4300537109375
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "T",
+      "class_id": 19,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0054_T.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0054_T.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        247,
+        148,
+        393,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ef9593eeb2119f765a9bb5f1c7813129a8be926e58bca73b35d3463138b2f2fb",
+      "source_record_id": "pdf_T054",
+      "source_path_ids": [
+        3642,
+        3643
+      ],
+      "source_bbox": [
+        1281.1199951171875,
+        586.5599975585938,
+        1282.6099853515625,
+        589.9600219726562
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "U",
+      "class_id": 20,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0055_U.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0055_U.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        246,
+        159,
+        394,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "3c8d67bd3480daf42a6d5d19a6e3d211f3213dc1ca5d3427cc94255d2aa71477",
+      "source_record_id": "pdf_T029",
+      "source_path_ids": [
+        169246
+      ],
+      "source_bbox": [
+        190.35000610351562,
+        676.0599975585938,
+        192.75999450683594,
+        681.8699951171875
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "V",
+      "class_id": 21,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0056_V.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0056_V.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        193,
+        156,
+        447,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9eed1de5c24a411ac6700be2dd87b0f0b8fe0498f759be5d3c6edc4614b73620",
+      "source_record_id": "pdf_T060",
+      "source_path_ids": [
+        129388
+      ],
+      "source_bbox": [
+        1595.27001953125,
+        1209.830078125,
+        1601.7900390625,
+        1218.469970703125
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "W",
+      "class_id": 22,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0057_W.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0057_W.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        203,
+        156,
+        437,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "6f5d55c88e63b00307a41b87b4ac5370e328bcc5df34f02f38ced8c8951ff6b1",
+      "source_record_id": "pdf_T112",
+      "source_path_ids": [
+        73727
+      ],
+      "source_bbox": [
+        668.4099731445312,
+        666.9900512695312,
+        671.3099975585938,
+        671.3099975585938
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "Y",
+      "class_id": 24,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U0059_Y.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U0059_Y.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        224,
+        154,
+        416,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "d3bbfdd95019a9dc017cbc2bce235a4185a334743197271e84317bc9f45f71d5",
+      "source_record_id": "pdf_T144",
+      "source_path_ids": [
+        73696,
+        73697
+      ],
+      "source_bbox": [
+        1092.050048828125,
+        1204.580078125,
+        1094.3900146484375,
+        1208.9000244140625
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "Z",
+      "class_id": 25,
+      "image": "02_observed_pdf/pdf_cad_stroke/images/U005A_Z.png",
+      "label": "02_observed_pdf/pdf_cad_stroke/labels/U005A_Z.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        244,
+        152,
+        397,
+        489
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "f20d86ca7a784305d8f47999af4a177de5716b59482f0723bdc8e480d2db55f7",
+      "source_record_id": "pdf_U048",
+      "source_path_ids": [
+        70086
+      ],
+      "source_bbox": [
+        546.52001953125,
+        695.050048828125,
+        548.4299926757812,
+        699.5900268554688
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    }
+  ],
+  "missing_chars": [
+    "H",
+    "I",
+    "O",
+    "Q",
+    "X",
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z",
+    "0"
+  ],
+  "complete": false,
+  "image_size": [
+    640,
+    640
+  ],
+  "contact_sheet": "02_observed_pdf/pdf_cad_stroke/contact_sheet.png"
+}

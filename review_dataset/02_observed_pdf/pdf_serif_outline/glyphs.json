@@ -1,0 +1,1032 @@
+{
+  "font_id": "pdf_serif_outline",
+  "folder": "02_observed_pdf/pdf_serif_outline",
+  "display_name": "원본 PDF · 다중 획 세리프형",
+  "provenance_status": "observed_pdf_glyphs_partial_not_complete_font",
+  "source": "source_evidence/manifest.json",
+  "review_note": "원본 획을 추출한 표본. 빈칸은 미확보이며 원래 글꼴 이름은 미확정.",
+  "glyphs": [
+    {
+      "char": "1",
+      "class_id": 53,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0031_1.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0031_1.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        258,
+        175,
+        383,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "6ab0a90d2c8aedea7f1571f3fc819e4ef73414efeb02e03aab15dc77e673fd3a",
+      "source_record_id": "pdf_T123",
+      "source_path_ids": [
+        144595,
+        144596,
+        144597,
+        144598,
+        144599
+      ],
+      "source_bbox": [
+        1629.1400146484375,
+        1338.22998046875,
+        1631.27001953125,
+        1344.050048828125
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "2",
+      "class_id": 54,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0032_2.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0032_2.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        191,
+        174,
+        450,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "222105cdcfa7a28d0366ce7824f6953bd07578ecacd0b895fa4b22dbf66f8917",
+      "source_record_id": "pdf_T067",
+      "source_path_ids": [
+        144600,
+        144601,
+        144602,
+        144603,
+        144604,
+        144605
+      ],
+      "source_bbox": [
+        1633.25,
+        1338.22998046875,
+        1638.0,
+        1344.050048828125
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "3",
+      "class_id": 55,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0033_3.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0033_3.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        189,
+        151,
+        450,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9fac3dc3a86d7bbbf4e588a1756083bc60997445b86b27eb8f474e3149cefbc3",
+      "source_record_id": "pdf_T044",
+      "source_path_ids": [
+        86732,
+        86733,
+        86734,
+        86735,
+        86736,
+        86737
+      ],
+      "source_bbox": [
+        981.1400146484375,
+        899.0800170898438,
+        984.760009765625,
+        903.8300170898438
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "5",
+      "class_id": 57,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0035_5.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0035_5.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        179,
+        152,
+        457,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9ef0b7acaf4bc8b1fc4f8ec395921a8b99a2db8cf4de087e0a98f3df27c31af4",
+      "source_record_id": "pdf_T046",
+      "source_path_ids": [
+        134262,
+        134263,
+        134264,
+        134265,
+        134266,
+        134267,
+        134268
+      ],
+      "source_bbox": [
+        998.1500244140625,
+        1072.06005859375,
+        1002.969970703125,
+        1077.8699951171875
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "7",
+      "class_id": 59,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0037_7.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0037_7.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        152,
+        435,
+        489
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "f37eebb3bd054fe1a430c7b51036b20b0bc9ee1dbb1807e93b97b363248bf972",
+      "source_record_id": "pdf_T153",
+      "source_path_ids": [
+        87440,
+        87441,
+        87442,
+        87443,
+        87444,
+        87445
+      ],
+      "source_bbox": [
+        51.869998931884766,
+        388.3399658203125,
+        55.70000076293945,
+        394.0899658203125
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "8",
+      "class_id": 60,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0038_8.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0038_8.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        186,
+        150,
+        454,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "683f7877be5490a9d90d378bff61f3bb6fe56d92df6659215c7e7ab562da6b23",
+      "source_record_id": "pdf_T120",
+      "source_path_ids": [
+        135101,
+        135102,
+        135103,
+        135104,
+        135105,
+        135106,
+        135107,
+        135108,
+        135109,
+        135110,
+        135111,
+        135112,
+        135113,
+        135114,
+        135115,
+        135116,
+        135117
+      ],
+      "source_bbox": [
+        376.3699951171875,
+        1127.550048828125,
+        379.9100036621094,
+        1132.090087890625
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "r",
+      "class_id": 43,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0072_r.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0072_r.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        195,
+        263,
+        447,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "1ca0b18b2a9c82178cf232bdf78349d1d73cfdcd12a51fb64c047a1bc6cf6ced",
+      "source_record_id": "pdf_R000",
+      "source_path_ids": [
+        91587,
+        91588,
+        91589,
+        91590
+      ],
+      "source_bbox": [
+        1972.8399658203125,
+        104.8800048828125,
+        1976.3900146484375,
+        108.0
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "A",
+      "class_id": 0,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0041_A.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0041_A.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        194,
+        190,
+        446,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "210db2e5bbeaf65ef538e3ae417dc555be7487e216234493a78be57c6d824228",
+      "source_record_id": "pdf_U041",
+      "source_path_ids": [
+        103607,
+        103608,
+        103609,
+        103610,
+        103611,
+        103612,
+        103613,
+        103614,
+        103615,
+        103616,
+        103617,
+        103618
+      ],
+      "source_bbox": [
+        484.0899963378906,
+        1231.719970703125,
+        489.1199951171875,
+        1237.4599609375
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "B",
+      "class_id": 1,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0042_B.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0042_B.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        178,
+        178,
+        468,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "b1033c63602de37ebd48610c27ec7a6c92a15831cb18a07b932ecc87424ee5bf",
+      "source_record_id": "pdf_T063",
+      "source_path_ids": [
+        62253,
+        62254,
+        62255,
+        62256,
+        62257,
+        62258,
+        62259,
+        62260,
+        62261,
+        62262,
+        62263,
+        62264,
+        62265,
+        62266,
+        62267,
+        62268,
+        62269
+      ],
+      "source_bbox": [
+        2051.080078125,
+        289.9100341796875,
+        2056.820068359375,
+        295.9400634765625
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "C",
+      "class_id": 2,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0043_C.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0043_C.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        200,
+        188,
+        440,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "8d418bbae12ad4e98ede56be6de02df4ccf98130fcb9c20d3c656ef2154e99d8",
+      "source_record_id": "pdf_T082",
+      "source_path_ids": [
+        149536,
+        149537,
+        149538
+      ],
+      "source_bbox": [
+        1556.4300537109375,
+        1232.4300537109375,
+        1560.969970703125,
+        1238.1700439453125
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "D",
+      "class_id": 3,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0044_D.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0044_D.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        178,
+        177,
+        468,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "06923cff953af1680b09001db11df74d6f291f88662c6f904cacb5437d4afbf9",
+      "source_record_id": "pdf_T149",
+      "source_path_ids": [
+        44861,
+        44862,
+        44863,
+        44864,
+        44865,
+        44866,
+        44867,
+        44868,
+        44869,
+        44870,
+        44871,
+        44872,
+        44873,
+        44874
+      ],
+      "source_bbox": [
+        841.25,
+        1305.85009765625,
+        846.989990234375,
+        1311.8699951171875
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "E",
+      "class_id": 4,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0045_E.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0045_E.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        170,
+        178,
+        475,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "41ad9c8e48dbe1718aab1a51f3ba792361b04e6f0456bef22fc5e54fa72efae4",
+      "source_record_id": "pdf_U030",
+      "source_path_ids": [
+        66639,
+        66640,
+        66641,
+        66642,
+        66643,
+        66644,
+        66645,
+        66646,
+        66647,
+        66648,
+        66649,
+        66650,
+        66651,
+        66652,
+        66653,
+        66654,
+        66655,
+        66656,
+        66657,
+        66658,
+        66659,
+        66660
+      ],
+      "source_bbox": [
+        563.3099975585938,
+        1167.1600341796875,
+        569.0599975585938,
+        1172.9000244140625
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "G",
+      "class_id": 6,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0047_G.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0047_G.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        196,
+        187,
+        444,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "5e1e41348193c5331f0e895e6b9fa5c510ae85ec7e9a28307e4cfe2c27bb1654",
+      "source_record_id": "pdf_T036",
+      "source_path_ids": [
+        2565,
+        2566,
+        2567,
+        2568,
+        2569,
+        2570,
+        2571,
+        2572,
+        2573,
+        2574
+      ],
+      "source_bbox": [
+        1210.6099853515625,
+        1326.469970703125,
+        1215.3499755859375,
+        1332.280029296875
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "H",
+      "class_id": 7,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0048_H.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0048_H.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        136,
+        179,
+        504,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "fbd90f4444872d8419a109d7d81a9e5ff3feeeca704a56fc4e9fa93af14d3611",
+      "source_record_id": "pdf_U020",
+      "source_path_ids": [
+        3184,
+        3185,
+        3186,
+        3187,
+        3188,
+        3189,
+        3190,
+        3191,
+        3192,
+        3193,
+        3194,
+        3195,
+        3196,
+        3197,
+        3198,
+        3199,
+        3200,
+        3201,
+        3202,
+        3203,
+        3204,
+        3205,
+        3206,
+        3207,
+        3208,
+        3209,
+        3210
+      ],
+      "source_bbox": [
+        1268.6500244140625,
+        511.4400634765625,
+        1274.3900146484375,
+        516.050048828125
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "I",
+      "class_id": 8,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0049_I.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0049_I.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        221,
+        182,
+        419,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c7d5ae6c25e283bf9a065e5b587ab625a0f3ba593b7017378da96405590ad637",
+      "source_record_id": "pdf_T142",
+      "source_path_ids": [
+        98976,
+        98977,
+        98978,
+        98979,
+        98980,
+        98981,
+        98982,
+        98983,
+        98984,
+        98985,
+        98986,
+        98987,
+        98988
+      ],
+      "source_bbox": [
+        1212.72998046875,
+        626.3800048828125,
+        1215.8499755859375,
+        630.9900512695312
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "L",
+      "class_id": 11,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U004C_L.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U004C_L.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        206,
+        187,
+        439,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "0616c89f2be80d5fbebacbe4e750f4a286283a1c40ae0948a9c10811a3c575a2",
+      "source_record_id": "pdf_T062",
+      "source_path_ids": [
+        2625,
+        2626,
+        2627,
+        2628,
+        2629,
+        2630,
+        2631,
+        2632,
+        2633,
+        2634,
+        2635,
+        2636,
+        2637,
+        2638,
+        2639,
+        2640
+      ],
+      "source_bbox": [
+        1247.81005859375,
+        1326.469970703125,
+        1252.3499755859375,
+        1332.280029296875
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "N",
+      "class_id": 13,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U004E_N.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U004E_N.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        143,
+        182,
+        497,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "200a74d292ba3b41797e2bb5917489c62679ed22a7b30b907508d0f085624d6d",
+      "source_record_id": "pdf_U013",
+      "source_path_ids": [
+        3851,
+        3852,
+        3853,
+        3854,
+        3855,
+        3856,
+        3857,
+        3858,
+        3859,
+        3860,
+        3861,
+        3862,
+        3863,
+        3864
+      ],
+      "source_bbox": [
+        1289.760009765625,
+        522.989990234375,
+        1295.2900390625,
+        527.530029296875
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "P",
+      "class_id": 15,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0050_P.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0050_P.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        157,
+        152,
+        488,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c65e7df8ab8a555a4a3c49a0480a28bfdc712baaa6800fe58c0150b08e91ab8a",
+      "source_record_id": "pdf_T050",
+      "source_path_ids": [
+        131137,
+        131138,
+        131139,
+        131140,
+        131141,
+        131142,
+        131143,
+        131144,
+        131145,
+        131146,
+        131147,
+        131148,
+        131149,
+        131150,
+        131151
+      ],
+      "source_bbox": [
+        702.989990234375,
+        83.550048828125,
+        708.9400024414062,
+        89.5
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "R",
+      "class_id": 17,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0052_R.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0052_R.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        170,
+        174,
+        475,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "28609b5b1d2f2ef22dea2e6a089f386012472c26cb098462f6fd2645e9be18c3",
+      "source_record_id": "pdf_T065",
+      "source_path_ids": [
+        9753,
+        9754,
+        9755,
+        9756,
+        9757,
+        9758,
+        9759,
+        9760,
+        9761,
+        9762,
+        9763,
+        9764,
+        9765,
+        9766,
+        9767,
+        9768,
+        9769,
+        9770
+      ],
+      "source_bbox": [
+        1016.4299926757812,
+        589.6800537109375,
+        1022.1699829101562,
+        595.4900512695312
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "S",
+      "class_id": 18,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0053_S.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0053_S.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        181,
+        188,
+        459,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "8e22fc767b2bc07be2d7a4c94171929c74ed18e2692f9d602463282afd648569",
+      "source_record_id": "pdf_T111",
+      "source_path_ids": [
+        104988,
+        104989,
+        104990
+      ],
+      "source_bbox": [
+        1032.93994140625,
+        1444.5999755859375,
+        1038.260009765625,
+        1450.340087890625
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "T",
+      "class_id": 19,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0054_T.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0054_T.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        194,
+        192,
+        446,
+        488
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "0b04b0480972514b431976fb60d6ac7dfb32de204c0b1333293e00b0db2a02e3",
+      "source_record_id": "pdf_U022",
+      "source_path_ids": [
+        8712,
+        8713,
+        8714,
+        8715,
+        8716,
+        8717,
+        8718,
+        8719,
+        8720,
+        8721,
+        8722,
+        8723,
+        8724,
+        8725,
+        8726,
+        8727,
+        8728,
+        8729
+      ],
+      "source_bbox": [
+        967.4600219726562,
+        566.6400146484375,
+        972.280029296875,
+        572.3800048828125
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    },
+    {
+      "char": "W",
+      "class_id": 22,
+      "image": "02_observed_pdf/pdf_serif_outline/images/U0057_W.png",
+      "label": "02_observed_pdf/pdf_serif_outline/labels/U0057_W.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        154,
+        152,
+        486,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "803909311c68eb90610e3a39fbf65fadbbe99c5832a2e8126d02380801e8abaf",
+      "source_record_id": "pdf_T126",
+      "source_path_ids": [
+        90173,
+        90174,
+        90175,
+        90176,
+        90177,
+        90178,
+        90179,
+        90180,
+        90181,
+        90182,
+        90183,
+        90184,
+        90185,
+        90186,
+        90187,
+        90188,
+        90189
+      ],
+      "source_bbox": [
+        195.1699981689453,
+        128.6199951171875,
+        199.91000366210938,
+        133.22998046875
+      ],
+      "source_orientation": 0,
+      "metrics_status": "estimated_from_source_geometry",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc"
+    }
+  ],
+  "missing_chars": [
+    "F",
+    "J",
+    "K",
+    "M",
+    "O",
+    "Q",
+    "U",
+    "V",
+    "X",
+    "Y",
+    "Z",
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z",
+    "0",
+    "4",
+    "6",
+    "9"
+  ],
+  "complete": false,
+  "image_size": [
+    640,
+    640
+  ],
+  "contact_sheet": "02_observed_pdf/pdf_serif_outline/contact_sheet.png"
+}

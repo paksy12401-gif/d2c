@@ -1,0 +1,1677 @@
+[
+  {
+    "style_id": "pdf_cad_stroke",
+    "glyphs": [
+      {
+        "char": "0",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "1",
+        "status": "observed",
+        "canonical_id": "pdf_T003",
+        "variant_ids": [
+          "pdf_T003",
+          "pdf_T008",
+          "pdf_T010",
+          "pdf_T023",
+          "pdf_T137"
+        ]
+      },
+      {
+        "char": "2",
+        "status": "observed",
+        "canonical_id": "pdf_T011",
+        "variant_ids": [
+          "pdf_T011",
+          "pdf_T013",
+          "pdf_T034",
+          "pdf_T052",
+          "pdf_T085",
+          "pdf_T125",
+          "pdf_T151"
+        ]
+      },
+      {
+        "char": "3",
+        "status": "observed",
+        "canonical_id": "pdf_T053",
+        "variant_ids": [
+          "pdf_T053",
+          "pdf_T076",
+          "pdf_T078",
+          "pdf_T094",
+          "pdf_T101",
+          "pdf_T127"
+        ]
+      },
+      {
+        "char": "4",
+        "status": "observed",
+        "canonical_id": "pdf_T006",
+        "variant_ids": [
+          "pdf_T006",
+          "pdf_T039",
+          "pdf_T089"
+        ]
+      },
+      {
+        "char": "5",
+        "status": "observed",
+        "canonical_id": "pdf_T019",
+        "variant_ids": [
+          "pdf_T019",
+          "pdf_T021",
+          "pdf_T024",
+          "pdf_T091",
+          "pdf_U044"
+        ]
+      },
+      {
+        "char": "6",
+        "status": "observed",
+        "canonical_id": "pdf_T057",
+        "variant_ids": [
+          "pdf_T057",
+          "pdf_T087",
+          "pdf_T092",
+          "pdf_T107",
+          "pdf_T130",
+          "pdf_T152"
+        ]
+      },
+      {
+        "char": "7",
+        "status": "observed",
+        "canonical_id": "pdf_T005",
+        "variant_ids": [
+          "pdf_T005"
+        ]
+      },
+      {
+        "char": "8",
+        "status": "observed",
+        "canonical_id": "pdf_T049",
+        "variant_ids": [
+          "pdf_T049",
+          "pdf_T105",
+          "pdf_T110",
+          "pdf_U066"
+        ]
+      },
+      {
+        "char": "9",
+        "status": "observed",
+        "canonical_id": "pdf_T028",
+        "variant_ids": [
+          "pdf_T028",
+          "pdf_T069",
+          "pdf_T143",
+          "pdf_T146"
+        ]
+      },
+      {
+        "char": "a",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "b",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "c",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "d",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "e",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "f",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "g",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "h",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "i",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "j",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "k",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "l",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "m",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "n",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "o",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "p",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "q",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "r",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "s",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "t",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "u",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "v",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "w",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "x",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "y",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "z",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "A",
+        "status": "observed",
+        "canonical_id": "pdf_T014",
+        "variant_ids": [
+          "pdf_T014",
+          "pdf_T058"
+        ]
+      },
+      {
+        "char": "B",
+        "status": "observed",
+        "canonical_id": "pdf_T040",
+        "variant_ids": [
+          "pdf_T040",
+          "pdf_T080"
+        ]
+      },
+      {
+        "char": "C",
+        "status": "observed",
+        "canonical_id": "pdf_T012",
+        "variant_ids": [
+          "pdf_T012",
+          "pdf_T025",
+          "pdf_T048",
+          "pdf_T066"
+        ]
+      },
+      {
+        "char": "D",
+        "status": "observed",
+        "canonical_id": "pdf_T047",
+        "variant_ids": [
+          "pdf_T047",
+          "pdf_T093",
+          "pdf_T106",
+          "pdf_AUTO000",
+          "pdf_AUTO003",
+          "pdf_AUTO004",
+          "pdf_AUTO005",
+          "pdf_AUTO017"
+        ]
+      },
+      {
+        "char": "E",
+        "status": "observed",
+        "canonical_id": "pdf_T038",
+        "variant_ids": [
+          "pdf_T038"
+        ]
+      },
+      {
+        "char": "F",
+        "status": "observed",
+        "canonical_id": "pdf_T027",
+        "variant_ids": [
+          "pdf_T027",
+          "pdf_T072",
+          "pdf_T096"
+        ]
+      },
+      {
+        "char": "G",
+        "status": "observed",
+        "canonical_id": "pdf_T115",
+        "variant_ids": [
+          "pdf_T115",
+          "pdf_T150",
+          "pdf_U011",
+          "pdf_AUTO001",
+          "pdf_AUTO019"
+        ]
+      },
+      {
+        "char": "H",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "I",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "J",
+        "status": "observed",
+        "canonical_id": "pdf_T122",
+        "variant_ids": [
+          "pdf_T122"
+        ]
+      },
+      {
+        "char": "K",
+        "status": "observed",
+        "canonical_id": "pdf_U002",
+        "variant_ids": [
+          "pdf_U002"
+        ]
+      },
+      {
+        "char": "L",
+        "status": "observed",
+        "canonical_id": "pdf_T002",
+        "variant_ids": [
+          "pdf_T002"
+        ]
+      },
+      {
+        "char": "M",
+        "status": "observed",
+        "canonical_id": "pdf_T017",
+        "variant_ids": [
+          "pdf_T017"
+        ]
+      },
+      {
+        "char": "N",
+        "status": "observed",
+        "canonical_id": "pdf_U018",
+        "variant_ids": [
+          "pdf_U018"
+        ]
+      },
+      {
+        "char": "O",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "P",
+        "status": "observed",
+        "canonical_id": "pdf_T068",
+        "variant_ids": [
+          "pdf_T068",
+          "pdf_T114"
+        ]
+      },
+      {
+        "char": "Q",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "R",
+        "status": "observed",
+        "canonical_id": "pdf_T042",
+        "variant_ids": [
+          "pdf_T042",
+          "pdf_T128"
+        ]
+      },
+      {
+        "char": "S",
+        "status": "observed",
+        "canonical_id": "pdf_T016",
+        "variant_ids": [
+          "pdf_T016",
+          "pdf_T030"
+        ]
+      },
+      {
+        "char": "T",
+        "status": "observed",
+        "canonical_id": "pdf_T054",
+        "variant_ids": [
+          "pdf_T054",
+          "pdf_T090",
+          "pdf_T099"
+        ]
+      },
+      {
+        "char": "U",
+        "status": "observed",
+        "canonical_id": "pdf_T029",
+        "variant_ids": [
+          "pdf_T029"
+        ]
+      },
+      {
+        "char": "V",
+        "status": "observed",
+        "canonical_id": "pdf_T060",
+        "variant_ids": [
+          "pdf_T060",
+          "pdf_T113"
+        ]
+      },
+      {
+        "char": "W",
+        "status": "observed",
+        "canonical_id": "pdf_T112",
+        "variant_ids": [
+          "pdf_T112"
+        ]
+      },
+      {
+        "char": "X",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "Y",
+        "status": "observed",
+        "canonical_id": "pdf_T144",
+        "variant_ids": [
+          "pdf_T144"
+        ]
+      },
+      {
+        "char": "Z",
+        "status": "observed",
+        "canonical_id": "pdf_U048",
+        "variant_ids": [
+          "pdf_U048"
+        ]
+      }
+    ],
+    "coverage": {
+      "observed_characters": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "P",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "Y",
+        "Z"
+      ],
+      "observed_count": 30,
+      "missing_characters": [
+        "0",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "z",
+        "H",
+        "I",
+        "O",
+        "Q",
+        "X"
+      ],
+      "assets": 100
+    }
+  },
+  {
+    "style_id": "pdf_serif_outline",
+    "glyphs": [
+      {
+        "char": "0",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "1",
+        "status": "observed",
+        "canonical_id": "pdf_T123",
+        "variant_ids": [
+          "pdf_T123",
+          "pdf_T135"
+        ]
+      },
+      {
+        "char": "2",
+        "status": "observed",
+        "canonical_id": "pdf_T067",
+        "variant_ids": [
+          "pdf_T067"
+        ]
+      },
+      {
+        "char": "3",
+        "status": "observed",
+        "canonical_id": "pdf_T044",
+        "variant_ids": [
+          "pdf_T044",
+          "pdf_T051",
+          "pdf_T071",
+          "pdf_T081",
+          "pdf_T095",
+          "pdf_T131",
+          "pdf_T134",
+          "pdf_U007",
+          "pdf_AUTO007",
+          "pdf_AUTO008",
+          "pdf_AUTO011",
+          "pdf_AUTO012",
+          "pdf_AUTO013",
+          "pdf_AUTO014",
+          "pdf_AUTO022",
+          "pdf_AUTO024"
+        ]
+      },
+      {
+        "char": "4",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "5",
+        "status": "observed",
+        "canonical_id": "pdf_T046",
+        "variant_ids": [
+          "pdf_T046",
+          "pdf_T074",
+          "pdf_T088",
+          "pdf_T119"
+        ]
+      },
+      {
+        "char": "6",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "7",
+        "status": "observed",
+        "canonical_id": "pdf_T153",
+        "variant_ids": [
+          "pdf_T153"
+        ]
+      },
+      {
+        "char": "8",
+        "status": "observed",
+        "canonical_id": "pdf_T120",
+        "variant_ids": [
+          "pdf_T120",
+          "pdf_U063",
+          "pdf_AUTO029"
+        ]
+      },
+      {
+        "char": "9",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "a",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "b",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "c",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "d",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "e",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "f",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "g",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "h",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "i",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "j",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "k",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "l",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "m",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "n",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "o",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "p",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "q",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "r",
+        "status": "observed",
+        "canonical_id": "pdf_R000",
+        "variant_ids": [
+          "pdf_R000",
+          "pdf_R001",
+          "pdf_R002"
+        ]
+      },
+      {
+        "char": "s",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "t",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "u",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "v",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "w",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "x",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "y",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "z",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "A",
+        "status": "observed",
+        "canonical_id": "pdf_U041",
+        "variant_ids": [
+          "pdf_U041",
+          "pdf_U077"
+        ]
+      },
+      {
+        "char": "B",
+        "status": "observed",
+        "canonical_id": "pdf_T063",
+        "variant_ids": [
+          "pdf_T063",
+          "pdf_T070",
+          "pdf_T103",
+          "pdf_U015",
+          "pdf_U027",
+          "pdf_U029",
+          "pdf_U076",
+          "pdf_AUTO023",
+          "pdf_AUTO027",
+          "pdf_AUTO028"
+        ]
+      },
+      {
+        "char": "C",
+        "status": "observed",
+        "canonical_id": "pdf_T082",
+        "variant_ids": [
+          "pdf_T082",
+          "pdf_U025"
+        ]
+      },
+      {
+        "char": "D",
+        "status": "observed",
+        "canonical_id": "pdf_T149",
+        "variant_ids": [
+          "pdf_T149"
+        ]
+      },
+      {
+        "char": "E",
+        "status": "observed",
+        "canonical_id": "pdf_U030",
+        "variant_ids": [
+          "pdf_U030"
+        ]
+      },
+      {
+        "char": "F",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "G",
+        "status": "observed",
+        "canonical_id": "pdf_T036",
+        "variant_ids": [
+          "pdf_T036",
+          "pdf_AUTO006",
+          "pdf_AUTO009",
+          "pdf_AUTO010",
+          "pdf_AUTO016",
+          "pdf_AUTO026"
+        ]
+      },
+      {
+        "char": "H",
+        "status": "observed",
+        "canonical_id": "pdf_U020",
+        "variant_ids": [
+          "pdf_U020"
+        ]
+      },
+      {
+        "char": "I",
+        "status": "observed",
+        "canonical_id": "pdf_T142",
+        "variant_ids": [
+          "pdf_T142"
+        ]
+      },
+      {
+        "char": "J",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "K",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "L",
+        "status": "observed",
+        "canonical_id": "pdf_T062",
+        "variant_ids": [
+          "pdf_T062",
+          "pdf_T098"
+        ]
+      },
+      {
+        "char": "M",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "N",
+        "status": "observed",
+        "canonical_id": "pdf_U013",
+        "variant_ids": [
+          "pdf_U013"
+        ]
+      },
+      {
+        "char": "O",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "P",
+        "status": "observed",
+        "canonical_id": "pdf_T050",
+        "variant_ids": [
+          "pdf_T050"
+        ]
+      },
+      {
+        "char": "Q",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "R",
+        "status": "observed",
+        "canonical_id": "pdf_T065",
+        "variant_ids": [
+          "pdf_T065",
+          "pdf_T075",
+          "pdf_T083",
+          "pdf_T086",
+          "pdf_T132",
+          "pdf_U010",
+          "pdf_U032",
+          "pdf_U043",
+          "pdf_AUTO015",
+          "pdf_AUTO025",
+          "pdf_AUTO030"
+        ]
+      },
+      {
+        "char": "S",
+        "status": "observed",
+        "canonical_id": "pdf_T111",
+        "variant_ids": [
+          "pdf_T111"
+        ]
+      },
+      {
+        "char": "T",
+        "status": "observed",
+        "canonical_id": "pdf_U022",
+        "variant_ids": [
+          "pdf_U022",
+          "pdf_U057"
+        ]
+      },
+      {
+        "char": "U",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "V",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "W",
+        "status": "observed",
+        "canonical_id": "pdf_T126",
+        "variant_ids": [
+          "pdf_T126"
+        ]
+      },
+      {
+        "char": "X",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "Y",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      },
+      {
+        "char": "Z",
+        "status": "not_obtained",
+        "canonical_id": null,
+        "variant_ids": []
+      }
+    ],
+    "coverage": {
+      "observed_characters": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "7",
+        "8",
+        "r",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "G",
+        "H",
+        "I",
+        "L",
+        "N",
+        "P",
+        "R",
+        "S",
+        "T",
+        "W"
+      ],
+      "observed_count": 22,
+      "missing_characters": [
+        "0",
+        "4",
+        "6",
+        "9",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q",
+        "s",
+        "t",
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "z",
+        "F",
+        "J",
+        "K",
+        "M",
+        "O",
+        "Q",
+        "U",
+        "V",
+        "X",
+        "Y",
+        "Z"
+      ],
+      "assets": 82
+    }
+  },
+  {
+    "style_id": "user_cad_stroke_sheet",
+    "glyphs": [
+      {
+        "char": "0",
+        "status": "observed",
+        "canonical_id": "user_sheet_00",
+        "variant_ids": [
+          "user_sheet_00"
+        ]
+      },
+      {
+        "char": "1",
+        "status": "observed",
+        "canonical_id": "user_sheet_01",
+        "variant_ids": [
+          "user_sheet_01"
+        ]
+      },
+      {
+        "char": "2",
+        "status": "observed",
+        "canonical_id": "user_sheet_02",
+        "variant_ids": [
+          "user_sheet_02"
+        ]
+      },
+      {
+        "char": "3",
+        "status": "observed",
+        "canonical_id": "user_sheet_03",
+        "variant_ids": [
+          "user_sheet_03"
+        ]
+      },
+      {
+        "char": "4",
+        "status": "observed",
+        "canonical_id": "user_sheet_04",
+        "variant_ids": [
+          "user_sheet_04"
+        ]
+      },
+      {
+        "char": "5",
+        "status": "observed",
+        "canonical_id": "user_sheet_05",
+        "variant_ids": [
+          "user_sheet_05"
+        ]
+      },
+      {
+        "char": "6",
+        "status": "observed",
+        "canonical_id": "user_sheet_06",
+        "variant_ids": [
+          "user_sheet_06"
+        ]
+      },
+      {
+        "char": "7",
+        "status": "observed",
+        "canonical_id": "user_sheet_07",
+        "variant_ids": [
+          "user_sheet_07"
+        ]
+      },
+      {
+        "char": "8",
+        "status": "observed",
+        "canonical_id": "user_sheet_08",
+        "variant_ids": [
+          "user_sheet_08"
+        ]
+      },
+      {
+        "char": "9",
+        "status": "observed",
+        "canonical_id": "user_sheet_09",
+        "variant_ids": [
+          "user_sheet_09"
+        ]
+      },
+      {
+        "char": "a",
+        "status": "observed",
+        "canonical_id": "user_sheet_10",
+        "variant_ids": [
+          "user_sheet_10"
+        ]
+      },
+      {
+        "char": "b",
+        "status": "observed",
+        "canonical_id": "user_sheet_11",
+        "variant_ids": [
+          "user_sheet_11"
+        ]
+      },
+      {
+        "char": "c",
+        "status": "observed",
+        "canonical_id": "user_sheet_12",
+        "variant_ids": [
+          "user_sheet_12"
+        ]
+      },
+      {
+        "char": "d",
+        "status": "observed",
+        "canonical_id": "user_sheet_13",
+        "variant_ids": [
+          "user_sheet_13"
+        ]
+      },
+      {
+        "char": "e",
+        "status": "observed",
+        "canonical_id": "user_sheet_14",
+        "variant_ids": [
+          "user_sheet_14"
+        ]
+      },
+      {
+        "char": "f",
+        "status": "observed",
+        "canonical_id": "user_sheet_15",
+        "variant_ids": [
+          "user_sheet_15"
+        ]
+      },
+      {
+        "char": "g",
+        "status": "observed",
+        "canonical_id": "user_sheet_16",
+        "variant_ids": [
+          "user_sheet_16"
+        ]
+      },
+      {
+        "char": "h",
+        "status": "observed",
+        "canonical_id": "user_sheet_17",
+        "variant_ids": [
+          "user_sheet_17"
+        ]
+      },
+      {
+        "char": "i",
+        "status": "observed",
+        "canonical_id": "user_sheet_18",
+        "variant_ids": [
+          "user_sheet_18"
+        ]
+      },
+      {
+        "char": "j",
+        "status": "observed",
+        "canonical_id": "user_sheet_19",
+        "variant_ids": [
+          "user_sheet_19"
+        ]
+      },
+      {
+        "char": "k",
+        "status": "observed",
+        "canonical_id": "user_sheet_20",
+        "variant_ids": [
+          "user_sheet_20"
+        ]
+      },
+      {
+        "char": "l",
+        "status": "observed",
+        "canonical_id": "user_sheet_21",
+        "variant_ids": [
+          "user_sheet_21"
+        ]
+      },
+      {
+        "char": "m",
+        "status": "observed",
+        "canonical_id": "user_sheet_22",
+        "variant_ids": [
+          "user_sheet_22"
+        ]
+      },
+      {
+        "char": "n",
+        "status": "observed",
+        "canonical_id": "user_sheet_23",
+        "variant_ids": [
+          "user_sheet_23"
+        ]
+      },
+      {
+        "char": "o",
+        "status": "observed",
+        "canonical_id": "user_sheet_24",
+        "variant_ids": [
+          "user_sheet_24"
+        ]
+      },
+      {
+        "char": "p",
+        "status": "observed",
+        "canonical_id": "user_sheet_25",
+        "variant_ids": [
+          "user_sheet_25"
+        ]
+      },
+      {
+        "char": "q",
+        "status": "observed",
+        "canonical_id": "user_sheet_26",
+        "variant_ids": [
+          "user_sheet_26"
+        ]
+      },
+      {
+        "char": "r",
+        "status": "observed",
+        "canonical_id": "user_sheet_27",
+        "variant_ids": [
+          "user_sheet_27"
+        ]
+      },
+      {
+        "char": "s",
+        "status": "observed",
+        "canonical_id": "user_sheet_28",
+        "variant_ids": [
+          "user_sheet_28"
+        ]
+      },
+      {
+        "char": "t",
+        "status": "observed",
+        "canonical_id": "user_sheet_29",
+        "variant_ids": [
+          "user_sheet_29"
+        ]
+      },
+      {
+        "char": "u",
+        "status": "observed",
+        "canonical_id": "user_sheet_30",
+        "variant_ids": [
+          "user_sheet_30"
+        ]
+      },
+      {
+        "char": "v",
+        "status": "observed",
+        "canonical_id": "user_sheet_31",
+        "variant_ids": [
+          "user_sheet_31"
+        ]
+      },
+      {
+        "char": "w",
+        "status": "observed",
+        "canonical_id": "user_sheet_32",
+        "variant_ids": [
+          "user_sheet_32"
+        ]
+      },
+      {
+        "char": "x",
+        "status": "observed",
+        "canonical_id": "user_sheet_33",
+        "variant_ids": [
+          "user_sheet_33"
+        ]
+      },
+      {
+        "char": "y",
+        "status": "observed",
+        "canonical_id": "user_sheet_34",
+        "variant_ids": [
+          "user_sheet_34"
+        ]
+      },
+      {
+        "char": "z",
+        "status": "observed",
+        "canonical_id": "user_sheet_35",
+        "variant_ids": [
+          "user_sheet_35"
+        ]
+      },
+      {
+        "char": "A",
+        "status": "observed",
+        "canonical_id": "user_sheet_36",
+        "variant_ids": [
+          "user_sheet_36"
+        ]
+      },
+      {
+        "char": "B",
+        "status": "observed",
+        "canonical_id": "user_sheet_37",
+        "variant_ids": [
+          "user_sheet_37"
+        ]
+      },
+      {
+        "char": "C",
+        "status": "observed",
+        "canonical_id": "user_sheet_38",
+        "variant_ids": [
+          "user_sheet_38"
+        ]
+      },
+      {
+        "char": "D",
+        "status": "observed",
+        "canonical_id": "user_sheet_39",
+        "variant_ids": [
+          "user_sheet_39"
+        ]
+      },
+      {
+        "char": "E",
+        "status": "observed",
+        "canonical_id": "user_sheet_40",
+        "variant_ids": [
+          "user_sheet_40"
+        ]
+      },
+      {
+        "char": "F",
+        "status": "observed",
+        "canonical_id": "user_sheet_41",
+        "variant_ids": [
+          "user_sheet_41"
+        ]
+      },
+      {
+        "char": "G",
+        "status": "observed",
+        "canonical_id": "user_sheet_42",
+        "variant_ids": [
+          "user_sheet_42"
+        ]
+      },
+      {
+        "char": "H",
+        "status": "observed",
+        "canonical_id": "user_sheet_43",
+        "variant_ids": [
+          "user_sheet_43"
+        ]
+      },
+      {
+        "char": "I",
+        "status": "observed",
+        "canonical_id": "user_sheet_44",
+        "variant_ids": [
+          "user_sheet_44"
+        ]
+      },
+      {
+        "char": "J",
+        "status": "observed",
+        "canonical_id": "user_sheet_45",
+        "variant_ids": [
+          "user_sheet_45"
+        ]
+      },
+      {
+        "char": "K",
+        "status": "observed",
+        "canonical_id": "user_sheet_46",
+        "variant_ids": [
+          "user_sheet_46"
+        ]
+      },
+      {
+        "char": "L",
+        "status": "observed",
+        "canonical_id": "user_sheet_47",
+        "variant_ids": [
+          "user_sheet_47"
+        ]
+      },
+      {
+        "char": "M",
+        "status": "observed",
+        "canonical_id": "user_sheet_48",
+        "variant_ids": [
+          "user_sheet_48"
+        ]
+      },
+      {
+        "char": "N",
+        "status": "observed",
+        "canonical_id": "user_sheet_49",
+        "variant_ids": [
+          "user_sheet_49"
+        ]
+      },
+      {
+        "char": "O",
+        "status": "observed",
+        "canonical_id": "user_sheet_50",
+        "variant_ids": [
+          "user_sheet_50"
+        ]
+      },
+      {
+        "char": "P",
+        "status": "observed",
+        "canonical_id": "user_sheet_51",
+        "variant_ids": [
+          "user_sheet_51"
+        ]
+      },
+      {
+        "char": "Q",
+        "status": "observed",
+        "canonical_id": "user_sheet_52",
+        "variant_ids": [
+          "user_sheet_52"
+        ]
+      },
+      {
+        "char": "R",
+        "status": "observed",
+        "canonical_id": "user_sheet_53",
+        "variant_ids": [
+          "user_sheet_53"
+        ]
+      },
+      {
+        "char": "S",
+        "status": "observed",
+        "canonical_id": "user_sheet_54",
+        "variant_ids": [
+          "user_sheet_54"
+        ]
+      },
+      {
+        "char": "T",
+        "status": "observed",
+        "canonical_id": "user_sheet_55",
+        "variant_ids": [
+          "user_sheet_55"
+        ]
+      },
+      {
+        "char": "U",
+        "status": "observed",
+        "canonical_id": "user_sheet_56",
+        "variant_ids": [
+          "user_sheet_56"
+        ]
+      },
+      {
+        "char": "V",
+        "status": "observed",
+        "canonical_id": "user_sheet_57",
+        "variant_ids": [
+          "user_sheet_57"
+        ]
+      },
+      {
+        "char": "W",
+        "status": "observed",
+        "canonical_id": "user_sheet_58",
+        "variant_ids": [
+          "user_sheet_58"
+        ]
+      },
+      {
+        "char": "X",
+        "status": "observed",
+        "canonical_id": "user_sheet_59",
+        "variant_ids": [
+          "user_sheet_59"
+        ]
+      },
+      {
+        "char": "Y",
+        "status": "observed",
+        "canonical_id": "user_sheet_60",
+        "variant_ids": [
+          "user_sheet_60"
+        ]
+      },
+      {
+        "char": "Z",
+        "status": "observed",
+        "canonical_id": "user_sheet_61",
+        "variant_ids": [
+          "user_sheet_61"
+        ]
+      }
+    ],
+    "coverage": {
+      "observed_characters": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "z",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z"
+      ],
+      "observed_count": 62,
+      "missing_characters": [],
+      "assets": 62
+    }
+  }
+]

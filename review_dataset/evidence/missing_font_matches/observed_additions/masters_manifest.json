@@ -1,0 +1,795 @@
+{
+  "source": "C:\\Users\\Win11Pro\\Desktop\\2. 도면 비교 설계적 변경 추출 샘플\\전도면 예시.pdf",
+  "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+  "fonts": [
+    {
+      "font_id": "pdf_upright_serif",
+      "provenance_status": "observed_original_pdf_partial",
+      "glyphs": [
+        {
+          "id": "pdf_upright_serif_U004C",
+          "char": "L",
+          "image": "pdf_upright_serif/U004C.png",
+          "vector": "pdf_upright_serif/U004C.npy",
+          "bbox_xyxy": [
+            216,
+            159,
+            424,
+            481
+          ],
+          "source_path_ids": [
+            69473
+          ],
+          "source_bbox": [
+            822.760009765625,
+            15.1600341796875,
+            826.0900268554688,
+            20.4100341796875
+          ],
+          "source_cap_height": 5.25,
+          "source_baseline_y": 20.4100341796875,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "LEVER",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "7b6c23ff8e539945dc5165afe767002688011ec804247a5d788fb42a78e39b63",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_upright_serif_U0045",
+          "char": "E",
+          "image": "pdf_upright_serif/U0045.png",
+          "vector": "pdf_upright_serif/U0045.npy",
+          "bbox_xyxy": [
+            216,
+            159,
+            424,
+            481
+          ],
+          "source_path_ids": [
+            69473
+          ],
+          "source_bbox": [
+            826.3699951171875,
+            15.1600341796875,
+            829.7000122070312,
+            20.4100341796875
+          ],
+          "source_cap_height": 5.25,
+          "source_baseline_y": 20.4100341796875,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "LEVER",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "860675a2d0bef771be640bd0ef1841a73f5302502dac6519a29443d1e39ac58d",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_upright_serif_U0056",
+          "char": "V",
+          "image": "pdf_upright_serif/U0056.png",
+          "vector": "pdf_upright_serif/U0056.npy",
+          "bbox_xyxy": [
+            207,
+            159,
+            433,
+            480
+          ],
+          "source_path_ids": [
+            69473
+          ],
+          "source_bbox": [
+            829.9099731445312,
+            15.1600341796875,
+            833.530029296875,
+            20.4100341796875
+          ],
+          "source_cap_height": 5.25,
+          "source_baseline_y": 20.4100341796875,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "LEVER",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "cadf2a99899c348d75c4b3711776f6a6a2a61d6a3d8f44fd25d4cfe28798cbd0",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_upright_serif_U0052",
+          "char": "R",
+          "image": "pdf_upright_serif/U0052.png",
+          "vector": "pdf_upright_serif/U0052.npy",
+          "bbox_xyxy": [
+            207,
+            159,
+            433,
+            481
+          ],
+          "source_path_ids": [
+            69473
+          ],
+          "source_bbox": [
+            837.3499755859375,
+            15.1600341796875,
+            840.969970703125,
+            20.4100341796875
+          ],
+          "source_cap_height": 5.25,
+          "source_baseline_y": 20.4100341796875,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "LEVER",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "b09acacd44168a0a7a4a2dc0bda4c12cfcba544a432bc100a7bc348992587bae",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        }
+      ]
+    },
+    {
+      "font_id": "pdf_upright_gulim_like",
+      "provenance_status": "observed_original_pdf_partial",
+      "glyphs": [
+        {
+          "id": "pdf_upright_gulim_like_U0044",
+          "char": "D",
+          "image": "pdf_upright_gulim_like/U0044.png",
+          "vector": "pdf_upright_gulim_like/U0044.npy",
+          "bbox_xyxy": [
+            191,
+            158,
+            449,
+            482
+          ],
+          "source_path_ids": [
+            128395
+          ],
+          "source_bbox": [
+            490.6099853515625,
+            576.9900512695312,
+            495.1400146484375,
+            582.7300415039062
+          ],
+          "source_cap_height": 5.739990234375,
+          "source_baseline_y": 582.7300415039062,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "DETAILC",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "8bf441b8d49fba4c419e055adc14dbe00c6382120f82ccaa4fade176b561f799",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_upright_gulim_like_U0045",
+          "char": "E",
+          "image": "pdf_upright_gulim_like/U0045.png",
+          "vector": "pdf_upright_gulim_like/U0045.npy",
+          "bbox_xyxy": [
+            211,
+            159,
+            429,
+            482
+          ],
+          "source_path_ids": [
+            128395
+          ],
+          "source_bbox": [
+            496.3500061035156,
+            576.9900512695312,
+            500.1700134277344,
+            582.7300415039062
+          ],
+          "source_cap_height": 5.739990234375,
+          "source_baseline_y": 582.7300415039062,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "DETAILC",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "469cc1212a6cf7429e9cd590bd2f440c6d5d21f8254169837943ac57be650ff6",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_upright_gulim_like_U0054",
+          "char": "T",
+          "image": "pdf_upright_gulim_like/U0054.png",
+          "vector": "pdf_upright_gulim_like/U0054.npy",
+          "bbox_xyxy": [
+            205,
+            159,
+            435,
+            481
+          ],
+          "source_path_ids": [
+            128395
+          ],
+          "source_bbox": [
+            500.6700134277344,
+            576.9900512695312,
+            504.7099914550781,
+            582.7300415039062
+          ],
+          "source_cap_height": 5.739990234375,
+          "source_baseline_y": 582.7300415039062,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "DETAILC",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "56710b4b5ed299caafa11ed6ee32105d788963373307ae0fb944c64ee81a3017",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_upright_gulim_like_U0041",
+          "char": "A",
+          "image": "pdf_upright_gulim_like/U0041.png",
+          "vector": "pdf_upright_gulim_like/U0041.npy",
+          "bbox_xyxy": [
+            191,
+            159,
+            449,
+            481
+          ],
+          "source_path_ids": [
+            128395
+          ],
+          "source_bbox": [
+            505.489990234375,
+            576.9900512695312,
+            510.0199890136719,
+            582.7300415039062
+          ],
+          "source_cap_height": 5.739990234375,
+          "source_baseline_y": 582.7300415039062,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "DETAILC",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "c3711f2c82211ba695f894b361ed22ec2262ecae54f7b6e79aace3a1cbfbfeaa",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_upright_gulim_like_U0049",
+          "char": "I",
+          "image": "pdf_upright_gulim_like/U0049.png",
+          "vector": "pdf_upright_gulim_like/U0049.npy",
+          "bbox_xyxy": [
+            304,
+            159,
+            336,
+            481
+          ],
+          "source_path_ids": [
+            128395
+          ],
+          "source_bbox": [
+            511.2300109863281,
+            576.9900512695312,
+            511.7200012207031,
+            582.7300415039062
+          ],
+          "source_cap_height": 5.739990234375,
+          "source_baseline_y": 582.7300415039062,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "DETAILC",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "27954c992c4f1a1ecf8d54a81f022275b9d01e37bd1b147ae027b34d7ddc7d21",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_upright_gulim_like_U004C",
+          "char": "L",
+          "image": "pdf_upright_gulim_like/U004C.png",
+          "vector": "pdf_upright_gulim_like/U004C.npy",
+          "bbox_xyxy": [
+            218,
+            159,
+            422,
+            481
+          ],
+          "source_path_ids": [
+            128395
+          ],
+          "source_bbox": [
+            513.1400146484375,
+            576.9900512695312,
+            516.760009765625,
+            582.7300415039062
+          ],
+          "source_cap_height": 5.739990234375,
+          "source_baseline_y": 582.7300415039062,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "DETAILC",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "3d5e92081dcbdfb8d4f3b548fdf88bf659c3f06c8edabea9d3effae47c714be4",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_upright_gulim_like_U0043",
+          "char": "C",
+          "image": "pdf_upright_gulim_like/U0043.png",
+          "vector": "pdf_upright_gulim_like/U0043.npy",
+          "bbox_xyxy": [
+            183,
+            159,
+            457,
+            482
+          ],
+          "source_path_ids": [
+            128395
+          ],
+          "source_bbox": [
+            519.8699951171875,
+            576.9900512695312,
+            524.6900024414062,
+            582.7300415039062
+          ],
+          "source_cap_height": 5.739990234375,
+          "source_baseline_y": 582.7300415039062,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "DETAILC",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "660b604ba1b2b134a5c5be90a96f4bfb9637206e7ef9485eb92e633e83763f36",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        }
+      ]
+    },
+    {
+      "font_id": "pdf_note_latin",
+      "provenance_status": "observed_original_pdf_partial",
+      "glyphs": [
+        {
+          "id": "pdf_note_latin_U0046",
+          "char": "F",
+          "image": "pdf_note_latin/U0046.png",
+          "vector": "pdf_note_latin/U0046.npy",
+          "bbox_xyxy": [
+            220,
+            159,
+            420,
+            481
+          ],
+          "source_path_ids": [
+            173147
+          ],
+          "source_bbox": [
+            416.9100036621094,
+            208.06005859375,
+            420.0199890136719,
+            213.1600341796875
+          ],
+          "source_cap_height": 5.0999755859375,
+          "source_baseline_y": 213.1600341796875,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "FRNT_MAIN",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "6003e4c4114983cbd51e9093b07b8b8067139d1f85b432c6884a925d5390f8f8",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_note_latin_U0052",
+          "char": "R",
+          "image": "pdf_note_latin/U0052.png",
+          "vector": "pdf_note_latin/U0052.npy",
+          "bbox_xyxy": [
+            204,
+            159,
+            435,
+            481
+          ],
+          "source_path_ids": [
+            173147
+          ],
+          "source_bbox": [
+            421.2300109863281,
+            208.06005859375,
+            424.8399963378906,
+            213.1600341796875
+          ],
+          "source_cap_height": 5.0999755859375,
+          "source_baseline_y": 213.1600341796875,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "FRNT_MAIN",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "2fc5bd78ed56e9f7dfe914d506395590090e2b80b358671b3b4632ca9f89863f",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_note_latin_U004E",
+          "char": "N",
+          "image": "pdf_note_latin/U004E.png",
+          "vector": "pdf_note_latin/U004E.npy",
+          "bbox_xyxy": [
+            183,
+            159,
+            457,
+            481
+          ],
+          "source_path_ids": [
+            173147
+          ],
+          "source_bbox": [
+            425.760009765625,
+            208.06005859375,
+            430.0899963378906,
+            213.1600341796875
+          ],
+          "source_cap_height": 5.0999755859375,
+          "source_baseline_y": 213.1600341796875,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "FRNT_MAIN",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "968dc5cc545e785df6d6d57398bebeddc749969c5b95c4f0ee2efdee65ac6054",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_note_latin_U0054",
+          "char": "T",
+          "image": "pdf_note_latin/U0054.png",
+          "vector": "pdf_note_latin/U0054.npy",
+          "bbox_xyxy": [
+            193,
+            159,
+            447,
+            481
+          ],
+          "source_path_ids": [
+            173147
+          ],
+          "source_bbox": [
+            431.0799865722656,
+            208.06005859375,
+            435.1199951171875,
+            213.1600341796875
+          ],
+          "source_cap_height": 5.0999755859375,
+          "source_baseline_y": 213.1600341796875,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "FRNT_MAIN",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "631e670ffe0bca66490f1a74200eb0ccd3b61193e6b033cc9aa6436172eabc60",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_note_latin_U004D",
+          "char": "M",
+          "image": "pdf_note_latin/U004D.png",
+          "vector": "pdf_note_latin/U004D.npy",
+          "bbox_xyxy": [
+            161,
+            159,
+            478,
+            481
+          ],
+          "source_path_ids": [
+            173147
+          ],
+          "source_bbox": [
+            439.94000244140625,
+            208.06005859375,
+            444.9700012207031,
+            213.1600341796875
+          ],
+          "source_cap_height": 5.0999755859375,
+          "source_baseline_y": 213.1600341796875,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "FRNT_MAIN",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "84c9994549b9138b93eb0157446ca67195d391206bd3183915e993f98dc2d864",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_note_latin_U0041",
+          "char": "A",
+          "image": "pdf_note_latin/U0041.png",
+          "vector": "pdf_note_latin/U0041.npy",
+          "bbox_xyxy": [
+            169,
+            159,
+            471,
+            481
+          ],
+          "source_path_ids": [
+            173147
+          ],
+          "source_bbox": [
+            445.9599914550781,
+            208.06005859375,
+            450.7099914550781,
+            213.1600341796875
+          ],
+          "source_cap_height": 5.0999755859375,
+          "source_baseline_y": 213.1600341796875,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "FRNT_MAIN",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "c707b43cc7196eb0e5b7726e4d166ead17114a8f089ca700be0b2da8d961987d",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        },
+        {
+          "id": "pdf_note_latin_U0049",
+          "char": "I",
+          "image": "pdf_note_latin/U0049.png",
+          "vector": "pdf_note_latin/U0049.npy",
+          "bbox_xyxy": [
+            295,
+            159,
+            345,
+            481
+          ],
+          "source_path_ids": [
+            173147
+          ],
+          "source_bbox": [
+            451.70001220703125,
+            208.06005859375,
+            452.4100036621094,
+            213.1600341796875
+          ],
+          "source_cap_height": 5.0999755859375,
+          "source_baseline_y": 213.1600341796875,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "filled",
+          "source_word": "FRNT_MAIN",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "122ac359d8314b92e6e4c95bb5aead67ea27cdf2560da0f1c45c4596d1905f35",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": true,
+          "source_stroke_width": 0,
+          "stroke_ratio": 0
+        }
+      ]
+    },
+    {
+      "font_id": "pdf_ket_outline_logo",
+      "provenance_status": "observed_original_pdf_partial_logo_not_font_family",
+      "glyphs": [
+        {
+          "id": "pdf_ket_outline_logo_U004B",
+          "char": "K",
+          "image": "pdf_ket_outline_logo/U004B.png",
+          "vector": "pdf_ket_outline_logo/U004B.npy",
+          "bbox_xyxy": [
+            152,
+            152,
+            497,
+            486
+          ],
+          "source_path_ids": [
+            43291,
+            43292,
+            43293,
+            43294,
+            43295,
+            43296,
+            43297,
+            43298,
+            43299,
+            43300,
+            43301,
+            43302
+          ],
+          "source_bbox": [
+            109.48999786376953,
+            198.989990234375,
+            115.44000244140625,
+            204.9400634765625
+          ],
+          "source_cap_height": 5.9500732421875,
+          "source_baseline_y": 204.9400634765625,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "outline",
+          "source_word": "KET",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "e0d728a080490ae4576888441f2141a10c22457edb7c78b8ebe915ec2ec3335a",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": false,
+          "source_stroke_width": 0.213,
+          "stroke_ratio": 0.035797878669757706
+        },
+        {
+          "id": "pdf_ket_outline_logo_U0045",
+          "char": "E",
+          "image": "pdf_ket_outline_logo/U0045.png",
+          "vector": "pdf_ket_outline_logo/U0045.npy",
+          "bbox_xyxy": [
+            148,
+            154,
+            492,
+            486
+          ],
+          "source_path_ids": [
+            43275,
+            43276,
+            43277,
+            43278,
+            43279,
+            43280,
+            43281,
+            43282,
+            43283,
+            43284,
+            43285,
+            43286
+          ],
+          "source_bbox": [
+            114.94000244140625,
+            198.989990234375,
+            120.97000122070312,
+            204.9400634765625
+          ],
+          "source_cap_height": 5.9500732421875,
+          "source_baseline_y": 204.9400634765625,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "outline",
+          "source_word": "KET",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "f9bda90df42841801f440ec6f024a95681674255bd24a45a70cd694a7e91f727",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": false,
+          "source_stroke_width": 0.213,
+          "stroke_ratio": 0.035797878669757706
+        },
+        {
+          "id": "pdf_ket_outline_logo_U0054",
+          "char": "T",
+          "image": "pdf_ket_outline_logo/U0054.png",
+          "vector": "pdf_ket_outline_logo/U0054.npy",
+          "bbox_xyxy": [
+            184,
+            154,
+            458,
+            488
+          ],
+          "source_path_ids": [
+            43267,
+            43268,
+            43269,
+            43270,
+            43271,
+            43272,
+            43273,
+            43274
+          ],
+          "source_bbox": [
+            121.95999908447266,
+            198.989990234375,
+            126.70999908447266,
+            204.9400634765625
+          ],
+          "source_cap_height": 5.9500732421875,
+          "source_baseline_y": 204.9400634765625,
+          "baseline_px": 480,
+          "cap_height_px": 320,
+          "source_coordinate_system": "pdf_y_down",
+          "render_mode": "outline",
+          "source_word": "KET",
+          "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+          "source_font_identity_verified": false,
+          "sha256": "ddf3b9ccf257d4277990fcc037056887665487bb2e5a2290825751b5ad3384e3",
+          "source_segment_selection": "Explicit glyph path IDs for KET; for filled words exact x-disjoint source path subsegments, not OCR geometry",
+          "original_path_shared_with_other_letters": false,
+          "source_stroke_width": 0.213,
+          "stroke_ratio": 0.035797878669757706
+        }
+      ]
+    }
+  ],
+  "note": "Partial directly observed source glyphs, not complete fonts; original source vectors and common cap/baseline retained. KET logo identity not generalized to other glyphs."
+}

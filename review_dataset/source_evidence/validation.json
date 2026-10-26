@@ -1,0 +1,42 @@
+{
+  "assets": 244,
+  "eligible_assets": 221,
+  "checks": [
+    "all_raster_assets_have_visible_ink",
+    "all_vector_assets_match_segment_counts",
+    "all_training_labels_single_character",
+    "source_context_style_review_18_rows",
+    "T044_serif_classification_corrected",
+    "T010_T137_lineweight_variants_not_font_family",
+    "upright_looking_numerals_not_unproven_separate_font",
+    "four_serif_5_assets_completed_with_verified_original_diagonal_path"
+  ],
+  "errors": [],
+  "serif_5_checks": [
+    {
+      "id": "pdf_T046",
+      "paths": 7,
+      "segments": 35,
+      "added_path": 134262
+    },
+    {
+      "id": "pdf_T074",
+      "paths": 7,
+      "segments": 35,
+      "added_path": 84370
+    },
+    {
+      "id": "pdf_T088",
+      "paths": 7,
+      "segments": 35,
+      "added_path": 86767
+    },
+    {
+      "id": "pdf_T119",
+      "paths": 7,
+      "segments": 35,
+      "added_path": 84811
+    }
+  ],
+  "manifest_sha256": "873fad5ed26e5368934978eb37ffd33f815ba95138b194914f91b47696399464"
+}

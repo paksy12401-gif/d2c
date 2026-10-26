@@ -1,0 +1,1403 @@
+{
+  "font_id": "romans_normal_source_weight",
+  "folder": "03_calibrated_candidates/romans_normal_source_weight",
+  "display_name": "후보: Romans · 넓은 얇은 CAD",
+  "provenance_status": "source_compared_installed_font_candidate",
+  "source": "evidence/style_specs.json",
+  "family_id": "romans",
+  "exact_original_font_identified": false,
+  "review_note": "VIEW J 원본과 비교한 후보. 폭 1.0, 상대 선폭 0.02465. 원본 글꼴 이름 확정은 아님.",
+  "rendering": {
+    "id": "romans_normal_source_weight",
+    "family_id": "romans",
+    "display_name": "후보: Romans · 넓은 얇은 CAD",
+    "review_note": "VIEW J 원본과 비교한 후보. 폭 1.0, 상대 선폭 0.02465. 원본 글꼴 이름 확정은 아님.",
+    "vector_json": "output/drawing_font_dataset_20261026/font_inventory/vectors/romans.json",
+    "width_factor": 1.0,
+    "stroke_ratio": 0.024653084236538895,
+    "source_evidence": "observed_new_styles/heading_font_comparison.json"
+  },
+  "glyphs": [
+    {
+      "char": "0",
+      "class_id": 52,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0030_0.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0030_0.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        154,
+        433,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "a8cfc8853184de878d8845e3a00d42914d452210f09f2abcd4128b9bc229e43c",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "1",
+      "class_id": 53,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0031_1.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0031_1.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        278,
+        154,
+        364,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "853f559b16fc227da726d1fe78e029c2542d69f2c4eab29e6ff0caefd451bebd",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "2",
+      "class_id": 54,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0032_2.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0032_2.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        154,
+        429,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ca302aedb9e99f6620f57b46a5dc4a2a062d91d724320ecbcc580d98e672e2d7",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "3",
+      "class_id": 55,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0033_3.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0033_3.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        208,
+        154,
+        433,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "edcab8318265996124b551a71e8309f9684604ed1b15d55f584f588794938ecd",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "4",
+      "class_id": 56,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0034_4.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0034_4.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        199,
+        156,
+        437,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "5a7703bf48b7170907c3212c2a5c00be4aa12564edc49b2c2dbd8c87df9c6a4b",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "5",
+      "class_id": 57,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0035_5.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0035_5.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        208,
+        154,
+        433,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "130719bd1abe4c0ce953c1b8b40ca189dad6c549cd680712367f72c8479dc406",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "6",
+      "class_id": 58,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0036_6.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0036_6.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        215,
+        154,
+        425,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "24b61ad9a482fb2558bfed7423b1bd6fc3d91578b7cecd8cd293f94cf60637de",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "7",
+      "class_id": 59,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0037_7.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0037_7.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        211,
+        155,
+        432,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "1926c0b4ee104f04952ee8bb4364ab7cbac369638daaa3087eec541f7771b6ee",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "8",
+      "class_id": 60,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0038_8.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0038_8.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        154,
+        433,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "f5e8da3cd330283b3766e36df13d373c3813be1ecba4c1bafdf7ddc43ab4b5b5",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "9",
+      "class_id": 61,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0039_9.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0039_9.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        215,
+        154,
+        425,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "75093c9f78a961837146497b17d4894a35b58dccf9a6ee587a594856245cca68",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "a",
+      "class_id": 26,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0061_a.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0061_a.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        222,
+        260,
+        418,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "6356db333fdf3c6b5611e25db1bfde67978295f2082cf0e3b37fa84b0fc279c2",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "b",
+      "class_id": 27,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0062_b.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0062_b.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        222,
+        159,
+        418,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9b8ee9113421be79cee152ba1bc341c785f2c33567323e0e491662b8c002573c",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "c",
+      "class_id": 28,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0063_c.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0063_c.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        222,
+        260,
+        416,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "63eaa867e85d224b835c7236a9c8e71b91320cd5c29644821d6d0614e0887b66",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "d",
+      "class_id": 29,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0064_d.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0064_d.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        222,
+        159,
+        418,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ea6508fbfd5495ce3b791f91303bd9015c0181c4dbd1c3a7cea7975d79f81a76",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "e",
+      "class_id": 30,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0065_e.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0065_e.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        222,
+        260,
+        418,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "697b296bed9cb9321e9cbeb43a65ca3d915757e1678a7eaf86fa01b5471285e6",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "f",
+      "class_id": 31,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0066_f.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0066_f.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        258,
+        154,
+        382,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "1d4c51369feb57398f0b589740edd2d1944d3535b881425b7aa361029704e627",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "g",
+      "class_id": 32,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0067_g.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0067_g.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        222,
+        260,
+        418,
+        593
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c00c045fb528886828d952c8af211c146bc13bf363e8cae622673aeeb4be85e1",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "h",
+      "class_id": 33,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0068_h.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0068_h.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        232,
+        159,
+        410,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "e8371ba003278aee1d794e95010fee61509fb7d6611aac3203253c199880d120",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "i",
+      "class_id": 34,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0069_i.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0069_i.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        300,
+        154,
+        341,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "447f0a8852670da0ea5ffe197d43059972646d5437320d34ff7a9689520608d8",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "j",
+      "class_id": 35,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U006A_j.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U006A_j.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        274,
+        154,
+        372,
+        593
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "045540148bee743eb80691e1277fb1ecf5b65e848164bae143096bb832dd3f06",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "k",
+      "class_id": 36,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U006B_k.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U006B_k.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        232,
+        159,
+        409,
+        485
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9eaf494be2c5e07b059568fea4b4fbb125aca84359b06b6fd4b9fe4bf5ad4958",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "l",
+      "class_id": 37,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U006C_l.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U006C_l.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        315,
+        159,
+        325,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "eddfe61cfa058d0d029bbbe4eecb6c7d68ca7d81ecbd50416ff48f1d4d511cbb",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd",
+      "isolated_training_eligible": false,
+      "ambiguous_visual_characters": [
+        "I",
+        "l"
+      ]
+    },
+    {
+      "char": "m",
+      "class_id": 38,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U006D_m.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U006D_m.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        146,
+        260,
+        494,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "dbf691984b5904c8900f9f22ce5f9e9e93017562723ec96d56b842f3ae343057",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "n",
+      "class_id": 39,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U006E_n.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U006E_n.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        232,
+        260,
+        410,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "7bb048787c7c9dd706832590b915890bb749be102cee61365fdc4dc5983c4111",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "o",
+      "class_id": 40,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U006F_o.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U006F_o.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        215,
+        260,
+        425,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "067df728525b98186b1c9b6375af8d335443ab118bb7861cb2773a14e35b174f",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "p",
+      "class_id": 41,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0070_p.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0070_p.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        222,
+        260,
+        418,
+        589
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "241e8d295b64d46ab86cf2f82e838ed91f116417f1e26627c81602d1991cc573",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "q",
+      "class_id": 42,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0071_q.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0071_q.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        222,
+        260,
+        418,
+        589
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "70b007aba4c14044676a5cdacf1bba6986b535f48568621c5f1cc5c4f0d4e267",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "r",
+      "class_id": 43,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0072_r.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0072_r.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        254,
+        260,
+        382,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "b7290ba86d6f3ef90bcbb36e125e1ecd453ba71ebefc955202a2628fed8252ce",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "s",
+      "class_id": 44,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0073_s.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0073_s.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        230,
+        260,
+        410,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "6bcbc2a129fc6626bef97df49105b85c4882b2db3902a703d253844373ec5fd2",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "t",
+      "class_id": 45,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0074_t.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0074_t.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        258,
+        159,
+        382,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "cba25444be65670e9d5b0eabb9bea3eec3f8081f9b1d506789c730d090033557",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "u",
+      "class_id": 46,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0075_u.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0075_u.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        230,
+        264,
+        408,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "43243c1b0ec1fb1e31758bafa1ec48d5cc597e4b6210f808df8ad1e8294608de",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "v",
+      "class_id": 47,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0076_v.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0076_v.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        223,
+        263,
+        417,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "006842444643b576b891728cf97304e95c27efbeaa64eb05642e54fe3e6b1f8d",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "w",
+      "class_id": 48,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0077_w.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0077_w.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        192,
+        263,
+        448,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "774066a4af03399e5c7573d268efcc8c860a13164e9efeeca4ca3204abda2f8a",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "x",
+      "class_id": 49,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0078_x.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0078_x.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        231,
+        262,
+        409,
+        485
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "a5b23e74ced8c697af1250a36b5d85bf010bf1112ec568ff2576b5faf9e4e60d",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "y",
+      "class_id": 50,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0079_y.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0079_y.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        220,
+        263,
+        425,
+        593
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "08d2e4ad5779e1be6ba4c8dbfefd4815ccfe4e8d8016b79ebc9405e0937c7469",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "z",
+      "class_id": 51,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U007A_z.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U007A_z.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        231,
+        260,
+        409,
+        485
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "2702e7471bc31bc7939f7601b4965e51ed64960325e4c1c0b1bfff561d2559a0",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "A",
+      "class_id": 0,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0041_A.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0041_A.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        192,
+        156,
+        448,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "b01bc1c46ba15f8e154606dc89f12420336f52662e58354cbcd531248c43dfd3",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "B",
+      "class_id": 1,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0042_B.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0042_B.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        154,
+        433,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "01dd7199922d9aea3bda55266fad063ce4fdf3ff082c279713d4e27a619ff398",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "C",
+      "class_id": 2,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0043_C.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0043_C.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        199,
+        154,
+        440,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "029e7d51afcf64715068ecce7e5442e4184639f9c7d9028e0b201fab695671bc",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "D",
+      "class_id": 3,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0044_D.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0044_D.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        154,
+        433,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "bbf4ab33469198a610b1e39cd62eafc2329650cc3e70c4e653b70af11892e118",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "E",
+      "class_id": 4,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0045_E.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0045_E.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        216,
+        155,
+        420,
+        485
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "5b22f23602f6d4af40527ea1e26127c88a734e6de7ea9b03e1de3a7c21990de1",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "F",
+      "class_id": 5,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0046_F.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0046_F.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        216,
+        155,
+        420,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "a385dc51c49ec33654a4061ef078a04d9623c755ebf9d016d7c593e99e75885b",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "G",
+      "class_id": 6,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0047_G.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0047_G.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        199,
+        154,
+        441,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "3a82b2e83037a1303150ce17aee4271c72e73b606f63196034595680c79a0eb2",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "H",
+      "class_id": 7,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0048_H.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0048_H.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        159,
+        433,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9cc207494c346a4ecd39db85d22757c09f08fd6b038e0686f41dd7e0255c8369",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "I",
+      "class_id": 8,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0049_I.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0049_I.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        315,
+        159,
+        325,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "eddfe61cfa058d0d029bbbe4eecb6c7d68ca7d81ecbd50416ff48f1d4d511cbb",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd",
+      "isolated_training_eligible": false,
+      "ambiguous_visual_characters": [
+        "I",
+        "l"
+      ]
+    },
+    {
+      "char": "J",
+      "class_id": 9,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U004A_J.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U004A_J.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        237,
+        159,
+        403,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "15137bebd4d2b57a9093c029f57f6e08c4fe2e406a666fa7ac4ab406a78e2a9a",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "K",
+      "class_id": 10,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U004B_K.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U004B_K.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        155,
+        432,
+        485
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9b2944edbf5527a61739bcc2ebe2161b7a4e18cca6ae87f2c66e6e05f929f448",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "L",
+      "class_id": 11,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U004C_L.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U004C_L.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        222,
+        159,
+        414,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ce26da76467305dd4bc3991c27a1eed2bc4a39a8d615dc1403c395ef4dcd7024",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "M",
+      "class_id": 12,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U004D_M.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U004D_M.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        193,
+        156,
+        447,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9710b832f4ec0cf9b1be0fd4c29f59ab2ad094626e9e89d3fa979eecc539b2ab",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "N",
+      "class_id": 13,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U004E_N.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U004E_N.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        156,
+        433,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "271422cd63ad9c8a1cd4f1090acf921e7b67c44389d8d4c79f230884fe3d35c6",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "O",
+      "class_id": 14,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U004F_O.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U004F_O.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        192,
+        154,
+        448,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "6c75f508e8e40f57d445eccc933365fccccbbd340c1cbde7cfb79e65e54b30a3",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "P",
+      "class_id": 15,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0050_P.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0050_P.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        154,
+        433,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "451dc48b0687fb1e9ef6aad32918474acaee466586eb2b5f198e3f59a63bfbf7",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "Q",
+      "class_id": 16,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0051_Q.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0051_Q.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        192,
+        154,
+        448,
+        514
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "668ed8bd78b197941f35f42900d0ab58dccd513e08bd31a615b0f8386413a25b",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "R",
+      "class_id": 17,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0052_R.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0052_R.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        154,
+        433,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9970e5f3d6ff907b772ed50991e7040ff820b851d3e97df19f1ba5f94cdb2bbd",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "S",
+      "class_id": 18,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0053_S.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0053_S.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        154,
+        433,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ec6758fd47a0f711e7a076e28559990bbf4bbdc50ba5555664754eaf17828773",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "T",
+      "class_id": 19,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0054_T.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0054_T.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        211,
+        155,
+        429,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "7268a4a7a940351eaea1d0503ca7696abfc3d70165354615f776b0a69684a154",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "U",
+      "class_id": 20,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0055_U.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0055_U.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        207,
+        159,
+        433,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "84c7a163d709005eefaffbee2f0b096a5d35e942069833ce5fd8e1de07affbee",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "V",
+      "class_id": 21,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0056_V.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0056_V.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        192,
+        156,
+        448,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "fef1efb8c16c809e8dbcee179b10a1613dfc2bf7b825f79a9627324699bfc972",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "W",
+      "class_id": 22,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0057_W.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0057_W.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        161,
+        157,
+        479,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "35b7bb7ae1dd4bf35ad0a90b1888c16b3989ab54d9be180a193a648d44600326",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "X",
+      "class_id": 23,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0058_X.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0058_X.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        208,
+        156,
+        432,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "8f493a3c0b33fb6a7d71971167a9410fc277b3a68243764805d273f78cc00231",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "Y",
+      "class_id": 24,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U0059_Y.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U0059_Y.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        193,
+        155,
+        447,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ee3c66cd3041a07ec7623d716e1bdb2c60e7f8dea50b175bb20f31bd5cd8a6c6",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    },
+    {
+      "char": "Z",
+      "class_id": 25,
+      "image": "03_calibrated_candidates/romans_normal_source_weight/images/U005A_Z.png",
+      "label": "03_calibrated_candidates/romans_normal_source_weight/labels/U005A_Z.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        208,
+        155,
+        432,
+        485
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "5de451d1f90a645083a4795e52d8bab7e0bdeb453959b14725078c0b16a908f1",
+      "metrics_status": "installed_font_metrics_with_source_style_calibration",
+      "font_file_sha256": "b22f4abadf72c9184c6c33dbf159b504cc09185a4c24102223afbe58b400f9bd"
+    }
+  ],
+  "missing_chars": [],
+  "complete": true,
+  "image_size": [
+    640,
+    640
+  ],
+  "contact_sheet": "03_calibrated_candidates/romans_normal_source_weight/contact_sheet.png"
+}

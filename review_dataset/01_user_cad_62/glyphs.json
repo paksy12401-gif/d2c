@@ -1,0 +1,1443 @@
+{
+  "font_id": "user_cad_stroke_sheet",
+  "folder": "01_user_cad_62",
+  "display_name": "사용자 제공 CAD 글씨체 · 62종",
+  "provenance_status": "user_supplied_labeled_alphabet",
+  "source": "source_evidence/manifest.json",
+  "review_note": "기존에 제공한 대문자·소문자·숫자 표본. 원본 비율과 기준선 보존.",
+  "glyphs": [
+    {
+      "char": "A",
+      "class_id": 0,
+      "image": "01_user_cad_62/images/U0041_A.png",
+      "label": "01_user_cad_62/labels/U0041_A.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        150,
+        154,
+        489,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "1543ca11190852a5febaf20928c7846bc573c1eef5cf506faaf15fd1a7bf4d17",
+      "source_record_id": "user_sheet_36",
+      "source_sha256": "431fb33f5294f46eb3aafd19c29aec3a7b2a995abe09a2112b7a1cb9cccf90dc",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "B",
+      "class_id": 1,
+      "image": "01_user_cad_62/images/U0042_B.png",
+      "label": "01_user_cad_62/labels/U0042_B.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        163,
+        154,
+        477,
+        493
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ec665ab3e07aa0990451ee4e15dd76129d2865eb5c67ad07c106a0d70495ba6e",
+      "source_record_id": "user_sheet_37",
+      "source_sha256": "175d1d027ed225bdab7f5367f80ba5b10b5d284b9738e176e04d3b497fde6e77",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "C",
+      "class_id": 2,
+      "image": "01_user_cad_62/images/U0043_C.png",
+      "label": "01_user_cad_62/labels/U0043_C.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        163,
+        154,
+        477,
+        493
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "aa23d35ebf73b79288a82d68040ea6680778c71fc90835ba56f582bf52df55cf",
+      "source_record_id": "user_sheet_38",
+      "source_sha256": "7cc0133c3373446a7cb87f91393c9b5a0f57b5fe45d435162d48e83dd75590e9",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "D",
+      "class_id": 3,
+      "image": "01_user_cad_62/images/U0044_D.png",
+      "label": "01_user_cad_62/labels/U0044_D.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        163,
+        154,
+        477,
+        493
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "0c6f3947f556d0832939c7177bcc84e7e302ea8802d82bc1af73edb8cadc731f",
+      "source_record_id": "user_sheet_39",
+      "source_sha256": "50ef405306c96d1e0e05e3c570f50b8e1df42dd9a3563f995a35e53d5fb3e4f8",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "E",
+      "class_id": 4,
+      "image": "01_user_cad_62/images/U0045_E.png",
+      "label": "01_user_cad_62/labels/U0045_E.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        163,
+        154,
+        477,
+        493
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "6411449f6b08c689fd92846aad7320d244e4c7c32bdd095e98e05b6b57c1c4b1",
+      "source_record_id": "user_sheet_40",
+      "source_sha256": "ce8cae8482976d81fdb30cc087d03693e37fcfda181fb7bdb71b31fe14f4878c",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "F",
+      "class_id": 5,
+      "image": "01_user_cad_62/images/U0046_F.png",
+      "label": "01_user_cad_62/labels/U0046_F.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        163,
+        157,
+        474,
+        477
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "f3075abc7584ca345e3b7cb364bf664c48e26e4c65bacc26208b280c47f8a836",
+      "source_record_id": "user_sheet_41",
+      "source_sha256": "fe876572317f24cc12f2349dd705564f6080cc7e054ef9032247aee5a3d8d411",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "G",
+      "class_id": 6,
+      "image": "01_user_cad_62/images/U0047_G.png",
+      "label": "01_user_cad_62/labels/U0047_G.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        163,
+        154,
+        477,
+        493
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "051cf620b592a4abd0b2cb339aa16ed5ece2d7707da248739038a01dc62df9f0",
+      "source_record_id": "user_sheet_42",
+      "source_sha256": "912e93aeac15486eb64ad74187b8ce99cec0cb513867cc7e2036454b1a2d8545",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "H",
+      "class_id": 7,
+      "image": "01_user_cad_62/images/U0048_H.png",
+      "label": "01_user_cad_62/labels/U0048_H.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        176,
+        154,
+        464,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "f803a7b78bc9d5df8105f21e1fed4d30058421686a13b1c82771b345cc69b803",
+      "source_record_id": "user_sheet_43",
+      "source_sha256": "f426481c93f450ad2e5962b5257c852db5e4d0c606d4eff5f134bd68abc3ceb7",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "I",
+      "class_id": 8,
+      "image": "01_user_cad_62/images/U0049_I.png",
+      "label": "01_user_cad_62/labels/U0049_I.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        268,
+        157,
+        371,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "5c77b730440ecf0608212b803020578efab59d8288f2998c168f36f5bf90e8bf",
+      "source_record_id": "user_sheet_44",
+      "source_sha256": "ffa7fb030c51ec2e536ce5547d2c8c1c70025659ccb9bd7b515950924807f792",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "J",
+      "class_id": 9,
+      "image": "01_user_cad_62/images/U004A_J.png",
+      "label": "01_user_cad_62/labels/U004A_J.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        192,
+        163,
+        448,
+        493
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "5a8ce64246957c141764440afc25467d3c5806c15af61543109ac9cfe5c4e870",
+      "source_record_id": "user_sheet_45",
+      "source_sha256": "57b6d3bc39cfad549c9fb63861e084cfa15a1502ada0ce8d09c334b6102d4591",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "K",
+      "class_id": 10,
+      "image": "01_user_cad_62/images/U004B_K.png",
+      "label": "01_user_cad_62/labels/U004B_K.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        169,
+        154,
+        473,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "54469cbbd43bf46b41814468776f5e6c838f7ac51d8b4f2e50a4acaf414f4eab",
+      "source_record_id": "user_sheet_46",
+      "source_sha256": "42d906e228ff1e00600e93e34d0582fb2d355a185455f1267e8a8496bda5d8fb",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "L",
+      "class_id": 11,
+      "image": "01_user_cad_62/images/U004C_L.png",
+      "label": "01_user_cad_62/labels/U004C_L.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        176,
+        157,
+        461,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c152790b9ab4bd38beafc74551f3ded2195dca5a39c2be78b90ecac6cbe28e00",
+      "source_record_id": "user_sheet_47",
+      "source_sha256": "e0fbef8e9b91f50b9742fe9caeedc17d54a623110ea45984d744892a68c99326",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "M",
+      "class_id": 12,
+      "image": "01_user_cad_62/images/U004D_M.png",
+      "label": "01_user_cad_62/labels/U004D_M.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        166,
+        154,
+        474,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "46d0a054b3a1afe997a7b52a712873e6e40bebf8f29e82d87328995ed3ebbaf4",
+      "source_record_id": "user_sheet_48",
+      "source_sha256": "b8b9c951bab389845a029789306bb9c1096e881bf467fda29c4fc6fc6158c0b8",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "N",
+      "class_id": 13,
+      "image": "01_user_cad_62/images/U004E_N.png",
+      "label": "01_user_cad_62/labels/U004E_N.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        163,
+        154,
+        477,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "e9dd2c2b9d42bb548ac52ee855a8f431e5ee8370a6c320071bc5cb53a64708df",
+      "source_record_id": "user_sheet_49",
+      "source_sha256": "596936be7431292572b0b1a0040e8736b6432890b257946c94230c8795a56343",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "O",
+      "class_id": 14,
+      "image": "01_user_cad_62/images/U004F_O.png",
+      "label": "01_user_cad_62/labels/U004F_O.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        163,
+        147,
+        477,
+        493
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "d4bfc7f108fe0e699341d9b7786ed37aa62d7a0e49e4c81f57b8176a749ba37b",
+      "source_record_id": "user_sheet_50",
+      "source_sha256": "101138e4dd321046842188dd5215aec65e1991aeddda69a795de3e6ef182fc40",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "P",
+      "class_id": 15,
+      "image": "01_user_cad_62/images/U0050_P.png",
+      "label": "01_user_cad_62/labels/U0050_P.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        160,
+        154,
+        480,
+        484
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "7653064d1f82179316ac8c755f7302b71aeb784ab46d111f6bfe5bf16629768c",
+      "source_record_id": "user_sheet_51",
+      "source_sha256": "8e078692a6031834ace6db1a59addc4f11b981f0872afce2edce0503e485e416",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "Q",
+      "class_id": 16,
+      "image": "01_user_cad_62/images/U0051_Q.png",
+      "label": "01_user_cad_62/labels/U0051_Q.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        157,
+        147,
+        483,
+        505
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "cb46c8a400f9217c6ae107f83ef8f356158435fe2f12a8b87a40fb21b0f1cd4f",
+      "source_record_id": "user_sheet_52",
+      "source_sha256": "c512cf2d30befb1671ebc0188b0879e3f5074368afc5d9d1319d7d3fd8ef70aa",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "R",
+      "class_id": 17,
+      "image": "01_user_cad_62/images/U0052_R.png",
+      "label": "01_user_cad_62/labels/U0052_R.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        156,
+        147,
+        486,
+        486
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "8546ea75c1c84c9142706e61bda6c4ecf3bc8d1a58d875d0a84da5d3188087ed",
+      "source_record_id": "user_sheet_53",
+      "source_sha256": "8c4998f7c27dec044c7688a4f65508b77d2004bf884ad6c74f8a549e892df760",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "S",
+      "class_id": 18,
+      "image": "01_user_cad_62/images/U0053_S.png",
+      "label": "01_user_cad_62/labels/U0053_S.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        160,
+        147,
+        480,
+        493
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "95322b53cb4c20be70a9beda18bc1974ecc2fa4dd73b694c06e7becbeba6380f",
+      "source_record_id": "user_sheet_54",
+      "source_sha256": "9fcca44ec7e4701424dc428f5e14da9d5dc11969e8751e9a075a8a04bbc460fb",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "T",
+      "class_id": 19,
+      "image": "01_user_cad_62/images/U0054_T.png",
+      "label": "01_user_cad_62/labels/U0054_T.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        182,
+        150,
+        458,
+        477
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "fe77cb8d2f153550dc28240e765ac6f8096f3db1a2f448fa7198e54ffca380de",
+      "source_record_id": "user_sheet_55",
+      "source_sha256": "b9799847b7c59873cd95f31e0e8d8e8cb69cc654dcef25cfb0d93742b75dc412",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "U",
+      "class_id": 20,
+      "image": "01_user_cad_62/images/U0055_U.png",
+      "label": "01_user_cad_62/labels/U0055_U.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        160,
+        154,
+        477,
+        493
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "1f6faef95f636b100885cd94312a1602fcb4c3d43a25c86f87eccf710c926d79",
+      "source_record_id": "user_sheet_56",
+      "source_sha256": "6f0ad6e93c36015564543bc0bd3ef8290758b412062f6fd41d399591da5bdd8e",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "V",
+      "class_id": 21,
+      "image": "01_user_cad_62/images/U0056_V.png",
+      "label": "01_user_cad_62/labels/U0056_V.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        141,
+        154,
+        499,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "e5c3112176a1885abe1bdae9dbe7798532bf504adda147e11a9f2405e97402ee",
+      "source_record_id": "user_sheet_57",
+      "source_sha256": "2b18d65b705ff8b71534265d0a1e8eb714391b8f0fbae42c486df93937f4cdc5",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "W",
+      "class_id": 22,
+      "image": "01_user_cad_62/images/U0057_W.png",
+      "label": "01_user_cad_62/labels/U0057_W.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        141,
+        154,
+        499,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "bf300568ae58260281bb49a7fa17cddf52c58556e7d26c27673d5c31090c0a17",
+      "source_record_id": "user_sheet_58",
+      "source_sha256": "054c7d5f94c285f539c27b3cfe6ab80314b571c425542ac9985f8d24a3c8872a",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "X",
+      "class_id": 23,
+      "image": "01_user_cad_62/images/U0058_X.png",
+      "label": "01_user_cad_62/labels/U0058_X.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        150,
+        147,
+        489,
+        480
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "e9adaa2f750cfb37d72b4cd264d911f03bc2df726004543c09e6b05376fdaa19",
+      "source_record_id": "user_sheet_59",
+      "source_sha256": "65e044cba52249afbfb65b21e6bbd82b7a512f3fdc1fc3d643d57ec418616cfc",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "Y",
+      "class_id": 24,
+      "image": "01_user_cad_62/images/U0059_Y.png",
+      "label": "01_user_cad_62/labels/U0059_Y.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        141,
+        147,
+        499,
+        477
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "0832a80bd7d079dcfcf9545059db1a5be6f89a3037c55dc183db772b8ccc33e1",
+      "source_record_id": "user_sheet_60",
+      "source_sha256": "bb1cd4277aded33a94f3b6acefcf1479bcc6fb32698c55d0f9aeca8d4a368a61",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "Z",
+      "class_id": 25,
+      "image": "01_user_cad_62/images/U005A_Z.png",
+      "label": "01_user_cad_62/labels/U005A_Z.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        176,
+        147,
+        464,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "e9a0607f608583d867c95769eef5fa64f0285d4e8f5b408522b9d965150cc942",
+      "source_record_id": "user_sheet_61",
+      "source_sha256": "de36107e5a398e05c61b996be6ee73326c01917586049cee692761919b1b1303",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "a",
+      "class_id": 26,
+      "image": "01_user_cad_62/images/U0061_a.png",
+      "label": "01_user_cad_62/labels/U0061_a.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        162,
+        226,
+        477,
+        495
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "c679648de5a2336669fd8a1a4b9c19f914dd011acd62de795b4a6d33f2fe62d4",
+      "source_record_id": "user_sheet_10",
+      "source_sha256": "15f82c0dfad6fc0d8960ba1a47d51600b06bb2dc93cd56fce3acb5d22ddf31b0",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "b",
+      "class_id": 27,
+      "image": "01_user_cad_62/images/U0062_b.png",
+      "label": "01_user_cad_62/labels/U0062_b.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        175,
+        158,
+        467,
+        495
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "d75803dcf026383c1176e800c86ba891cfdc7dbff4e10725be06eb5cdb66022b",
+      "source_record_id": "user_sheet_11",
+      "source_sha256": "f95db86165707fd6d742b441ce34d63cbbed95ee548535692f1b3432ad6bb2fc",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "c",
+      "class_id": 28,
+      "image": "01_user_cad_62/images/U0063_c.png",
+      "label": "01_user_cad_62/labels/U0063_c.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        172,
+        226,
+        467,
+        495
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "03eb557be2db09d583e811f3a7ddf16840006530d1f999ae7b49d4b37ebcc6ab",
+      "source_record_id": "user_sheet_12",
+      "source_sha256": "e46de0da362a973f9316c57d721a15df8a0995fef7f902faf2493ae9f42d0552",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "d",
+      "class_id": 29,
+      "image": "01_user_cad_62/images/U0064_d.png",
+      "label": "01_user_cad_62/labels/U0064_d.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        172,
+        158,
+        464,
+        495
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "3c34f191f654ce3eadcc074293ebdd7ce7a92847bb491a740bdd6e7ca3d73120",
+      "source_record_id": "user_sheet_13",
+      "source_sha256": "88ee38e7fe9a26af8d1a64b74fa075135e1e1fa3fda562c6c5d3dafe945ffb5e",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "e",
+      "class_id": 30,
+      "image": "01_user_cad_62/images/U0065_e.png",
+      "label": "01_user_cad_62/labels/U0065_e.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        172,
+        226,
+        467,
+        495
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "4668934e324fbbdab54c8700a357e8b90559e09d1a8617db3e84e8ec896df252",
+      "source_record_id": "user_sheet_14",
+      "source_sha256": "ed54863b2c0881fba64575bdd5b4283047c6c0b16497d498477d7d795f9e704f",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "f",
+      "class_id": 31,
+      "image": "01_user_cad_62/images/U0066_f.png",
+      "label": "01_user_cad_62/labels/U0066_f.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        206,
+        150,
+        434,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "14f2c3135480f2f085b7674b55b40d16a8506ed47b2ba74d924ac544d6af8fb6",
+      "source_record_id": "user_sheet_15",
+      "source_sha256": "b75d7fcbdc8c3f3e21a7938655cc45b272ea1f448c6e6afb2d19a9c1c589f3c2",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "g",
+      "class_id": 32,
+      "image": "01_user_cad_62/images/U0067_g.png",
+      "label": "01_user_cad_62/labels/U0067_g.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        175,
+        226,
+        465,
+        541
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "6271265cce705a2f5a4e4e6501d96ea2312e869a764a2861a6677e6bdb0060a6",
+      "source_record_id": "user_sheet_16",
+      "source_sha256": "fa7eb74e92562c294756131c81bf4693918dd5c6d99420ce052b862489733f73",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "h",
+      "class_id": 33,
+      "image": "01_user_cad_62/images/U0068_h.png",
+      "label": "01_user_cad_62/labels/U0068_h.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        175,
+        158,
+        467,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "3b4331140930de2fa6d320fd64d1982c4db4450c3b6615e86182214c1bc41063",
+      "source_record_id": "user_sheet_17",
+      "source_sha256": "c267c9c620df49aaf915daa6fc188646ed0ee78735fc36049a6065197a3023ba",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "i",
+      "class_id": 34,
+      "image": "01_user_cad_62/images/U0069_i.png",
+      "label": "01_user_cad_62/labels/U0069_i.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        313,
+        158,
+        327,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "55feead702c84757ffe3f95a1da52826b147f7a00377a9ae97b342846c3faa4d",
+      "source_record_id": "user_sheet_18",
+      "source_sha256": "527e95741b3df70f47de639039bded7a2045d96f5e7e1af84e0e168d29dbd045",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "j",
+      "class_id": 35,
+      "image": "01_user_cad_62/images/U006A_j.png",
+      "label": "01_user_cad_62/labels/U006A_j.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        241,
+        158,
+        401,
+        518
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "04c1032dc3b19b3e447047d3c2d32341b5092f4b3493da0ffd44580eb8af44b7",
+      "source_record_id": "user_sheet_19",
+      "source_sha256": "0bc8f25f5e8426df3ad9da54701186aaae51972a27b8ba4b515a353be826819a",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "k",
+      "class_id": 36,
+      "image": "01_user_cad_62/images/U006B_k.png",
+      "label": "01_user_cad_62/labels/U006B_k.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        181,
+        158,
+        459,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "e977b00a2a63ad966e1e7e658943dd44268d77ee568f8299f1a7dea64c103e0b",
+      "source_record_id": "user_sheet_20",
+      "source_sha256": "89c4ee213996f628ea626850c7a58a652cd64c072ede4676452518c7fb97c2db",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "l",
+      "class_id": 37,
+      "image": "01_user_cad_62/images/U006C_l.png",
+      "label": "01_user_cad_62/labels/U006C_l.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        287,
+        158,
+        350,
+        492
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "38989a20554020a059e6b9a5cd2f9231bc636039f72f286b061f2a55e8e5b348",
+      "source_record_id": "user_sheet_21",
+      "source_sha256": "c0e28537b8da80ce8243fb63de76ea8a99c9dfbc97dfb32eb7755a6aa50824d6",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "m",
+      "class_id": 38,
+      "image": "01_user_cad_62/images/U006D_m.png",
+      "label": "01_user_cad_62/labels/U006D_m.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        163,
+        226,
+        477,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "b570f0cb7eb790b14b7b0f9952c0ecba802699e72ca789113213143ce75604af",
+      "source_record_id": "user_sheet_22",
+      "source_sha256": "bc336e92c85cecf44379190476dd642a6de0878ee618185c09dc249a644cf462",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "n",
+      "class_id": 39,
+      "image": "01_user_cad_62/images/U006E_n.png",
+      "label": "01_user_cad_62/labels/U006E_n.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        188,
+        226,
+        451,
+        482
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "2be29374d1eb3a72610d2cf06cfa992005bed8bb8dd3b6ba47a3e32b17f52a19",
+      "source_record_id": "user_sheet_23",
+      "source_sha256": "878b1f6138885763430fb34a7edef5b73cb94d8561bbe9d8097e3e0e4d9d9b00",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "o",
+      "class_id": 40,
+      "image": "01_user_cad_62/images/U006F_o.png",
+      "label": "01_user_cad_62/labels/U006F_o.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        185,
+        226,
+        454,
+        495
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "7d2f653e2bdd97262e2cec7ba5b7c49a02df13ba62cc8135bd87e519787f8925",
+      "source_record_id": "user_sheet_24",
+      "source_sha256": "7ada672bc7c6e1cc3b96818961349dd6271102516015513892805bde18ada3f1",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "p",
+      "class_id": 41,
+      "image": "01_user_cad_62/images/U0070_p.png",
+      "label": "01_user_cad_62/labels/U0070_p.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        188,
+        226,
+        454,
+        533
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "2b3d5f335fb5dec839d1b744abbaa2cd2c877124990164421067cdcec0468593",
+      "source_record_id": "user_sheet_25",
+      "source_sha256": "eae48677e7759ef30adf947c8f4631aabeb4d3092b2b2402b9245159026afe40",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "q",
+      "class_id": 42,
+      "image": "01_user_cad_62/images/U0071_q.png",
+      "label": "01_user_cad_62/labels/U0071_q.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        185,
+        226,
+        451,
+        533
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "29362f56917e0ac526b51dc82f3b0cc1a57b1d4e57f067046355b753fbbe01dd",
+      "source_record_id": "user_sheet_26",
+      "source_sha256": "11382ab83ff56f2c95f51938d3136ca01c67f8d2cee960ce0cbfede5225dbca8",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "r",
+      "class_id": 43,
+      "image": "01_user_cad_62/images/U0072_r.png",
+      "label": "01_user_cad_62/labels/U0072_r.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        229,
+        226,
+        411,
+        487
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9f146bd27268ba8bf50401a1cab2dd951f9234b78c69523340afa02c2b384997",
+      "source_record_id": "user_sheet_27",
+      "source_sha256": "a6f30a6ebb559b07f82e508a26ab102426073e27441a4f688f59bff40eb6e64a",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "s",
+      "class_id": 44,
+      "image": "01_user_cad_62/images/U0073_s.png",
+      "label": "01_user_cad_62/labels/U0073_s.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        172,
+        226,
+        467,
+        495
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "908d83718ab48e8e2e3666ef55e257b86a059c25e85cf534665d58deb6b8d92f",
+      "source_record_id": "user_sheet_28",
+      "source_sha256": "f997df1c428aa9bd9cfc55606bbe65ec14f314e3bae0d14aec969ab6c3711255",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "t",
+      "class_id": 45,
+      "image": "01_user_cad_62/images/U0074_t.png",
+      "label": "01_user_cad_62/labels/U0074_t.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        219,
+        183,
+        421,
+        492
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "ca949884c78f9cc857fa10d6bbb3aed68feafd15eb86c8d06c3ec3bc18393d6c",
+      "source_record_id": "user_sheet_29",
+      "source_sha256": "eeec93744f47aef08d4d1d3e16b7ef30669a8903991a5c444f6a05d307b2040f",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "u",
+      "class_id": 46,
+      "image": "01_user_cad_62/images/U0075_u.png",
+      "label": "01_user_cad_62/labels/U0075_u.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        185,
+        234,
+        454,
+        495
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "15eefa7930290ee36491295e3a2b39fa810e92163ec38e454c0701137d7bce1e",
+      "source_record_id": "user_sheet_30",
+      "source_sha256": "40677ef3fdcb260163139adcbcb5bc0c55b9a47aa7467d233bed8f8f0a22e4e7",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "v",
+      "class_id": 47,
+      "image": "01_user_cad_62/images/U0076_v.png",
+      "label": "01_user_cad_62/labels/U0076_v.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        162,
+        231,
+        477,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "07a5107abb6496ecb5bce9a581995f9de6c5a86b2ad54399355309407dfdf75f",
+      "source_record_id": "user_sheet_31",
+      "source_sha256": "0458e4713bf65c7bb3ca4e4c1f4905333598122a866fa16155bd542191c4289c",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "w",
+      "class_id": 48,
+      "image": "01_user_cad_62/images/U0077_w.png",
+      "label": "01_user_cad_62/labels/U0077_w.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        162,
+        226,
+        477,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "b00ee474449e3d4f0585d5592207ff83f507371c947be49dee65878601031957",
+      "source_record_id": "user_sheet_32",
+      "source_sha256": "c94a5dcf0cdf2fc2fa86388c002861090d767cdcba9ea255f0ee34ec5fb2706b",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "x",
+      "class_id": 49,
+      "image": "01_user_cad_62/images/U0078_x.png",
+      "label": "01_user_cad_62/labels/U0078_x.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        190,
+        226,
+        449,
+        490
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "2c7a3537ef06523cffafd735eabc3f12ed6bb3c1d46afc00b3a74c716371fbba",
+      "source_record_id": "user_sheet_33",
+      "source_sha256": "181896b0822eb07681fbfac20b22fe68e692771fdc46d0e30f1a3f2ec1895cb4",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "y",
+      "class_id": 50,
+      "image": "01_user_cad_62/images/U0079_y.png",
+      "label": "01_user_cad_62/labels/U0079_y.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        188,
+        231,
+        452,
+        536
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "5b7c085041cf45140ccb50f6146a5e0ccc60860cf709f8c27ef8471f4a5fd3da",
+      "source_record_id": "user_sheet_34",
+      "source_sha256": "981f0a926d52a3b01b0ca6b608daffb0ffd5163552cb805d69985de745200d31",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "z",
+      "class_id": 51,
+      "image": "01_user_cad_62/images/U007A_z.png",
+      "label": "01_user_cad_62/labels/U007A_z.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        200,
+        254,
+        439,
+        495
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "d92195cfa40a36b0271cc2cd020a40773d5f9604c338cb6e609057278a1e4eae",
+      "source_record_id": "user_sheet_35",
+      "source_sha256": "435180c7365bf01c0ef2f2efe9c34a2477786a9fa203589e49283ab5995990ad",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "0",
+      "class_id": 52,
+      "image": "01_user_cad_62/images/U0030_0.png",
+      "label": "01_user_cad_62/labels/U0030_0.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        169,
+        157,
+        471,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "0229a634e57d45af66490ac62e335d7f7a68905a8dbbbd21c37f58fb7cdfd0cb",
+      "source_record_id": "user_sheet_00",
+      "source_sha256": "91f0f5847e820d65ab76fb6bfb292b6b619e7e42590f8816dfb09f3b122d531a",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "1",
+      "class_id": 53,
+      "image": "01_user_cad_62/images/U0031_1.png",
+      "label": "01_user_cad_62/labels/U0031_1.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        245,
+        160,
+        392,
+        481
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "e682b667f463e7285c0c62653b26b0bcbce59f63fb9aa1bc02c404289d3d7bbb",
+      "source_record_id": "user_sheet_01",
+      "source_sha256": "bedfe51e4ee3186efb27756170b76444fe372fa701b1bf4b7f133beb8af364eb",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "2",
+      "class_id": 54,
+      "image": "01_user_cad_62/images/U0032_2.png",
+      "label": "01_user_cad_62/labels/U0032_2.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        181,
+        157,
+        458,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "7886d8297892e62e24f32173322c3d23a491c1380c68fc48b2c32851a3785467",
+      "source_record_id": "user_sheet_02",
+      "source_sha256": "52f691a8a42fd34693aca593b33d705950a439ed873c16d43e7fe51fca9349bb",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "3",
+      "class_id": 55,
+      "image": "01_user_cad_62/images/U0033_3.png",
+      "label": "01_user_cad_62/labels/U0033_3.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        184,
+        157,
+        455,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "10c5988ad60f62de90956739115a574579ac3e1c707a0e8219a05c2677de2194",
+      "source_record_id": "user_sheet_03",
+      "source_sha256": "788e66ab7701015ab57eb6f5a7ac23e1d1bb0253aa954f17294c1079b7b758dc",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "4",
+      "class_id": 56,
+      "image": "01_user_cad_62/images/U0034_4.png",
+      "label": "01_user_cad_62/labels/U0034_4.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        170,
+        157,
+        467,
+        478
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "9999dc8b0fb3a77d279f9310ae467a344e2068593ba9c2d612df1ee9fe24ee01",
+      "source_record_id": "user_sheet_04",
+      "source_sha256": "b3f981fe88ba9ec1e2dae468bd59aca5a60c6a5a440385df372a7550f72911f4",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "5",
+      "class_id": 57,
+      "image": "01_user_cad_62/images/U0035_5.png",
+      "label": "01_user_cad_62/labels/U0035_5.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        181,
+        157,
+        458,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "d96fa0117833079ba00674727a0a444087f8adabad49889bcedf0c1832c0e5f4",
+      "source_record_id": "user_sheet_05",
+      "source_sha256": "88d8dd5980dd1ff0138554f78f548a03b6aff364a46442cd00829cdf4a41e5e5",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "6",
+      "class_id": 58,
+      "image": "01_user_cad_62/images/U0036_6.png",
+      "label": "01_user_cad_62/labels/U0036_6.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        183,
+        157,
+        457,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "80236e2f2b931c53bdd5647200bbe7d79e90786e3d5eb6e901c2c191f5d57e34",
+      "source_record_id": "user_sheet_06",
+      "source_sha256": "2cc6abf3a71b30c531daa3abf4328ee96f544557209feecc142b1c057d17139b",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "7",
+      "class_id": 59,
+      "image": "01_user_cad_62/images/U0037_7.png",
+      "label": "01_user_cad_62/labels/U0037_7.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        181,
+        157,
+        458,
+        478
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "49993278a5f55c8bc1802eac0ccb7f127af09c6c27b518417ebb13066b468042",
+      "source_record_id": "user_sheet_07",
+      "source_sha256": "4c6b9a479514529f3e8760fe6b7eee9436ce8ca7362ad3011ae89605dbfec8a6",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "8",
+      "class_id": 60,
+      "image": "01_user_cad_62/images/U0038_8.png",
+      "label": "01_user_cad_62/labels/U0038_8.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        181,
+        157,
+        458,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "bb9624a151f431ddb2834507d4a948e6daad65cada041e9f2296d0d4a4db2da6",
+      "source_record_id": "user_sheet_08",
+      "source_sha256": "1a935ba575964bdb20af829ead0dd7a0763f802d2f5e42c6b4b61607a64fb43e",
+      "metrics_status": "source_sheet_metrics"
+    },
+    {
+      "char": "9",
+      "class_id": 61,
+      "image": "01_user_cad_62/images/U0039_9.png",
+      "label": "01_user_cad_62/labels/U0039_9.txt",
+      "image_size": [
+        640,
+        640
+      ],
+      "bbox_xyxy": [
+        181,
+        157,
+        458,
+        483
+      ],
+      "baseline_px": 480,
+      "cap_height_px": 320,
+      "angle": 0,
+      "sha256": "cf06e58a43a67e6bb117d2d0baf0e7715df5e4ee08895a64a96e816021158ee4",
+      "source_record_id": "user_sheet_09",
+      "source_sha256": "8a51d04360369faef1ddade754147a0d75e31327878cc1753bf7be986c9545b3",
+      "metrics_status": "source_sheet_metrics"
+    }
+  ],
+  "missing_chars": [],
+  "complete": true,
+  "image_size": [
+    640,
+    640
+  ],
+  "contact_sheet": "01_user_cad_62/contact_sheet.png"
+}

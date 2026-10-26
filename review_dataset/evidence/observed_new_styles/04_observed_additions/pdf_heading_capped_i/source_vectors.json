@@ -1,0 +1,537 @@
+{
+  "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+  "glyphs": [
+    {
+      "character": "A",
+      "segments": [
+        [
+          0.17423930382164174,
+          0.2871136607029185,
+          0.8515378681784481,
+          0.2871136607029185
+        ],
+        [
+          0.0,
+          0.0,
+          0.46994285885463083,
+          1.0
+        ],
+        [
+          0.46994285885463083,
+          1.0,
+          0.5300646301552472,
+          1.0
+        ],
+        [
+          0.5300646301552472,
+          1.0,
+          1.000007489009878,
+          0.0
+        ]
+      ],
+      "source_segments": [
+        [
+          782.6500244140625,
+          937.4900512695312,
+          788.1699829101562,
+          937.4900512695312
+        ],
+        [
+          781.22998046875,
+          939.8300170898438,
+          785.0599975585938,
+          931.6800537109375
+        ],
+        [
+          785.0599975585938,
+          931.6800537109375,
+          785.5499877929688,
+          931.6800537109375
+        ],
+        [
+          785.5499877929688,
+          931.6800537109375,
+          789.3800048828125,
+          939.8300170898438
+        ]
+      ],
+      "style_id": "pdf_heading_capped_i",
+      "char": "A",
+      "source_path_ids": [
+        76036,
+        76041
+      ],
+      "source_segment_indices": [
+        154283,
+        154292,
+        154293,
+        154294
+      ],
+      "source_bbox": [
+        781.22998046875,
+        931.6800537109375,
+        789.3800048828125,
+        939.8300170898438
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.026135086701671546,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.14996337890625,
+      "baseline_y": 939.8300170898438,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    },
+    {
+      "character": "C",
+      "segments": [
+        [
+          0.9128735115704336,
+          0.764412491574927,
+          0.6773009810529469,
+          1.0
+        ],
+        [
+          0.6773009810529469,
+          1.0,
+          0.23434434209540927,
+          1.0
+        ],
+        [
+          0.23434434209540927,
+          1.0,
+          0.0,
+          0.764412491574927
+        ],
+        [
+          0.0,
+          0.764412491574927,
+          0.0,
+          0.23435932000299559
+        ],
+        [
+          0.0,
+          0.23435932000299559,
+          0.23434434209540927,
+          0.0
+        ],
+        [
+          0.23434434209540927,
+          0.0,
+          0.6773009810529469,
+          0.0
+        ],
+        [
+          0.6773009810529469,
+          0.0,
+          0.9128735115704336,
+          0.23435932000299559
+        ]
+      ],
+      "source_segments": [
+        [
+          1288.3499755859375,
+          1201.6800537109375,
+          1286.4300537109375,
+          1199.760009765625
+        ],
+        [
+          1286.4300537109375,
+          1199.760009765625,
+          1282.8199462890625,
+          1199.760009765625
+        ],
+        [
+          1282.8199462890625,
+          1199.760009765625,
+          1280.9100341796875,
+          1201.6800537109375
+        ],
+        [
+          1280.9100341796875,
+          1201.6800537109375,
+          1280.9100341796875,
+          1206.0
+        ],
+        [
+          1280.9100341796875,
+          1206.0,
+          1282.8199462890625,
+          1207.9100341796875
+        ],
+        [
+          1282.8199462890625,
+          1207.9100341796875,
+          1286.4300537109375,
+          1207.9100341796875
+        ],
+        [
+          1286.4300537109375,
+          1207.9100341796875,
+          1288.3499755859375,
+          1206.0
+        ]
+      ],
+      "style_id": "pdf_heading_capped_i",
+      "char": "C",
+      "source_path_ids": [
+        75679
+      ],
+      "source_segment_indices": [
+        149946,
+        149947,
+        149948,
+        149949,
+        149950,
+        149951,
+        149952
+      ],
+      "source_bbox": [
+        1280.9100341796875,
+        1199.760009765625,
+        1288.3499755859375,
+        1207.9100341796875
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.02613489097721486,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.1500244140625,
+      "baseline_y": 1207.9100341796875,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    },
+    {
+      "character": "E",
+      "segments": [
+        [
+          0.7656464138876199,
+          0.5312928277752398,
+          0.0,
+          0.5312928277752398
+        ],
+        [
+          0.9128878370990572,
+          1.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.9128878370990572,
+          0.0
+        ]
+      ],
+      "source_segments": [
+        [
+          757.489990234375,
+          935.5,
+          751.25,
+          935.5
+        ],
+        [
+          758.6900024414062,
+          931.6800537109375,
+          751.25,
+          931.6800537109375
+        ],
+        [
+          751.25,
+          931.6800537109375,
+          751.25,
+          939.8300170898438
+        ],
+        [
+          751.25,
+          939.8300170898438,
+          758.6900024414062,
+          939.8300170898438
+        ]
+      ],
+      "style_id": "pdf_heading_capped_i",
+      "char": "E",
+      "source_path_ids": [
+        76033,
+        76045
+      ],
+      "source_segment_indices": [
+        154280,
+        154305,
+        154306,
+        154307
+      ],
+      "source_bbox": [
+        751.25,
+        931.6800537109375,
+        758.6900024414062,
+        939.8300170898438
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.026135086701671546,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.14996337890625,
+      "baseline_y": 939.8300170898438,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    },
+    {
+      "character": "I",
+      "segments": [
+        [
+          0.0,
+          1.0,
+          0.2957110440428671,
+          1.0
+        ],
+        [
+          0.14846962083142987,
+          1.0,
+          0.14846962083142987,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.2957110440428671,
+          0.0
+        ]
+      ],
+      "source_segments": [
+        [
+          747.3499755859375,
+          931.6800537109375,
+          749.760009765625,
+          931.6800537109375
+        ],
+        [
+          748.5599975585938,
+          931.6800537109375,
+          748.5599975585938,
+          939.8300170898438
+        ],
+        [
+          747.3499755859375,
+          939.8300170898438,
+          749.760009765625,
+          939.8300170898438
+        ]
+      ],
+      "style_id": "pdf_heading_capped_i",
+      "char": "I",
+      "source_path_ids": [
+        76030,
+        76031,
+        76032
+      ],
+      "source_segment_indices": [
+        154277,
+        154278,
+        154279
+      ],
+      "source_bbox": [
+        747.3499755859375,
+        931.6800537109375,
+        749.760009765625,
+        939.8300170898438
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.026135086701671546,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.14996337890625,
+      "baseline_y": 939.8300170898438,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    },
+    {
+      "character": "V",
+      "segments": [
+        [
+          0.0,
+          1.0,
+          0.5300646301552472,
+          0.0
+        ],
+        [
+          0.5300646301552472,
+          0.0,
+          1.061357457930487,
+          1.0
+        ]
+      ],
+      "source_segments": [
+        [
+          737.2899780273438,
+          931.6800537109375,
+          741.6099853515625,
+          939.8300170898438
+        ],
+        [
+          741.6099853515625,
+          939.8300170898438,
+          745.9400024414062,
+          931.6800537109375
+        ]
+      ],
+      "style_id": "pdf_heading_capped_i",
+      "char": "V",
+      "source_path_ids": [
+        76046
+      ],
+      "source_segment_indices": [
+        154308,
+        154309
+      ],
+      "source_bbox": [
+        737.2899780273438,
+        931.6800537109375,
+        745.9400024414062,
+        939.8300170898438
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.026135086701671546,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.14996337890625,
+      "baseline_y": 939.8300170898438,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    },
+    {
+      "character": "W",
+      "segments": [
+        [
+          0.0,
+          1.0,
+          0.33006313235327156,
+          0.0
+        ],
+        [
+          0.33006313235327156,
+          0.0,
+          0.5300646301552472,
+          1.0
+        ],
+        [
+          0.5300646301552472,
+          1.0,
+          0.7644182162676273,
+          0.0
+        ],
+        [
+          0.7644182162676273,
+          0.0,
+          1.0957095462408915,
+          1.0
+        ]
+      ],
+      "source_segments": [
+        [
+          759.8300170898438,
+          931.6800537109375,
+          762.52001953125,
+          939.8300170898438
+        ],
+        [
+          762.52001953125,
+          939.8300170898438,
+          764.1500244140625,
+          931.6800537109375
+        ],
+        [
+          764.1500244140625,
+          931.6800537109375,
+          766.0599975585938,
+          939.8300170898438
+        ],
+        [
+          766.0599975585938,
+          939.8300170898438,
+          768.760009765625,
+          931.6800537109375
+        ]
+      ],
+      "style_id": "pdf_heading_capped_i",
+      "char": "W",
+      "source_path_ids": [
+        76044
+      ],
+      "source_segment_indices": [
+        154301,
+        154302,
+        154303,
+        154304
+      ],
+      "source_bbox": [
+        759.8300170898438,
+        931.6800537109375,
+        768.760009765625,
+        939.8300170898438
+      ],
+      "source_orientation": 0,
+      "source_type": "original_pdf_vector",
+      "render_mode": "stroke",
+      "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+      "source_stroke_width": 0.21299999952316284,
+      "relative_stroke_width": 0.026135086701671546,
+      "source_line_cap": 0,
+      "source_line_join": 1,
+      "source_even_odd": null,
+      "cap_height": 8.14996337890625,
+      "baseline_y": 939.8300170898438,
+      "metrics_status": "source_outline_cap_extent; lowercase uses neighboring table cap height",
+      "exact_original_font_identified": false,
+      "manual_annotation": "Current original source context and isolated glyph reviewed",
+      "full_source_path_used": true,
+      "source_partial_path_reason": null
+    }
+  ]
+}

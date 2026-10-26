@@ -1,0 +1,42 @@
+{
+  "source_pdf_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+  "geographic_tiles_reviewed": 24,
+  "previous_delivery_preserved": true,
+  "confirmed_omissions_or_mismatches": [
+    {
+      "source_example": "FRT_WIPER_MTR_LHD",
+      "finding": "제목 선 굵기 누락",
+      "action": "실제 0.213pt / cap 5.80994pt를 반영. 상대 선폭 0.0125 → 0.03666. 원본 제목 11자도 별도 추출."
+    },
+    {
+      "source_example": "COVER / LEVER",
+      "finding": "직립 세리프 채움형 누락",
+      "action": "원본 예시 수집, 바탕체 계열 후보 62자 추가."
+    },
+    {
+      "source_example": "VIEW H / DETAIL C / 표 숫자",
+      "finding": "채움형 산세리프 누락",
+      "action": "굴림·굴림체 후보와 실제 표 숫자·단위 추출을 분리해 제공."
+    },
+    {
+      "source_example": "FRNT_MAIN / CS PAD",
+      "finding": "주석 내 다른 영문 채움형 누락",
+      "action": "맑은 고딕 계열 보통·굵게를 미확정 후보로 제공."
+    },
+    {
+      "source_example": "VIEW A/C vs VIEW J",
+      "finding": "I의 가로획 유무가 다른 형태를 구분할 필요",
+      "action": "각각 실제 원본 표본으로 분리. 앞쪽은 사용자 CAD 시트, 뒤쪽은 Romans에 가깝다고 기록."
+    },
+    {
+      "source_example": "작은 핀 숫자 0~9",
+      "finding": "작은 크기에서 선이 상대적으로 굵어지는 모습 누락",
+      "action": "원본 숫자 10종을 실제 상대 선 굵기와 함께 추출."
+    },
+    {
+      "source_example": "KET",
+      "finding": "로고 같은 기울어진 외곽선 문자 누락",
+      "action": "원본 및 비교 근거 보존. 불충분한 근거로 A~Z/a~z/0~9 전체를 동일 글꼴로 확정하지 않음."
+    }
+  ]
+}

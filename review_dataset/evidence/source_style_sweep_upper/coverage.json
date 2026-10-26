@@ -1,0 +1,357 @@
+{
+  "source": "C:\\Users\\Win11Pro\\Desktop\\2. 도면 비교 설계적 변경 추출 샘플\\전도면 예시.pdf",
+  "source_sha256": "00b7e9f811ae343080c6763df5d8a9238645c31ff5f7a608f8b1ceaeb99617dc",
+  "page": 0,
+  "page_size": [
+    2244.760009765625,
+    1587.4000244140625
+  ],
+  "target_bbox": [
+    0,
+    0,
+    2244.760009765625,
+    793.0
+  ],
+  "rendering": "Original PDF display list, RGB, scale4, no masks/overlays/source alterations",
+  "tiles": [
+    {
+      "id": "upper_00_00",
+      "image": "upper_00_00.png",
+      "coverage_bbox": [
+        0.0,
+        0.0,
+        374.1266682942708,
+        396.5
+      ],
+      "clip_bbox": [
+        0.0,
+        0.0,
+        384.1266682942708,
+        406.5
+      ],
+      "pixels": [
+        1537,
+        1626
+      ],
+      "source_modified": false,
+      "viewed": true,
+      "reviewed": true,
+      "review_source": "Fresh original PDF RGB raster, no recognition overlay",
+      "representative_ids": [
+        "U06",
+        "U08",
+        "U10"
+      ],
+      "notes": "Reviewed full tile for Latin/digit font appearance. Potentially additional or representative styles saved as U06, U08, U10."
+    },
+    {
+      "id": "upper_00_01",
+      "image": "upper_00_01.png",
+      "coverage_bbox": [
+        374.1266682942708,
+        0.0,
+        748.2533365885416,
+        396.5
+      ],
+      "clip_bbox": [
+        364.1266682942708,
+        0.0,
+        758.2533365885416,
+        406.5
+      ],
+      "pixels": [
+        1578,
+        1626
+      ],
+      "source_modified": false,
+      "viewed": true,
+      "reviewed": true,
+      "review_source": "Fresh original PDF RGB raster, no recognition overlay",
+      "representative_ids": [
+        "U05",
+        "U11",
+        "U12"
+      ],
+      "notes": "Reviewed full tile for Latin/digit font appearance. Potentially additional or representative styles saved as U05, U11, U12."
+    },
+    {
+      "id": "upper_00_02",
+      "image": "upper_00_02.png",
+      "coverage_bbox": [
+        748.2533365885416,
+        0.0,
+        1122.3800048828125,
+        396.5
+      ],
+      "clip_bbox": [
+        738.2533365885416,
+        0.0,
+        1132.3800048828125,
+        406.5
+      ],
+      "pixels": [
+        1577,
+        1626
+      ],
+      "source_modified": false,
+      "viewed": true,
+      "reviewed": true,
+      "review_source": "Fresh original PDF RGB raster, no recognition overlay",
+      "representative_ids": [
+        "U01",
+        "U03"
+      ],
+      "notes": "Reviewed full tile for Latin/digit font appearance. Potentially additional or representative styles saved as U01, U03."
+    },
+    {
+      "id": "upper_00_03",
+      "image": "upper_00_03.png",
+      "coverage_bbox": [
+        1122.3800048828125,
+        0.0,
+        1496.5066731770833,
+        396.5
+      ],
+      "clip_bbox": [
+        1112.3800048828125,
+        0.0,
+        1506.5066731770833,
+        406.5
+      ],
+      "pixels": [
+        1578,
+        1626
+      ],
+      "source_modified": false,
+      "viewed": true,
+      "reviewed": true,
+      "review_source": "Fresh original PDF RGB raster, no recognition overlay",
+      "representative_ids": [],
+      "notes": "Reviewed full tile for Latin/digit font appearance. No additional representative selected in this tile; this does not prove exhaustive font identity coverage."
+    },
+    {
+      "id": "upper_00_04",
+      "image": "upper_00_04.png",
+      "coverage_bbox": [
+        1496.5066731770833,
+        0.0,
+        1870.6333414713542,
+        396.5
+      ],
+      "clip_bbox": [
+        1486.5066731770833,
+        0.0,
+        1880.6333414713542,
+        406.5
+      ],
+      "pixels": [
+        1577,
+        1626
+      ],
+      "source_modified": false,
+      "viewed": true,
+      "reviewed": true,
+      "review_source": "Fresh original PDF RGB raster, no recognition overlay",
+      "representative_ids": [],
+      "notes": "Reviewed full tile for Latin/digit font appearance. No additional representative selected in this tile; this does not prove exhaustive font identity coverage."
+    },
+    {
+      "id": "upper_00_05",
+      "image": "upper_00_05.png",
+      "coverage_bbox": [
+        1870.6333414713542,
+        0.0,
+        2244.760009765625,
+        396.5
+      ],
+      "clip_bbox": [
+        1860.6333414713542,
+        0.0,
+        2244.760009765625,
+        406.5
+      ],
+      "pixels": [
+        1538,
+        1626
+      ],
+      "source_modified": false,
+      "viewed": true,
+      "reviewed": true,
+      "review_source": "Fresh original PDF RGB raster, no recognition overlay",
+      "representative_ids": [
+        "U13"
+      ],
+      "notes": "Reviewed full tile for Latin/digit font appearance. Potentially additional or representative styles saved as U13."
+    },
+    {
+      "id": "upper_01_00",
+      "image": "upper_01_00.png",
+      "coverage_bbox": [
+        0.0,
+        396.5,
+        374.1266682942708,
+        793.0
+      ],
+      "clip_bbox": [
+        0.0,
+        386.5,
+        384.1266682942708,
+        803.0
+      ],
+      "pixels": [
+        1537,
+        1666
+      ],
+      "source_modified": false,
+      "viewed": true,
+      "reviewed": true,
+      "review_source": "Fresh original PDF RGB raster, no recognition overlay",
+      "representative_ids": [
+        "U07",
+        "U15"
+      ],
+      "notes": "Reviewed full tile for Latin/digit font appearance. Potentially additional or representative styles saved as U07, U15."
+    },
+    {
+      "id": "upper_01_01",
+      "image": "upper_01_01.png",
+      "coverage_bbox": [
+        374.1266682942708,
+        396.5,
+        748.2533365885416,
+        793.0
+      ],
+      "clip_bbox": [
+        364.1266682942708,
+        386.5,
+        758.2533365885416,
+        803.0
+      ],
+      "pixels": [
+        1578,
+        1666
+      ],
+      "source_modified": false,
+      "viewed": true,
+      "reviewed": true,
+      "review_source": "Fresh original PDF RGB raster, no recognition overlay",
+      "representative_ids": [
+        "U02",
+        "U04",
+        "U09"
+      ],
+      "notes": "Reviewed full tile for Latin/digit font appearance. Potentially additional or representative styles saved as U02, U04, U09."
+    },
+    {
+      "id": "upper_01_02",
+      "image": "upper_01_02.png",
+      "coverage_bbox": [
+        748.2533365885416,
+        396.5,
+        1122.3800048828125,
+        793.0
+      ],
+      "clip_bbox": [
+        738.2533365885416,
+        386.5,
+        1132.3800048828125,
+        803.0
+      ],
+      "pixels": [
+        1577,
+        1666
+      ],
+      "source_modified": false,
+      "viewed": true,
+      "reviewed": true,
+      "review_source": "Fresh original PDF RGB raster, no recognition overlay",
+      "representative_ids": [
+        "U09",
+        "U14"
+      ],
+      "notes": "Reviewed full tile for Latin/digit font appearance. Potentially additional or representative styles saved as U09, U14."
+    },
+    {
+      "id": "upper_01_03",
+      "image": "upper_01_03.png",
+      "coverage_bbox": [
+        1122.3800048828125,
+        396.5,
+        1496.5066731770833,
+        793.0
+      ],
+      "clip_bbox": [
+        1112.3800048828125,
+        386.5,
+        1506.5066731770833,
+        803.0
+      ],
+      "pixels": [
+        1578,
+        1666
+      ],
+      "source_modified": false,
+      "viewed": true,
+      "reviewed": true,
+      "review_source": "Fresh original PDF RGB raster, no recognition overlay",
+      "representative_ids": [],
+      "notes": "Reviewed full tile for Latin/digit font appearance. No additional representative selected in this tile; this does not prove exhaustive font identity coverage."
+    },
+    {
+      "id": "upper_01_04",
+      "image": "upper_01_04.png",
+      "coverage_bbox": [
+        1496.5066731770833,
+        396.5,
+        1870.6333414713542,
+        793.0
+      ],
+      "clip_bbox": [
+        1486.5066731770833,
+        386.5,
+        1880.6333414713542,
+        803.0
+      ],
+      "pixels": [
+        1577,
+        1666
+      ],
+      "source_modified": false,
+      "viewed": true,
+      "reviewed": true,
+      "review_source": "Fresh original PDF RGB raster, no recognition overlay",
+      "representative_ids": [],
+      "notes": "Reviewed full tile for Latin/digit font appearance. No additional representative selected in this tile; this does not prove exhaustive font identity coverage."
+    },
+    {
+      "id": "upper_01_05",
+      "image": "upper_01_05.png",
+      "coverage_bbox": [
+        1870.6333414713542,
+        396.5,
+        2244.760009765625,
+        793.0
+      ],
+      "clip_bbox": [
+        1860.6333414713542,
+        386.5,
+        2244.760009765625,
+        803.0
+      ],
+      "pixels": [
+        1538,
+        1666
+      ],
+      "source_modified": false,
+      "viewed": true,
+      "reviewed": true,
+      "review_source": "Fresh original PDF RGB raster, no recognition overlay",
+      "representative_ids": [],
+      "notes": "Reviewed full tile for Latin/digit font appearance. No additional representative selected in this tile; this does not prove exhaustive font identity coverage."
+    }
+  ],
+  "all_target_tiles_reviewed": true,
+  "reviewed_tile_count": 12,
+  "all_text_instances_enumerated": false,
+  "font_identity_claim": false
+}
